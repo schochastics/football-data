@@ -1,0 +1,668 @@
+home,away,date,gh,ga,full_time,competition,home_ident,away_ident,home_country,away_country,home_code,away_code,home_continent,away_continent,continent,level
+Victoria Kings,Rosignol United,2009-09-06,1,2,F,guyana,Victoria Kings (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Camptown,Alpha United,2009-09-07,1,3,F,guyana,Camptown (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Buxton United,2009-09-13,2,0,F,guyana,Rosignol United (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Seawall,Alpha United,2009-09-13,1,1,F,guyana,Seawall (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bakewell Top Xx,Liquid Gold,2009-09-14,0,1,F,guyana,Bakewell Top Xx (Guyana),Liquid Gold (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Camptown,2009-09-14,1,1,F,guyana,Milerock (Guyana),Camptown (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Victoria Kings,2009-09-14,0,1,F,guyana,Guyana Defence Force (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Seawall,2009-09-20,0,2,F,guyana,Victoria Kings (Guyana),Seawall (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Liquid Gold,Milerock,2009-09-20,0,1,F,guyana,Liquid Gold (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Buxton United,2009-09-21,2,2,F,guyana,Alpha United (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Camptown,Guyana Defence Force,2009-09-21,2,0,F,guyana,Camptown (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bakewell Top Xx,Rosignol United,2009-09-21,3,1,F,guyana,Bakewell Top Xx (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Liquid Gold,Rosignol United,2009-09-26,2,1,F,guyana,Liquid Gold (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Victoria Kings,2009-09-27,1,1,F,guyana,Buxton United (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Seawall,Camptown,2009-09-27,1,1,F,guyana,Seawall (Guyana),Camptown (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Milerock,2009-09-28,4,1,F,guyana,Guyana Defence Force (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Bakewell Top Xx,2009-09-28,4,1,F,guyana,Alpha United (Guyana),Bakewell Top Xx (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Liquid Gold,Guyana Defence Force,2009-10-04,0,0,F,guyana,Liquid Gold (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Camptown,2009-10-04,2,1,F,guyana,Rosignol United (Guyana),Camptown (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Seawall,Buxton United,2009-10-04,1,2,F,guyana,Seawall (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bakewell Top Xx,Victoria Kings,2009-10-05,3,0,F,guyana,Bakewell Top Xx (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Alpha United,2009-10-05,0,2,F,guyana,Milerock (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Guyana Defence Force,2009-10-11,0,1,F,guyana,Buxton United (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Liquid Gold,Alpha United,2009-10-11,0,6,F,guyana,Liquid Gold (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Seawall,Bakewell Top Xx,2009-10-11,1,1,F,guyana,Seawall (Guyana),Bakewell Top Xx (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Milerock,2009-10-11,1,2,F,guyana,Rosignol United (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Camptown,2009-10-11,1,3,F,guyana,Victoria Kings (Guyana),Camptown (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Milerock,2009-10-18,2,0,F,guyana,Victoria Kings (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Alpha United,2009-10-18,1,2,F,guyana,Rosignol United (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Liquid Gold,Seawall,2009-10-18,1,2,F,guyana,Liquid Gold (Guyana),Seawall (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Camptown,2009-10-18,0,2,F,guyana,Buxton United (Guyana),Camptown (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bakewell Top Xx,Guyana Defence Force,2009-10-19,1,3,F,guyana,Bakewell Top Xx (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Camptown,Liquid Gold,2009-10-25,4,4,F,guyana,Camptown (Guyana),Liquid Gold (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Guyana Defence Force,2009-10-25,0,1,F,guyana,Rosignol United (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Victoria Kings,2009-10-25,2,0,F,guyana,Alpha United (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Bakewell Top Xx,2009-10-25,1,0,F,guyana,Buxton United (Guyana),Bakewell Top Xx (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Seawall,2009-10-26,1,0,F,guyana,Milerock (Guyana),Seawall (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Bakewell Top Xx,2009-10-30,1,1,F,guyana,Milerock (Guyana),Bakewell Top Xx (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Liquid Gold,2009-11-01,4,3,F,guyana,Buxton United (Guyana),Liquid Gold (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Seawall,2009-11-05,2,0,F,guyana,Guyana Defence Force (Guyana),Seawall (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Buxton United,2009-11-06,2,0,F,guyana,Milerock (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Liquid Gold,2009-11-08,2,0,F,guyana,Victoria Kings (Guyana),Liquid Gold (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Camptown,Bakewell Top Xx,2009-11-08,4,1,F,guyana,Camptown (Guyana),Bakewell Top Xx (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Seawall,Rosignol United,2009-11-08,4,0,F,guyana,Seawall (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Guyana Defence Force,2009-11-08,0,0,F,guyana,Alpha United (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Milerock,2009-11-15,3,2,F,guyana,Alpha United (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Camptown,2009-11-16,3,0,F,guyana,Guyana Defence Force (Guyana),Camptown (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Camptown,Milerock,2009-11-29,2,1,F,guyana,Camptown (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Guyana Defence Force,2009-11-30,2,1,F,guyana,Alpha United (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Buxton United,2010-02-28,0,2,F,guyana,Milerock (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bakewell Top Xx,Victoria Kings,2010-02-28,2,0,F,guyana,Bakewell Top Xx (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Liquid Gold,2010-02-28,1,0,F,guyana,Guyana Defence Force (Guyana),Liquid Gold (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Seawall,2010-02-28,1,0,F,guyana,Alpha United (Guyana),Seawall (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Camptown,Rosignol United,2010-03-01,4,1,F,guyana,Camptown (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Liquid Gold,Bakewell Top Xx,2010-03-14,3,0,F,guyana,Liquid Gold (Guyana),Bakewell Top Xx (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Seawall,Milerock,2010-03-14,0,1,F,guyana,Seawall (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Alpha United,2010-03-14,2,3,F,guyana,Victoria Kings (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Camptown,2010-03-14,2,1,F,guyana,Buxton United (Guyana),Camptown (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Rosignol United,2010-03-14,1,1,F,guyana,Guyana Defence Force (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Seawall,Rosignol United,2010-03-21,1,0,F,guyana,Seawall (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bakewell Top Xx,Milerock,2010-03-21,0,1,F,guyana,Bakewell Top Xx (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Liquid Gold,Buxton United,2010-03-28,1,1,F,guyana,Liquid Gold (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Buxton United,2010-04-04,1,1,F,guyana,Victoria Kings (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Guyana Defence Force,2010-04-04,0,3,F,guyana,Milerock (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Liquid Gold,2010-04-10,5,1,F,guyana,Victoria Kings (Guyana),Liquid Gold (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bakewell Top Xx,Rosignol United,2010-04-10,0,1,F,guyana,Bakewell Top Xx (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Camptown,2010-04-10,1,0,F,guyana,Milerock (Guyana),Camptown (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Alpha United,2010-04-10,1,8,F,guyana,Buxton United (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Seawall,2010-04-11,2,0,F,guyana,Guyana Defence Force (Guyana),Seawall (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Camptown,Victoria Kings,2010-04-14,1,4,F,guyana,Camptown (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Buxton United,2010-04-18,5,4,F,guyana,Rosignol United (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Seawall,Victoria Kings,2010-04-18,0,2,F,guyana,Seawall (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bakewell Top Xx,Guyana Defence Force,2010-04-18,2,2,F,guyana,Bakewell Top Xx (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Alpha United,2010-04-19,0,3,F,guyana,Milerock (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Liquid Gold,2010-04-23,2,0,F,guyana,Alpha United (Guyana),Liquid Gold (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Camptown,Guyana Defence Force,2010-04-23,3,2,F,guyana,Camptown (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Guyana Defence Force,2010-05-02,4,1,F,guyana,Alpha United (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Liquid Gold,2010-05-02,3,0,F,guyana,Rosignol United (Guyana),Liquid Gold (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Seawall,Buxton United,2010-05-02,0,2,F,guyana,Seawall (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Bakewell Top Xx,2010-05-07,3,0,F,guyana,Alpha United (Guyana),Bakewell Top Xx (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Victoria Kings,2010-05-09,0,0,F,guyana,Guyana Defence Force (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Camptown,Alpha United,2010-05-09,1,1,F,guyana,Camptown (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Milerock,2010-05-09,3,2,F,guyana,Rosignol United (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Seawall,Liquid Gold,2010-05-09,0,2,F,guyana,Seawall (Guyana),Liquid Gold (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Buxton United,2010-05-12,0,0,F,guyana,Guyana Defence Force (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Rosignol United,2010-05-12,2,2,F,guyana,Alpha United (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Camptown,Seawall,2010-05-14,3,2,F,guyana,Camptown (Guyana),Seawall (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Rosignol United,2010-05-16,2,3,F,guyana,Victoria Kings (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Liquid Gold,Milerock,2010-05-16,1,3,F,guyana,Liquid Gold (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bakewell Top Xx,Buxton United,2010-05-16,3,2,F,guyana,Bakewell Top Xx (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bakewell Top Xx,Seawall,2010-05-22,1,1,F,guyana,Bakewell Top Xx (Guyana),Seawall (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bakewell Top Xx,Camptown,2010-05-26,1,3,F,guyana,Bakewell Top Xx (Guyana),Camptown (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Victoria Kings,2010-05-26,3,0,F,guyana,Milerock (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Camptown,Liquid Gold,2010-06-05,4,0,F,guyana,Camptown (Guyana),Liquid Gold (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Victoria Kings,2010-07-31,1,2,F,guyana,Rosignol United (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Bakewell Top Xx,2010-07-31,2,0,F,guyana,Alpha United (Guyana),Bakewell Top Xx (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Camptown,Buxton United,2010-08-04,4,2,F,guyana,Camptown (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Guyana Defence Force,2010-08-04,1,2,F,guyana,Milerock (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Guyana Defence Force,2010-08-06,2,1,F,guyana,Victoria Kings (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Camptown,2010-08-06,5,3,F,guyana,Alpha United (Guyana),Camptown (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Camptown,2010-08-15,5,1,F,guyana,Guyana Defence Force (Guyana),Camptown (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Victoria Kings,2010-08-15,2,1,F,guyana,Alpha United (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Seawall,Alpha United,2010-08-22,0,0,F,guyana,Seawall (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Liquid Gold,Rosignol United,2010-08-22,1,0,F,guyana,Liquid Gold (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Camptown,2010-08-22,1,0,F,guyana,Guyana Defence Force (Guyana),Camptown (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Camptown,Buxton United,2010-09-05,1,0,F,guyana,Camptown (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Victoria Kings,2010-09-05,2,0,F,guyana,Alpha United (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bakewell Top Xx,Liquid Gold,2010-09-05,3,1,F,guyana,Bakewell Top Xx (Guyana),Liquid Gold (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Seawall,2010-09-05,2,1,F,guyana,Milerock (Guyana),Seawall (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Guyana Defence Force,2010-09-05,3,1,F,guyana,Rosignol United (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Rosignol United,2010-09-12,4,1,F,guyana,Milerock (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bakewell Top Xx,Alpha United,2010-09-12,0,3,F,guyana,Bakewell Top Xx (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Seawall,Camptown,2010-09-12,1,3,F,guyana,Seawall (Guyana),Camptown (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Liquid Gold,Victoria Kings,2010-09-12,1,2,F,guyana,Liquid Gold (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Guyana Defence Force,2010-09-12,0,3,F,guyana,Buxton United (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Victoria Kings,2010-09-18,3,4,F,guyana,Buxton United (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Camptown,Bakewell Top Xx,2010-09-19,1,1,F,guyana,Camptown (Guyana),Bakewell Top Xx (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Milerock,2010-09-19,2,0,F,guyana,Guyana Defence Force (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Seawall,2010-09-19,2,4,F,guyana,Rosignol United (Guyana),Seawall (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Bakewell Top Xx,2010-09-28,2,1,F,guyana,Milerock (Guyana),Bakewell Top Xx (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Milerock,2010-10-03,1,1,F,guyana,Victoria Kings (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Liquid Gold,Guyana Defence Force,2010-10-03,1,4,F,guyana,Liquid Gold (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Seawall,Bakewell Top Xx,2010-10-03,1,0,F,guyana,Seawall (Guyana),Bakewell Top Xx (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Camptown,2010-10-03,4,4,F,guyana,Rosignol United (Guyana),Camptown (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Liquid Gold,Seawall,2010-10-16,0,1,F,guyana,Liquid Gold (Guyana),Seawall (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Buxton United,2010-10-22,3,0,F,guyana,Alpha United (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Seawall,2010-10-22,0,1,F,guyana,Victoria Kings (Guyana),Seawall (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Camptown,Milerock,2010-10-24,0,1,F,guyana,Camptown (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Alpha United,2010-10-24,1,2,F,guyana,Guyana Defence Force (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Bakewell Top Xx,2010-10-24,2,0,F,guyana,Rosignol United (Guyana),Bakewell Top Xx (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Milerock,2010-10-30,1,1,F,guyana,Buxton United (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Bakewell Top Xx,2010-10-30,6,0,F,guyana,Guyana Defence Force (Guyana),Bakewell Top Xx (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Rosignol United,2010-10-31,1,2,F,guyana,Victoria Kings (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Liquid Gold,Camptown,2010-10-31,3,3,F,guyana,Liquid Gold (Guyana),Camptown (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Bakewell Top Xx,2010-11-02,0,0,F,guyana,Buxton United (Guyana),Bakewell Top Xx (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Seawall,Guyana Defence Force,2010-11-05,1,0,F,guyana,Seawall (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Rosignol United,2010-11-05,2,2,F,guyana,Buxton United (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Liquid Gold,Milerock,2010-11-05,0,1,F,guyana,Liquid Gold (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Camptown,2010-11-05,2,4,F,guyana,Victoria Kings (Guyana),Camptown (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Liquid Gold,2010-11-07,2,0,F,guyana,Buxton United (Guyana),Liquid Gold (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Guyana Defence Force,2010-11-07,0,2,F,guyana,Victoria Kings (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Milerock,2010-11-08,2,1,F,guyana,Alpha United (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Bakewell Top Xx,2010-11-14,1,2,F,guyana,Victoria Kings (Guyana),Bakewell Top Xx (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Seawall,2010-11-14,0,0,F,guyana,Buxton United (Guyana),Seawall (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Alpha United,2010-11-14,0,0,F,guyana,Rosignol United (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Victoria Kings,2012-03-04,5,1,F,guyana,Den Amstel FC (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Seawall,Pele FC,2012-03-04,3,0,F,guyana,Seawall (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Amelias Ward FC,Alpha United,2012-03-04,0,2,F,guyana,Amelias Ward FC (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Western Tigers FC,2012-03-04,2,1,F,guyana,Milerock (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Buxton United,2012-03-08,3,0,F,guyana,Rosignol United (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Western Tigers FC,2012-03-11,0,1,F,guyana,Buxton United (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Alpha United,2012-03-11,0,2,F,guyana,Victoria Kings (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Pele FC,2012-03-11,2,0,F,guyana,Rosignol United (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Den Amstel FC,2012-03-11,0,2,F,guyana,Milerock (Guyana),Den Amstel FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Amelias Ward FC,Seawall,2012-03-12,2,0,F,guyana,Amelias Ward FC (Guyana),Seawall (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Rosignol United,2012-03-18,2,1,F,guyana,Alpha United (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Pele FC,2012-03-18,1,1,F,guyana,Den Amstel FC (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Seawall,Western Tigers FC,2012-03-18,0,3,F,guyana,Seawall (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Amelias Ward FC,Buxton United,2012-03-18,2,0,F,guyana,Amelias Ward FC (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Rosignol United,2012-03-25,1,3,F,guyana,Victoria Kings (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Seawall,Den Amstel FC,2012-03-25,1,1,F,guyana,Seawall (Guyana),Den Amstel FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Alpha United,2012-03-25,0,5,F,guyana,Buxton United (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Amelias Ward FC,Western Tigers FC,2012-03-26,2,4,F,guyana,Amelias Ward FC (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Pele FC,2012-03-26,0,1,F,guyana,Milerock (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Milerock,2012-04-01,1,1,F,guyana,Buxton United (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Den Amstel FC,2012-04-01,2,2,F,guyana,Rosignol United (Guyana),Den Amstel FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Amelias Ward FC,2012-04-01,0,2,F,guyana,Victoria Kings (Guyana),Amelias Ward FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Milerock,2012-04-08,3,3,F,guyana,Victoria Kings (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Pele FC,Amelias Ward FC,2012-04-09,6,1,F,guyana,Pele FC (Guyana),Amelias Ward FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Western Tigers FC,2012-04-09,1,1,F,guyana,Alpha United (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Western Tigers FC,2012-04-15,0,1,F,guyana,Rosignol United (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Seawall,2012-04-16,1,1,F,guyana,Victoria Kings (Guyana),Seawall (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Pele FC,2012-04-16,1,3,F,guyana,Buxton United (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Den Amstel FC,2012-04-22,0,1,F,guyana,Buxton United (Guyana),Den Amstel FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Pele FC,2012-04-22,0,1,F,guyana,Victoria Kings (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Buxton United,2012-04-29,3,4,F,guyana,Victoria Kings (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Pele FC,2012-04-30,5,2,F,guyana,Alpha United (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Seawall,2012-05-01,2,0,F,guyana,Alpha United (Guyana),Seawall (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Amelias Ward FC,2012-05-01,1,2,F,guyana,Den Amstel FC (Guyana),Amelias Ward FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Seawall,2012-05-02,1,0,F,guyana,Buxton United (Guyana),Seawall (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Pele FC,Western Tigers FC,2012-05-02,0,2,F,guyana,Pele FC (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Rosignol United,2012-05-06,5,4,F,guyana,Den Amstel FC (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Amelias Ward FC,Rosignol United,2012-05-07,5,4,F,guyana,Amelias Ward FC (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Seawall,2012-05-07,2,0,F,guyana,Milerock (Guyana),Seawall (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Alpha United,2012-05-11,1,5,F,guyana,Den Amstel FC (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Seawall,2012-05-20,4,3,F,guyana,Rosignol United (Guyana),Seawall (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Milerock,2012-06-03,2,1,F,guyana,Rosignol United (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Western Tigers FC,2012-06-03,0,5,F,guyana,Victoria Kings (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Western Tigers FC,2012-06-17,2,1,F,guyana,Den Amstel FC (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Alpha United,2012-06-21,0,8,F,guyana,Milerock (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Amelias Ward FC,2012-06-27,0,3,F,guyana,Milerock (Guyana),Amelias Ward FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bvtriumph United FC,Amelias Ward FC,2012-10-28,3,3,F,guyana,Bvtriumph United FC (Guyana),Amelias Ward FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Milerock,2012-10-28,2,3,F,guyana,Rosignol United (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Buxton United,2012-10-28,1,2,F,guyana,Den Amstel FC (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Western Tigers FC,Uitvlugt Warriors FC,2012-10-28,1,0,F,guyana,Western Tigers FC (Guyana),Uitvlugt Warriors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Pele FC,2012-10-31,0,0,F,guyana,Alpha United (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bvtriumph United FC,Milerock,2012-11-04,2,1,F,guyana,Bvtriumph United FC (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Western Tigers FC,2012-11-04,2,2,F,guyana,Den Amstel FC (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Pele FC,2012-11-04,1,0,F,guyana,Buxton United (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Uitvlugt Warriors FC,Alpha United,2012-11-04,2,1,F,guyana,Uitvlugt Warriors FC (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Amelias Ward FC,2012-11-04,2,2,F,guyana,Rosignol United (Guyana),Amelias Ward FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Rosignol United,2012-11-11,1,1,F,guyana,Buxton United (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Uitvlugt Warriors FC,Milerock,2012-11-11,4,3,F,guyana,Uitvlugt Warriors FC (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Western Tigers FC,Amelias Ward FC,2012-11-11,1,1,F,guyana,Western Tigers FC (Guyana),Amelias Ward FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Pele FC,Den Amstel FC,2012-11-12,1,1,F,guyana,Pele FC (Guyana),Den Amstel FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bvtriumph United FC,Buxton United,2012-11-13,0,0,F,guyana,Bvtriumph United FC (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Uitvlugt Warriors FC,Den Amstel FC,2012-11-13,2,0,F,guyana,Uitvlugt Warriors FC (Guyana),Den Amstel FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Western Tigers FC,2012-11-13,4,1,F,guyana,Rosignol United (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Pele FC,Milerock,2012-11-13,0,0,F,guyana,Pele FC (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Uitvlugt Warriors FC,Amelias Ward FC,2012-11-18,1,2,F,guyana,Uitvlugt Warriors FC (Guyana),Amelias Ward FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bvtriumph United FC,Pele FC,2012-11-18,0,2,F,guyana,Bvtriumph United FC (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Western Tigers FC,2012-11-18,0,3,F,guyana,Buxton United (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Milerock,2012-11-18,1,0,F,guyana,Den Amstel FC (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Bvtriumph United FC,2012-11-21,3,0,F,guyana,Alpha United (Guyana),Bvtriumph United FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Alpha United,2012-11-25,0,3,F,guyana,Buxton United (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Pele FC,Rosignol United,2012-11-25,3,2,F,guyana,Pele FC (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Western Tigers FC,Milerock,2012-11-26,1,0,F,guyana,Western Tigers FC (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Milerock,2012-12-09,4,1,F,guyana,Alpha United (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Rosignol United,2012-12-09,1,1,F,guyana,Den Amstel FC (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Western Tigers FC,Bvtriumph United FC,2012-12-09,1,0,F,guyana,Western Tigers FC (Guyana),Bvtriumph United FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Amelias Ward FC,2012-12-09,1,0,F,guyana,Buxton United (Guyana),Amelias Ward FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Uitvlugt Warriors FC,Pele FC,2012-12-09,0,3,F,guyana,Uitvlugt Warriors FC (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Milerock,2013-02-03,0,2,F,guyana,Buxton United (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Uitvlugt Warriors FC,2013-02-03,0,0,F,guyana,Rosignol United (Guyana),Uitvlugt Warriors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bvtriumph United FC,Den Amstel FC,2013-02-03,1,1,F,guyana,Bvtriumph United FC (Guyana),Den Amstel FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Amelias Ward FC,2013-02-06,4,0,F,guyana,Alpha United (Guyana),Amelias Ward FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Western Tigers FC,Pele FC,2013-02-07,2,1,F,guyana,Western Tigers FC (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Uitvlugt Warriors FC,Buxton United,2013-02-17,0,4,F,guyana,Uitvlugt Warriors FC (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bvtriumph United FC,Rosignol United,2013-02-17,3,3,F,guyana,Bvtriumph United FC (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Amelias Ward FC,2013-02-17,3,2,F,guyana,Milerock (Guyana),Amelias Ward FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Amelias Ward FC,2013-02-24,0,1,F,guyana,Den Amstel FC (Guyana),Amelias Ward FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Pele FC,Amelias Ward FC,2013-03-01,2,0,F,guyana,Pele FC (Guyana),Amelias Ward FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Alpha United,2013-03-02,0,13,F,guyana,Rosignol United (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Western Tigers FC,2013-03-03,5,0,F,guyana,Alpha United (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Uitvlugt Warriors FC,Bvtriumph United FC,2013-03-06,0,3,F,guyana,Uitvlugt Warriors FC (Guyana),Bvtriumph United FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Alpha United,2013-03-06,1,6,F,guyana,Den Amstel FC (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Pele FC,Alpha United,2013-03-17,0,1,F,guyana,Pele FC (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Rosignol United,2013-03-17,0,2,F,guyana,Milerock (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Uitvlugt Warriors FC,Western Tigers FC,2013-03-17,0,6,F,guyana,Uitvlugt Warriors FC (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Amelias Ward FC,Bvtriumph United FC,2013-03-17,0,1,F,guyana,Amelias Ward FC (Guyana),Bvtriumph United FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Pele FC,Buxton United,2013-03-24,1,0,F,guyana,Pele FC (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Bvtriumph United FC,2013-03-24,2,1,F,guyana,Milerock (Guyana),Bvtriumph United FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Amelias Ward FC,Rosignol United,2013-03-24,0,2,F,guyana,Amelias Ward FC (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Bvtriumph United FC,2013-04-07,1,0,F,guyana,Buxton United (Guyana),Bvtriumph United FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Pele FC,2013-04-07,1,2,F,guyana,Milerock (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Western Tigers FC,Den Amstel FC,2013-04-10,1,3,F,guyana,Western Tigers FC (Guyana),Den Amstel FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Uitvlugt Warriors FC,2013-04-10,8,0,F,guyana,Alpha United (Guyana),Uitvlugt Warriors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Den Amstel FC,2013-04-14,1,2,F,guyana,Milerock (Guyana),Den Amstel FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Pele FC,Bvtriumph United FC,2013-04-14,1,1,F,guyana,Pele FC (Guyana),Bvtriumph United FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Amelias Ward FC,Uitvlugt Warriors FC,2013-04-14,2,4,F,guyana,Amelias Ward FC (Guyana),Uitvlugt Warriors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Alpha United,2013-04-14,0,2,F,guyana,Rosignol United (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Western Tigers FC,Buxton United,2013-04-14,1,0,F,guyana,Western Tigers FC (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Buxton United,2013-04-21,1,1,F,guyana,Rosignol United (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Amelias Ward FC,Western Tigers FC,2013-04-21,1,1,F,guyana,Amelias Ward FC (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bvtriumph United FC,Alpha United,2013-04-21,1,1,F,guyana,Bvtriumph United FC (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Pele FC,2013-04-21,0,3,F,guyana,Den Amstel FC (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Uitvlugt Warriors FC,2013-04-21,3,1,F,guyana,Milerock (Guyana),Uitvlugt Warriors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Buxton United,2013-04-28,4,1,F,guyana,Alpha United (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bvtriumph United FC,Uitvlugt Warriors FC,2013-04-28,1,0,F,guyana,Bvtriumph United FC (Guyana),Uitvlugt Warriors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Uitvlugt Warriors FC,Buxton United,2013-05-05,3,4,F,guyana,Uitvlugt Warriors FC (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Western Tigers FC,Pele FC,2013-05-05,1,1,F,guyana,Western Tigers FC (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Bvtriumph United FC,2013-05-06,1,0,F,guyana,Rosignol United (Guyana),Bvtriumph United FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Pele FC,Uitvlugt Warriors FC,2013-05-10,7,1,F,guyana,Pele FC (Guyana),Uitvlugt Warriors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Western Tigers FC,Bvtriumph United FC,2013-05-10,3,0,F,guyana,Western Tigers FC (Guyana),Bvtriumph United FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Den Amstel FC,2013-05-12,1,2,F,guyana,Rosignol United (Guyana),Den Amstel FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Western Tigers FC,2013-05-12,2,0,F,guyana,Milerock (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Amelias Ward FC,Alpha United,2013-05-12,0,8,F,guyana,Amelias Ward FC (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Pele FC,2013-05-19,0,1,F,guyana,Rosignol United (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Bvtriumph United FC,2013-05-19,0,2,F,guyana,Den Amstel FC (Guyana),Bvtriumph United FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Alpha United,2013-05-19,1,7,F,guyana,Milerock (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Amelias Ward FC,Buxton United,2013-05-19,1,0,F,guyana,Amelias Ward FC (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Uitvlugt Warriors FC,2013-05-26,2,0,F,guyana,Den Amstel FC (Guyana),Uitvlugt Warriors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Buxton United,2013-06-02,2,0,F,guyana,Milerock (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Amelias Ward FC,2013-06-02,0,0,F,guyana,Den Amstel FC (Guyana),Amelias Ward FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Den Amstel FC,2013-06-09,0,2,F,guyana,Buxton United (Guyana),Den Amstel FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Amelias Ward FC,Pele FC,2013-06-09,1,2,F,guyana,Amelias Ward FC (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Uitvlugt Warriors FC,Rosignol United,2013-06-23,0,3,F,guyana,Uitvlugt Warriors FC (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Amelias Ward FC,Milerock,2013-07-12,0,4,F,guyana,Amelias Ward FC (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Riddim Squad,2013-10-06,0,2,F,guyana,Milerock (Guyana),Riddim Squad (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Silver Shattas,Guyana Defence Force,2013-10-06,0,2,F,guyana,Silver Shattas (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Young Achievers,Mahaica Determinators,2013-10-13,1,2,F,guyana,Young Achievers (Guyana),Mahaica Determinators (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bvtriumph United FC,Guyana Santos,2013-10-13,1,1,F,guyana,Bvtriumph United FC (Guyana),Guyana Santos (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Grove Hi Tech,2013-10-13,2,4,F,guyana,Den Amstel FC (Guyana),Grove Hi Tech (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Winners Connection,2013-10-13,3,1,F,guyana,Buxton United (Guyana),Winners Connection (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Na United,2013-10-14,2,1,F,guyana,Alpha United (Guyana),Na United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Western Tigers FC,Rosignol United,2013-10-14,2,2,F,guyana,Western Tigers FC (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Grove Hi Tech,Guyana Defence Force,2013-10-20,0,1,F,guyana,Grove Hi Tech (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Mahaica Determinators,Rosignol United,2013-10-20,1,1,F,guyana,Mahaica Determinators (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Winners Connection,2013-10-20,6,1,F,guyana,Den Amstel FC (Guyana),Winners Connection (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bvtriumph United FC,Young Achievers,2013-10-20,1,0,F,guyana,Bvtriumph United FC (Guyana),Young Achievers (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Na United,2013-10-20,2,0,F,guyana,Buxton United (Guyana),Na United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Riddim Squad,Silver Shattas,2013-10-20,0,3,F,guyana,Riddim Squad (Guyana),Silver Shattas (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Santos,Milerock,2013-10-21,0,0,F,guyana,Guyana Santos (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Western Tigers FC,2013-10-21,4,0,F,guyana,Alpha United (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Na United,Milerock,2013-10-27,1,2,F,guyana,Na United (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Guyana Defence Force,2013-10-27,2,2,F,guyana,Buxton United (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Young Achievers,Winners Connection,2013-10-27,2,3,F,guyana,Young Achievers (Guyana),Winners Connection (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Silver Shattas,2013-10-27,4,3,F,guyana,Rosignol United (Guyana),Silver Shattas (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bvtriumph United FC,Western Tigers FC,2013-10-27,1,2,F,guyana,Bvtriumph United FC (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Alpha United,2013-10-27,0,1,F,guyana,Den Amstel FC (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Santos,Grove Hi Tech,2013-10-27,2,2,F,guyana,Guyana Santos (Guyana),Grove Hi Tech (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Riddim Squad,Mahaica Determinators,2013-10-28,1,1,F,guyana,Riddim Squad (Guyana),Mahaica Determinators (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Winners Connection,2013-11-03,3,2,F,guyana,Guyana Defence Force (Guyana),Winners Connection (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Alpha United,2013-11-03,0,2,F,guyana,Buxton United (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Na United,Silver Shattas,2013-11-03,5,1,F,guyana,Na United (Guyana),Silver Shattas (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Santos,Den Amstel FC,2013-11-03,2,5,F,guyana,Guyana Santos (Guyana),Den Amstel FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bvtriumph United FC,Rosignol United,2013-11-03,2,0,F,guyana,Bvtriumph United FC (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Mahaica Determinators,Milerock,2013-11-04,1,3,F,guyana,Mahaica Determinators (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Young Achievers,Riddim Squad,2013-11-04,0,1,F,guyana,Young Achievers (Guyana),Riddim Squad (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Western Tigers FC,Grove Hi Tech,2013-11-04,1,0,F,guyana,Western Tigers FC (Guyana),Grove Hi Tech (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Mahaica Determinators,Western Tigers FC,2013-11-10,0,2,F,guyana,Mahaica Determinators (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bvtriumph United FC,Buxton United,2013-11-10,0,1,F,guyana,Bvtriumph United FC (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Winners Connection,2013-11-10,4,2,F,guyana,Rosignol United (Guyana),Winners Connection (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Grove Hi Tech,2013-11-10,6,1,F,guyana,Alpha United (Guyana),Grove Hi Tech (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Young Achievers,Milerock,2013-11-10,1,3,F,guyana,Young Achievers (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Santos,Guyana Defence Force,2013-11-11,1,3,F,guyana,Guyana Santos (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Silver Shattas,2013-11-11,0,0,F,guyana,Den Amstel FC (Guyana),Silver Shattas (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Na United,Riddim Squad,2013-11-11,3,2,F,guyana,Na United (Guyana),Riddim Squad (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Alpha United,2013-11-17,1,2,F,guyana,Milerock (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Mahaica Determinators,Bvtriumph United FC,2013-11-17,2,1,F,guyana,Mahaica Determinators (Guyana),Bvtriumph United FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Young Achievers,Guyana Defence Force,2013-11-17,3,2,F,guyana,Young Achievers (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Grove Hi Tech,Na United,2013-11-17,1,3,F,guyana,Grove Hi Tech (Guyana),Na United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Riddim Squad,Den Amstel FC,2013-11-17,1,3,F,guyana,Riddim Squad (Guyana),Den Amstel FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Winners Connection,Silver Shattas,2013-11-17,1,1,F,guyana,Winners Connection (Guyana),Silver Shattas (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Rosignol United,2013-11-18,3,1,F,guyana,Buxton United (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Western Tigers FC,Guyana Santos,2013-11-18,2,1,F,guyana,Western Tigers FC (Guyana),Guyana Santos (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Young Achievers,Grove Hi Tech,2013-11-25,1,2,F,guyana,Young Achievers (Guyana),Grove Hi Tech (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Mahaica Determinators,2013-11-25,1,2,F,guyana,Den Amstel FC (Guyana),Mahaica Determinators (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Na United,Western Tigers FC,2013-11-25,1,3,F,guyana,Na United (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Silver Shattas,Buxton United,2013-11-25,0,0,F,guyana,Silver Shattas (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Guyana Santos,2013-11-26,1,1,F,guyana,Rosignol United (Guyana),Guyana Santos (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Guyana Defence Force,2013-11-26,1,2,F,guyana,Milerock (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Winners Connection,2013-11-26,4,0,F,guyana,Alpha United (Guyana),Winners Connection (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Mahaica Determinators,Alpha United,2013-12-08,0,2,F,guyana,Mahaica Determinators (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Young Achievers,Guyana Santos,2013-12-08,1,2,F,guyana,Young Achievers (Guyana),Guyana Santos (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Winners Connection,Riddim Squad,2013-12-08,2,1,F,guyana,Winners Connection (Guyana),Riddim Squad (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Grove Hi Tech,Bvtriumph United FC,2013-12-08,2,2,F,guyana,Grove Hi Tech (Guyana),Bvtriumph United FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Milerock,2013-12-09,1,0,F,guyana,Buxton United (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Rosignol United,2013-12-09,1,2,F,guyana,Den Amstel FC (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Silver Shattas,Western Tigers FC,2013-12-09,0,4,F,guyana,Silver Shattas (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Na United,2013-12-09,0,0,F,guyana,Guyana Defence Force (Guyana),Na United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Santos,Mahaica Determinators,2014-02-02,2,0,F,guyana,Guyana Santos (Guyana),Mahaica Determinators (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Den Amstel FC,2014-02-02,0,1,F,guyana,Milerock (Guyana),Den Amstel FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Young Achievers,Silver Shattas,2014-02-09,1,4,F,guyana,Young Achievers (Guyana),Silver Shattas (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Grove Hi Tech,Rosignol United,2014-02-09,3,1,F,guyana,Grove Hi Tech (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Bvtriumph United FC,2014-02-09,9,0,F,guyana,Alpha United (Guyana),Bvtriumph United FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Na United,2014-02-10,2,1,F,guyana,Den Amstel FC (Guyana),Na United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Riddim Squad,Western Tigers FC,2014-02-10,0,1,F,guyana,Riddim Squad (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Grove Hi Tech,2014-02-12,1,3,F,guyana,Buxton United (Guyana),Grove Hi Tech (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Riddim Squad,Bvtriumph United FC,2014-02-13,4,1,F,guyana,Riddim Squad (Guyana),Bvtriumph United FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bvtriumph United FC,Silver Shattas,2014-02-16,0,3,F,guyana,Bvtriumph United FC (Guyana),Silver Shattas (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Young Achievers,Western Tigers FC,2014-02-16,0,4,F,guyana,Young Achievers (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Grove Hi Tech,Milerock,2014-02-16,2,1,F,guyana,Grove Hi Tech (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Riddim Squad,2014-02-16,1,0,F,guyana,Buxton United (Guyana),Riddim Squad (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Guyana Defence Force,2014-02-16,1,1,F,guyana,Den Amstel FC (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Na United,Mahaica Determinators,2014-02-16,5,0,F,guyana,Na United (Guyana),Mahaica Determinators (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Santos,Winners Connection,2014-02-16,1,1,F,guyana,Guyana Santos (Guyana),Winners Connection (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Alpha United,2014-02-17,1,7,F,guyana,Rosignol United (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Mahaica Determinators,Guyana Defence Force,2014-02-19,1,5,F,guyana,Mahaica Determinators (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Silver Shattas,Alpha United,2014-02-20,1,4,F,guyana,Silver Shattas (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Santos,Buxton United,2014-02-21,0,1,F,guyana,Guyana Santos (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Winners Connection,Milerock,2014-02-22,0,3,F,guyana,Winners Connection (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Santos,Silver Shattas,2014-02-28,1,2,F,guyana,Guyana Santos (Guyana),Silver Shattas (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Riddim Squad,Grove Hi Tech,2014-03-01,0,0,F,guyana,Riddim Squad (Guyana),Grove Hi Tech (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Young Achievers,2014-03-01,4,0,F,guyana,Alpha United (Guyana),Young Achievers (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Western Tigers FC,Den Amstel FC,2014-03-02,2,0,F,guyana,Western Tigers FC (Guyana),Den Amstel FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Na United,Winners Connection,2014-03-08,0,1,F,guyana,Na United (Guyana),Winners Connection (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Milerock,2014-03-09,2,2,F,guyana,Rosignol United (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bvtriumph United FC,Winners Connection,2014-03-12,1,1,F,guyana,Bvtriumph United FC (Guyana),Winners Connection (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Western Tigers FC,2014-03-12,1,0,F,guyana,Guyana Defence Force (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Riddim Squad,2014-03-16,6,1,F,guyana,Guyana Defence Force (Guyana),Riddim Squad (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bvtriumph United FC,Milerock,2014-03-16,3,1,F,guyana,Bvtriumph United FC (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Western Tigers FC,Buxton United,2014-03-16,3,1,F,guyana,Western Tigers FC (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Na United,Rosignol United,2014-03-17,7,1,F,guyana,Na United (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Guyana Santos,2014-03-17,7,1,F,guyana,Alpha United (Guyana),Guyana Santos (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Mahaica Determinators,Grove Hi Tech,2014-03-21,0,0,F,guyana,Mahaica Determinators (Guyana),Grove Hi Tech (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Western Tigers FC,Milerock,2014-03-22,2,0,F,guyana,Western Tigers FC (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Grove Hi Tech,Winners Connection,2014-03-23,3,2,F,guyana,Grove Hi Tech (Guyana),Winners Connection (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Young Achievers,2014-03-23,5,0,F,guyana,Buxton United (Guyana),Young Achievers (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Bvtriumph United FC,2014-03-23,1,0,F,guyana,Den Amstel FC (Guyana),Bvtriumph United FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Rosignol United,Guyana Defence Force,2014-03-24,0,6,F,guyana,Rosignol United (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Riddim Squad,Alpha United,2014-03-28,0,6,F,guyana,Riddim Squad (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Guyana Defence Force,2014-03-30,2,1,F,guyana,Alpha United (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Western Tigers FC,Winners Connection,2014-03-30,1,3,F,guyana,Western Tigers FC (Guyana),Winners Connection (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Buxton United,2014-03-30,3,0,F,guyana,Den Amstel FC (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Santos,Riddim Squad,2014-03-30,1,3,F,guyana,Guyana Santos (Guyana),Riddim Squad (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Young Achievers,Rosignol United,2014-03-30,0,2,F,guyana,Young Achievers (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Riddim Squad,Rosignol United,2014-04-01,3,0,F,guyana,Riddim Squad (Guyana),Rosignol United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Na United,Guyana Santos,2014-04-06,0,2,F,guyana,Na United (Guyana),Guyana Santos (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Mahaica Determinators,2014-04-06,2,0,F,guyana,Buxton United (Guyana),Mahaica Determinators (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Bvtriumph United FC,2014-04-06,5,0,F,guyana,Guyana Defence Force (Guyana),Bvtriumph United FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Grove Hi Tech,Silver Shattas,2014-04-06,0,1,F,guyana,Grove Hi Tech (Guyana),Silver Shattas (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Silver Shattas,2014-04-13,3,0,F,guyana,Milerock (Guyana),Silver Shattas (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Winners Connection,Mahaica Determinators,2014-04-13,2,1,F,guyana,Winners Connection (Guyana),Mahaica Determinators (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bvtriumph United FC,Na United,2014-04-13,6,2,F,guyana,Bvtriumph United FC (Guyana),Na United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Young Achievers,Den Amstel FC,2014-04-13,0,2,F,guyana,Young Achievers (Guyana),Den Amstel FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Mahaica Determinators,Silver Shattas,2014-04-15,2,0,F,guyana,Mahaica Determinators (Guyana),Silver Shattas (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Young Achievers,Na United,2014-04-15,0,9,F,guyana,Young Achievers (Guyana),Na United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Pele FC,Georgetown FC,2015-09-18,2,1,F,guyana,Pele FC (Guyana),Georgetown FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Slingerz,Alpha United,2015-09-19,0,0,F,guyana,Slingerz (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Conquerors FC,2015-09-20,0,1,F,guyana,Buxton United (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Monedderlust,Guyana Defence Force,2015-09-21,3,2,F,guyana,Monedderlust (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Georgetown FC,Slingerz,2015-09-23,0,0,F,guyana,Georgetown FC (Guyana),Slingerz (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Guyana Defence Force,2015-09-24,0,1,F,guyana,Buxton United (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Pele FC,Alpha United,2015-09-24,2,2,F,guyana,Pele FC (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Monedderlust,2015-09-24,2,1,F,guyana,Conquerors FC (Guyana),Monedderlust (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Slingerz,Monedderlust,2015-09-28,3,0,F,guyana,Slingerz (Guyana),Monedderlust (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Georgetown FC,2015-09-28,2,0,F,guyana,Alpha United (Guyana),Georgetown FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Pele FC,Buxton United,2015-09-30,3,1,F,guyana,Pele FC (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Guyana Defence Force,2015-09-30,2,2,F,guyana,Conquerors FC (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Pele FC,Slingerz,2015-10-03,1,1,F,guyana,Pele FC (Guyana),Slingerz (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Georgetown FC,2015-10-03,1,2,F,guyana,Guyana Defence Force (Guyana),Georgetown FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Monedderlust,Buxton United,2015-10-05,0,1,F,guyana,Monedderlust (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Conquerors FC,2015-10-05,2,0,F,guyana,Alpha United (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Alpha United,2015-10-10,1,1,F,guyana,Guyana Defence Force (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Pele FC,2015-10-10,1,2,F,guyana,Conquerors FC (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Georgetown FC,Monedderlust,2015-10-11,1,2,F,guyana,Georgetown FC (Guyana),Monedderlust (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Slingerz,2015-10-11,0,2,F,guyana,Buxton United (Guyana),Slingerz (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Buxton United,2015-10-15,2,0,F,guyana,Alpha United (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Monedderlust,Pele FC,2015-10-15,0,3,F,guyana,Monedderlust (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Slingerz,Guyana Defence Force,2015-10-15,0,3,F,guyana,Slingerz (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Georgetown FC,Conquerors FC,2015-10-15,2,2,F,guyana,Georgetown FC (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Georgetown FC,2015-10-18,2,1,F,guyana,Buxton United (Guyana),Georgetown FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Slingerz,Conquerors FC,2015-10-18,1,0,F,guyana,Slingerz (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Pele FC,2015-10-18,2,1,F,guyana,Guyana Defence Force (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Monedderlust,Alpha United,2015-10-18,1,1,F,guyana,Monedderlust (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Monedderlust,Conquerors FC,2015-10-21,0,1,F,guyana,Monedderlust (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Guyana Defence Force,2015-10-21,2,1,F,guyana,Buxton United (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Georgetown FC,Slingerz,2015-10-22,0,5,F,guyana,Georgetown FC (Guyana),Slingerz (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Pele FC,Alpha United,2015-10-22,3,0,F,guyana,Pele FC (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Georgetown FC,Buxton United,2015-10-25,2,0,F,guyana,Georgetown FC (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Monedderlust,Slingerz,2015-10-25,0,2,F,guyana,Monedderlust (Guyana),Slingerz (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Alpha United,2015-10-25,0,3,F,guyana,Guyana Defence Force (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Pele FC,2015-10-26,0,0,F,guyana,Conquerors FC (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Pele FC,Georgetown FC,2015-10-28,6,0,F,guyana,Pele FC (Guyana),Georgetown FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Alpha United,2015-10-29,0,2,F,guyana,Conquerors FC (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Monedderlust,2015-10-29,2,1,F,guyana,Guyana Defence Force (Guyana),Monedderlust (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Slingerz,Buxton United,2015-10-29,4,0,F,guyana,Slingerz (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Slingerz,2015-10-30,2,4,F,guyana,Guyana Defence Force (Guyana),Slingerz (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Pele FC,2015-10-31,0,2,F,guyana,Buxton United (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Georgetown FC,Conquerors FC,2015-11-01,1,4,F,guyana,Georgetown FC (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Monedderlust,2015-11-02,1,0,F,guyana,Alpha United (Guyana),Monedderlust (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Slingerz,Pele FC,2015-11-06,3,0,F,guyana,Slingerz (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Guyana Defence Force,2015-11-07,2,1,F,guyana,Conquerors FC (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Monedderlust,2015-11-08,1,0,F,guyana,Buxton United (Guyana),Monedderlust (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Georgetown FC,2015-11-09,1,1,F,guyana,Alpha United (Guyana),Georgetown FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Pele FC,Monedderlust,2015-11-13,1,3,F,guyana,Pele FC (Guyana),Monedderlust (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Georgetown FC,Guyana Defence Force,2015-11-14,0,3,F,guyana,Georgetown FC (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Buxton United,2015-11-15,4,3,F,guyana,Alpha United (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Slingerz,Conquerors FC,2015-11-16,3,3,F,guyana,Slingerz (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Buxton United,2015-11-22,0,0,F,guyana,Conquerors FC (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Monedderlust,Georgetown FC,2015-11-22,0,1,F,guyana,Monedderlust (Guyana),Georgetown FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Pele FC,Guyana Defence Force,2015-11-22,2,1,F,guyana,Pele FC (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Slingerz,2015-11-23,0,1,F,guyana,Alpha United (Guyana),Slingerz (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Slingerz,Conquerors FC,2015-11-26,2,0,F,guyana,Slingerz (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Pele FC,Alpha United,2015-11-26,1,3,F,guyana,Pele FC (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Slingerz,2015-11-30,2,3,F,guyana,Alpha United (Guyana),Slingerz (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Slingerz,Pele FC,2016-02-12,1,0,F,guyana,Slingerz (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Conquerors FC,2016-02-13,1,1,F,guyana,Alpha United (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Buxton United,2016-02-14,1,0,F,guyana,Guyana Defence Force (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Georgetown FC,Monedderlust,2016-02-15,0,0,F,guyana,Georgetown FC (Guyana),Monedderlust (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Slingerz,Guyana Defence Force,2016-02-24,7,1,F,guyana,Slingerz (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Buxton United,2016-02-25,2,1,F,guyana,Conquerors FC (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Pele FC,Monedderlust,2016-02-26,2,1,F,guyana,Pele FC (Guyana),Monedderlust (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Georgetown FC,2016-02-27,3,1,F,guyana,Alpha United (Guyana),Georgetown FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Monedderlust,Alpha United,2016-02-28,0,4,F,guyana,Monedderlust (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Pele FC,2016-02-29,0,0,F,guyana,Buxton United (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Georgetown FC,Slingerz,2016-03-04,0,2,F,guyana,Georgetown FC (Guyana),Slingerz (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Conquerors FC,2016-03-04,1,2,F,guyana,Guyana Defence Force (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Georgetown FC,2016-03-04,3,2,F,guyana,Buxton United (Guyana),Georgetown FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Pele FC,Guyana Defence Force,2016-03-05,0,1,F,guyana,Pele FC (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Slingerz,2016-03-09,1,2,F,guyana,Alpha United (Guyana),Slingerz (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Alpha United,2016-03-10,1,1,F,guyana,Guyana Defence Force (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Monedderlust,Conquerors FC,2016-03-10,1,4,F,guyana,Monedderlust (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Slingerz,2016-03-11,0,2,F,guyana,Conquerors FC (Guyana),Slingerz (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Georgetown FC,Pele FC,2016-03-11,1,2,F,guyana,Georgetown FC (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Monedderlust,Buxton United,2016-03-12,1,1,F,guyana,Monedderlust (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Pele FC,Conquerors FC,2016-03-16,0,2,F,guyana,Pele FC (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Georgetown FC,2016-03-16,5,1,F,guyana,Guyana Defence Force (Guyana),Georgetown FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Buxton United,2016-03-17,2,0,F,guyana,Alpha United (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Slingerz,Monedderlust,2016-03-17,4,0,F,guyana,Slingerz (Guyana),Monedderlust (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Monedderlust,Guyana Defence Force,2016-03-24,1,1,F,guyana,Monedderlust (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Georgetown FC,2016-03-25,6,2,F,guyana,Conquerors FC (Guyana),Georgetown FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Monedderlust,Guyana Defence Force,2016-03-25,1,1,F,guyana,Monedderlust (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Pele FC,Alpha United,2016-04-03,0,5,F,guyana,Pele FC (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Slingerz,2016-04-03,0,2,F,guyana,Buxton United (Guyana),Slingerz (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Alpha United,2016-04-08,3,1,F,guyana,Conquerors FC (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Pele FC,Slingerz,2016-04-08,1,2,F,guyana,Pele FC (Guyana),Slingerz (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Guyana Defence Force,2016-04-09,0,2,F,guyana,Buxton United (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Slingerz,2016-04-15,1,2,F,guyana,Guyana Defence Force (Guyana),Slingerz (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Conquerors FC,2016-04-15,1,2,F,guyana,Buxton United (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Monedderlust,Pele FC,2016-04-18,1,4,F,guyana,Monedderlust (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Georgetown FC,Alpha United,2016-04-18,0,5,F,guyana,Georgetown FC (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Monedderlust,2016-04-21,3,1,F,guyana,Alpha United (Guyana),Monedderlust (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Pele FC,Buxton United,2016-04-21,1,0,F,guyana,Pele FC (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Slingerz,Georgetown FC,2016-04-23,2,1,F,guyana,Slingerz (Guyana),Georgetown FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Guyana Defence Force,2016-04-23,5,2,F,guyana,Conquerors FC (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Georgetown FC,Buxton United,2016-04-25,0,2,F,guyana,Georgetown FC (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Pele FC,2016-04-25,1,3,F,guyana,Guyana Defence Force (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Monedderlust,2016-04-27,2,1,F,guyana,Conquerors FC (Guyana),Monedderlust (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Slingerz,Alpha United,2016-04-27,1,1,F,guyana,Slingerz (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Pele FC,Georgetown FC,2016-05-05,1,1,F,guyana,Pele FC (Guyana),Georgetown FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Monedderlust,2016-05-05,3,2,F,guyana,Buxton United (Guyana),Monedderlust (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Guyana Defence Force,2016-05-07,3,1,F,guyana,Alpha United (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Slingerz,Conquerors FC,2016-05-07,8,1,F,guyana,Slingerz (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Monedderlust,2016-05-08,4,2,F,guyana,Guyana Defence Force (Guyana),Monedderlust (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Georgetown FC,Conquerors FC,2016-05-08,0,2,F,guyana,Georgetown FC (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Slingerz,Buxton United,2016-05-19,3,1,F,guyana,Slingerz (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Pele FC,2016-05-19,3,0,F,guyana,Alpha United (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Alpha United,2016-05-23,0,3,F,guyana,Buxton United (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Monedderlust,Slingerz,2016-05-23,0,5,F,guyana,Monedderlust (Guyana),Slingerz (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Georgetown FC,Guyana Defence Force,2016-06-05,2,1,F,guyana,Georgetown FC (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Pele FC,2016-06-05,2,1,F,guyana,Conquerors FC (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Slingerz,Pele FC,2016-06-11,3,1,F,guyana,Slingerz (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Alpha United,2016-06-11,0,4,F,guyana,Conquerors FC (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Pele FC,2016-06-20,3,2,F,guyana,Conquerors FC (Guyana),Pele FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Slingerz,Alpha United,2016-06-20,0,3,F,guyana,Slingerz (Guyana),Alpha United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Alpha United,Slingerz,2016-06-27,0,1,F,guyana,Alpha United (Guyana),Slingerz (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Victoria Kings,2016-11-20,7,1,F,guyana,Guyana Defence Force (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Bakewell Top Xx,2016-11-20,3,0,F,guyana,Conquerors FC (Guyana),Bakewell Top Xx (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Monedderlust,2016-11-25,3,2,F,guyana,Buxton United (Guyana),Monedderlust (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Victoria Kings,2016-11-26,0,0,F,guyana,Conquerors FC (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bakewell Top Xx,Monedderlust,2016-11-27,1,2,F,guyana,Bakewell Top Xx (Guyana),Monedderlust (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Buxton United,2016-11-27,4,0,F,guyana,Guyana Defence Force (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Buxton United,2016-12-02,2,1,F,guyana,Victoria Kings (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Monedderlust,2016-12-03,4,0,F,guyana,Conquerors FC (Guyana),Monedderlust (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Conquerors FC,2016-12-04,1,2,F,guyana,Buxton United (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bakewell Top Xx,Guyana Defence Force,2016-12-04,1,4,F,guyana,Bakewell Top Xx (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Bakewell Top Xx,2016-12-09,1,1,F,guyana,Victoria Kings (Guyana),Bakewell Top Xx (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Monedderlust,Guyana Defence Force,2016-12-10,1,3,F,guyana,Monedderlust (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Guyana Defence Force,2016-12-12,1,3,F,guyana,Conquerors FC (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Monedderlust,Victoria Kings,2016-12-12,0,1,F,guyana,Monedderlust (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Bakewell Top Xx,2016-12-13,3,0,F,guyana,Buxton United (Guyana),Bakewell Top Xx (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bakewell Top Xx,Conquerors FC,2017-03-19,0,3,F,guyana,Bakewell Top Xx (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Guyana Defence Force,2017-03-19,0,4,F,guyana,Victoria Kings (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Conquerors FC,2017-04-02,1,5,F,guyana,Victoria Kings (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Guyana Defence Force,2017-04-16,1,2,F,guyana,Buxton United (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Monedderlust,Bakewell Top Xx,2017-04-16,1,2,F,guyana,Monedderlust (Guyana),Bakewell Top Xx (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Monedderlust,Conquerors FC,2017-04-23,1,3,F,guyana,Monedderlust (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Victoria Kings,2017-04-24,2,0,F,guyana,Buxton United (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Monedderlust,2017-05-06,4,0,F,guyana,Guyana Defence Force (Guyana),Monedderlust (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bakewell Top Xx,Victoria Kings,2017-05-06,1,5,F,guyana,Bakewell Top Xx (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Bakewell Top Xx,2017-05-07,4,1,F,guyana,Guyana Defence Force (Guyana),Bakewell Top Xx (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Buxton United,2017-05-08,2,0,F,guyana,Conquerors FC (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Monedderlust,Buxton United,2017-05-11,0,4,F,guyana,Monedderlust (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Monedderlust,2017-05-14,2,1,F,guyana,Victoria Kings (Guyana),Monedderlust (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Bakewell Top Xx,Buxton United,2017-05-15,3,3,F,guyana,Bakewell Top Xx (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Conquerors FC,2017-05-15,1,2,F,guyana,Guyana Defence Force (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Western Tigers FC,2017-11-19,1,1,F,guyana,Guyana Defence Force (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Na United,2017-11-20,1,0,F,guyana,Conquerors FC (Guyana),Na United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Anns Grove,2017-11-24,1,0,F,guyana,Buxton United (Guyana),Anns Grove (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Milerock,2017-11-25,2,1,F,guyana,Victoria Kings (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Cougars,2017-11-26,5,1,F,guyana,Den Amstel FC (Guyana),Cougars (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Na United,2017-11-27,2,0,F,guyana,Guyana Defence Force (Guyana),Na United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Anns Grove,2017-12-01,3,0,F,guyana,Conquerors FC (Guyana),Anns Grove (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Western Tigers FC,Milerock,2017-12-02,2,1,F,guyana,Western Tigers FC (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Cougars,2017-12-03,4,1,F,guyana,Victoria Kings (Guyana),Cougars (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Den Amstel FC,2017-12-03,2,4,F,guyana,Buxton United (Guyana),Den Amstel FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Na United,Anns Grove,2017-12-08,2,0,F,guyana,Na United (Guyana),Anns Grove (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Milerock,2017-12-09,3,0,F,guyana,Guyana Defence Force (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Den Amstel FC,2018-02-17,2,1,F,guyana,Guyana Defence Force (Guyana),Den Amstel FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Western Tigers FC,Conquerors FC,2018-02-17,2,1,F,guyana,Western Tigers FC (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Cougars,Anns Grove,2018-02-18,0,1,F,guyana,Cougars (Guyana),Anns Grove (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Buxton United,2018-02-18,2,0,F,guyana,Victoria Kings (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Cougars,2018-02-24,1,0,F,guyana,Milerock (Guyana),Cougars (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Na United,Den Amstel FC,2018-02-25,0,2,F,guyana,Na United (Guyana),Den Amstel FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Western Tigers FC,Buxton United,2018-02-25,2,0,F,guyana,Western Tigers FC (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Victoria Kings,2018-02-26,2,0,F,guyana,Conquerors FC (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Anns Grove,Den Amstel FC,2018-03-01,0,0,F,guyana,Anns Grove (Guyana),Den Amstel FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Cougars,2018-03-02,5,0,F,guyana,Guyana Defence Force (Guyana),Cougars (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Na United,Victoria Kings,2018-03-04,0,3,F,guyana,Na United (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Buxton United,2018-03-05,0,1,F,guyana,Milerock (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Western Tigers FC,Cougars,2018-03-09,5,1,F,guyana,Western Tigers FC (Guyana),Cougars (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Den Amstel FC,2018-03-10,1,0,F,guyana,Conquerors FC (Guyana),Den Amstel FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Na United,2018-03-11,1,2,F,guyana,Milerock (Guyana),Na United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Victoria Kings,2018-03-12,2,0,F,guyana,Guyana Defence Force (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Na United,Western Tigers FC,2018-03-16,1,2,F,guyana,Na United (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Conquerors FC,2018-03-17,1,4,F,guyana,Milerock (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Victoria Kings,2018-03-18,2,1,F,guyana,Den Amstel FC (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Anns Grove,Western Tigers FC,2018-03-23,0,2,F,guyana,Anns Grove (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Cougars,Conquerors FC,2018-03-24,0,7,F,guyana,Cougars (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Na United,2018-03-26,2,0,F,guyana,Buxton United (Guyana),Na United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Milerock,2018-03-27,0,1,F,guyana,Guyana Defence Force (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Anns Grove,Milerock,2018-04-01,0,3,F,guyana,Anns Grove (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Cougars,Na United,2018-04-01,2,0,F,guyana,Cougars (Guyana),Na United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Western Tigers FC,2018-04-02,0,0,F,guyana,Victoria Kings (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Conquerors FC,2018-04-02,0,0,F,guyana,Guyana Defence Force (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Cougars,Buxton United,2018-04-07,2,1,F,guyana,Cougars (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Anns Grove,Victoria Kings,2018-04-07,1,2,F,guyana,Anns Grove (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Conquerors FC,2018-04-08,1,1,F,guyana,Buxton United (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Western Tigers FC,2018-04-08,0,0,F,guyana,Den Amstel FC (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Na United,Anns Grove,2018-04-15,2,5,F,guyana,Na United (Guyana),Anns Grove (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Milerock,2018-04-15,4,0,F,guyana,Den Amstel FC (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Anns Grove,2018-04-21,2,1,F,guyana,Guyana Defence Force (Guyana),Anns Grove (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Cougars,Victoria Kings,2018-04-28,1,4,F,guyana,Cougars (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Conquerors FC,2018-07-07,0,5,F,guyana,Victoria Kings (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Guyana Defence Force,2018-07-07,3,0,F,guyana,Den Amstel FC (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Anns Grove,Buxton United,2018-07-08,2,2,F,guyana,Anns Grove (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Cougars,Den Amstel FC,2018-07-09,0,5,F,guyana,Cougars (Guyana),Den Amstel FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Western Tigers FC,2018-07-09,1,4,F,guyana,Milerock (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Victoria Kings,2018-07-14,3,5,F,guyana,Milerock (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Na United,Guyana Defence Force,2018-07-14,0,3,F,guyana,Na United (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Anns Grove,Conquerors FC,2018-07-15,0,3,F,guyana,Anns Grove (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Guyana Defence Force,2018-07-16,1,2,F,guyana,Milerock (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Buxton United,2018-07-16,1,0,F,guyana,Den Amstel FC (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Anns Grove,Na United,2018-07-21,1,1,F,guyana,Anns Grove (Guyana),Na United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Cougars,Western Tigers FC,2018-07-21,1,3,F,guyana,Cougars (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Victoria Kings,2018-07-22,1,0,F,guyana,Buxton United (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Anns Grove,Guyana Defence Force,2018-07-23,0,4,F,guyana,Anns Grove (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Conquerors FC,2018-07-23,1,2,F,guyana,Den Amstel FC (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Milerock,2018-07-30,1,1,F,guyana,Buxton United (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Na United,2018-07-30,4,0,F,guyana,Den Amstel FC (Guyana),Na United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Na United,Conquerors FC,2018-08-01,0,8,F,guyana,Na United (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Anns Grove,2018-08-01,7,1,F,guyana,Den Amstel FC (Guyana),Anns Grove (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Cougars,2018-08-06,2,0,F,guyana,Buxton United (Guyana),Cougars (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Western Tigers FC,2018-08-06,4,2,F,guyana,Guyana Defence Force (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Cougars,Milerock,2018-08-11,0,3,F,guyana,Cougars (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Western Tigers FC,2018-08-11,1,1,F,guyana,Buxton United (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Guyana Defence Force,2018-08-11,1,1,F,guyana,Buxton United (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Na United,Milerock,2018-08-12,0,0,F,guyana,Na United (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Anns Grove,Cougars,2018-08-13,6,0,F,guyana,Anns Grove (Guyana),Cougars (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Na United,Buxton United,2018-08-18,2,1,F,guyana,Na United (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Anns Grove,2018-08-18,1,1,F,guyana,Victoria Kings (Guyana),Anns Grove (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Anns Grove,2018-08-22,1,1,F,guyana,Milerock (Guyana),Anns Grove (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Na United,Cougars,2018-08-22,0,0,F,guyana,Na United (Guyana),Cougars (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Na United,2018-09-01,0,0,F,guyana,Victoria Kings (Guyana),Na United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Milerock,2018-09-01,2,0,F,guyana,Conquerors FC (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Western Tigers FC,Na United,2018-09-03,1,0,F,guyana,Western Tigers FC (Guyana),Na United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Buxton United,2018-09-03,4,0,F,guyana,Guyana Defence Force (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Cougars,2018-09-08,4,0,F,guyana,Conquerors FC (Guyana),Cougars (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Den Amstel FC,2018-09-08,1,4,F,guyana,Victoria Kings (Guyana),Den Amstel FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Western Tigers FC,Anns Grove,2018-09-09,1,0,F,guyana,Western Tigers FC (Guyana),Anns Grove (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Buxton United,2018-09-10,4,0,F,guyana,Conquerors FC (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Victoria Kings,2018-09-10,1,0,F,guyana,Guyana Defence Force (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Guyana Defence Force,2018-09-15,1,1,F,guyana,Conquerors FC (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Western Tigers FC,Den Amstel FC,2018-09-17,1,1,F,guyana,Western Tigers FC (Guyana),Den Amstel FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Cougars,2018-09-20,6,1,F,guyana,Guyana Defence Force (Guyana),Cougars (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Western Tigers FC,Victoria Kings,2018-09-20,2,1,F,guyana,Western Tigers FC (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Den Amstel FC,2018-09-22,0,3,F,guyana,Milerock (Guyana),Den Amstel FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Western Tigers FC,2018-09-22,1,0,F,guyana,Conquerors FC (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Guyana Santos,2019-03-28,4,0,F,guyana,Conquerors FC (Guyana),Guyana Santos (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Santos,Anns Grove,2019-03-29,2,0,F,guyana,Guyana Santos (Guyana),Anns Grove (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Guyana Police FC,2019-03-30,4,2,F,guyana,Conquerors FC (Guyana),Guyana Police FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Milerock,2019-03-31,0,0,F,guyana,Guyana Defence Force (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Western Tigers FC,Victoria Kings,2019-03-31,2,2,F,guyana,Western Tigers FC (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Buxton United,2019-03-31,1,0,F,guyana,Den Amstel FC (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Santos,Western Tigers FC,2019-04-13,2,2,F,guyana,Guyana Santos (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Den Amstel FC,2019-04-13,4,1,F,guyana,Guyana Defence Force (Guyana),Den Amstel FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Police FC,Victoria Kings,2019-04-14,2,0,F,guyana,Guyana Police FC (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Anns Grove,Buxton United,2019-04-14,0,0,F,guyana,Anns Grove (Guyana),Buxton United (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Anns Grove,Western Tigers FC,2019-04-19,0,2,F,guyana,Anns Grove (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Conquerors FC,2019-04-19,1,5,F,guyana,Buxton United (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Santos,Guyana Defence Force,2019-04-21,0,3,F,guyana,Guyana Santos (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Police FC,Den Amstel FC,2019-04-21,0,2,F,guyana,Guyana Police FC (Guyana),Den Amstel FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Anns Grove,2019-04-25,10,0,F,guyana,Conquerors FC (Guyana),Anns Grove (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Den Amstel FC,2019-04-25,1,1,F,guyana,Milerock (Guyana),Den Amstel FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Western Tigers FC,2019-04-27,0,3,F,guyana,Buxton United (Guyana),Western Tigers FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Conquerors FC,2019-04-27,1,8,F,guyana,Victoria Kings (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Conquerors FC,Milerock,2019-05-02,4,0,F,guyana,Conquerors FC (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Milerock,Victoria Kings,2019-05-09,1,0,F,guyana,Milerock (Guyana),Victoria Kings (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Victoria Kings,Guyana Santos,2019-05-11,2,1,F,guyana,Victoria Kings (Guyana),Guyana Santos (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Western Tigers FC,Guyana Defence Force,2019-05-12,4,2,F,guyana,Western Tigers FC (Guyana),Guyana Defence Force (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Conquerors FC,2019-05-12,0,3,F,guyana,Den Amstel FC (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Den Amstel FC,Guyana Santos,2019-05-18,5,3,F,guyana,Den Amstel FC (Guyana),Guyana Santos (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Guyana Defence Force,Conquerors FC,2019-05-18,1,2,F,guyana,Guyana Defence Force (Guyana),Conquerors FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Buxton United,Milerock,2019-05-19,4,1,F,guyana,Buxton United (Guyana),Milerock (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national
+Western Tigers FC,Guyana Police FC,2019-05-20,2,0,F,guyana,Western Tigers FC (Guyana),Guyana Police FC (Guyana),guyana,guyana,GY,GY,South America,South America,South America,national

@@ -1,0 +1,719 @@
+home,away,date,gh,ga,full_time,competition,home_ident,away_ident,home_country,away_country,home_code,away_code,home_continent,away_continent,continent,level
+FC Dordoi Dynamo,Sher Ak Dan Bishkek,2010-03-27,9,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),Sher Ak Dan Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Khimik Karabalta,2010-03-28,9,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Khimik Karabalta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Khimik Karabalta,2010-04-03,3,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Khimik Karabalta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FC Dordoi Dynamo,2010-04-04,4,3,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Khimik Karabalta,2010-04-25,2,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Khimik Karabalta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Neftchi Kochkor Ata,2010-04-26,0,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Sher Ak Dan Bishkek,FK Neftchi Kochkor Ata,2010-04-29,1,1,F,kyrgyzstan,Sher Ak Dan Bishkek (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Neftchi Kochkor Ata,2010-05-02,1,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,Alga Bishkek,2010-05-05,0,2,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,Sher Ak Dan Bishkek,2010-05-06,4,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),Sher Ak Dan Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Sher Ak Dan Bishkek,Alga Bishkek,2010-05-11,1,3,F,kyrgyzstan,Sher Ak Dan Bishkek (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Khimik Karabalta,2010-05-16,3,0,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Khimik Karabalta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,Alga Bishkek,2010-05-16,1,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Neftchi Kochkor Ata,2010-05-19,0,1,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Sher Ak Dan Bishkek,FK Khimik Karabalta,2010-05-20,0,0,F,kyrgyzstan,Sher Ak Dan Bishkek (Kyrgyzstan),FK Khimik Karabalta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,Alga Bishkek,2010-05-29,2,0,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Khimik Karabalta,FK Abdish Ata Kant,2010-05-30,0,3,F,kyrgyzstan,FK Khimik Karabalta (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Sher Ak Dan Bishkek,FC Dordoi Dynamo,2010-05-30,0,6,F,kyrgyzstan,Sher Ak Dan Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,Sher Ak Dan Bishkek,2010-06-05,3,3,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),Sher Ak Dan Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Khimik Karabalta,FK Neftchi Kochkor Ata,2010-06-05,0,3,F,kyrgyzstan,FK Khimik Karabalta (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Abdish Ata Kant,2010-06-05,1,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Khimik Karabalta,FC Dordoi Dynamo,2010-06-11,0,5,F,kyrgyzstan,FK Khimik Karabalta (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Abdish Ata Kant,2010-06-12,2,2,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Sher Ak Dan Bishkek,FK Abdish Ata Kant,2010-06-19,3,6,F,kyrgyzstan,Sher Ak Dan Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Khimik Karabalta,Alga Bishkek,2010-06-19,1,0,F,kyrgyzstan,FK Khimik Karabalta (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Khimik Karabalta,Sher Ak Dan Bishkek,2010-06-26,0,2,F,kyrgyzstan,FK Khimik Karabalta (Kyrgyzstan),Sher Ak Dan Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FC Dordoi Dynamo,2010-06-27,0,1,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,Sher Ak Dan Bishkek,2010-07-21,1,0,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),Sher Ak Dan Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FC Dordoi Dynamo,2010-07-27,2,2,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Khimik Karabalta,Sher Ak Dan Bishkek,2010-07-28,0,2,F,kyrgyzstan,FK Khimik Karabalta (Kyrgyzstan),Sher Ak Dan Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,Sher Ak Dan Bishkek,2010-07-31,1,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),Sher Ak Dan Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Khimik Karabalta,2010-08-01,3,2,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Khimik Karabalta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Neftchi Kochkor Ata,2010-08-15,3,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,Alga Bishkek,2010-08-15,3,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,Sher Ak Dan Bishkek,2010-08-19,1,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),Sher Ak Dan Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Khimik Karabalta,FK Neftchi Kochkor Ata,2010-08-19,1,1,F,kyrgyzstan,FK Khimik Karabalta (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Khimik Karabalta,2010-08-26,0,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Khimik Karabalta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,Alga Bishkek,2010-09-05,5,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Sher Ak Dan Bishkek,FK Neftchi Kochkor Ata,2010-09-05,0,5,F,kyrgyzstan,Sher Ak Dan Bishkek (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Khimik Karabalta,2010-09-05,1,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Khimik Karabalta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Neftchi Kochkor Ata,2010-09-12,1,2,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Sher Ak Dan Bishkek,FK Khimik Karabalta,2010-09-12,2,1,F,kyrgyzstan,Sher Ak Dan Bishkek (Kyrgyzstan),FK Khimik Karabalta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Abdish Ata Kant,2010-09-12,0,3,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Khimik Karabalta,2010-09-18,2,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Khimik Karabalta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Abdish Ata Kant,2010-09-19,2,0,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Sher Ak Dan Bishkek,Alga Bishkek,2010-09-22,1,0,F,kyrgyzstan,Sher Ak Dan Bishkek (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Neftchi Kochkor Ata,2010-09-26,1,1,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Khimik Karabalta,FK Abdish Ata Kant,2010-09-30,0,9,F,kyrgyzstan,FK Khimik Karabalta (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Sher Ak Dan Bishkek,FK Abdish Ata Kant,2010-10-03,1,6,F,kyrgyzstan,Sher Ak Dan Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FC Dordoi Dynamo,2010-10-03,1,0,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,Alga Bishkek,2010-10-09,2,1,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Abdish Ata Kant,2010-10-09,2,2,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,Sher Ak Dan Bishkek,2010-10-13,4,2,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),Sher Ak Dan Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FC Dordoi Dynamo,2010-10-13,1,4,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Khimik Karabalta,Alga Bishkek,2010-10-17,0,3,F,kyrgyzstan,FK Khimik Karabalta (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Sher Ak Dan Bishkek,FC Dordoi Dynamo,2010-10-17,0,3,F,kyrgyzstan,Sher Ak Dan Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Abdish Ata Kant,2010-10-17,1,1,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FC Dordoi Dynamo,2010-10-24,1,2,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Khimik Karabalta,2010-10-24,4,2,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Khimik Karabalta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,Sher Ak Dan Bishkek,2010-10-24,4,0,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),Sher Ak Dan Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,Alga Bishkek,2011-04-17,5,2,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Neftchi Kochkor Ata,2011-04-17,1,2,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Ysyk Kol,Alga Bishkek,2011-04-28,1,3,F,kyrgyzstan,FK Ysyk Kol (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Neftchi Kochkor Ata,2011-04-28,0,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Alay Osh,2011-04-28,2,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Ysyk Kol,FC Dordoi Dynamo,2011-05-01,0,4,F,kyrgyzstan,FK Ysyk Kol (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Neftchi Kochkor Ata,2011-05-01,0,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Alay Osh,2011-05-01,2,1,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Abdish Ata Kant,2011-05-07,3,2,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FC Dordoi Dynamo,2011-05-07,0,4,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Ysyk Kol,2011-05-07,4,0,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Ysyk Kol (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Ysyk Kol,2011-05-10,3,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Ysyk Kol (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,Alga Bishkek,2011-05-11,1,1,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FC Dordoi Dynamo,2011-05-14,3,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Ysyk Kol,2011-05-21,2,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Ysyk Kol (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,Alga Bishkek,2011-05-28,3,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Ysyk Kol,2011-05-28,2,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Ysyk Kol (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Abdish Ata Kant,2011-06-01,2,0,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Ysyk Kol,2011-06-04,3,2,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Ysyk Kol (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Abdish Ata Kant,2011-06-04,0,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FC Dordoi Dynamo,2011-06-04,0,0,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Ysyk Kol,FK Abdish Ata Kant,2011-06-11,1,9,F,kyrgyzstan,FK Ysyk Kol (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FC Dordoi Dynamo,2011-06-11,0,4,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Alay Osh,2011-06-11,2,2,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Neftchi Kochkor Ata,2011-06-18,0,3,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Abdish Ata Kant,2011-06-19,4,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Ysyk Kol,FK Alay Osh,2011-06-19,2,0,F,kyrgyzstan,FK Ysyk Kol (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Alay Osh,2011-06-22,3,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Ysyk Kol,FK Neftchi Kochkor Ata,2011-06-22,0,3,F,kyrgyzstan,FK Ysyk Kol (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,Alga Bishkek,2011-06-22,0,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Abdish Ata Kant,2011-08-10,1,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Ysyk Kol,2011-08-13,3,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Ysyk Kol (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FC Dordoi Dynamo,2011-08-13,0,4,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,Alga Bishkek,2011-08-17,1,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,Alga Bishkek,2011-08-20,2,1,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FC Dordoi Dynamo,2011-08-24,3,2,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Neftchi Kochkor Ata,2011-08-24,0,2,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Alay Osh,2011-09-01,2,1,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Ysyk Kol,2011-09-03,3,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Ysyk Kol (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Ysyk Kol,2011-09-04,3,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Ysyk Kol (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Neftchi Kochkor Ata,2011-09-04,0,1,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Alay Osh,2011-09-05,2,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Neftchi Kochkor Ata,2011-09-08,1,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Ysyk Kol,FK Abdish Ata Kant,2011-09-10,0,3,F,kyrgyzstan,FK Ysyk Kol (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Ysyk Kol,FK Neftchi Kochkor Ata,2011-09-17,0,3,F,kyrgyzstan,FK Ysyk Kol (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Alay Osh,2011-09-17,2,3,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,Alga Bishkek,2011-09-17,4,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Ysyk Kol,2011-09-24,3,0,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Ysyk Kol (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FC Dordoi Dynamo,2011-09-24,1,4,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Abdish Ata Kant,2011-09-24,2,2,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Ysyk Kol,FK Alay Osh,2011-10-01,0,3,F,kyrgyzstan,FK Ysyk Kol (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Ysyk Kol,FC Dordoi Dynamo,2011-10-01,0,3,F,kyrgyzstan,FK Ysyk Kol (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,Alga Bishkek,2011-10-01,2,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Neftchi Kochkor Ata,2011-10-02,2,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Ysyk Kol,2011-10-10,3,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Ysyk Kol (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Abdish Ata Kant,2011-10-11,2,1,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FC Dordoi Dynamo,2011-10-11,1,1,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Ysyk Kol,Alga Bishkek,2011-10-16,0,3,F,kyrgyzstan,FK Ysyk Kol (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Alay Osh,2011-10-16,2,1,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Abdish Ata Kant,2011-10-16,3,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,Alga Bishkek,2012-04-14,3,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FC 95 Bishkek,2012-04-15,7,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FC 95 Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FC 95 Bishkek,2012-04-21,4,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FC 95 Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Kara Balta,2012-04-22,7,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Alay Osh,2012-04-28,2,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Plaza Bishkek,2012-04-28,3,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FK Dinamo Bishkek,2012-04-29,1,2,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FK Dinamo Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 95 Bishkek,Alga Bishkek,2012-04-29,1,7,F,kyrgyzstan,FC 95 Bishkek (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FK Alay Osh,2012-05-01,0,4,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FC 95 Bishkek,2012-05-05,7,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FC 95 Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,Alga Bishkek,2012-05-05,1,2,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FK Kara Balta,2012-05-09,7,0,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Dinamo Bishkek,FC 95 Bishkek,2012-05-12,1,0,F,kyrgyzstan,FK Dinamo Bishkek (Kyrgyzstan),FC 95 Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Kara Balta,2012-05-12,8,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,Alga Bishkek,2012-05-13,2,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Plaza Bishkek,2012-05-16,6,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Abdish Ata Kant,2012-05-18,1,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 95 Bishkek,FK Kara Balta,2012-05-19,1,3,F,kyrgyzstan,FC 95 Bishkek (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Dinamo Bishkek,FK Plaza Bishkek,2012-05-19,2,1,F,kyrgyzstan,FK Dinamo Bishkek (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,Alga Bishkek,2012-05-20,0,2,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Dinamo Bishkek,2012-05-23,1,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Dinamo Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Plaza Bishkek,2012-05-23,2,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Kara Balta,2012-05-26,1,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Dinamo Bishkek,2012-05-26,2,1,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Dinamo Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FC 95 Bishkek,2012-05-26,4,0,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FC 95 Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Abdish Ata Kant,2012-05-27,5,2,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,Alga Bishkek,2012-06-01,2,3,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Dinamo Bishkek,2012-06-02,1,2,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Dinamo Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FC 95 Bishkek,2012-06-03,4,1,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FC 95 Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FC Dordoi Dynamo,2012-06-05,0,4,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FK Dinamo Bishkek,2012-06-06,0,2,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FK Dinamo Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Alay Osh,2012-06-06,3,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 95 Bishkek,FC Dordoi Dynamo,2012-06-09,0,3,F,kyrgyzstan,FC 95 Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Abdish Ata Kant,2012-06-09,0,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FK Plaza Bishkek,2012-06-09,1,2,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Dinamo Bishkek,FK Alay Osh,2012-06-10,1,1,F,kyrgyzstan,FK Dinamo Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FK Alay Osh,2012-06-12,0,5,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Dinamo Bishkek,Alga Bishkek,2012-06-15,0,3,F,kyrgyzstan,FK Dinamo Bishkek (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FC Dordoi Dynamo,2012-06-15,0,2,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 95 Bishkek,FK Plaza Bishkek,2012-06-18,1,2,F,kyrgyzstan,FC 95 Bishkek (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FC 95 Bishkek,2012-06-23,6,1,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FC 95 Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FC Dordoi Dynamo,2012-06-23,1,4,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Dinamo Bishkek,FK Kara Balta,2012-06-23,3,0,F,kyrgyzstan,FK Dinamo Bishkek (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 95 Bishkek,FK Alay Osh,2012-06-27,1,2,F,kyrgyzstan,FC 95 Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FC Dordoi Dynamo,2012-06-28,0,3,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Alay Osh,2012-06-30,0,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FK Abdish Ata Kant,2012-07-01,0,3,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 95 Bishkek,FK Dinamo Bishkek,2012-07-01,0,7,F,kyrgyzstan,FC 95 Bishkek (Kyrgyzstan),FK Dinamo Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Kara Balta,2012-07-06,7,2,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Dinamo Bishkek,FC Dordoi Dynamo,2012-07-06,3,3,F,kyrgyzstan,FK Dinamo Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Dinamo Bishkek,2012-07-10,2,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Dinamo Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 95 Bishkek,FK Abdish Ata Kant,2012-08-04,0,1,F,kyrgyzstan,FC 95 Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Plaza Bishkek,2012-08-04,2,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Dinamo Bishkek,FK Abdish Ata Kant,2012-08-07,0,0,F,kyrgyzstan,FK Dinamo Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 95 Bishkek,FK Alay Osh,2012-08-11,1,3,F,kyrgyzstan,FC 95 Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Dinamo Bishkek,FC 95 Bishkek,2012-08-18,4,0,F,kyrgyzstan,FK Dinamo Bishkek (Kyrgyzstan),FC 95 Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FC 95 Bishkek,2012-08-25,3,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FC 95 Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Dinamo Bishkek,FK Kara Balta,2012-08-26,3,0,F,kyrgyzstan,FK Dinamo Bishkek (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FK Abdish Ata Kant,2012-08-26,0,0,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FC Dordoi Dynamo,2012-08-26,0,3,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 95 Bishkek,FC Dordoi Dynamo,2012-09-04,0,4,F,kyrgyzstan,FC 95 Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FC 95 Bishkek,2012-09-08,0,3,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FC 95 Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FK Dinamo Bishkek,2012-09-08,0,2,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FK Dinamo Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Alay Osh,2012-09-08,0,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FC Dordoi Dynamo,2012-09-09,0,2,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Alay Osh,2012-09-12,1,1,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Abdish Ata Kant,2012-09-14,4,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FC 95 Bishkek,2012-09-16,2,0,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FC 95 Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FK Alay Osh,2012-09-16,0,3,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Dinamo Bishkek,Alga Bishkek,2012-09-17,2,1,F,kyrgyzstan,FK Dinamo Bishkek (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FK Abdish Ata Kant,2012-09-19,0,3,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FC Dordoi Dynamo,2012-09-19,0,5,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FC 95 Bishkek,2012-09-19,6,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FC 95 Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FK Abdish Ata Kant,2012-09-26,1,2,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FK Plaza Bishkek,2012-09-29,0,3,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Dinamo Bishkek,2012-09-29,2,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Dinamo Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,Alga Bishkek,2012-09-30,0,2,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FK Alay Osh,2012-10-06,0,0,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Kara Balta,2012-10-07,3,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Dinamo Bishkek,FC Dordoi Dynamo,2012-10-07,0,3,F,kyrgyzstan,FK Dinamo Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Kara Balta,2012-10-12,3,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Dinamo Bishkek,2012-10-12,3,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Dinamo Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,Alga Bishkek,2012-10-12,0,2,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 95 Bishkek,FC Dordoi Dynamo,2012-10-13,0,1,F,kyrgyzstan,FC 95 Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 95 Bishkek,FK Kara Balta,2012-10-16,3,0,F,kyrgyzstan,FC 95 Bishkek (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Dinamo Bishkek,FK Plaza Bishkek,2012-10-16,3,4,F,kyrgyzstan,FK Dinamo Bishkek (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,Alga Bishkek,2012-10-17,2,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Abdish Ata Kant,2012-10-17,1,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FK Kara Balta,2012-10-20,3,0,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Abdish Ata Kant,2012-10-21,2,1,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Plaza Bishkek,2012-10-21,1,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FC 95 Bishkek,2012-10-23,3,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FC 95 Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FK Dinamo Bishkek,2012-10-24,0,3,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FK Dinamo Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 95 Bishkek,Alga Bishkek,2012-10-24,0,1,F,kyrgyzstan,FC 95 Bishkek (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Kara Balta,2012-10-25,3,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Plaza Bishkek,2012-10-25,0,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FC Dordoi Dynamo,2012-10-25,1,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 95 Bishkek,FK Dinamo Bishkek,2012-10-28,0,3,F,kyrgyzstan,FC 95 Bishkek (Kyrgyzstan),FK Dinamo Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,Alga Bishkek,2012-10-29,0,3,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 95 Bishkek,FK Abdish Ata Kant,2012-11-01,0,0,F,kyrgyzstan,FC 95 Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Dinamo Bishkek,2012-11-01,5,2,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Dinamo Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,Alga Bishkek,2012-11-01,0,3,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Plaza Bishkek,2012-11-02,2,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Dinamo Bishkek,2012-11-05,0,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Dinamo Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FC Dordoi Dynamo,2012-11-05,1,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 95 Bishkek,FK Plaza Bishkek,2012-11-06,0,5,F,kyrgyzstan,FC 95 Bishkek (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Kara Balta,2012-11-06,3,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FC Dordoi Dynamo,2012-11-07,0,3,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Dinamo Bishkek,FK Abdish Ata Kant,2012-11-08,1,1,F,kyrgyzstan,FK Dinamo Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Alay Osh,2012-11-10,4,2,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Plaza Bishkek,2012-11-11,3,1,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Dinamo Bishkek,FK Alay Osh,2012-11-13,2,1,F,kyrgyzstan,FK Dinamo Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FC 95 Bishkek,2013-05-01,4,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FC 95 Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Plaza Bishkek,2013-05-04,1,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Abdish Ata Kant,2013-05-04,0,0,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Abdish Ata Kant,2013-05-07,2,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Plaza Bishkek,2013-05-07,1,2,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FC 96,2013-05-07,7,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FC 96 (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 95 Bishkek,Alga Bishkek,2013-05-18,0,4,F,kyrgyzstan,FC 95 Bishkek (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Plaza Bishkek,2013-05-18,3,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Neftchi Kochkor Ata,2013-05-19,3,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 96,FK Alay Osh,2013-05-19,0,4,F,kyrgyzstan,FC 96 (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 96,FK Neftchi Kochkor Ata,2013-05-22,0,3,F,kyrgyzstan,FC 96 (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Alay Osh,2013-05-22,0,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FC Dordoi Dynamo,2013-05-22,1,1,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FC 95 Bishkek,2013-05-22,1,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FC 95 Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Alay Osh,2013-05-25,2,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 95 Bishkek,FK Neftchi Kochkor Ata,2013-05-25,2,3,F,kyrgyzstan,FC 95 Bishkek (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,Alga Bishkek,2013-05-25,1,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FC 96,2013-05-26,9,0,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FC 96 (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FC Dordoi Dynamo,2013-05-30,1,1,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,Alga Bishkek,2013-06-04,1,1,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 96,FC 95 Bishkek,2013-06-04,2,1,F,kyrgyzstan,FC 96 (Kyrgyzstan),FC 95 Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Alay Osh,2013-06-06,1,2,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 95 Bishkek,FK Plaza Bishkek,2013-06-07,1,2,F,kyrgyzstan,FC 95 Bishkek (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 96,FK Abdish Ata Kant,2013-06-11,0,12,F,kyrgyzstan,FC 96 (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,Alga Bishkek,2013-06-14,1,2,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FC 95 Bishkek,2013-06-14,5,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FC 95 Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,Alga Bishkek,2013-06-17,1,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FC 95 Bishkek,2013-06-17,3,1,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FC 95 Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FC 96,2013-06-19,7,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FC 96 (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 95 Bishkek,FC Dordoi Dynamo,2013-06-22,1,2,F,kyrgyzstan,FC 95 Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FK Alay Osh,2013-06-23,1,2,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Neftchi Kochkor Ata,2013-06-23,1,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 96,Alga Bishkek,2013-06-23,0,10,F,kyrgyzstan,FC 96 (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Alay Osh,2013-06-26,2,2,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 96,FC Dordoi Dynamo,2013-06-26,1,11,F,kyrgyzstan,FC 96 (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FC 95 Bishkek,2013-06-26,2,1,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FC 95 Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Neftchi Kochkor Ata,2013-06-26,0,1,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FK Neftchi Kochkor Ata,2013-06-29,2,0,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FC 96,2013-06-29,14,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FC 96 (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 95 Bishkek,FK Alay Osh,2013-06-29,0,3,F,kyrgyzstan,FC 95 Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,Alga Bishkek,2013-06-30,1,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FC 96,2013-07-06,4,0,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FC 96 (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FC Dordoi Dynamo,2013-07-06,2,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FC Dordoi Dynamo,2013-07-09,0,1,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FC 96,2013-07-09,4,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FC 96 (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FC 95 Bishkek,2013-07-09,3,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FC 95 Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FK Abdish Ata Kant,2013-07-09,2,3,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Plaza Bishkek,2013-07-13,4,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 95 Bishkek,FK Abdish Ata Kant,2013-07-13,0,3,F,kyrgyzstan,FC 95 Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 96,FK Plaza Bishkek,2013-07-16,0,5,F,kyrgyzstan,FC 96 (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Abdish Ata Kant,2013-07-16,3,1,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Neftchi Kochkor Ata,2013-07-20,4,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Abdish Ata Kant,2013-07-20,3,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Plaza Bishkek,2013-07-20,1,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 95 Bishkek,FC 96,2013-07-20,2,1,F,kyrgyzstan,FC 95 Bishkek (Kyrgyzstan),FC 96 (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FC Dordoi Dynamo,2013-08-21,3,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FC 95 Bishkek,2013-09-11,1,0,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FC 95 Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Alay Osh,2013-09-13,2,3,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FC 96,2013-09-15,2,1,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FC 96 (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Alay Osh,2013-09-17,4,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 95 Bishkek,FK Neftchi Kochkor Ata,2013-09-19,0,0,F,kyrgyzstan,FC 95 Bishkek (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Alay Osh,2013-09-21,2,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 96,FK Neftchi Kochkor Ata,2013-09-22,1,5,F,kyrgyzstan,FC 96 (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FK Neftchi Kochkor Ata,2013-09-25,0,1,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,Alga Bishkek,2013-09-28,0,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Plaza Bishkek,2013-09-29,1,2,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 95 Bishkek,FC 96,2013-09-30,1,0,F,kyrgyzstan,FC 95 Bishkek (Kyrgyzstan),FC 96 (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FC 95 Bishkek,2013-10-03,2,1,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FC 95 Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Abdish Ata Kant,2013-10-07,1,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,Alga Bishkek,2013-10-08,0,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 96,FK Plaza Bishkek,2013-10-09,0,1,F,kyrgyzstan,FC 96 (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 95 Bishkek,FK Plaza Bishkek,2013-10-14,1,4,F,kyrgyzstan,FC 95 Bishkek (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC 96,FC 95 Bishkek,2013-10-17,0,1,F,kyrgyzstan,FC 96 (Kyrgyzstan),FC 95 Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Abdish Ata Kant,2013-10-19,3,2,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,Alga Bishkek,2013-10-19,0,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FC 96,2013-10-20,4,0,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FC 96 (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Abdish Ata Kant,2013-10-27,0,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FC Dordoi Dynamo,2013-10-27,1,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FC Dordoi Dynamo,2013-11-07,1,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FC Dordoi Dynamo,2013-11-15,0,3,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,Manas,2014-03-21,6,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),Manas (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Plaza Bishkek,2014-03-21,1,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,Aldiyer Kurshab,2014-03-22,0,3,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),Aldiyer Kurshab (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Manas,Aldiyer Kurshab,2014-03-26,1,2,F,kyrgyzstan,Manas (Kyrgyzstan),Aldiyer Kurshab (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FK Neftchi Kochkor Ata,2014-03-26,4,1,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,Aldiyer Kurshab,2014-03-29,6,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),Aldiyer Kurshab (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Neftchi Kochkor Ata,2014-03-29,3,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Manas,FC Dordoi Dynamo,2014-03-29,0,5,F,kyrgyzstan,Manas (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Manas,Alga Bishkek,2014-04-05,0,3,F,kyrgyzstan,Manas (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Abdish Ata Kant,2014-04-05,3,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Aldiyer Kurshab,FK Neftchi Kochkor Ata,2014-04-09,1,0,F,kyrgyzstan,Aldiyer Kurshab (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FC Dordoi Dynamo,2014-04-09,0,1,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,Manas,2014-04-15,5,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),Manas (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,Alga Bishkek,2014-04-23,0,1,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Manas,FK Abdish Ata Kant,2014-04-23,1,6,F,kyrgyzstan,Manas (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Neftchi Kochkor Ata,2014-04-27,6,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,Aldiyer Kurshab,2014-04-27,6,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),Aldiyer Kurshab (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Alay Osh,2014-04-27,1,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,Aldiyer Kurshab,2014-04-30,2,2,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),Aldiyer Kurshab (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Alay Osh,2014-04-30,1,2,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Manas,FK Neftchi Kochkor Ata,2014-04-30,0,1,F,kyrgyzstan,Manas (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,Aldiyer Kurshab,2014-05-03,4,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),Aldiyer Kurshab (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Alay Osh,2014-05-04,3,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Neftchi Kochkor Ata,2014-05-04,1,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FC Dordoi Dynamo,2014-05-07,0,4,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Abdish Ata Kant,2014-05-07,0,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Manas,FK Plaza Bishkek,2014-05-11,2,4,F,kyrgyzstan,Manas (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Neftchi Kochkor Ata,2014-06-04,2,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Plaza Bishkek,2014-06-04,2,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,Manas,2014-06-04,8,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),Manas (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,Manas,2014-06-07,3,1,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),Manas (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Alay Osh,2014-06-11,0,2,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FK Abdish Ata Kant,2014-06-11,1,3,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,Alga Bishkek,2014-06-11,2,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FC Dordoi Dynamo,2014-06-14,1,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,Aldiyer Kurshab,2014-06-14,7,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),Aldiyer Kurshab (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FC Dordoi Dynamo,2014-06-18,1,3,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Aldiyer Kurshab,FK Plaza Bishkek,2014-06-18,1,0,F,kyrgyzstan,Aldiyer Kurshab (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,Manas,2014-06-21,6,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),Manas (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Aldiyer Kurshab,FC Dordoi Dynamo,2014-06-21,0,7,F,kyrgyzstan,Aldiyer Kurshab (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Plaza Bishkek,2014-06-21,1,0,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,Alga Bishkek,2014-06-21,1,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Plaza Bishkek,2014-06-24,4,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Aldiyer Kurshab,Manas,2014-06-24,5,0,F,kyrgyzstan,Aldiyer Kurshab (Kyrgyzstan),Manas (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FC Dordoi Dynamo,2014-06-25,0,6,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,Manas,2014-06-28,1,0,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),Manas (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Aldiyer Kurshab,FK Alay Osh,2014-06-28,2,2,F,kyrgyzstan,Aldiyer Kurshab (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Abdish Ata Kant,2014-07-02,1,3,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,Alga Bishkek,2014-07-02,1,1,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,Alga Bishkek,2014-07-05,4,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Aldiyer Kurshab,FK Abdish Ata Kant,2014-07-05,0,4,F,kyrgyzstan,Aldiyer Kurshab (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Plaza Bishkek,2014-07-05,6,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Aldiyer Kurshab,Alga Bishkek,2014-07-08,2,6,F,kyrgyzstan,Aldiyer Kurshab (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Abdish Ata Kant,2014-07-08,0,5,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FK Alay Osh,2014-07-09,0,2,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Manas,FK Alay Osh,2014-07-15,0,5,F,kyrgyzstan,Manas (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Aldiyer Kurshab,FK Neftchi Kochkor Ata,2014-10-04,3,2,F,kyrgyzstan,Aldiyer Kurshab (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,Manas,2014-10-04,5,0,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),Manas (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,Alga Bishkek,2014-10-09,1,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Alay Osh,2014-10-15,3,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,Alga Bishkek,2014-10-15,0,2,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Aldiyer Kurshab,Manas,2014-10-15,2,1,F,kyrgyzstan,Aldiyer Kurshab (Kyrgyzstan),Manas (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Plaza Bishkek,2014-10-15,1,0,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,Alga Bishkek,2014-10-18,1,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Alay Osh,2014-10-18,2,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Aldiyer Kurshab,FK Plaza Bishkek,2014-10-18,0,2,F,kyrgyzstan,Aldiyer Kurshab (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,Manas,2014-10-18,1,0,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),Manas (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Alay Osh,2014-10-21,1,3,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Abdish Ata Kant,2014-10-22,0,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Abdish Ata Kant,2014-10-26,0,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FC Dordoi Dynamo,2014-10-26,0,5,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Manas,FK Neftchi Kochkor Ata,2014-10-26,0,0,F,kyrgyzstan,Manas (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,Aldiyer Kurshab,2014-10-26,4,1,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),Aldiyer Kurshab (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FK Neftchi Kochkor Ata,2014-10-29,2,0,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Manas,Aldiyer Kurshab,2014-10-29,2,2,F,kyrgyzstan,Manas (Kyrgyzstan),Aldiyer Kurshab (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FC Dordoi Dynamo,2014-11-01,0,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Abdish Ata Kant,2014-11-01,4,1,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Manas,FK Plaza Bishkek,2014-11-02,1,1,F,kyrgyzstan,Manas (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FC Dordoi Dynamo,2014-11-05,1,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,Aldiyer Kurshab,2014-11-05,1,0,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),Aldiyer Kurshab (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FC Dordoi Dynamo,2015-04-07,0,1,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Plaza Bishkek,2015-04-13,2,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,Alga Bishkek,2015-04-13,1,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,Manas,2015-04-13,6,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),Manas (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Manas,FK Alay Osh,2015-04-17,1,4,F,kyrgyzstan,Manas (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,Alga Bishkek,2015-04-17,1,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Plaza Bishkek,2015-04-17,1,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Alay Osh,2015-04-20,1,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Plaza Bishkek,2015-04-20,0,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,Manas,2015-04-20,0,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),Manas (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FC Dordoi Dynamo,2015-04-23,2,2,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Alay Osh,2015-04-23,0,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Plaza Bishkek,2015-05-03,5,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Manas,FC Dordoi Dynamo,2015-05-10,1,6,F,kyrgyzstan,Manas (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FC Dordoi Dynamo,2015-05-16,2,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Plaza Bishkek,2015-05-20,7,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,Manas,2015-05-23,5,2,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),Manas (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,Manas,2015-05-27,7,2,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),Manas (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,Manas,2015-05-30,5,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),Manas (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FK Abdish Ata Kant,2015-05-30,0,1,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FC Dordoi Dynamo,2015-05-31,0,4,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Alay Osh,2015-06-06,0,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,Manas,2015-06-06,3,1,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),Manas (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FK Alay Osh,2015-06-09,1,3,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Manas,FK Abdish Ata Kant,2015-06-09,0,0,F,kyrgyzstan,Manas (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Manas,FK Plaza Bishkek,2015-06-13,0,1,F,kyrgyzstan,Manas (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Abdish Ata Kant,2015-06-20,0,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Manas,Alga Bishkek,2015-06-27,0,6,F,kyrgyzstan,Manas (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,Alga Bishkek,2015-06-30,2,2,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,Alga Bishkek,2015-07-29,3,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Abdish Ata Kant,2015-08-02,1,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,Alga Bishkek,2015-08-02,0,1,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Abdish Ata Kant,2015-08-05,2,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Plaza Bishkek,2015-08-06,2,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FC Dordoi Dynamo,2015-08-09,1,3,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FK Alay Osh,2015-08-09,0,4,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FK Abdish Ata Kant,2015-08-16,0,3,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FC Dordoi Dynamo,2015-08-16,3,3,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Manas,Alga Bishkek,2015-08-20,0,3,F,kyrgyzstan,Manas (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,Manas,2015-08-25,5,1,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),Manas (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Alay Osh,2015-09-13,3,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Abdish Ata Kant,2015-09-13,0,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,Manas,2015-09-16,3,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),Manas (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Alay Osh,2015-09-16,0,1,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,Manas,2015-09-23,5,1,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),Manas (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Abdish Ata Kant,2015-09-25,0,2,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Manas,FC Dordoi Dynamo,2015-10-18,1,8,F,kyrgyzstan,Manas (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,Alga Bishkek,2015-10-18,1,3,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Alay Osh,2015-10-18,0,2,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Plaza Bishkek,2015-10-21,1,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Manas,FK Alay Osh,2015-10-21,2,3,F,kyrgyzstan,Manas (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,Alga Bishkek,2015-10-21,1,2,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FC Dordoi Dynamo,2015-10-24,0,1,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Plaza Bishkek,2015-10-25,3,2,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,Manas,2015-10-27,6,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),Manas (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Abdish Ata Kant,2015-10-28,0,2,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Manas,FK Abdish Ata Kant,2015-10-31,0,4,F,kyrgyzstan,Manas (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FC Dordoi Dynamo,2015-10-31,0,2,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,Alga Bishkek,2015-10-31,2,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Manas,FK Plaza Bishkek,2015-11-03,1,2,F,kyrgyzstan,Manas (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FK Kara Balta,2016-03-11,4,1,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Alay Osh,2016-03-11,0,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FC Dordoi Dynamo,2016-03-12,0,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,Aldiyer Kurshab,2016-03-16,4,2,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),Aldiyer Kurshab (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Plaza Bishkek,2016-03-16,4,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Abdish Ata Kant,2016-03-16,2,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FC Dordoi Dynamo,2016-04-02,1,6,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FK Abdish Ata Kant,2016-04-02,0,2,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Aldiyer Kurshab,Alga Bishkek,2016-04-03,1,3,F,kyrgyzstan,Aldiyer Kurshab (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,Aldiyer Kurshab,2016-04-08,1,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),Aldiyer Kurshab (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Kara Balta,2016-04-09,6,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Plaza Bishkek,2016-04-09,2,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Kara Balta,2016-04-16,5,2,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,Aldiyer Kurshab,2016-04-16,3,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),Aldiyer Kurshab (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Alay Osh,2016-04-16,1,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Aldiyer Kurshab,FK Plaza Bishkek,2016-04-23,3,0,F,kyrgyzstan,Aldiyer Kurshab (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FK Abdish Ata Kant,2016-04-23,1,1,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,Alga Bishkek,2016-04-23,2,2,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,Alga Bishkek,2016-04-30,0,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Aldiyer Kurshab,FK Alay Osh,2016-04-30,1,5,F,kyrgyzstan,Aldiyer Kurshab (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FC Dordoi Dynamo,2016-04-30,1,5,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Abdish Ata Kant,2016-05-07,2,1,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,Aldiyer Kurshab,2016-05-07,1,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),Aldiyer Kurshab (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Plaza Bishkek,2016-05-07,3,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Kara Balta,2016-05-14,4,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,Aldiyer Kurshab,2016-05-14,1,0,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),Aldiyer Kurshab (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Alay Osh,2016-05-14,1,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Aldiyer Kurshab,FK Abdish Ata Kant,2016-05-21,0,2,F,kyrgyzstan,Aldiyer Kurshab (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,Alga Bishkek,2016-05-21,2,3,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FC Dordoi Dynamo,2016-05-21,4,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FK Alay Osh,2016-06-11,1,4,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Aldiyer Kurshab,FC Dordoi Dynamo,2016-06-11,1,3,F,kyrgyzstan,Aldiyer Kurshab (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,Alga Bishkek,2016-06-11,0,2,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,Aldiyer Kurshab,2016-06-18,4,4,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),Aldiyer Kurshab (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Plaza Bishkek,2016-06-18,2,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Kara Balta,2016-06-18,4,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Aldiyer Kurshab,FK Kara Balta,2016-06-25,5,1,F,kyrgyzstan,Aldiyer Kurshab (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FK Alay Osh,2016-06-25,2,4,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FC Dordoi Dynamo,2016-06-25,0,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FK Plaza Bishkek,2016-07-02,2,1,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Abdish Ata Kant,2016-07-02,3,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,Alga Bishkek,2016-07-02,2,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FK Alay Osh,2016-09-09,0,3,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FC Dordoi Dynamo,2016-09-10,0,2,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Aldiyer Kurshab,Alga Bishkek,2016-09-10,0,2,F,kyrgyzstan,Aldiyer Kurshab (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Abdish Ata Kant,2016-09-17,2,1,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Plaza Bishkek,2016-09-21,2,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,Aldiyer Kurshab,2016-09-23,9,1,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),Aldiyer Kurshab (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Plaza Bishkek,2016-09-24,1,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Alay Osh,2016-09-24,0,1,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,FK Kara Balta,2016-10-08,0,1,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Kara Balta,2016-10-14,4,1,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,Aldiyer Kurshab,2016-10-14,5,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),Aldiyer Kurshab (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FC Dordoi Dynamo,2016-10-15,1,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Plaza Bishkek,Alga Bishkek,2016-10-18,0,2,F,kyrgyzstan,FK Plaza Bishkek (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FK Abdish Ata Kant,2016-10-18,2,2,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FC Dordoi Dynamo,2016-10-21,3,3,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Aldiyer Kurshab,FK Alay Osh,2016-10-21,1,12,F,kyrgyzstan,Aldiyer Kurshab (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,Aldiyer Kurshab,2016-10-25,13,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),Aldiyer Kurshab (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Kara Balta,2016-10-25,5,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Aldiyer Kurshab,FK Plaza Bishkek,2016-10-28,0,3,F,kyrgyzstan,Aldiyer Kurshab (Kyrgyzstan),FK Plaza Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,Alga Bishkek,2016-10-29,3,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Abdish Ata Kant,2016-10-29,2,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Abdish Ata Kant,2017-04-08,1,3,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Neftchi Kochkor Ata,2017-04-08,2,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Kara Balta,2017-04-08,3,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,Alga Bishkek,2017-04-11,1,4,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Abdish Ata Kant,2017-04-11,1,3,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FC Dordoi Dynamo,2017-04-12,1,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Alay Osh,2017-04-22,0,4,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Neftchi Kochkor Ata,2017-04-22,5,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Kara Balta,2017-04-23,3,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,Alga Bishkek,2017-04-27,1,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Abdish Ata Kant,2017-04-29,3,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Kara Balta,2017-04-30,1,0,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Neftchi Kochkor Ata,2017-05-06,0,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FK Alay Osh,2017-05-07,1,6,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FC Dordoi Dynamo,2017-05-07,2,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Alay Osh,2017-05-13,1,2,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FC Dordoi Dynamo,2017-05-13,1,2,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,Alga Bishkek,2017-05-14,3,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Neftchi Kochkor Ata,2017-05-20,1,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Kara Balta,2017-05-20,1,2,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Alay Osh,2017-05-21,1,2,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FK Abdish Ata Kant,2017-05-23,2,1,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FC Dordoi Dynamo,2017-05-24,2,1,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,Alga Bishkek,2017-05-24,4,2,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FK Neftchi Kochkor Ata,2017-05-27,2,2,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FC Dordoi Dynamo,2017-05-27,0,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Alay Osh,2017-05-28,0,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,Alga Bishkek,2017-06-16,0,1,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Abdish Ata Kant,2017-06-17,1,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Kara Balta,2017-06-17,4,2,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,Alga Bishkek,2017-07-29,2,0,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Kara Balta,2017-07-30,10,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Abdish Ata Kant,2017-07-30,4,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FK Neftchi Kochkor Ata,2017-08-05,1,2,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Alay Osh,2017-08-05,2,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FC Dordoi Dynamo,2017-08-06,0,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FK Abdish Ata Kant,2017-08-12,0,1,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FC Dordoi Dynamo,2017-08-12,0,1,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,Alga Bishkek,2017-08-13,2,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Neftchi Kochkor Ata,2017-08-19,1,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Kara Balta,2017-08-19,2,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Alay Osh,2017-08-19,1,2,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FK Alay Osh,2017-09-09,3,1,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Neftchi Kochkor Ata,2017-09-09,1,1,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FC Dordoi Dynamo,2017-09-10,3,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Alay Osh,2017-09-13,1,3,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FC Dordoi Dynamo,2017-09-13,1,2,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,Alga Bishkek,2017-09-13,2,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Kara Balta,2017-09-16,1,1,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Abdish Ata Kant,2017-09-17,1,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,Alga Bishkek,2017-09-17,0,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Kara Balta,2017-09-30,4,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Neftchi Kochkor Ata,2017-09-30,1,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Alay Osh,2017-09-30,3,2,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,Alga Bishkek,2017-10-14,1,2,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Abdish Ata Kant,2017-10-14,1,0,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FC Dordoi Dynamo,2017-10-18,1,3,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Kara Balta,2017-10-21,5,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Neftchi Kochkor Ata,2017-10-21,0,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Abdish Ata Kant,2017-10-21,0,4,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FC Bishkek,2018-04-07,3,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FC Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Kara Balta,2018-04-07,2,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,Akademiy Futbola,2018-04-08,2,0,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),Akademiy Futbola (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,Alga Bishkek,2018-04-08,0,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,Akademiy Futbola,2018-04-11,4,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),Akademiy Futbola (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FC Bishkek,2018-04-12,2,0,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FC Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Kara Balta,2018-04-12,5,1,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Alay Osh,2018-04-15,0,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Akademiy Futbola,FC Bishkek,2018-04-16,1,3,F,kyrgyzstan,Akademiy Futbola (Kyrgyzstan),FC Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FK Alay Osh,2018-04-18,5,6,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FC Dordoi Dynamo,2018-04-18,0,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Neftchi Kochkor Ata,2018-04-18,2,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Bishkek,FK Kara Balta,2018-04-21,3,2,F,kyrgyzstan,FC Bishkek (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Neftchi Kochkor Ata,2018-04-21,0,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,Akademiy Futbola,2018-04-21,2,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),Akademiy Futbola (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Abdish Ata Kant,2018-04-22,1,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Neftchi Kochkor Ata,2018-04-25,2,2,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,Alga Bishkek,2018-04-28,3,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Bishkek,FK Abdish Ata Kant,2018-04-28,0,2,F,kyrgyzstan,FC Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Akademiy Futbola,FK Kara Balta,2018-04-29,3,4,F,kyrgyzstan,Akademiy Futbola (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Kara Balta,2018-05-03,4,0,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Bishkek,Alga Bishkek,2018-05-05,1,2,F,kyrgyzstan,FC Bishkek (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,Akademiy Futbola,2018-05-05,7,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),Akademiy Futbola (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,Akademiy Futbola,2018-05-08,2,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),Akademiy Futbola (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FC Bishkek,2018-05-09,7,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FC Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Alay Osh,2018-05-09,2,2,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FK Abdish Ata Kant,2018-05-09,2,2,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FC Dordoi Dynamo,2018-05-12,0,0,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Abdish Ata Kant,2018-05-12,2,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FC Bishkek,2018-05-13,1,0,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FC Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Akademiy Futbola,FK Alay Osh,2018-05-13,2,5,F,kyrgyzstan,Akademiy Futbola (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FC Bishkek,2018-05-19,1,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FC Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Akademiy Futbola,FK Neftchi Kochkor Ata,2018-05-19,1,2,F,kyrgyzstan,Akademiy Futbola (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FC Dordoi Dynamo,2018-05-19,0,6,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Alay Osh,2018-05-20,1,1,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Akademiy Futbola,Alga Bishkek,2018-06-09,0,5,F,kyrgyzstan,Akademiy Futbola (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Kara Balta,2018-06-09,5,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Bishkek,FC Dordoi Dynamo,2018-06-09,1,1,F,kyrgyzstan,FC Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,Akademiy Futbola,2018-06-12,3,1,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),Akademiy Futbola (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FC Dordoi Dynamo,2018-06-12,0,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,Alga Bishkek,2018-06-12,1,0,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Bishkek,FK Alay Osh,2018-06-13,2,3,F,kyrgyzstan,FC Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Bishkek,Akademiy Futbola,2018-06-16,2,3,F,kyrgyzstan,FC Bishkek (Kyrgyzstan),Akademiy Futbola (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Abdish Ata Kant,2018-06-16,1,2,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,Alga Bishkek,2018-06-17,4,2,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Kara Balta,2018-06-17,6,2,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Abdish Ata Kant,2018-06-20,1,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,Alga Bishkek,2018-06-20,2,5,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Bishkek,FK Neftchi Kochkor Ata,2018-06-20,2,3,F,kyrgyzstan,FC Bishkek (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Akademiy Futbola,FC Dordoi Dynamo,2018-06-20,2,5,F,kyrgyzstan,Akademiy Futbola (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FK Neftchi Kochkor Ata,2018-06-23,1,2,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FC Dordoi Dynamo,2018-06-24,2,3,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FC Bishkek,2018-06-24,5,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FC Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Akademiy Futbola,FK Abdish Ata Kant,2018-06-24,1,3,F,kyrgyzstan,Akademiy Futbola (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Neftchi Kochkor Ata,2018-07-11,0,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Akademiy Futbola,FK Neftchi Kochkor Ata,2018-07-14,0,2,F,kyrgyzstan,Akademiy Futbola (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FC Dordoi Dynamo,2018-07-14,1,3,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,Alga Bishkek,2018-07-14,0,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Bishkek,FK Abdish Ata Kant,2018-07-15,0,3,F,kyrgyzstan,FC Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Kara Balta,2018-07-21,4,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Alay Osh,2018-07-21,2,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FC Bishkek,2018-07-21,4,1,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FC Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,Akademiy Futbola,2018-07-22,6,2,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),Akademiy Futbola (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,Akademiy Futbola,2018-07-25,4,2,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),Akademiy Futbola (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Kara Balta,2018-07-25,2,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Neftchi Kochkor Ata,2018-07-25,2,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Bishkek,FC Dordoi Dynamo,2018-07-26,2,6,F,kyrgyzstan,FC Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,Akademiy Futbola,2018-07-28,1,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),Akademiy Futbola (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FK Neftchi Kochkor Ata,2018-07-28,0,1,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FC Bishkek,2018-07-29,1,1,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FC Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Alay Osh,2018-07-29,1,2,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Neftchi Kochkor Ata,2018-09-15,5,1,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Abdish Ata Kant,2018-09-15,4,3,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Akademiy Futbola,FK Kara Balta,2018-09-15,3,1,F,kyrgyzstan,Akademiy Futbola (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FC Bishkek,2018-09-15,2,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FC Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Akademiy Futbola,FC Bishkek,2018-09-18,1,0,F,kyrgyzstan,Akademiy Futbola (Kyrgyzstan),FC Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FK Abdish Ata Kant,2018-09-18,1,2,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,Alga Bishkek,2018-09-19,1,2,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Alay Osh,2018-09-19,1,5,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Akademiy Futbola,Alga Bishkek,2018-09-22,0,2,F,kyrgyzstan,Akademiy Futbola (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Neftchi Kochkor Ata,2018-09-22,3,2,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Kara Balta,2018-09-22,9,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FC Bishkek,2018-09-22,6,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FC Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Bishkek,Alga Bishkek,2018-09-25,1,0,F,kyrgyzstan,FC Bishkek (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Kara Balta,2018-09-25,3,2,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FC Dordoi Dynamo,2018-09-26,0,2,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Akademiy Futbola,FK Abdish Ata Kant,2018-09-26,0,1,F,kyrgyzstan,Akademiy Futbola (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Abdish Ata Kant,2018-09-30,0,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Bishkek,FK Kara Balta,2018-09-30,4,2,F,kyrgyzstan,FC Bishkek (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FC Dordoi Dynamo,2018-09-30,1,2,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,Akademiy Futbola,2018-09-30,5,2,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),Akademiy Futbola (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FC Bishkek,2018-10-20,2,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FC Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,Akademiy Futbola,2018-10-20,3,0,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),Akademiy Futbola (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Kara Balta,2018-10-21,3,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Alay Osh,2018-10-21,0,3,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Akademiy Futbola,FK Alay Osh,2018-10-24,1,6,F,kyrgyzstan,Akademiy Futbola (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FC Bishkek,2018-10-24,3,2,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FC Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Neftchi Kochkor Ata,2018-10-24,4,2,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,Alga Bishkek,2018-10-25,3,2,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Bishkek,FK Neftchi Kochkor Ata,2018-10-27,0,1,F,kyrgyzstan,FC Bishkek (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Akademiy Futbola,FC Dordoi Dynamo,2018-10-27,0,8,F,kyrgyzstan,Akademiy Futbola (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,Alga Bishkek,2018-10-28,0,1,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Abdish Ata Kant,2018-10-28,3,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FK Alay Osh,2018-10-31,0,1,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FK Neftchi Kochkor Ata,2018-10-31,3,0,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Bishkek,Akademiy Futbola,2018-10-31,2,1,F,kyrgyzstan,FC Bishkek (Kyrgyzstan),Akademiy Futbola (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FC Dordoi Dynamo,2018-10-31,0,7,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Alay Osh,2018-11-03,3,1,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,Akademiy Futbola,2018-11-05,2,3,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),Akademiy Futbola (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Bishkek,FK Alay Osh,2018-11-06,1,5,F,kyrgyzstan,FC Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,Alga Bishkek,2018-11-06,3,1,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FC Dordoi Dynamo,2018-11-06,1,2,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FC Bishkek,2019-04-06,0,3,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FC Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Kara Balta,2019-04-06,6,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Kara Balta,2019-04-12,3,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Bishkek,FK Alay Osh,2019-04-13,1,3,F,kyrgyzstan,FC Bishkek (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Akademiy Futbola,FK Neftchi Kochkor Ata,2019-04-14,0,1,F,kyrgyzstan,Akademiy Futbola (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FK Abdish Ata Kant,2019-04-14,2,3,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,Akademiy Futbola,2019-04-20,1,2,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),Akademiy Futbola (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,Alga Bishkek,2019-04-20,2,3,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Bishkek,FC Dordoi Dynamo,2019-04-21,2,1,F,kyrgyzstan,FC Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Kara Balta,2019-04-21,3,0,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Kara Balta (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,Akademiy Futbola,2019-04-27,2,1,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),Akademiy Futbola (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,FC Dordoi Dynamo,2019-04-27,1,4,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FC Bishkek,2019-05-04,1,3,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FC Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FK Abdish Ata Kant,2019-05-04,1,0,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Alga Bishkek,Akademiy Futbola,2019-05-05,3,0,F,kyrgyzstan,Alga Bishkek (Kyrgyzstan),Akademiy Futbola (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Neftchi Kochkor Ata,2019-05-05,3,0,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Neftchi Kochkor Ata (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,FC Dordoi Dynamo,2019-05-11,1,4,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Alay Osh,2019-05-11,1,1,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,Alga Bishkek,2019-05-12,0,3,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Akademiy Futbola,FC Bishkek,2019-05-12,1,1,F,kyrgyzstan,Akademiy Futbola (Kyrgyzstan),FC Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Bishkek,Alga Bishkek,2019-05-18,2,1,F,kyrgyzstan,FC Bishkek (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,FK Abdish Ata Kant,2019-05-18,0,2,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,Akademiy Futbola,2019-05-19,1,0,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),Akademiy Futbola (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Dordoi Dynamo,FK Alay Osh,2019-05-19,3,4,F,kyrgyzstan,FC Dordoi Dynamo (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FK Alay Osh,2019-05-25,0,3,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FK Alay Osh (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+Akademiy Futbola,FC Dordoi Dynamo,2019-05-25,2,3,F,kyrgyzstan,Akademiy Futbola (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FC Bishkek,FK Abdish Ata Kant,2019-05-26,0,1,F,kyrgyzstan,FC Bishkek (Kyrgyzstan),FK Abdish Ata Kant (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Neftchi Kochkor Ata,Alga Bishkek,2019-05-26,0,0,F,kyrgyzstan,FK Neftchi Kochkor Ata (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Kara Balta,FC Dordoi Dynamo,2019-06-01,1,3,F,kyrgyzstan,FK Kara Balta (Kyrgyzstan),FC Dordoi Dynamo (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Alay Osh,FC Bishkek,2019-06-01,4,3,F,kyrgyzstan,FK Alay Osh (Kyrgyzstan),FC Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national
+FK Abdish Ata Kant,Alga Bishkek,2019-06-01,0,1,F,kyrgyzstan,FK Abdish Ata Kant (Kyrgyzstan),Alga Bishkek (Kyrgyzstan),kyrgyzstan,kyrgyzstan,KG,KG,Asia,Asia,Asia,national

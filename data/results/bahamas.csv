@@ -1,0 +1,382 @@
+home,away,date,gh,ga,full_time,competition,home_ident,away_ident,home_country,away_country,home_code,away_code,home_continent,away_continent,continent,level
+United FC,FC Nassau,2007-02-25,0,3,F,bahamas,United FC (Bahamas),FC Nassau (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Caledonia Thistle,Bears FC,2007-02-25,0,8,F,bahamas,Caledonia Thistle (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Dynamos FC,2007-02-25,5,0,F,bahamas,Cavalier FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Cavalier FC,2007-03-04,1,1,F,bahamas,Bears FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Caledonia Celtic,United FC,2007-03-04,1,1,F,bahamas,Caledonia Celtic (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+FC Nassau,Dynamos FC,2007-03-04,2,1,F,bahamas,FC Nassau (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,United FC,2007-03-11,3,1,F,bahamas,Bears FC (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,FC Nassau,2007-03-11,1,0,F,bahamas,Cavalier FC (Bahamas),FC Nassau (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Caledonia Thistle,Caledonia Celtic,2007-03-11,0,4,F,bahamas,Caledonia Thistle (Bahamas),Caledonia Celtic (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+FC Nassau,Bears FC,2007-03-18,1,5,F,bahamas,FC Nassau (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Caledonia Celtic,Dynamos FC,2007-03-18,5,0,F,bahamas,Caledonia Celtic (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,Caledonia Thistle,2007-03-18,3,1,F,bahamas,United FC (Bahamas),Caledonia Thistle (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Caledonia Celtic,Cavalier FC,2007-03-25,3,0,F,bahamas,Caledonia Celtic (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Caledonia Thistle,FC Nassau,2007-03-25,0,5,F,bahamas,Caledonia Thistle (Bahamas),FC Nassau (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,United FC,2007-03-25,0,6,F,bahamas,Dynamos FC (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Caledonia Celtic,2007-04-01,3,0,F,bahamas,Bears FC (Bahamas),Caledonia Celtic (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,United FC,2007-04-01,2,2,F,bahamas,Cavalier FC (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Caledonia Thistle,2007-04-01,2,1,F,bahamas,Dynamos FC (Bahamas),Caledonia Thistle (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Bears FC,2007-04-15,1,8,F,bahamas,Dynamos FC (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Caledonia Celtic,FC Nassau,2007-04-15,1,1,F,bahamas,Caledonia Celtic (Bahamas),FC Nassau (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Caledonia Thistle,Cavalier FC,2007-04-15,0,4,F,bahamas,Caledonia Thistle (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+FC Nassau,United FC,2007-04-22,0,2,F,bahamas,FC Nassau (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Caledonia Thistle,2007-04-22,6,1,F,bahamas,Bears FC (Bahamas),Caledonia Thistle (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Cavalier FC,2007-04-22,0,5,F,bahamas,Dynamos FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,Bears FC,2007-04-29,0,2,F,bahamas,United FC (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+FC Nassau,Cavalier FC,2007-04-29,1,1,F,bahamas,FC Nassau (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Caledonia Celtic,Caledonia Thistle,2007-04-29,2,1,F,bahamas,Caledonia Celtic (Bahamas),Caledonia Thistle (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Dynamos FC,2007-05-06,1,2,F,bahamas,Bears FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+FC Nassau,Caledonia Celtic,2007-05-06,1,5,F,bahamas,FC Nassau (Bahamas),Caledonia Celtic (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Caledonia Thistle,2007-05-06,0,0,F,bahamas,Cavalier FC (Bahamas),Caledonia Thistle (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,FC Nassau,2007-05-13,5,1,F,bahamas,Bears FC (Bahamas),FC Nassau (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Caledonia Celtic,2007-05-13,0,4,F,bahamas,Dynamos FC (Bahamas),Caledonia Celtic (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Caledonia Thistle,United FC,2007-05-13,0,3,F,bahamas,Caledonia Thistle (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Caledonia Celtic,2007-05-20,0,1,F,bahamas,Cavalier FC (Bahamas),Caledonia Celtic (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,Dynamos FC,2007-05-20,7,0,F,bahamas,United FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+FC Nassau,Caledonia Thistle,2007-05-20,2,1,F,bahamas,FC Nassau (Bahamas),Caledonia Thistle (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Bears FC,2007-05-27,0,5,F,bahamas,Cavalier FC (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,Caledonia Celtic,2007-05-27,0,1,F,bahamas,United FC (Bahamas),Caledonia Celtic (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,FC Nassau,2007-05-27,0,6,F,bahamas,Dynamos FC (Bahamas),FC Nassau (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Caledonia Celtic,Bears FC,2007-06-17,1,6,F,bahamas,Caledonia Celtic (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,Cavalier FC,2007-06-17,6,1,F,bahamas,United FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Caledonia Thistle,Dynamos FC,2007-06-17,0,3,F,bahamas,Caledonia Thistle (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,FC Nassau,2008-10-19,2,1,F,bahamas,Cavalier FC (Bahamas),FC Nassau (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Caledonia Celtic,2008-10-19,3,0,F,bahamas,Dynamos FC (Bahamas),Caledonia Celtic (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Caledonia Celtic,Bears FC,2008-10-26,0,3,F,bahamas,Caledonia Celtic (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Sharks FC,Dynamos FC,2008-10-26,3,3,F,bahamas,Sharks FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,Sharks FC,2008-11-02,1,3,F,bahamas,Baha Juniors FC (Bahamas),Sharks FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Cavalier FC,2008-11-02,3,1,F,bahamas,Bears FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Baha Juniors FC,2008-11-09,2,3,F,bahamas,Dynamos FC (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+FC Nassau,Caledonia Celtic,2008-11-09,1,4,F,bahamas,FC Nassau (Bahamas),Caledonia Celtic (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Caledonia Celtic,2008-11-16,1,1,F,bahamas,Cavalier FC (Bahamas),Caledonia Celtic (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Sharks FC,2008-11-16,0,0,F,bahamas,Bears FC (Bahamas),Sharks FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,FC Nassau,2008-11-23,1,2,F,bahamas,Dynamos FC (Bahamas),FC Nassau (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,Bears FC,2008-11-23,3,0,F,bahamas,Baha Juniors FC (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Sharks FC,Cavalier FC,2008-11-30,2,2,F,bahamas,Sharks FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Caledonia Celtic,Baha Juniors FC,2008-11-30,8,1,F,bahamas,Caledonia Celtic (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Dynamos FC,2008-12-07,6,2,F,bahamas,Bears FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+FC Nassau,Sharks FC,2008-12-07,1,4,F,bahamas,FC Nassau (Bahamas),Sharks FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Sharks FC,Caledonia Celtic,2008-12-14,1,4,F,bahamas,Sharks FC (Bahamas),Caledonia Celtic (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Baha Juniors FC,2008-12-14,5,1,F,bahamas,Cavalier FC (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+FC Nassau,Bears FC,2008-12-21,0,3,F,bahamas,FC Nassau (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Cavalier FC,2008-12-21,1,1,F,bahamas,Dynamos FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,FC Nassau,2009-01-11,5,1,F,bahamas,Baha Juniors FC (Bahamas),FC Nassau (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Caledonia Celtic,Dynamos FC,2009-01-11,5,1,F,bahamas,Caledonia Celtic (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Dynamos FC,2009-01-18,3,3,F,bahamas,Cavalier FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+FC Nassau,Bears FC,2009-01-18,1,5,F,bahamas,FC Nassau (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Dynamos FC,2009-01-25,6,0,F,bahamas,Bears FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Caledonia Celtic,Sharks FC,2009-01-25,1,0,F,bahamas,Caledonia Celtic (Bahamas),Sharks FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Sharks FC,FC Nassau,2009-02-01,6,0,F,bahamas,Sharks FC (Bahamas),FC Nassau (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Caledonia Celtic,Baha Juniors FC,2009-02-01,3,1,F,bahamas,Caledonia Celtic (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,Bears FC,2009-02-08,1,2,F,bahamas,Baha Juniors FC (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Sharks FC,Cavalier FC,2009-02-08,3,4,F,bahamas,Sharks FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,FC Nassau,2009-02-15,3,3,F,bahamas,Dynamos FC (Bahamas),FC Nassau (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Sharks FC,2009-02-15,6,0,F,bahamas,Bears FC (Bahamas),Sharks FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,FC Nassau,2009-02-22,2,2,F,bahamas,Baha Juniors FC (Bahamas),FC Nassau (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Caledonia Celtic,2009-02-22,1,2,F,bahamas,Cavalier FC (Bahamas),Caledonia Celtic (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+FC Nassau,Caledonia Celtic,2009-03-01,2,4,F,bahamas,FC Nassau (Bahamas),Caledonia Celtic (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Baha Juniors FC,2009-03-01,3,1,F,bahamas,Dynamos FC (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Cavalier FC,2009-03-15,2,0,F,bahamas,Bears FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,Sharks FC,2009-03-15,3,4,F,bahamas,Baha Juniors FC (Bahamas),Sharks FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Sharks FC,Dynamos FC,2009-03-29,5,2,F,bahamas,Sharks FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Baha Juniors FC,2009-03-29,2,0,F,bahamas,Cavalier FC (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Caledonia Celtic,Bears FC,2009-04-19,0,2,F,bahamas,Caledonia Celtic (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,FC Nassau,2009-04-19,3,0,F,bahamas,Cavalier FC (Bahamas),FC Nassau (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,United FC,2009-10-25,6,1,F,bahamas,The College Of The Bahamas (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Lyford Cay FC,2009-10-25,1,2,F,bahamas,Dynamos FC (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+FC Nassau,Bears FC,2009-11-01,1,7,F,bahamas,FC Nassau (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Sharks FC,Cavalier FC,2009-11-01,6,1,F,bahamas,Sharks FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,Sharks FC,2009-11-08,3,0,F,bahamas,Lyford Cay FC (Bahamas),Sharks FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,FC Nassau,2009-11-08,1,2,F,bahamas,United FC (Bahamas),FC Nassau (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,The College Of The Bahamas,2009-11-15,3,7,F,bahamas,Baha Juniors FC (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Dynamos FC,2009-11-15,10,1,F,bahamas,Bears FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Dynamos FC,2009-11-22,1,1,F,bahamas,Cavalier FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,The College Of The Bahamas,2009-11-22,6,1,F,bahamas,Bears FC (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,Baha Juniors FC,2009-11-29,2,1,F,bahamas,United FC (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,FC Nassau,2009-11-29,5,1,F,bahamas,Lyford Cay FC (Bahamas),FC Nassau (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+FC Nassau,Cavalier FC,2009-12-06,0,2,F,bahamas,FC Nassau (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,Bears FC,2009-12-06,1,8,F,bahamas,Baha Juniors FC (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,Lyford Cay FC,2009-12-13,0,1,F,bahamas,The College Of The Bahamas (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Sharks FC,2009-12-13,2,2,F,bahamas,Dynamos FC (Bahamas),Sharks FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,United FC,2009-12-20,6,1,F,bahamas,Bears FC (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,The College Of The Bahamas,2009-12-20,1,0,F,bahamas,Cavalier FC (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Cavalier FC,2010-01-20,8,0,F,bahamas,Bears FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,FC Nassau,2010-01-24,2,3,F,bahamas,The College Of The Bahamas (Bahamas),FC Nassau (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Lyford Cay FC,2010-01-24,1,1,F,bahamas,Bears FC (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Lyford Cay FC,2010-02-10,1,1,F,bahamas,Cavalier FC (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Lyford Cay FC,2010-02-17,0,1,F,bahamas,Dynamos FC (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,The College Of The Bahamas,2010-02-24,1,1,F,bahamas,United FC (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Sharks FC,2010-02-28,3,0,F,bahamas,Cavalier FC (Bahamas),Sharks FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,Baha Juniors FC,2010-03-10,4,2,F,bahamas,The College Of The Bahamas (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Sharks FC,Lyford Cay FC,2010-03-14,0,3,F,bahamas,Sharks FC (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,United FC,2011-01-23,0,6,F,bahamas,Baha Juniors FC (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,The College Of The Bahamas,2011-01-23,3,1,F,bahamas,Dynamos FC (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,Dynamos FC,2011-01-30,3,0,F,bahamas,Lyford Cay FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Baha Juniors FC,2011-01-30,1,2,F,bahamas,Cavalier FC (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,The College Of The Bahamas,2011-02-06,3,4,F,bahamas,United FC (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Dynamos FC,2011-02-06,1,2,F,bahamas,Bears FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Lyford Cay FC,2011-02-13,0,0,F,bahamas,Cavalier FC (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,Baha Juniors FC,2011-02-13,1,2,F,bahamas,The College Of The Bahamas (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Bears FC,2011-02-20,0,4,F,bahamas,Cavalier FC (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Baha Juniors FC,2011-02-20,4,1,F,bahamas,Dynamos FC (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,United FC,2011-03-07,2,1,F,bahamas,Lyford Cay FC (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,Cavalier FC,2011-03-07,1,2,F,bahamas,The College Of The Bahamas (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,Dynamos FC,2011-03-13,2,1,F,bahamas,United FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Baha Juniors FC,2011-03-13,5,2,F,bahamas,Bears FC (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,The College Of The Bahamas,2011-03-20,7,0,F,bahamas,Lyford Cay FC (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,Bears FC,2011-03-20,0,1,F,bahamas,United FC (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,Bears FC,2011-03-24,1,2,F,bahamas,The College Of The Bahamas (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,Cavalier FC,2011-03-24,0,0,F,bahamas,United FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Cavalier FC,2011-03-27,2,0,F,bahamas,Dynamos FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,Lyford Cay FC,2011-03-27,1,4,F,bahamas,Baha Juniors FC (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Lyford Cay FC,2011-03-30,3,2,F,bahamas,Bears FC (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,Dynamos FC,2011-04-03,3,6,F,bahamas,The College Of The Bahamas (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,Baha Juniors FC,2011-04-03,2,0,F,bahamas,United FC (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,Cavalier FC,2011-04-06,1,5,F,bahamas,Baha Juniors FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Lyford Cay FC,2011-04-06,1,1,F,bahamas,Dynamos FC (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Bears FC,2011-04-10,0,6,F,bahamas,Dynamos FC (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,United FC,2011-04-10,1,5,F,bahamas,The College Of The Bahamas (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,Cavalier FC,2011-04-13,3,2,F,bahamas,Lyford Cay FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,The College Of The Bahamas,2011-04-13,4,0,F,bahamas,Baha Juniors FC (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,Dynamos FC,2011-04-17,1,4,F,bahamas,Baha Juniors FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Cavalier FC,2011-04-17,4,2,F,bahamas,Bears FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,Lyford Cay FC,2011-04-20,3,4,F,bahamas,United FC (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,United FC,2011-04-27,0,0,F,bahamas,Dynamos FC (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,Bears FC,2011-04-27,0,10,F,bahamas,Baha Juniors FC (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,Lyford Cay FC,2011-05-01,1,9,F,bahamas,The College Of The Bahamas (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,United FC,2011-05-01,0,1,F,bahamas,Bears FC (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,United FC,2011-05-04,4,1,F,bahamas,Cavalier FC (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,The College Of The Bahamas,2011-05-04,7,1,F,bahamas,Bears FC (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Dynamos FC,2011-05-11,2,4,F,bahamas,Cavalier FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,Baha Juniors FC,2011-05-11,7,2,F,bahamas,Lyford Cay FC (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,Bears FC,2011-05-15,3,6,F,bahamas,Lyford Cay FC (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,The College Of The Bahamas,2011-05-15,6,1,F,bahamas,Cavalier FC (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,The College Of The Bahamas,2011-11-27,2,1,F,bahamas,Baha Juniors FC (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Cavalier FC,2011-11-27,1,1,F,bahamas,Dynamos FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Vsb FC,United FC,2011-11-30,2,4,F,bahamas,Vsb FC (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,Bears FC,2011-12-04,0,3,F,bahamas,Lyford Cay FC (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,Dynamos FC,2011-12-04,1,3,F,bahamas,Baha Juniors FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,United FC,2011-12-07,0,1,F,bahamas,The College Of The Bahamas (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,Baha Juniors FC,2011-12-11,5,0,F,bahamas,United FC (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Vsb FC,Cavalier FC,2011-12-11,0,1,F,bahamas,Vsb FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Bears FC,2011-12-15,1,2,F,bahamas,Cavalier FC (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,Vsb FC,2011-12-18,5,1,F,bahamas,Lyford Cay FC (Bahamas),Vsb FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Dynamos FC,2011-12-18,2,0,F,bahamas,Bears FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,Dynamos FC,2012-01-08,0,2,F,bahamas,The College Of The Bahamas (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,United FC,2012-01-12,1,1,F,bahamas,Lyford Cay FC (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,Cavalier FC,2012-01-15,0,3,F,bahamas,United FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Vsb FC,Bears FC,2012-01-15,0,1,F,bahamas,Vsb FC (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Baha Juniors FC,2012-01-19,3,3,F,bahamas,Cavalier FC (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Vsb FC,2012-01-22,5,1,F,bahamas,Dynamos FC (Bahamas),Vsb FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,Lyford Cay FC,2012-01-22,0,4,F,bahamas,Baha Juniors FC (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,Lyford Cay FC,2012-01-26,0,5,F,bahamas,The College Of The Bahamas (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,United FC,2012-01-29,3,1,F,bahamas,Dynamos FC (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Baha Juniors FC,2012-01-29,4,0,F,bahamas,Bears FC (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Lyford Cay FC,2012-02-02,4,2,F,bahamas,Cavalier FC (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,Dynamos FC,2012-02-05,4,0,F,bahamas,Lyford Cay FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,Bears FC,2012-02-05,0,2,F,bahamas,United FC (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Vsb FC,The College Of The Bahamas,2012-02-09,3,1,F,bahamas,Vsb FC (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,Bears FC,2012-02-16,1,3,F,bahamas,The College Of The Bahamas (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,Vsb FC,2012-02-19,4,2,F,bahamas,Baha Juniors FC (Bahamas),Vsb FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Vsb FC,Lyford Cay FC,2012-03-11,0,2,F,bahamas,Vsb FC (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,Cavalier FC,2012-03-21,2,3,F,bahamas,The College Of The Bahamas (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,Baha Juniors FC,2012-03-25,1,3,F,bahamas,The College Of The Bahamas (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,Vsb FC,2012-03-25,2,1,F,bahamas,United FC (Bahamas),Vsb FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Lyford Cay FC,2012-03-28,0,3,F,bahamas,Dynamos FC (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,Lyford Cay FC,2012-03-29,0,2,F,bahamas,United FC (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,The College Of The Bahamas,2012-04-01,3,0,F,bahamas,Dynamos FC (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Cavalier FC,2012-04-01,4,1,F,bahamas,Bears FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,United FC,2012-04-04,1,2,F,bahamas,Baha Juniors FC (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Dynamos FC,2012-04-11,1,2,F,bahamas,Cavalier FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Bears FC,2012-04-15,3,2,F,bahamas,Dynamos FC (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Vsb FC,2012-04-18,5,0,F,bahamas,Cavalier FC (Bahamas),Vsb FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,Baha Juniors FC,2012-04-22,7,3,F,bahamas,Lyford Cay FC (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,The College Of The Bahamas,2012-04-22,3,1,F,bahamas,United FC (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Vsb FC,Dynamos FC,2012-04-25,0,1,F,bahamas,Vsb FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Vsb FC,2012-05-02,13,2,F,bahamas,Bears FC (Bahamas),Vsb FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,Vsb FC,2012-05-09,4,0,F,bahamas,The College Of The Bahamas (Bahamas),Vsb FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,The College Of The Bahamas,2012-05-09,1,1,F,bahamas,Lyford Cay FC (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,Cavalier FC,2012-05-11,1,2,F,bahamas,Baha Juniors FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,The College Of The Bahamas,2012-05-11,3,1,F,bahamas,Bears FC (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,Bears FC,2012-05-16,2,4,F,bahamas,Baha Juniors FC (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Baha Juniors FC,2012-05-20,1,3,F,bahamas,Dynamos FC (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,Cavalier FC,2012-05-20,1,2,F,bahamas,Lyford Cay FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Vsb FC,Baha Juniors FC,2012-05-27,0,3,F,bahamas,Vsb FC (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,Dynamos FC,2012-05-27,1,1,F,bahamas,United FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,United FC,2012-05-30,1,0,F,bahamas,Cavalier FC (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,The College Of The Bahamas,2012-06-03,5,0,F,bahamas,Cavalier FC (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,Bears FC,2012-06-03,1,1,F,bahamas,Lyford Cay FC (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,United FC,2012-06-06,3,0,F,bahamas,Bears FC (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,Boca,2013-02-03,3,1,F,bahamas,Baha Juniors FC (Bahamas),Boca (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Super Stars,Bears FC,2013-02-03,1,8,F,bahamas,Super Stars (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,The College Of The Bahamas,2013-02-07,0,2,F,bahamas,Dynamos FC (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,United FC,2013-02-10,2,3,F,bahamas,Cavalier FC (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,Vbs,2013-02-10,3,0,F,bahamas,Lyford Cay FC (Bahamas),Vbs (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Boca,Lyford Cay FC,2013-02-14,3,4,F,bahamas,Boca (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Vbs,Cavalier FC,2013-02-17,2,1,F,bahamas,Vbs (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,Super Stars,2013-02-17,0,1,F,bahamas,United FC (Bahamas),Super Stars (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,Baha Juniors FC,2013-02-21,0,1,F,bahamas,The College Of The Bahamas (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Dynamos FC,2013-02-24,5,3,F,bahamas,Bears FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Boca,The College Of The Bahamas,2013-02-24,2,2,F,bahamas,Boca (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,Bears FC,2013-02-28,1,6,F,bahamas,Baha Juniors FC (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Super Stars,Vbs,2013-03-03,3,1,F,bahamas,Super Stars (Bahamas),Vbs (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,Cavalier FC,2013-03-03,1,1,F,bahamas,Lyford Cay FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,United FC,2013-03-07,3,0,F,bahamas,Dynamos FC (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Boca,2013-03-10,4,2,F,bahamas,Bears FC (Bahamas),Boca (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Super Stars,2013-03-10,3,1,F,bahamas,Cavalier FC (Bahamas),Super Stars (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,Baha Juniors FC,2013-03-13,2,4,F,bahamas,United FC (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,Lyford Cay FC,2013-03-17,1,2,F,bahamas,The College Of The Bahamas (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Vbs,Dynamos FC,2013-03-17,0,4,F,bahamas,Vbs (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,Bears FC,2013-03-20,0,0,F,bahamas,The College Of The Bahamas (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,Vbs,2013-03-24,6,2,F,bahamas,Baha Juniors FC (Bahamas),Vbs (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Boca,United FC,2013-03-24,3,3,F,bahamas,Boca (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,Super Stars,2013-03-27,3,1,F,bahamas,Lyford Cay FC (Bahamas),Super Stars (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Cavalier FC,2013-03-31,0,3,F,bahamas,Dynamos FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Vbs,Boca,2013-03-31,0,0,F,bahamas,Vbs (Bahamas),Boca (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Super Stars,Dynamos FC,2013-04-04,1,3,F,bahamas,Super Stars (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,The College Of The Bahamas,2013-04-07,0,3,F,bahamas,United FC (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Baha Juniors FC,2013-04-07,1,1,F,bahamas,Cavalier FC (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Lyford Cay FC,2013-04-11,3,2,F,bahamas,Bears FC (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,Super Stars,2013-04-14,2,3,F,bahamas,Baha Juniors FC (Bahamas),Super Stars (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Boca,Cavalier FC,2013-04-14,5,1,F,bahamas,Boca (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,Dynamos FC,2013-04-18,3,1,F,bahamas,Lyford Cay FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,United FC,2013-04-21,3,0,F,bahamas,Bears FC (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,Vbs,2013-04-21,3,0,F,bahamas,The College Of The Bahamas (Bahamas),Vbs (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Bears FC,2013-10-23,5,3,F,bahamas,Cavalier FC (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,Lyford Cay Warriors,2013-10-24,2,2,F,bahamas,The College Of The Bahamas (Bahamas),Lyford Cay Warriors (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Future Stars,Boca,2013-10-27,1,6,F,bahamas,Future Stars (Bahamas),Boca (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay Warriors,United FC,2013-10-28,0,4,F,bahamas,Lyford Cay Warriors (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Cavalier FC,2013-10-28,2,6,F,bahamas,Dynamos FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bahamar,The College Of The Bahamas,2013-10-30,3,4,F,bahamas,Bahamar (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Future Stars,2013-10-31,5,1,F,bahamas,Bears FC (Bahamas),Future Stars (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,United FC,2013-11-03,0,2,F,bahamas,The College Of The Bahamas (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Boca,Baha Juniors FC,2013-11-04,3,1,F,bahamas,Boca (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Lyford Cay Warriors,2013-11-06,5,1,F,bahamas,Cavalier FC (Bahamas),Lyford Cay Warriors (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Future Stars,Dynamos FC,2013-11-07,2,7,F,bahamas,Future Stars (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Baha Juniors FC,2013-11-10,4,2,F,bahamas,Bears FC (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bahamar,Lyford Cay FC,2013-11-11,1,5,F,bahamas,Bahamar (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay Warriors,Future Stars,2013-11-13,2,5,F,bahamas,Lyford Cay Warriors (Bahamas),Future Stars (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,Cavalier FC,2013-11-14,1,0,F,bahamas,United FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Boca,Bahamar,2013-11-17,2,1,F,bahamas,Boca (Bahamas),Bahamar (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Baha Juniors FC,2013-11-20,5,3,F,bahamas,Dynamos FC (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,Boca,2013-11-24,4,1,F,bahamas,Lyford Cay FC (Bahamas),Boca (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,Cavalier FC,2013-11-24,5,1,F,bahamas,The College Of The Bahamas (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Future Stars,United FC,2013-11-24,0,3,F,bahamas,Future Stars (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bahamar,Bears FC,2013-11-28,0,1,F,bahamas,Bahamar (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,Lyford Cay Warriors,2013-12-01,7,1,F,bahamas,Baha Juniors FC (Bahamas),Lyford Cay Warriors (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Future Stars,2013-12-01,3,0,F,bahamas,Cavalier FC (Bahamas),Future Stars (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Boca,The College Of The Bahamas,2013-12-01,0,2,F,bahamas,Boca (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,United FC,2013-12-04,2,3,F,bahamas,Baha Juniors FC (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Lyford Cay FC,2013-12-04,3,1,F,bahamas,Bears FC (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Future Stars,The College Of The Bahamas,2013-12-08,4,1,F,bahamas,Future Stars (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Boca,2013-12-08,4,1,F,bahamas,Bears FC (Bahamas),Boca (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bahamar,Dynamos FC,2013-12-09,4,1,F,bahamas,Bahamar (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,Cavalier FC,2013-12-11,3,1,F,bahamas,Baha Juniors FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,Dynamos FC,2013-12-15,10,0,F,bahamas,Lyford Cay FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bahamar,Lyford Cay Warriors,2013-12-15,5,2,F,bahamas,Bahamar (Bahamas),Lyford Cay Warriors (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,The College Of The Bahamas,2013-12-16,2,1,F,bahamas,Bears FC (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Future Stars,Baha Juniors FC,2013-12-18,5,2,F,bahamas,Future Stars (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Boca,2014-01-08,1,3,F,bahamas,Dynamos FC (Bahamas),Boca (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay Warriors,Lyford Cay FC,2014-01-08,0,5,F,bahamas,Lyford Cay Warriors (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,Bahamar,2014-01-12,0,2,F,bahamas,United FC (Bahamas),Bahamar (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Boca,Lyford Cay Warriors,2014-01-12,7,3,F,bahamas,Boca (Bahamas),Lyford Cay Warriors (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Dynamos FC,2014-01-15,4,1,F,bahamas,Bears FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,The College Of The Bahamas,2014-01-15,2,0,F,bahamas,Baha Juniors FC (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,United FC,2014-01-19,3,1,F,bahamas,Lyford Cay FC (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bahamar,Cavalier FC,2014-01-19,1,0,F,bahamas,Bahamar (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,The College Of The Bahamas,2014-01-23,4,3,F,bahamas,Dynamos FC (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay Warriors,Bears FC,2014-01-23,3,5,F,bahamas,Lyford Cay Warriors (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,Boca,2014-01-26,1,0,F,bahamas,United FC (Bahamas),Boca (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Lyford Cay FC,2014-01-26,0,9,F,bahamas,Cavalier FC (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Future Stars,Bahamar,2014-01-27,2,1,F,bahamas,Future Stars (Bahamas),Bahamar (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Lyford Cay Warriors,2014-01-30,1,2,F,bahamas,Dynamos FC (Bahamas),Lyford Cay Warriors (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bahamar,Baha Juniors FC,2014-02-02,2,4,F,bahamas,Bahamar (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,Bears FC,2014-02-02,0,2,F,bahamas,United FC (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,Future Stars,2014-02-03,3,2,F,bahamas,Lyford Cay FC (Bahamas),Future Stars (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Boca,Cavalier FC,2014-02-06,1,3,F,bahamas,Boca (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay Warriors,The College Of The Bahamas,2014-02-06,0,7,F,bahamas,Lyford Cay Warriors (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,Baha Juniors FC,2014-02-09,5,0,F,bahamas,Lyford Cay FC (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Boca,Future Stars,2014-02-09,3,3,F,bahamas,Boca (Bahamas),Future Stars (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Cavalier FC,2014-02-10,5,0,F,bahamas,Bears FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,United FC,2014-02-13,1,2,F,bahamas,Dynamos FC (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Dynamos FC,2014-02-16,3,3,F,bahamas,Cavalier FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,Lyford Cay Warriors,2014-02-16,3,0,F,bahamas,United FC (Bahamas),Lyford Cay Warriors (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,Boca,2014-02-20,2,4,F,bahamas,Baha Juniors FC (Bahamas),Boca (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,Bahamar,2014-02-20,3,1,F,bahamas,The College Of The Bahamas (Bahamas),Bahamar (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Future Stars,Bears FC,2014-02-23,7,1,F,bahamas,Future Stars (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,Bahamar,2014-02-23,1,0,F,bahamas,Lyford Cay FC (Bahamas),Bahamar (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,The College Of The Bahamas,2014-02-26,2,0,F,bahamas,United FC (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Future Stars,2014-03-02,1,5,F,bahamas,Dynamos FC (Bahamas),Future Stars (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,Lyford Cay FC,2014-03-02,0,2,F,bahamas,The College Of The Bahamas (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Baha Juniors FC,2014-03-03,5,2,F,bahamas,Bears FC (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,United FC,2014-03-05,1,1,F,bahamas,Cavalier FC (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Future Stars,Lyford Cay Warriors,2014-03-09,3,0,F,bahamas,Future Stars (Bahamas),Lyford Cay Warriors (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,Dynamos FC,2014-03-09,2,1,F,bahamas,Baha Juniors FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Boca,Lyford Cay FC,2014-03-12,1,3,F,bahamas,Boca (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,The College Of The Bahamas,2014-03-13,2,1,F,bahamas,Cavalier FC (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Bahamar,2014-03-16,3,1,F,bahamas,Bears FC (Bahamas),Bahamar (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,Future Stars,2014-03-16,2,2,F,bahamas,United FC (Bahamas),Future Stars (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay Warriors,Baha Juniors FC,2014-03-16,0,3,F,bahamas,Lyford Cay Warriors (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,Boca,2014-03-20,3,0,F,bahamas,The College Of The Bahamas (Bahamas),Boca (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,United FC,2014-03-23,0,2,F,bahamas,Baha Juniors FC (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,Bears FC,2014-03-23,1,1,F,bahamas,Lyford Cay FC (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Lyford Cay FC,2014-03-30,0,5,F,bahamas,Dynamos FC (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay Warriors,Bahamar,2014-03-30,3,0,F,bahamas,Lyford Cay Warriors (Bahamas),Bahamar (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Boca,2014-04-06,4,4,F,bahamas,Bears FC (Bahamas),Boca (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bahamar,United FC,2014-04-06,0,3,F,bahamas,Bahamar (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,Lyford Cay FC,2014-04-10,0,5,F,bahamas,Baha Juniors FC (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,Lyford Cay Warriors,2014-04-10,3,0,F,bahamas,Lyford Cay FC (Bahamas),Lyford Cay Warriors (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Boca,Dynamos FC,2014-04-13,0,10,F,bahamas,Boca (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,Bears FC,2014-04-13,3,3,F,bahamas,The College Of The Bahamas (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,Lyford Cay FC,2014-04-14,3,1,F,bahamas,United FC (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,Cavalier FC,2014-04-24,5,0,F,bahamas,Lyford Cay FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Future Stars,Lyford Cay FC,2014-05-01,2,5,F,bahamas,Future Stars (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,Lyford Cay FC,2014-10-23,0,3,F,bahamas,The College Of The Bahamas (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cubs,Cavalier FC,2014-10-26,4,1,F,bahamas,Cubs (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Baha Juniors FC,2014-10-26,8,0,F,bahamas,Bears FC (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,University Wi,2014-10-26,2,1,F,bahamas,Dynamos FC (Bahamas),University Wi (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,Western Warriors,2014-10-30,1,1,F,bahamas,United FC (Bahamas),Western Warriors (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,University Wi,2014-11-01,2,1,F,bahamas,Baha Juniors FC (Bahamas),University Wi (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Future Stars,Super Stars,2014-11-02,8,0,F,bahamas,Future Stars (Bahamas),Super Stars (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Breezes Eagles,The College Of The Bahamas,2014-11-02,0,9,F,bahamas,Breezes Eagles (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cubs,Future Stars,2014-11-06,1,3,F,bahamas,Cubs (Bahamas),Future Stars (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,Super Stars,2014-11-09,8,0,F,bahamas,Lyford Cay FC (Bahamas),Super Stars (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,University Wi,2014-11-09,6,0,F,bahamas,United FC (Bahamas),University Wi (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Dynamos FC,2014-11-10,4,1,F,bahamas,Bears FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Breezes Eagles,2014-11-13,2,1,F,bahamas,Cavalier FC (Bahamas),Breezes Eagles (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,Cubs,2014-11-16,1,0,F,bahamas,The College Of The Bahamas (Bahamas),Cubs (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+University Wi,Western Warriors,2014-11-16,0,1,F,bahamas,University Wi (Bahamas),Western Warriors (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Future Stars,Lyford Cay FC,2014-11-17,1,3,F,bahamas,Future Stars (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,Dynamos FC,2014-11-20,1,0,F,bahamas,Baha Juniors FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Super Stars,Cavalier FC,2014-11-23,5,0,F,bahamas,Super Stars (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Breezes Eagles,Lyford Cay FC,2014-11-23,0,12,F,bahamas,Breezes Eagles (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,United FC,2014-11-24,6,0,F,bahamas,Bears FC (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cubs,Super Stars,2014-11-27,2,2,F,bahamas,Cubs (Bahamas),Super Stars (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Future Stars,2014-11-30,0,10,F,bahamas,Cavalier FC (Bahamas),Future Stars (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cubs,Breezes Eagles,2014-11-30,8,0,F,bahamas,Cubs (Bahamas),Breezes Eagles (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,United FC,2014-12-01,1,1,F,bahamas,Dynamos FC (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Western Warriors,2014-12-07,1,2,F,bahamas,Dynamos FC (Bahamas),Western Warriors (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,Cavalier FC,2014-12-07,2,0,F,bahamas,The College Of The Bahamas (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,Cubs,2014-12-07,2,0,F,bahamas,Lyford Cay FC (Bahamas),Cubs (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Breezes Eagles,Super Stars,2014-12-11,1,8,F,bahamas,Breezes Eagles (Bahamas),Super Stars (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Future Stars,The College Of The Bahamas,2014-12-14,1,1,F,bahamas,Future Stars (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,United FC,2014-12-14,3,2,F,bahamas,Baha Juniors FC (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Western Warriors,2014-12-14,5,0,F,bahamas,Bears FC (Bahamas),Western Warriors (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,Cavalier FC,2014-12-18,3,1,F,bahamas,Lyford Cay FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,Western Warriors,2015-01-11,0,2,F,bahamas,Baha Juniors FC (Bahamas),Western Warriors (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,University Wi,2015-01-12,3,0,F,bahamas,Bears FC (Bahamas),University Wi (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Dynamos FC,2016-11-06,1,5,F,bahamas,Cavalier FC (Bahamas),Dynamos FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Breezes Eagles,United FC,2016-11-07,0,1,F,bahamas,Breezes Eagles (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Future Stars,Lyford Cay FC,2016-11-10,2,5,F,bahamas,Future Stars (Bahamas),Lyford Cay FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+The College Of The Bahamas,Western Warriors,2016-11-13,1,2,F,bahamas,The College Of The Bahamas (Bahamas),Western Warriors (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+United FC,Cavalier FC,2016-11-14,5,0,F,bahamas,United FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Bears FC,2016-11-17,0,1,F,bahamas,Dynamos FC (Bahamas),Bears FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,Baha Juniors FC,2016-11-20,1,0,F,bahamas,Lyford Cay FC (Bahamas),Baha Juniors FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Western Warriors,Future Stars,2016-11-21,5,0,F,bahamas,Western Warriors (Bahamas),Future Stars (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Cavalier FC,Breezes Eagles,2016-11-24,2,4,F,bahamas,Cavalier FC (Bahamas),Breezes Eagles (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,United FC,2016-11-27,4,0,F,bahamas,Bears FC (Bahamas),United FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Dynamos FC,Breezes Eagles,2016-12-12,4,0,F,bahamas,Dynamos FC (Bahamas),Breezes Eagles (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Bears FC,Cavalier FC,2016-12-15,3,0,F,bahamas,Bears FC (Bahamas),Cavalier FC (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Baha Juniors FC,Future Stars,2016-12-18,1,3,F,bahamas,Baha Juniors FC (Bahamas),Future Stars (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national
+Lyford Cay FC,The College Of The Bahamas,2016-12-19,1,1,F,bahamas,Lyford Cay FC (Bahamas),The College Of The Bahamas (Bahamas),bahamas,bahamas,BS,BS,North America,North America,North America,national

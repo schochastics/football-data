@@ -1,0 +1,878 @@
+home,away,date,gh,ga,full_time,competition,home_ident,away_ident,home_country,away_country,home_code,away_code,home_continent,away_continent,continent,level
+Pinar Del Rio,Pumas Unam,1990-01-16,1,1,F,CONCACAF CC,Pinar Del Rio (Cuba),Pumas Unam (Mexico),cuba,mexico,CU,MX,North America,North America,North America,international
+Pumas Unam,Pinar Del Rio,1990-02-06,3,1,F,CONCACAF CC,Pumas Unam (Mexico),Pinar Del Rio (Cuba),mexico,cuba,MX,CU,North America,North America,North America,international
+CF America,CD Olimpia,1990-11-12,3,0,F,CONCACAF CC,CF America (Mexico),CD Olimpia (Honduras),mexico,honduras,MX,HN,North America,North America,North America,international
+CD Olimpia,CF America,1990-11-14,2,1,F,CONCACAF CC,CD Olimpia (Honduras),CF America (Mexico),honduras,mexico,HN,MX,North America,North America,North America,international
+Pinar Del Rio,CF America,1991-02-19,2,2,F,CONCACAF CC,Pinar Del Rio (Cuba),CF America (Mexico),cuba,mexico,CU,MX,North America,North America,North America,international
+CF America,Pinar Del Rio,1991-03-12,6,0,F,CONCACAF CC,CF America (Mexico),Pinar Del Rio (Cuba),mexico,cuba,MX,CU,North America,North America,North America,international
+Real CD Espana,Police FC,1991-09-08,0,0,F,CONCACAF CC,Real CD Espana (Honduras),Police FC (Trinidad And Tobago),honduras,trinidad-and-tobago,HN,TT,North America,North America,North America,international
+Police FC,Real CD Espana,1991-09-15,1,0,F,CONCACAF CC,Police FC (Trinidad And Tobago),Real CD Espana (Honduras),trinidad-and-tobago,honduras,TT,HN,North America,North America,North America,international
+Puebla FC,Police FC,1991-09-18,3,1,F,CONCACAF CC,Puebla FC (Mexico),Police FC (Trinidad And Tobago),mexico,trinidad-and-tobago,MX,TT,North America,North America,North America,international
+Police FC,Puebla FC,1991-09-24,1,1,F,CONCACAF CC,Police FC (Trinidad And Tobago),Puebla FC (Mexico),trinidad-and-tobago,mexico,TT,MX,North America,North America,North America,international
+Ld Alajuelense,Laiglon Du Lamentin,1992-10-04,2,1,F,CONCACAF CC,Ld Alajuelense (Costa Rica),Laiglon Du Lamentin (Martinique),costa-rica,martinique,CR,MQ,North America,North America,North America,international
+CF America,Robin Hood,1992-10-04,7,0,F,CONCACAF CC,CF America (Mexico),Robin Hood (Surinam),mexico,surinam,MX,SUR,North America,South America,North America,international
+CF America,Ld Alajuelense,1993-01-05,1,0,F,CONCACAF CC,CF America (Mexico),Ld Alajuelense (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+Deportivo Saprissa,Club Leon,1993-12-01,2,2,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),Club Leon (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+CSd Municipal,Robin Hood,1993-12-01,3,0,F,CONCACAF CC,CSd Municipal (Guatemala),Robin Hood (Surinam),guatemala,surinam,GT,SUR,North America,South America,North America,international
+CSd Municipal,Deportivo Saprissa,1993-12-03,0,0,F,CONCACAF CC,CSd Municipal (Guatemala),Deportivo Saprissa (Costa Rica),guatemala,costa-rica,GT,CR,North America,North America,North America,international
+Deportivo Saprissa,Robin Hood,1993-12-05,9,1,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),Robin Hood (Surinam),costa-rica,surinam,CR,SUR,North America,South America,North America,international
+CSd Municipal,Club Leon,1993-12-05,0,0,F,CONCACAF CC,CSd Municipal (Guatemala),Club Leon (Mexico),guatemala,mexico,GT,MX,North America,North America,North America,international
+Club Sport Cartagines,Union Sportive Robert,1995-02-03,0,0,P,CONCACAF CC,Club Sport Cartagines (Costa Rica),Union Sportive Robert (Martinique),costa-rica,martinique,CR,MQ,North America,North America,North America,international
+CF Atlante,Alianza FC,1995-02-03,2,1,F,CONCACAF CC,CF Atlante (Mexico),Alianza FC (El Salvador),mexico,el-salvador,MX,SV,North America,North America,North America,international
+Union Sportive Robert,Alianza FC,1995-02-05,0,0,P,CONCACAF CC,Union Sportive Robert (Martinique),Alianza FC (El Salvador),martinique,el-salvador,MQ,SV,North America,North America,North America,international
+Club Sport Cartagines,CF Atlante,1995-02-05,3,2,F,CONCACAF CC,Club Sport Cartagines (Costa Rica),CF Atlante (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+Club Leon,Robin Hood,1995-12-03,4,0,F,CONCACAF CC,Club Leon (Mexico),Robin Hood (Surinam),mexico,surinam,MX,SUR,North America,South America,North America,international
+Ld Alajuelense,CSd Municipal,1995-12-13,2,3,F,CONCACAF CC,Ld Alajuelense (Costa Rica),CSd Municipal (Guatemala),costa-rica,guatemala,CR,GT,North America,North America,North America,international
+Deportivo Saprissa,CSd Municipal,1995-12-14,5,0,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),CSd Municipal (Guatemala),costa-rica,guatemala,CR,GT,North America,North America,North America,international
+Ld Alajuelense,Club Sportif Moulien,1995-12-15,9,1,F,CONCACAF CC,Ld Alajuelense (Costa Rica),Club Sportif Moulien (Guadeloupe),costa-rica,guadeloupe,CR,GP,North America,North America,North America,international
+Deportivo Saprissa,CSd Municipal,1995-12-15,1,0,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),CSd Municipal (Guatemala),costa-rica,guatemala,CR,GT,North America,North America,North America,international
+CSd Municipal,Club Sportif Moulien,1995-12-17,10,0,F,CONCACAF CC,CSd Municipal (Guatemala),Club Sportif Moulien (Guadeloupe),guatemala,guadeloupe,GT,GP,North America,North America,North America,international
+Ld Alajuelense,Deportivo Saprissa,1995-12-17,2,2,F,CONCACAF CC,Ld Alajuelense (Costa Rica),Deportivo Saprissa (Costa Rica),costa-rica,costa-rica,CR,CR,North America,North America,North America,international
+CSd Comunicaciones,Seattle Sounders,1997-07-15,2,0,F,CONCACAF CC,CSd Comunicaciones (Guatemala),Seattle Sounders (United States),guatemala,united-states,GT,US,North America,North America,North America,international
+Club Necaxa,Cruz Azul,1997-07-15,1,1,F,CONCACAF CC,Club Necaxa (Mexico),Cruz Azul (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+CSd Comunicaciones,Cruz Azul,1997-07-17,1,2,F,CONCACAF CC,CSd Comunicaciones (Guatemala),Cruz Azul (Mexico),guatemala,mexico,GT,MX,North America,North America,North America,international
+Club Necaxa,Seattle Sounders,1997-07-17,4,1,F,CONCACAF CC,Club Necaxa (Mexico),Seattle Sounders (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Cruz Azul,Seattle Sounders,1997-07-20,11,0,F,CONCACAF CC,Cruz Azul (Mexico),Seattle Sounders (United States),mexico,united-states,MX,US,North America,North America,North America,international
+CSd Comunicaciones,Club Necaxa,1997-07-20,3,3,F,CONCACAF CC,CSd Comunicaciones (Guatemala),Club Necaxa (Mexico),guatemala,mexico,GT,MX,North America,North America,North America,international
+Los Angeles Galaxy,Club Deportivo Luis Angel Firpo,1997-08-13,2,0,F,CONCACAF CC,Los Angeles Galaxy (United States),Club Deportivo Luis Angel Firpo (El Salvador),united-states,el-salvador,US,SV,North America,North America,North America,international
+D C United,United Petrotrin,1997-08-13,1,0,F,CONCACAF CC,D C United (United States),United Petrotrin (Trinidad And Tobago),united-states,trinidad-and-tobago,US,TT,North America,North America,North America,international
+Cruz Azul,CSd Comunicaciones,1997-08-16,5,0,F,CONCACAF CC,Cruz Azul (Mexico),CSd Comunicaciones (Guatemala),mexico,guatemala,MX,GT,North America,North America,North America,international
+Deportivo Guadalajara,Club Sport Cartagines,1997-08-17,1,0,F,CONCACAF CC,Deportivo Guadalajara (Mexico),Club Sport Cartagines (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+D C United,Los Angeles Galaxy,1997-08-22,0,1,F,CONCACAF CC,D C United (United States),Los Angeles Galaxy (United States),united-states,united-states,US,US,North America,North America,North America,international
+Deportivo Guadalajara,Cruz Azul,1997-08-22,2,3,F,CONCACAF CC,Deportivo Guadalajara (Mexico),Cruz Azul (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+D C United,Deportivo Guadalajara,1997-08-24,2,2,F,CONCACAF CC,D C United (United States),Deportivo Guadalajara (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Los Angeles Galaxy,Cruz Azul,1997-08-24,3,5,F,CONCACAF CC,Los Angeles Galaxy (United States),Cruz Azul (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+D C United,Joe Public FC,1998-08-11,8,0,F,CONCACAF CC,D C United (United States),Joe Public FC (Trinidad And Tobago),united-states,trinidad-and-tobago,US,TT,North America,North America,North America,international
+Cruz Azul,Deportivo Saprissa,1998-08-11,0,0,P,CONCACAF CC,Cruz Azul (Mexico),Deportivo Saprissa (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+Club Leon,Club Deportivo Luis Angel Firpo,1998-08-12,1,1,P,CONCACAF CC,Club Leon (Mexico),Club Deportivo Luis Angel Firpo (El Salvador),mexico,el-salvador,MX,SV,North America,North America,North America,international
+Deportivo Toluca,Ld Alajuelense,1998-08-12,2,0,F,CONCACAF CC,Deportivo Toluca (Mexico),Ld Alajuelense (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+D C United,Club Leon,1998-08-14,2,0,F,CONCACAF CC,D C United (United States),Club Leon (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Deportivo Toluca,Deportivo Saprissa,1998-08-14,1,1,P,CONCACAF CC,Deportivo Toluca (Mexico),Deportivo Saprissa (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+Deportivo Saprissa,Club Leon,1998-08-16,2,0,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),Club Leon (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+D C United,Deportivo Toluca,1998-08-16,1,0,F,CONCACAF CC,D C United (United States),Deportivo Toluca (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Chicago Fire,Joe Public FC,1999-09-28,2,0,F,CONCACAF CC,Chicago Fire (United States),Joe Public FC (Trinidad And Tobago),united-states,trinidad-and-tobago,US,TT,North America,North America,North America,international
+Deportivo Toluca,Ld Alajuelense,1999-09-28,0,1,F,CONCACAF CC,Deportivo Toluca (Mexico),Ld Alajuelense (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+D C United,CD Olimpia,1999-09-29,1,0,F,CONCACAF CC,D C United (United States),CD Olimpia (Honduras),united-states,honduras,US,HN,North America,North America,North America,international
+Club Necaxa,Deportivo Saprissa,1999-09-29,3,2,F,CONCACAF CC,Club Necaxa (Mexico),Deportivo Saprissa (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+Chicago Fire,Ld Alajuelense,1999-10-01,1,1,P,CONCACAF CC,Chicago Fire (United States),Ld Alajuelense (Costa Rica),united-states,costa-rica,US,CR,North America,North America,North America,international
+D C United,Club Necaxa,1999-10-01,1,3,F,CONCACAF CC,D C United (United States),Club Necaxa (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Chicago Fire,D C United,1999-10-03,2,2,F,CONCACAF CC,Chicago Fire (United States),D C United (United States),united-states,united-states,US,US,North America,North America,North America,international
+Ld Alajuelense,Club Necaxa,1999-10-03,1,2,F,CONCACAF CC,Ld Alajuelense (Costa Rica),Club Necaxa (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+Deportivo Toluca,CD Olimpia,2001-01-16,0,1,F,CONCACAF CC,Deportivo Toluca (Mexico),CD Olimpia (Honduras),mexico,honduras,MX,HN,North America,North America,North America,international
+CF Pachuca,Joe Public FC,2001-01-16,1,0,F,CONCACAF CC,CF Pachuca (Mexico),Joe Public FC (Trinidad And Tobago),mexico,trinidad-and-tobago,MX,TT,North America,North America,North America,international
+D C United,Ld Alajuelense,2001-01-17,2,1,F,CONCACAF CC,D C United (United States),Ld Alajuelense (Costa Rica),united-states,costa-rica,US,CR,North America,North America,North America,international
+Los Angeles Galaxy,Real CD Espana,2001-01-17,0,0,P,CONCACAF CC,Los Angeles Galaxy (United States),Real CD Espana (Honduras),united-states,honduras,US,HN,North America,North America,North America,international
+CF Pachuca,CD Olimpia,2001-01-19,0,4,F,CONCACAF CC,CF Pachuca (Mexico),CD Olimpia (Honduras),mexico,honduras,MX,HN,North America,North America,North America,international
+Los Angeles Galaxy,D C United,2001-01-19,1,1,P,CONCACAF CC,Los Angeles Galaxy (United States),D C United (United States),united-states,united-states,US,US,North America,North America,North America,international
+CF Pachuca,D C United,2001-01-21,2,1,F,CONCACAF CC,CF Pachuca (Mexico),D C United (United States),mexico,united-states,MX,US,North America,North America,North America,international
+CD Olimpia,Los Angeles Galaxy,2001-01-21,2,3,F,CONCACAF CC,CD Olimpia (Honduras),Los Angeles Galaxy (United States),honduras,united-states,HN,US,North America,North America,North America,international
+Ld Alajuelense,CF America,2002-02-13,1,0,F,CONCACAF CC,Ld Alajuelense (Costa Rica),CF America (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+CSd Comunicaciones,D C United,2002-03-03,4,0,F,CONCACAF CC,CSd Comunicaciones (Guatemala),D C United (United States),guatemala,united-states,GT,US,North America,North America,North America,international
+W Connection,Sporting Kansas City,2002-03-03,0,1,F,CONCACAF CC,W Connection (Trinidad And Tobago),Sporting Kansas City (United States),trinidad-and-tobago,united-states,TT,US,North America,North America,North America,international
+CF America,Ld Alajuelense,2002-03-06,0,2,F,CONCACAF CC,CF America (Mexico),Ld Alajuelense (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+Monarcas Morelia,Deportivo Saprissa,2002-03-06,2,0,F,CONCACAF CC,Monarcas Morelia (Mexico),Deportivo Saprissa (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+D C United,CSd Comunicaciones,2002-03-13,2,1,F,CONCACAF CC,D C United (United States),CSd Comunicaciones (Guatemala),united-states,guatemala,US,GT,North America,North America,North America,international
+Defence Force FC,CF Pachuca,2002-03-13,1,0,F,CONCACAF CC,Defence Force FC (Trinidad And Tobago),CF Pachuca (Mexico),trinidad-and-tobago,mexico,TT,MX,North America,North America,North America,international
+CD Olimpia,San Jose Earthquakes,2002-03-13,0,1,F,CONCACAF CC,CD Olimpia (Honduras),San Jose Earthquakes (United States),honduras,united-states,HN,US,North America,North America,North America,international
+Tauro FC,Santos Laguna,2002-03-14,1,1,F,CONCACAF CC,Tauro FC (Panama),Santos Laguna (Mexico),panama,mexico,PA,MX,North America,North America,North America,international
+San Jose Earthquakes,CD Olimpia,2002-03-16,3,1,F,CONCACAF CC,San Jose Earthquakes (United States),CD Olimpia (Honduras),united-states,honduras,US,HN,North America,North America,North America,international
+CSd Municipal,Chicago Fire,2002-03-16,0,1,F,CONCACAF CC,CSd Municipal (Guatemala),Chicago Fire (United States),guatemala,united-states,GT,US,North America,North America,North America,international
+Sporting Kansas City,W Connection,2002-03-16,2,0,F,CONCACAF CC,Sporting Kansas City (United States),W Connection (Trinidad And Tobago),united-states,trinidad-and-tobago,US,TT,North America,North America,North America,international
+Deportivo Saprissa,Monarcas Morelia,2002-03-20,1,1,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),Monarcas Morelia (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+Chicago Fire,CSd Municipal,2002-03-24,2,0,F,CONCACAF CC,Chicago Fire (United States),CSd Municipal (Guatemala),united-states,guatemala,US,GT,North America,North America,North America,international
+CF Pachuca,Defence Force FC,2002-03-27,4,0,F,CONCACAF CC,CF Pachuca (Mexico),Defence Force FC (Trinidad And Tobago),mexico,trinidad-and-tobago,MX,TT,North America,North America,North America,international
+Santos Laguna,Tauro FC,2002-03-27,4,2,F,CONCACAF CC,Santos Laguna (Mexico),Tauro FC (Panama),mexico,panama,MX,PA,North America,North America,North America,international
+Santos Laguna,Sporting Kansas City,2002-04-10,2,1,F,CONCACAF CC,Santos Laguna (Mexico),Sporting Kansas City (United States),mexico,united-states,MX,US,North America,North America,North America,international
+CSd Comunicaciones,Ld Alajuelense,2002-04-14,2,3,F,CONCACAF CC,CSd Comunicaciones (Guatemala),Ld Alajuelense (Costa Rica),guatemala,costa-rica,GT,CR,North America,North America,North America,international
+CF Pachuca,San Jose Earthquakes,2002-04-17,3,0,F,CONCACAF CC,CF Pachuca (Mexico),San Jose Earthquakes (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Ld Alajuelense,CSd Comunicaciones,2002-04-24,0,3,F,CONCACAF CC,Ld Alajuelense (Costa Rica),CSd Comunicaciones (Guatemala),costa-rica,guatemala,CR,GT,North America,North America,North America,international
+San Jose Earthquakes,CF Pachuca,2002-04-24,1,0,F,CONCACAF CC,San Jose Earthquakes (United States),CF Pachuca (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Sporting Kansas City,Santos Laguna,2002-04-24,2,0,F,CONCACAF CC,Sporting Kansas City (United States),Santos Laguna (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Monarcas Morelia,Chicago Fire,2002-06-30,2,0,F,CONCACAF CC,Monarcas Morelia (Mexico),Chicago Fire (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Chicago Fire,Monarcas Morelia,2002-07-10,2,1,F,CONCACAF CC,Chicago Fire (United States),Monarcas Morelia (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Ld Alajuelense,CF Pachuca,2002-08-07,2,1,F,CONCACAF CC,Ld Alajuelense (Costa Rica),CF Pachuca (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+Monarcas Morelia,Sporting Kansas City,2002-08-07,6,1,F,CONCACAF CC,Monarcas Morelia (Mexico),Sporting Kansas City (United States),mexico,united-states,MX,US,North America,North America,North America,international
+CF Pachuca,Ld Alajuelense,2002-08-28,2,0,F,CONCACAF CC,CF Pachuca (Mexico),Ld Alajuelense (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+Sporting Kansas City,Monarcas Morelia,2002-08-28,1,1,F,CONCACAF CC,Sporting Kansas City (United States),Monarcas Morelia (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Monarcas Morelia,CF Pachuca,2002-09-18,0,1,F,CONCACAF CC,Monarcas Morelia (Mexico),CF Pachuca (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+CD Fas,CF America,2003-03-07,3,1,F,CONCACAF CC,CD Fas (El Salvador),CF America (Mexico),el-salvador,mexico,SV,MX,North America,North America,North America,international
+Arnett Gardens FC,Club Necaxa,2003-03-07,0,0,F,CONCACAF CC,Arnett Gardens FC (Jamaica),Club Necaxa (Mexico),jamaica,mexico,JM,MX,North America,North America,North America,international
+Deportivo Toluca,W Connection,2003-03-12,3,2,F,CONCACAF CC,Deportivo Toluca (Mexico),W Connection (Trinidad And Tobago),mexico,trinidad-and-tobago,MX,TT,North America,North America,North America,international
+CSd Comunicaciones,Monarcas Morelia,2003-03-12,1,0,F,CONCACAF CC,CSd Comunicaciones (Guatemala),Monarcas Morelia (Mexico),guatemala,mexico,GT,MX,North America,North America,North America,international
+CSd Municipal,San Jose Earthquakes,2003-03-16,4,2,F,CONCACAF CC,CSd Municipal (Guatemala),San Jose Earthquakes (United States),guatemala,united-states,GT,US,North America,North America,North America,international
+Deportivo Arabe Unido,Columbus Crew,2003-03-16,2,1,F,CONCACAF CC,Deportivo Arabe Unido (Panama),Columbus Crew (United States),panama,united-states,PA,US,North America,North America,North America,international
+CD Motagua,Los Angeles Galaxy,2003-03-16,2,2,F,CONCACAF CC,CD Motagua (Honduras),Los Angeles Galaxy (United States),honduras,united-states,HN,US,North America,North America,North America,international
+Club Necaxa,Arnett Gardens FC,2003-03-19,1,0,F,CONCACAF CC,Club Necaxa (Mexico),Arnett Gardens FC (Jamaica),mexico,jamaica,MX,JM,North America,North America,North America,international
+Ld Alajuelense,New England Revolution,2003-03-23,4,0,F,CONCACAF CC,Ld Alajuelense (Costa Rica),New England Revolution (United States),costa-rica,united-states,CR,US,North America,North America,North America,international
+Columbus Crew,Deportivo Arabe Unido,2003-03-23,3,0,F,CONCACAF CC,Columbus Crew (United States),Deportivo Arabe Unido (Panama),united-states,panama,US,PA,North America,North America,North America,international
+Los Angeles Galaxy,CD Motagua,2003-03-23,1,0,F,CONCACAF CC,Los Angeles Galaxy (United States),CD Motagua (Honduras),united-states,honduras,US,HN,North America,North America,North America,international
+San Jose Earthquakes,CSd Municipal,2003-03-26,2,1,F,CONCACAF CC,San Jose Earthquakes (United States),CSd Municipal (Guatemala),united-states,guatemala,US,GT,North America,North America,North America,international
+CF America,CD Fas,2003-03-26,3,0,F,CONCACAF CC,CF America (Mexico),CD Fas (El Salvador),mexico,el-salvador,MX,SV,North America,North America,North America,international
+New England Revolution,Ld Alajuelense,2003-03-26,3,1,F,CONCACAF CC,New England Revolution (United States),Ld Alajuelense (Costa Rica),united-states,costa-rica,US,CR,North America,North America,North America,international
+Monarcas Morelia,CSd Comunicaciones,2003-03-26,4,0,F,CONCACAF CC,Monarcas Morelia (Mexico),CSd Comunicaciones (Guatemala),mexico,guatemala,MX,GT,North America,North America,North America,international
+W Connection,Deportivo Toluca,2003-04-02,3,3,F,CONCACAF CC,W Connection (Trinidad And Tobago),Deportivo Toluca (Mexico),trinidad-and-tobago,mexico,TT,MX,North America,North America,North America,international
+CSd Municipal,Deportivo Toluca,2003-04-09,1,2,F,CONCACAF CC,CSd Municipal (Guatemala),Deportivo Toluca (Mexico),guatemala,mexico,GT,MX,North America,North America,North America,international
+Monarcas Morelia,Columbus Crew,2003-04-09,6,0,F,CONCACAF CC,Monarcas Morelia (Mexico),Columbus Crew (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Los Angeles Galaxy,Club Necaxa,2003-04-09,1,4,F,CONCACAF CC,Los Angeles Galaxy (United States),Club Necaxa (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Deportivo Toluca,CSd Municipal,2003-04-16,2,1,F,CONCACAF CC,Deportivo Toluca (Mexico),CSd Municipal (Guatemala),mexico,guatemala,MX,GT,North America,North America,North America,international
+CF America,Ld Alajuelense,2003-04-16,4,0,F,CONCACAF CC,CF America (Mexico),Ld Alajuelense (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+Columbus Crew,Monarcas Morelia,2003-04-16,2,0,F,CONCACAF CC,Columbus Crew (United States),Monarcas Morelia (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Club Necaxa,Los Angeles Galaxy,2003-04-16,2,1,F,CONCACAF CC,Club Necaxa (Mexico),Los Angeles Galaxy (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Ld Alajuelense,CF America,2003-04-23,3,1,F,CONCACAF CC,Ld Alajuelense (Costa Rica),CF America (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+Deportivo Toluca,CF America,2003-04-30,1,4,F,CONCACAF CC,Deportivo Toluca (Mexico),CF America (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Club Necaxa,Monarcas Morelia,2003-04-30,0,0,F,CONCACAF CC,Club Necaxa (Mexico),Monarcas Morelia (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Monarcas Morelia,Club Necaxa,2003-05-07,6,0,F,CONCACAF CC,Monarcas Morelia (Mexico),Club Necaxa (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+CF America,Deportivo Toluca,2003-05-14,0,4,E,CONCACAF CC,CF America (Mexico),Deportivo Toluca (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Deportivo Toluca,Monarcas Morelia,2003-07-24,2,1,F,CONCACAF CC,Deportivo Toluca (Mexico),Monarcas Morelia (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Monarcas Morelia,Deportivo Toluca,2003-09-17,3,3,F,CONCACAF CC,Monarcas Morelia (Mexico),Deportivo Toluca (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Deportivo Saprissa,CF Pachuca,2004-03-17,2,0,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),CF Pachuca (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+San Juan Jabloteh,Chicago Fire,2004-03-17,5,2,F,CONCACAF CC,San Juan Jabloteh (Trinidad And Tobago),Chicago Fire (United States),trinidad-and-tobago,united-states,TT,US,North America,North America,North America,international
+CD Fas,CF Monterrey,2004-03-17,0,0,F,CONCACAF CC,CD Fas (El Salvador),CF Monterrey (Mexico),el-salvador,mexico,SV,MX,North America,North America,North America,international
+Ld Alajuelense,San Jose Earthquakes,2004-03-17,3,0,F,CONCACAF CC,Ld Alajuelense (Costa Rica),San Jose Earthquakes (United States),costa-rica,united-states,CR,US,North America,North America,North America,international
+CF Pachuca,Deportivo Saprissa,2004-03-24,2,0,P,CONCACAF CC,CF Pachuca (Mexico),Deportivo Saprissa (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+Chicago Fire,San Juan Jabloteh,2004-03-24,4,0,F,CONCACAF CC,Chicago Fire (United States),San Juan Jabloteh (Trinidad And Tobago),united-states,trinidad-and-tobago,US,TT,North America,North America,North America,international
+CF Monterrey,CD Fas,2004-03-24,4,1,F,CONCACAF CC,CF Monterrey (Mexico),CD Fas (El Salvador),mexico,el-salvador,MX,SV,North America,North America,North America,international
+San Jose Earthquakes,Ld Alajuelense,2004-03-24,1,0,F,CONCACAF CC,San Jose Earthquakes (United States),Ld Alajuelense (Costa Rica),united-states,costa-rica,US,CR,North America,North America,North America,international
+Ld Alajuelense,CF Monterrey,2004-04-14,1,0,F,CONCACAF CC,Ld Alajuelense (Costa Rica),CF Monterrey (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+Deportivo Saprissa,Chicago Fire,2004-04-14,2,0,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),Chicago Fire (United States),costa-rica,united-states,CR,US,North America,North America,North America,international
+Chicago Fire,Deportivo Saprissa,2004-04-21,2,1,F,CONCACAF CC,Chicago Fire (United States),Deportivo Saprissa (Costa Rica),united-states,costa-rica,US,CR,North America,North America,North America,international
+CF Monterrey,Ld Alajuelense,2004-04-21,1,1,F,CONCACAF CC,CF Monterrey (Mexico),Ld Alajuelense (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+Deportivo Saprissa,Ld Alajuelense,2004-05-05,1,1,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),Ld Alajuelense (Costa Rica),costa-rica,costa-rica,CR,CR,North America,North America,North America,international
+Ld Alajuelense,Deportivo Saprissa,2004-05-12,4,0,F,CONCACAF CC,Ld Alajuelense (Costa Rica),Deportivo Saprissa (Costa Rica),costa-rica,costa-rica,CR,CR,North America,North America,North America,international
+CD Olimpia,Pumas Unam,2005-03-09,1,1,F,CONCACAF CC,CD Olimpia (Honduras),Pumas Unam (Mexico),honduras,mexico,HN,MX,North America,North America,North America,international
+D C United,Harbour View FC,2005-03-09,2,1,F,CONCACAF CC,D C United (United States),Harbour View FC (Jamaica),united-states,jamaica,US,JM,North America,North America,North America,international
+CF Monterrey,CSd Municipal,2005-03-09,2,1,F,CONCACAF CC,CF Monterrey (Mexico),CSd Municipal (Guatemala),mexico,guatemala,MX,GT,North America,North America,North America,international
+Sporting Kansas City,Deportivo Saprissa,2005-03-09,0,0,F,CONCACAF CC,Sporting Kansas City (United States),Deportivo Saprissa (Costa Rica),united-states,costa-rica,US,CR,North America,North America,North America,international
+Deportivo Saprissa,Sporting Kansas City,2005-03-16,2,1,E,CONCACAF CC,Deportivo Saprissa (Costa Rica),Sporting Kansas City (United States),costa-rica,united-states,CR,US,North America,North America,North America,international
+Pumas Unam,CD Olimpia,2005-03-17,2,1,E,CONCACAF CC,Pumas Unam (Mexico),CD Olimpia (Honduras),mexico,honduras,MX,HN,North America,North America,North America,international
+Harbour View FC,D C United,2005-03-17,1,2,F,CONCACAF CC,Harbour View FC (Jamaica),D C United (United States),jamaica,united-states,JM,US,North America,North America,North America,international
+CSd Municipal,CF Monterrey,2005-03-17,0,0,F,CONCACAF CC,CSd Municipal (Guatemala),CF Monterrey (Mexico),guatemala,mexico,GT,MX,North America,North America,North America,international
+D C United,Pumas Unam,2005-04-06,1,1,F,CONCACAF CC,D C United (United States),Pumas Unam (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Deportivo Saprissa,CF Monterrey,2005-04-07,2,2,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),CF Monterrey (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+Pumas Unam,D C United,2005-04-13,5,0,F,CONCACAF CC,Pumas Unam (Mexico),D C United (United States),mexico,united-states,MX,US,North America,North America,North America,international
+CF Monterrey,Deportivo Saprissa,2005-04-13,1,1,P,CONCACAF CC,CF Monterrey (Mexico),Deportivo Saprissa (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+Deportivo Saprissa,Pumas Unam,2005-05-04,2,0,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),Pumas Unam (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+Pumas Unam,Deportivo Saprissa,2005-05-11,2,1,F,CONCACAF CC,Pumas Unam (Mexico),Deportivo Saprissa (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+New England Revolution,Ld Alajuelense,2006-02-22,0,0,F,CONCACAF CC,New England Revolution (United States),Ld Alajuelense (Costa Rica),united-states,costa-rica,US,CR,North America,North America,North America,international
+CD Olimpia,Deportivo Toluca,2006-02-22,0,2,F,CONCACAF CC,CD Olimpia (Honduras),Deportivo Toluca (Mexico),honduras,mexico,HN,MX,North America,North America,North America,international
+Portmore United FC,CF America,2006-02-22,1,2,F,CONCACAF CC,Portmore United FC (Jamaica),CF America (Mexico),jamaica,mexico,JM,MX,North America,North America,North America,international
+Los Angeles Galaxy,Deportivo Saprissa,2006-02-23,0,0,F,CONCACAF CC,Los Angeles Galaxy (United States),Deportivo Saprissa (Costa Rica),united-states,costa-rica,US,CR,North America,North America,North America,international
+Deportivo Toluca,CD Olimpia,2006-03-08,2,1,F,CONCACAF CC,Deportivo Toluca (Mexico),CD Olimpia (Honduras),mexico,honduras,MX,HN,North America,North America,North America,international
+CF America,Portmore United FC,2006-03-08,5,2,F,CONCACAF CC,CF America (Mexico),Portmore United FC (Jamaica),mexico,jamaica,MX,JM,North America,North America,North America,international
+Ld Alajuelense,New England Revolution,2006-03-08,1,0,F,CONCACAF CC,Ld Alajuelense (Costa Rica),New England Revolution (United States),costa-rica,united-states,CR,US,North America,North America,North America,international
+Deportivo Saprissa,Los Angeles Galaxy,2006-03-08,3,2,E,CONCACAF CC,Deportivo Saprissa (Costa Rica),Los Angeles Galaxy (United States),costa-rica,united-states,CR,US,North America,North America,North America,international
+Deportivo Toluca,Deportivo Saprissa,2006-03-22,2,0,F,CONCACAF CC,Deportivo Toluca (Mexico),Deportivo Saprissa (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+Ld Alajuelense,CF America,2006-03-23,1,2,F,CONCACAF CC,Ld Alajuelense (Costa Rica),CF America (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+Deportivo Saprissa,Deportivo Toluca,2006-03-29,3,2,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),Deportivo Toluca (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+CF America,Ld Alajuelense,2006-03-29,0,0,F,CONCACAF CC,CF America (Mexico),Ld Alajuelense (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+Deportivo Toluca,CF America,2006-04-12,0,0,F,CONCACAF CC,Deportivo Toluca (Mexico),CF America (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+CF America,Deportivo Toluca,2006-04-19,2,1,E,CONCACAF CC,CF America (Mexico),Deportivo Toluca (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+W Connection,Deportivo Guadalajara,2007-02-13,2,1,F,CONCACAF CC,W Connection (Trinidad And Tobago),Deportivo Guadalajara (Mexico),trinidad-and-tobago,mexico,TT,MX,North America,North America,North America,international
+Puntarenas FC,Houston Dynamo,2007-02-21,1,0,F,CONCACAF CC,Puntarenas FC (Costa Rica),Houston Dynamo (United States),costa-rica,united-states,CR,US,North America,North America,North America,international
+CD Olimpia,D C United,2007-02-21,1,4,F,CONCACAF CC,CD Olimpia (Honduras),D C United (United States),honduras,united-states,HN,US,North America,North America,North America,international
+CF Pachuca,CD Marquense,2007-02-22,2,0,F,CONCACAF CC,CF Pachuca (Mexico),CD Marquense (Guatemala),mexico,guatemala,MX,GT,North America,North America,North America,international
+CD Marquense,CF Pachuca,2007-02-28,0,1,F,CONCACAF CC,CD Marquense (Guatemala),CF Pachuca (Mexico),guatemala,mexico,GT,MX,North America,North America,North America,international
+Deportivo Guadalajara,W Connection,2007-02-28,3,0,F,CONCACAF CC,Deportivo Guadalajara (Mexico),W Connection (Trinidad And Tobago),mexico,trinidad-and-tobago,MX,TT,North America,North America,North America,international
+Houston Dynamo,Puntarenas FC,2007-03-01,2,0,F,CONCACAF CC,Houston Dynamo (United States),Puntarenas FC (Costa Rica),united-states,costa-rica,US,CR,North America,North America,North America,international
+D C United,CD Olimpia,2007-03-01,3,2,F,CONCACAF CC,D C United (United States),CD Olimpia (Honduras),united-states,honduras,US,HN,North America,North America,North America,international
+Houston Dynamo,CF Pachuca,2007-03-15,2,0,F,CONCACAF CC,Houston Dynamo (United States),CF Pachuca (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+D C United,Deportivo Guadalajara,2007-03-15,1,1,F,CONCACAF CC,D C United (United States),Deportivo Guadalajara (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Deportivo Guadalajara,D C United,2007-04-03,2,1,F,CONCACAF CC,Deportivo Guadalajara (Mexico),D C United (United States),mexico,united-states,MX,US,North America,North America,North America,international
+CF Pachuca,Houston Dynamo,2007-04-05,4,2,F,CONCACAF CC,CF Pachuca (Mexico),Houston Dynamo (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Deportivo Guadalajara,CF Pachuca,2007-04-18,2,2,F,CONCACAF CC,Deportivo Guadalajara (Mexico),CF Pachuca (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+CF Pachuca,Deportivo Guadalajara,2007-04-25,0,0,P,CONCACAF CC,CF Pachuca (Mexico),Deportivo Guadalajara (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+CD Motagua,CF Pachuca,2008-03-12,0,0,F,CONCACAF CC,CD Motagua (Honduras),CF Pachuca (Mexico),honduras,mexico,HN,MX,North America,North America,North America,international
+Harbour View FC,D C United,2008-03-13,1,1,F,CONCACAF CC,Harbour View FC (Jamaica),D C United (United States),jamaica,united-states,JM,US,North America,North America,North America,international
+CSd Municipal,Houston Dynamo,2008-03-13,0,0,F,CONCACAF CC,CSd Municipal (Guatemala),Houston Dynamo (United States),guatemala,united-states,GT,US,North America,North America,North America,international
+CF Atlante,Deportivo Saprissa,2008-03-14,2,1,F,CONCACAF CC,CF Atlante (Mexico),Deportivo Saprissa (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+D C United,Harbour View FC,2008-03-19,5,0,F,CONCACAF CC,D C United (United States),Harbour View FC (Jamaica),united-states,jamaica,US,JM,North America,North America,North America,international
+Houston Dynamo,CSd Municipal,2008-03-20,3,1,F,CONCACAF CC,Houston Dynamo (United States),CSd Municipal (Guatemala),united-states,guatemala,US,GT,North America,North America,North America,international
+CF Pachuca,CD Motagua,2008-03-20,1,0,F,CONCACAF CC,CF Pachuca (Mexico),CD Motagua (Honduras),mexico,honduras,MX,HN,North America,North America,North America,international
+Deportivo Saprissa,CF Atlante,2008-03-21,3,0,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),CF Atlante (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+CF Pachuca,D C United,2008-04-02,2,0,F,CONCACAF CC,CF Pachuca (Mexico),D C United (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Houston Dynamo,Deportivo Saprissa,2008-04-03,0,0,F,CONCACAF CC,Houston Dynamo (United States),Deportivo Saprissa (Costa Rica),united-states,costa-rica,US,CR,North America,North America,North America,international
+D C United,CF Pachuca,2008-04-10,2,1,F,CONCACAF CC,D C United (United States),CF Pachuca (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Deportivo Saprissa,Houston Dynamo,2008-04-10,3,0,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),Houston Dynamo (United States),costa-rica,united-states,CR,US,North America,North America,North America,international
+Deportivo Saprissa,CF Pachuca,2008-04-24,1,1,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),CF Pachuca (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+CF Pachuca,Deportivo Saprissa,2008-05-01,2,1,F,CONCACAF CC,CF Pachuca (Mexico),Deportivo Saprissa (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+Joe Public FC,New England Revolution,2008-08-27,2,1,F,CONCACAF CC,Joe Public FC (Trinidad And Tobago),New England Revolution (United States),trinidad-and-tobago,united-states,TT,US,North America,North America,North America,international
+Tauro FC,Club Deportivo Chivas Usa,2008-08-27,2,0,F,CONCACAF CC,Tauro FC (Panama),Club Deportivo Chivas Usa (United States),panama,united-states,PA,US,North America,North America,North America,international
+Cruz Azul,Hankook Verdes,2008-08-27,6,0,F,CONCACAF CC,Cruz Azul (Mexico),Hankook Verdes (Belize),mexico,belize,MX,BZ,North America,North America,North America,international
+Montreal Impact,Real Esteli,2008-08-28,1,0,F,CONCACAF CC,Montreal Impact (Canada),Real Esteli (Nicaragua),canada,nicaragua,CA,NI,North America,North America,North America,international
+Ld Alajuelense,Puerto Rico Islanders,2008-08-28,1,1,F,CONCACAF CC,Ld Alajuelense (Costa Rica),Puerto Rico Islanders (Puerto Rico),costa-rica,puerto-rico,CR,PR,North America,North America,North America,international
+Asociacion Deportiva Isidro Metapan,CD Marathon,2008-08-28,2,2,F,CONCACAF CC,Asociacion Deportiva Isidro Metapan (El Salvador),CD Marathon (Honduras),el-salvador,honduras,SV,HN,North America,North America,North America,international
+CD Jalapa,San Francisco FC,2008-08-29,1,0,F,CONCACAF CC,CD Jalapa (Guatemala),San Francisco FC (Panama),guatemala,panama,GT,PA,North America,North America,North America,international
+New England Revolution,Joe Public FC,2008-09-03,0,4,F,CONCACAF CC,New England Revolution (United States),Joe Public FC (Trinidad And Tobago),united-states,trinidad-and-tobago,US,TT,North America,North America,North America,international
+Club Deportivo Chivas Usa,Tauro FC,2008-09-03,1,1,F,CONCACAF CC,Club Deportivo Chivas Usa (United States),Tauro FC (Panama),united-states,panama,US,PA,North America,North America,North America,international
+Real Esteli,Montreal Impact,2008-09-03,0,0,F,CONCACAF CC,Real Esteli (Nicaragua),Montreal Impact (Canada),nicaragua,canada,NI,CA,North America,North America,North America,international
+Hankook Verdes,Cruz Azul,2008-09-04,0,6,F,CONCACAF CC,Hankook Verdes (Belize),Cruz Azul (Mexico),belize,mexico,BZ,MX,North America,North America,North America,international
+Puerto Rico Islanders,Ld Alajuelense,2008-09-04,2,1,F,CONCACAF CC,Puerto Rico Islanders (Puerto Rico),Ld Alajuelense (Costa Rica),puerto-rico,costa-rica,PR,CR,North America,North America,North America,international
+CD Marathon,Asociacion Deportiva Isidro Metapan,2008-09-04,2,1,F,CONCACAF CC,CD Marathon (Honduras),Asociacion Deportiva Isidro Metapan (El Salvador),honduras,el-salvador,HN,SV,North America,North America,North America,international
+San Francisco FC,CD Jalapa,2008-09-05,5,0,F,CONCACAF CC,San Francisco FC (Panama),CD Jalapa (Guatemala),panama,guatemala,PA,GT,North America,North America,North America,international
+Pumas Unam,Harbour View FC,2008-09-05,3,0,F,CONCACAF CC,Pumas Unam (Mexico),Harbour View FC (Jamaica),mexico,jamaica,MX,JM,North America,North America,North America,international
+D C United,Deportivo Saprissa,2008-09-17,0,2,F,CONCACAF CC,D C United (United States),Deportivo Saprissa (Costa Rica),united-states,costa-rica,US,CR,North America,North America,North America,international
+Puerto Rico Islanders,Tauro FC,2008-09-17,2,1,F,CONCACAF CC,Puerto Rico Islanders (Puerto Rico),Tauro FC (Panama),puerto-rico,panama,PR,PA,North America,North America,North America,international
+San Francisco FC,Pumas Unam,2008-09-17,1,1,F,CONCACAF CC,San Francisco FC (Panama),Pumas Unam (Mexico),panama,mexico,PA,MX,North America,North America,North America,international
+Montreal Impact,Joe Public FC,2008-09-18,2,0,F,CONCACAF CC,Montreal Impact (Canada),Joe Public FC (Trinidad And Tobago),canada,trinidad-and-tobago,CA,TT,North America,North America,North America,international
+Santos Laguna,CSd Municipal,2008-09-18,3,2,F,CONCACAF CC,Santos Laguna (Mexico),CSd Municipal (Guatemala),mexico,guatemala,MX,GT,North America,North America,North America,international
+CD Marathon,Cruz Azul,2008-09-18,2,0,F,CONCACAF CC,CD Marathon (Honduras),Cruz Azul (Mexico),honduras,mexico,HN,MX,North America,North America,North America,international
+CF Atlante,CD Olimpia,2008-09-19,1,0,F,CONCACAF CC,CF Atlante (Mexico),CD Olimpia (Honduras),mexico,honduras,MX,HN,North America,North America,North America,international
+San Francisco FC,Houston Dynamo,2008-09-24,0,0,F,CONCACAF CC,San Francisco FC (Panama),Houston Dynamo (United States),panama,united-states,PA,US,North America,North America,North America,international
+Puerto Rico Islanders,Santos Laguna,2008-09-24,3,1,F,CONCACAF CC,Puerto Rico Islanders (Puerto Rico),Santos Laguna (Mexico),puerto-rico,mexico,PR,MX,North America,North America,North America,international
+Cruz Azul,Deportivo Saprissa,2008-09-24,4,0,F,CONCACAF CC,Cruz Azul (Mexico),Deportivo Saprissa (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+Montreal Impact,CF Atlante,2008-09-25,0,0,F,CONCACAF CC,Montreal Impact (Canada),CF Atlante (Mexico),canada,mexico,CA,MX,North America,North America,North America,international
+Joe Public FC,CD Olimpia,2008-09-25,1,3,F,CONCACAF CC,Joe Public FC (Trinidad And Tobago),CD Olimpia (Honduras),trinidad-and-tobago,honduras,TT,HN,North America,North America,North America,international
+CD Marathon,D C United,2008-09-25,2,0,F,CONCACAF CC,CD Marathon (Honduras),D C United (United States),honduras,united-states,HN,US,North America,North America,North America,international
+Pumas Unam,Club Deportivo Luis Angel Firpo,2008-09-25,3,0,F,CONCACAF CC,Pumas Unam (Mexico),Club Deportivo Luis Angel Firpo (El Salvador),mexico,el-salvador,MX,SV,North America,North America,North America,international
+Tauro FC,CSd Municipal,2008-09-26,2,1,F,CONCACAF CC,Tauro FC (Panama),CSd Municipal (Guatemala),panama,guatemala,PA,GT,North America,North America,North America,international
+Deportivo Saprissa,CD Marathon,2008-10-01,2,1,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),CD Marathon (Honduras),costa-rica,honduras,CR,HN,North America,North America,North America,international
+Pumas Unam,Houston Dynamo,2008-10-01,4,4,F,CONCACAF CC,Pumas Unam (Mexico),Houston Dynamo (United States),mexico,united-states,MX,US,North America,North America,North America,international
+D C United,Cruz Azul,2008-10-02,0,1,F,CONCACAF CC,D C United (United States),Cruz Azul (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+CSd Municipal,Puerto Rico Islanders,2008-10-02,2,2,F,CONCACAF CC,CSd Municipal (Guatemala),Puerto Rico Islanders (Puerto Rico),guatemala,puerto-rico,GT,PR,North America,North America,North America,international
+Club Deportivo Luis Angel Firpo,San Francisco FC,2008-10-02,1,0,F,CONCACAF CC,Club Deportivo Luis Angel Firpo (El Salvador),San Francisco FC (Panama),el-salvador,panama,SV,PA,North America,North America,North America,international
+CD Olimpia,Montreal Impact,2008-10-02,1,2,F,CONCACAF CC,CD Olimpia (Honduras),Montreal Impact (Canada),honduras,canada,HN,CA,North America,North America,North America,international
+Tauro FC,Santos Laguna,2008-10-03,2,0,F,CONCACAF CC,Tauro FC (Panama),Santos Laguna (Mexico),panama,mexico,PA,MX,North America,North America,North America,international
+CF Atlante,Joe Public FC,2008-10-03,0,1,F,CONCACAF CC,CF Atlante (Mexico),Joe Public FC (Trinidad And Tobago),mexico,trinidad-and-tobago,MX,TT,North America,North America,North America,international
+Cruz Azul,CD Marathon,2008-10-08,1,1,F,CONCACAF CC,Cruz Azul (Mexico),CD Marathon (Honduras),mexico,honduras,MX,HN,North America,North America,North America,international
+Houston Dynamo,San Francisco FC,2008-10-08,2,1,F,CONCACAF CC,Houston Dynamo (United States),San Francisco FC (Panama),united-states,panama,US,PA,North America,North America,North America,international
+Joe Public FC,Montreal Impact,2008-10-09,1,4,F,CONCACAF CC,Joe Public FC (Trinidad And Tobago),Montreal Impact (Canada),trinidad-and-tobago,canada,TT,CA,North America,North America,North America,international
+Santos Laguna,Puerto Rico Islanders,2008-10-09,3,0,F,CONCACAF CC,Santos Laguna (Mexico),Puerto Rico Islanders (Puerto Rico),mexico,puerto-rico,MX,PR,North America,North America,North America,international
+CSd Municipal,Tauro FC,2008-10-09,2,2,F,CONCACAF CC,CSd Municipal (Guatemala),Tauro FC (Panama),guatemala,panama,GT,PA,North America,North America,North America,international
+CD Olimpia,CF Atlante,2008-10-09,1,1,F,CONCACAF CC,CD Olimpia (Honduras),CF Atlante (Mexico),honduras,mexico,HN,MX,North America,North America,North America,international
+Deportivo Saprissa,D C United,2008-10-10,2,2,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),D C United (United States),costa-rica,united-states,CR,US,North America,North America,North America,international
+Club Deportivo Luis Angel Firpo,Pumas Unam,2008-10-10,1,1,F,CONCACAF CC,Club Deportivo Luis Angel Firpo (El Salvador),Pumas Unam (Mexico),el-salvador,mexico,SV,MX,North America,North America,North America,international
+Montreal Impact,CD Olimpia,2008-10-22,1,1,F,CONCACAF CC,Montreal Impact (Canada),CD Olimpia (Honduras),canada,honduras,CA,HN,North America,North America,North America,international
+Joe Public FC,CF Atlante,2008-10-22,0,2,F,CONCACAF CC,Joe Public FC (Trinidad And Tobago),CF Atlante (Mexico),trinidad-and-tobago,mexico,TT,MX,North America,North America,North America,international
+Cruz Azul,D C United,2008-10-22,2,0,F,CONCACAF CC,Cruz Azul (Mexico),D C United (United States),mexico,united-states,MX,US,North America,North America,North America,international
+San Francisco FC,Club Deportivo Luis Angel Firpo,2008-10-23,2,3,F,CONCACAF CC,San Francisco FC (Panama),Club Deportivo Luis Angel Firpo (El Salvador),panama,el-salvador,PA,SV,North America,North America,North America,international
+Santos Laguna,Tauro FC,2008-10-23,3,0,F,CONCACAF CC,Santos Laguna (Mexico),Tauro FC (Panama),mexico,panama,MX,PA,North America,North America,North America,international
+Houston Dynamo,Pumas Unam,2008-10-23,1,3,F,CONCACAF CC,Houston Dynamo (United States),Pumas Unam (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Puerto Rico Islanders,CSd Municipal,2008-10-24,0,1,F,CONCACAF CC,Puerto Rico Islanders (Puerto Rico),CSd Municipal (Guatemala),puerto-rico,guatemala,PR,GT,North America,North America,North America,international
+CD Olimpia,Joe Public FC,2008-10-29,4,0,F,CONCACAF CC,CD Olimpia (Honduras),Joe Public FC (Trinidad And Tobago),honduras,trinidad-and-tobago,HN,TT,North America,North America,North America,international
+Club Deportivo Luis Angel Firpo,Houston Dynamo,2008-10-29,1,1,F,CONCACAF CC,Club Deportivo Luis Angel Firpo (El Salvador),Houston Dynamo (United States),el-salvador,united-states,SV,US,North America,North America,North America,international
+CF Atlante,Montreal Impact,2008-10-29,2,1,F,CONCACAF CC,CF Atlante (Mexico),Montreal Impact (Canada),mexico,canada,MX,CA,North America,North America,North America,international
+Deportivo Saprissa,Cruz Azul,2008-10-30,1,0,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),Cruz Azul (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+D C United,CD Marathon,2008-10-30,2,4,F,CONCACAF CC,D C United (United States),CD Marathon (Honduras),united-states,honduras,US,HN,North America,North America,North America,international
+Tauro FC,Puerto Rico Islanders,2008-10-30,2,2,F,CONCACAF CC,Tauro FC (Panama),Puerto Rico Islanders (Puerto Rico),panama,puerto-rico,PA,PR,North America,North America,North America,international
+Pumas Unam,San Francisco FC,2008-10-30,6,0,F,CONCACAF CC,Pumas Unam (Mexico),San Francisco FC (Panama),mexico,panama,MX,PA,North America,North America,North America,international
+CSd Municipal,Santos Laguna,2008-10-31,4,4,F,CONCACAF CC,CSd Municipal (Guatemala),Santos Laguna (Mexico),guatemala,mexico,GT,MX,North America,North America,North America,international
+CD Marathon,Deportivo Saprissa,2008-11-06,2,0,F,CONCACAF CC,CD Marathon (Honduras),Deportivo Saprissa (Costa Rica),honduras,costa-rica,HN,CR,North America,North America,North America,international
+Houston Dynamo,Club Deportivo Luis Angel Firpo,2008-11-27,1,0,F,CONCACAF CC,Houston Dynamo (United States),Club Deportivo Luis Angel Firpo (El Salvador),united-states,el-salvador,US,SV,North America,North America,North America,international
+Houston Dynamo,CF Atlante,2009-02-25,1,1,F,CONCACAF CC,Houston Dynamo (United States),CF Atlante (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Montreal Impact,Santos Laguna,2009-02-26,2,0,F,CONCACAF CC,Montreal Impact (Canada),Santos Laguna (Mexico),canada,mexico,CA,MX,North America,North America,North America,international
+Cruz Azul,Pumas Unam,2009-02-26,1,0,F,CONCACAF CC,Cruz Azul (Mexico),Pumas Unam (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Puerto Rico Islanders,CD Marathon,2009-02-27,2,1,F,CONCACAF CC,Puerto Rico Islanders (Puerto Rico),CD Marathon (Honduras),puerto-rico,honduras,PR,HN,North America,North America,North America,international
+CF Atlante,Houston Dynamo,2009-03-04,3,0,F,CONCACAF CC,CF Atlante (Mexico),Houston Dynamo (United States),mexico,united-states,MX,US,North America,North America,North America,international
+CD Marathon,Puerto Rico Islanders,2009-03-05,0,1,F,CONCACAF CC,CD Marathon (Honduras),Puerto Rico Islanders (Puerto Rico),honduras,puerto-rico,HN,PR,North America,North America,North America,international
+Pumas Unam,Cruz Azul,2009-03-05,0,1,F,CONCACAF CC,Pumas Unam (Mexico),Cruz Azul (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Santos Laguna,Montreal Impact,2009-03-06,5,2,F,CONCACAF CC,Santos Laguna (Mexico),Montreal Impact (Canada),mexico,canada,MX,CA,North America,North America,North America,international
+Puerto Rico Islanders,Cruz Azul,2009-03-18,2,0,F,CONCACAF CC,Puerto Rico Islanders (Puerto Rico),Cruz Azul (Mexico),puerto-rico,mexico,PR,MX,North America,North America,North America,international
+Santos Laguna,CF Atlante,2009-03-19,2,1,F,CONCACAF CC,Santos Laguna (Mexico),CF Atlante (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Cruz Azul,Puerto Rico Islanders,2009-04-08,3,1,P,CONCACAF CC,Cruz Azul (Mexico),Puerto Rico Islanders (Puerto Rico),mexico,puerto-rico,MX,PR,North America,North America,North America,international
+CF Atlante,Santos Laguna,2009-04-09,3,1,F,CONCACAF CC,CF Atlante (Mexico),Santos Laguna (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Cruz Azul,CF Atlante,2009-04-23,0,2,F,CONCACAF CC,Cruz Azul (Mexico),CF Atlante (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+CF Atlante,Cruz Azul,2009-05-13,0,0,F,CONCACAF CC,CF Atlante (Mexico),Cruz Azul (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+D C United,Club Deportivo Luis Angel Firpo,2009-07-29,1,1,F,CONCACAF CC,D C United (United States),Club Deportivo Luis Angel Firpo (El Salvador),united-states,el-salvador,US,SV,North America,North America,North America,international
+CF Pachuca,CD Jalapa,2009-07-29,3,0,F,CONCACAF CC,CF Pachuca (Mexico),CD Jalapa (Guatemala),mexico,guatemala,MX,GT,North America,North America,North America,international
+San Francisco FC,San Juan Jabloteh,2009-07-30,2,0,F,CONCACAF CC,San Francisco FC (Panama),San Juan Jabloteh (Trinidad And Tobago),panama,trinidad-and-tobago,PA,TT,North America,North America,North America,international
+Toronto FC,Puerto Rico Islanders,2009-07-30,0,1,F,CONCACAF CC,Toronto FC (Canada),Puerto Rico Islanders (Puerto Rico),canada,puerto-rico,CA,PR,North America,North America,North America,international
+Municipal Liberia Mia,Real CD Espana,2009-07-30,3,0,F,CONCACAF CC,Municipal Liberia Mia (Costa Rica),Real CD Espana (Honduras),costa-rica,honduras,CR,HN,North America,North America,North America,international
+W Connection,New York RB,2009-07-31,2,2,F,CONCACAF CC,W Connection (Trinidad And Tobago),New York RB (United States),trinidad-and-tobago,united-states,TT,US,North America,North America,North America,international
+CD Olimpia,Deportivo Arabe Unido,2009-07-31,2,1,F,CONCACAF CC,CD Olimpia (Honduras),Deportivo Arabe Unido (Panama),honduras,panama,HN,PA,North America,North America,North America,international
+CS Herediano,Cruz Azul,2009-07-31,2,6,F,CONCACAF CC,CS Herediano (Costa Rica),Cruz Azul (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+Puerto Rico Islanders,Toronto FC,2009-08-05,0,0,F,CONCACAF CC,Puerto Rico Islanders (Puerto Rico),Toronto FC (Canada),puerto-rico,canada,PR,CA,North America,North America,North America,international
+CD Jalapa,CF Pachuca,2009-08-05,1,7,F,CONCACAF CC,CD Jalapa (Guatemala),CF Pachuca (Mexico),guatemala,mexico,GT,MX,North America,North America,North America,international
+Club Deportivo Luis Angel Firpo,D C United,2009-08-05,1,1,P,CONCACAF CC,Club Deportivo Luis Angel Firpo (El Salvador),D C United (United States),el-salvador,united-states,SV,US,North America,North America,North America,international
+New York RB,W Connection,2009-08-06,1,2,F,CONCACAF CC,New York RB (United States),W Connection (Trinidad And Tobago),united-states,trinidad-and-tobago,US,TT,North America,North America,North America,international
+Cruz Azul,CS Herediano,2009-08-06,0,0,F,CONCACAF CC,Cruz Azul (Mexico),CS Herediano (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+San Juan Jabloteh,San Francisco FC,2009-08-07,3,0,F,CONCACAF CC,San Juan Jabloteh (Trinidad And Tobago),San Francisco FC (Panama),trinidad-and-tobago,panama,TT,PA,North America,North America,North America,international
+Deportivo Arabe Unido,CD Olimpia,2009-08-07,1,0,F,CONCACAF CC,Deportivo Arabe Unido (Panama),CD Olimpia (Honduras),panama,honduras,PA,HN,North America,North America,North America,international
+Real CD Espana,Municipal Liberia Mia,2009-08-07,6,0,F,CONCACAF CC,Real CD Espana (Honduras),Municipal Liberia Mia (Costa Rica),honduras,costa-rica,HN,CR,North America,North America,North America,international
+Columbus Crew,Puerto Rico Islanders,2009-08-19,2,0,F,CONCACAF CC,Columbus Crew (United States),Puerto Rico Islanders (Puerto Rico),united-states,puerto-rico,US,PR,North America,North America,North America,international
+CD Marathon,D C United,2009-08-19,3,1,F,CONCACAF CC,CD Marathon (Honduras),D C United (United States),honduras,united-states,HN,US,North America,North America,North America,international
+Pumas Unam,CSd Comunicaciones,2009-08-19,1,0,F,CONCACAF CC,Pumas Unam (Mexico),CSd Comunicaciones (Guatemala),mexico,guatemala,MX,GT,North America,North America,North America,international
+Houston Dynamo,Asociacion Deportiva Isidro Metapan,2009-08-20,1,0,F,CONCACAF CC,Houston Dynamo (United States),Asociacion Deportiva Isidro Metapan (El Salvador),united-states,el-salvador,US,SV,North America,North America,North America,international
+Deportivo Arabe Unido,CF Pachuca,2009-08-20,4,1,F,CONCACAF CC,Deportivo Arabe Unido (Panama),CF Pachuca (Mexico),panama,mexico,PA,MX,North America,North America,North America,international
+Cruz Azul,Deportivo Saprissa,2009-08-20,2,0,F,CONCACAF CC,Cruz Azul (Mexico),Deportivo Saprissa (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+San Juan Jabloteh,Deportivo Toluca,2009-08-21,0,1,F,CONCACAF CC,San Juan Jabloteh (Trinidad And Tobago),Deportivo Toluca (Mexico),trinidad-and-tobago,mexico,TT,MX,North America,North America,North America,international
+Real CD Espana,W Connection,2009-08-21,1,0,F,CONCACAF CC,Real CD Espana (Honduras),W Connection (Trinidad And Tobago),honduras,trinidad-and-tobago,HN,TT,North America,North America,North America,international
+CF Pachuca,Asociacion Deportiva Isidro Metapan,2009-08-26,5,0,F,CONCACAF CC,CF Pachuca (Mexico),Asociacion Deportiva Isidro Metapan (El Salvador),mexico,el-salvador,MX,SV,North America,North America,North America,international
+Deportivo Saprissa,Puerto Rico Islanders,2009-08-26,3,1,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),Puerto Rico Islanders (Puerto Rico),costa-rica,puerto-rico,CR,PR,North America,North America,North America,international
+D C United,Deportivo Toluca,2009-08-27,1,3,F,CONCACAF CC,D C United (United States),Deportivo Toluca (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Deportivo Arabe Unido,Houston Dynamo,2009-08-27,1,1,F,CONCACAF CC,Deportivo Arabe Unido (Panama),Houston Dynamo (United States),panama,united-states,PA,US,North America,North America,North America,international
+Cruz Azul,Columbus Crew,2009-08-27,5,0,F,CONCACAF CC,Cruz Azul (Mexico),Columbus Crew (United States),mexico,united-states,MX,US,North America,North America,North America,international
+CD Marathon,San Juan Jabloteh,2009-08-27,3,1,F,CONCACAF CC,CD Marathon (Honduras),San Juan Jabloteh (Trinidad And Tobago),honduras,trinidad-and-tobago,HN,TT,North America,North America,North America,international
+W Connection,CSd Comunicaciones,2009-08-28,1,2,F,CONCACAF CC,W Connection (Trinidad And Tobago),CSd Comunicaciones (Guatemala),trinidad-and-tobago,guatemala,TT,GT,North America,North America,North America,international
+Real CD Espana,Pumas Unam,2009-08-28,1,5,F,CONCACAF CC,Real CD Espana (Honduras),Pumas Unam (Mexico),honduras,mexico,HN,MX,North America,North America,North America,international
+Puerto Rico Islanders,Cruz Azul,2009-09-16,3,3,F,CONCACAF CC,Puerto Rico Islanders (Puerto Rico),Cruz Azul (Mexico),puerto-rico,mexico,PR,MX,North America,North America,North America,international
+San Juan Jabloteh,D C United,2009-09-16,0,1,F,CONCACAF CC,San Juan Jabloteh (Trinidad And Tobago),D C United (United States),trinidad-and-tobago,united-states,TT,US,North America,North America,North America,international
+Asociacion Deportiva Isidro Metapan,Deportivo Arabe Unido,2009-09-16,0,1,F,CONCACAF CC,Asociacion Deportiva Isidro Metapan (El Salvador),Deportivo Arabe Unido (Panama),el-salvador,panama,SV,PA,North America,North America,North America,international
+W Connection,Pumas Unam,2009-09-17,2,2,F,CONCACAF CC,W Connection (Trinidad And Tobago),Pumas Unam (Mexico),trinidad-and-tobago,mexico,TT,MX,North America,North America,North America,international
+CF Pachuca,Houston Dynamo,2009-09-17,2,0,F,CONCACAF CC,CF Pachuca (Mexico),Houston Dynamo (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Deportivo Saprissa,Columbus Crew,2009-09-17,0,1,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),Columbus Crew (United States),costa-rica,united-states,CR,US,North America,North America,North America,international
+Deportivo Toluca,CD Marathon,2009-09-18,7,0,F,CONCACAF CC,Deportivo Toluca (Mexico),CD Marathon (Honduras),mexico,honduras,MX,HN,North America,North America,North America,international
+CSd Comunicaciones,Real CD Espana,2009-09-18,2,0,F,CONCACAF CC,CSd Comunicaciones (Guatemala),Real CD Espana (Honduras),guatemala,honduras,GT,HN,North America,North America,North America,international
+Puerto Rico Islanders,Deportivo Saprissa,2009-09-23,1,1,F,CONCACAF CC,Puerto Rico Islanders (Puerto Rico),Deportivo Saprissa (Costa Rica),puerto-rico,costa-rica,PR,CR,North America,North America,North America,international
+Asociacion Deportiva Isidro Metapan,CF Pachuca,2009-09-23,0,4,F,CONCACAF CC,Asociacion Deportiva Isidro Metapan (El Salvador),CF Pachuca (Mexico),el-salvador,mexico,SV,MX,North America,North America,North America,international
+Houston Dynamo,Deportivo Arabe Unido,2009-09-23,5,1,F,CONCACAF CC,Houston Dynamo (United States),Deportivo Arabe Unido (Panama),united-states,panama,US,PA,North America,North America,North America,international
+Columbus Crew,Cruz Azul,2009-09-24,0,2,F,CONCACAF CC,Columbus Crew (United States),Cruz Azul (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+CSd Comunicaciones,W Connection,2009-09-24,0,3,F,CONCACAF CC,CSd Comunicaciones (Guatemala),W Connection (Trinidad And Tobago),guatemala,trinidad-and-tobago,GT,TT,North America,North America,North America,international
+Deportivo Toluca,San Juan Jabloteh,2009-09-24,3,0,F,CONCACAF CC,Deportivo Toluca (Mexico),San Juan Jabloteh (Trinidad And Tobago),mexico,trinidad-and-tobago,MX,TT,North America,North America,North America,international
+D C United,CD Marathon,2009-09-25,3,0,F,CONCACAF CC,D C United (United States),CD Marathon (Honduras),united-states,honduras,US,HN,North America,North America,North America,international
+Pumas Unam,Real CD Espana,2009-09-25,4,0,F,CONCACAF CC,Pumas Unam (Mexico),Real CD Espana (Honduras),mexico,honduras,MX,HN,North America,North America,North America,international
+Columbus Crew,Deportivo Saprissa,2009-09-30,1,1,F,CONCACAF CC,Columbus Crew (United States),Deportivo Saprissa (Costa Rica),united-states,costa-rica,US,CR,North America,North America,North America,international
+Cruz Azul,Puerto Rico Islanders,2009-09-30,2,0,F,CONCACAF CC,Cruz Azul (Mexico),Puerto Rico Islanders (Puerto Rico),mexico,puerto-rico,MX,PR,North America,North America,North America,international
+Deportivo Arabe Unido,Asociacion Deportiva Isidro Metapan,2009-09-30,6,0,F,CONCACAF CC,Deportivo Arabe Unido (Panama),Asociacion Deportiva Isidro Metapan (El Salvador),panama,el-salvador,PA,SV,North America,North America,North America,international
+Pumas Unam,W Connection,2009-10-01,2,1,F,CONCACAF CC,Pumas Unam (Mexico),W Connection (Trinidad And Tobago),mexico,trinidad-and-tobago,MX,TT,North America,North America,North America,international
+D C United,San Juan Jabloteh,2009-10-01,5,1,F,CONCACAF CC,D C United (United States),San Juan Jabloteh (Trinidad And Tobago),united-states,trinidad-and-tobago,US,TT,North America,North America,North America,international
+Houston Dynamo,CF Pachuca,2009-10-01,0,1,F,CONCACAF CC,Houston Dynamo (United States),CF Pachuca (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Real CD Espana,CSd Comunicaciones,2009-10-01,2,0,F,CONCACAF CC,Real CD Espana (Honduras),CSd Comunicaciones (Guatemala),honduras,guatemala,HN,GT,North America,North America,North America,international
+CD Marathon,Deportivo Toluca,2009-10-02,2,0,F,CONCACAF CC,CD Marathon (Honduras),Deportivo Toluca (Mexico),honduras,mexico,HN,MX,North America,North America,North America,international
+Deportivo Toluca,D C United,2009-10-21,1,1,F,CONCACAF CC,Deportivo Toluca (Mexico),D C United (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Puerto Rico Islanders,Columbus Crew,2009-10-21,1,1,F,CONCACAF CC,Puerto Rico Islanders (Puerto Rico),Columbus Crew (United States),puerto-rico,united-states,PR,US,North America,North America,North America,international
+Deportivo Saprissa,Cruz Azul,2009-10-21,1,2,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),Cruz Azul (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+CF Pachuca,Deportivo Arabe Unido,2009-10-22,2,0,F,CONCACAF CC,CF Pachuca (Mexico),Deportivo Arabe Unido (Panama),mexico,panama,MX,PA,North America,North America,North America,international
+W Connection,Real CD Espana,2009-10-22,3,2,F,CONCACAF CC,W Connection (Trinidad And Tobago),Real CD Espana (Honduras),trinidad-and-tobago,honduras,TT,HN,North America,North America,North America,international
+Asociacion Deportiva Isidro Metapan,Houston Dynamo,2009-10-22,3,2,F,CONCACAF CC,Asociacion Deportiva Isidro Metapan (El Salvador),Houston Dynamo (United States),el-salvador,united-states,SV,US,North America,North America,North America,international
+San Juan Jabloteh,CD Marathon,2009-10-23,2,4,F,CONCACAF CC,San Juan Jabloteh (Trinidad And Tobago),CD Marathon (Honduras),trinidad-and-tobago,honduras,TT,HN,North America,North America,North America,international
+CSd Comunicaciones,Pumas Unam,2009-10-23,2,1,F,CONCACAF CC,CSd Comunicaciones (Guatemala),Pumas Unam (Mexico),guatemala,mexico,GT,MX,North America,North America,North America,international
+Columbus Crew,Deportivo Toluca,2010-03-10,2,2,F,CONCACAF CC,Columbus Crew (United States),Deportivo Toluca (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+CD Marathon,Pumas Unam,2010-03-11,2,0,F,CONCACAF CC,CD Marathon (Honduras),Pumas Unam (Mexico),honduras,mexico,HN,MX,North America,North America,North America,international
+CSd Comunicaciones,CF Pachuca,2010-03-11,1,1,F,CONCACAF CC,CSd Comunicaciones (Guatemala),CF Pachuca (Mexico),guatemala,mexico,GT,MX,North America,North America,North America,international
+Deportivo Arabe Unido,Cruz Azul,2010-03-12,0,1,F,CONCACAF CC,Deportivo Arabe Unido (Panama),Cruz Azul (Mexico),panama,mexico,PA,MX,North America,North America,North America,international
+CF Pachuca,CSd Comunicaciones,2010-03-17,2,1,F,CONCACAF CC,CF Pachuca (Mexico),CSd Comunicaciones (Guatemala),mexico,guatemala,MX,GT,North America,North America,North America,international
+Deportivo Toluca,Columbus Crew,2010-03-18,3,2,F,CONCACAF CC,Deportivo Toluca (Mexico),Columbus Crew (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Cruz Azul,Deportivo Arabe Unido,2010-03-18,3,0,F,CONCACAF CC,Cruz Azul (Mexico),Deportivo Arabe Unido (Panama),mexico,panama,MX,PA,North America,North America,North America,international
+Pumas Unam,CD Marathon,2010-03-19,6,1,F,CONCACAF CC,Pumas Unam (Mexico),CD Marathon (Honduras),mexico,honduras,MX,HN,North America,North America,North America,international
+Deportivo Toluca,CF Pachuca,2010-03-31,1,1,F,CONCACAF CC,Deportivo Toluca (Mexico),CF Pachuca (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Pumas Unam,Cruz Azul,2010-04-01,1,0,F,CONCACAF CC,Pumas Unam (Mexico),Cruz Azul (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Cruz Azul,Pumas Unam,2010-04-07,5,0,F,CONCACAF CC,Cruz Azul (Mexico),Pumas Unam (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+CF Pachuca,Deportivo Toluca,2010-04-08,1,0,F,CONCACAF CC,CF Pachuca (Mexico),Deportivo Toluca (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Cruz Azul,CF Pachuca,2010-04-22,2,1,F,CONCACAF CC,Cruz Azul (Mexico),CF Pachuca (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+CF Pachuca,Cruz Azul,2010-04-29,1,0,F,CONCACAF CC,CF Pachuca (Mexico),Cruz Azul (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Toronto FC,CD Motagua,2010-07-28,1,0,F,CONCACAF CC,Toronto FC (Canada),CD Motagua (Honduras),canada,honduras,CA,HN,North America,North America,North America,international
+San Juan Jabloteh,Santos Laguna,2010-07-28,0,1,F,CONCACAF CC,San Juan Jabloteh (Trinidad And Tobago),Santos Laguna (Mexico),trinidad-and-tobago,mexico,TT,MX,North America,North America,North America,international
+Los Angeles Galaxy,Puerto Rico Islanders,2010-07-28,1,4,F,CONCACAF CC,Los Angeles Galaxy (United States),Puerto Rico Islanders (Puerto Rico),united-states,puerto-rico,US,PR,North America,North America,North America,international
+San Francisco FC,Cruz Azul,2010-07-28,2,3,F,CONCACAF CC,San Francisco FC (Panama),Cruz Azul (Mexico),panama,mexico,PA,MX,North America,North America,North America,international
+Tauro FC,CD Marathon,2010-07-29,0,3,F,CONCACAF CC,Tauro FC (Panama),CD Marathon (Honduras),panama,honduras,PA,HN,North America,North America,North America,international
+Brujas FC,Joe Public FC,2010-07-29,2,2,F,CONCACAF CC,Brujas FC (Costa Rica),Joe Public FC (Trinidad And Tobago),costa-rica,trinidad-and-tobago,CR,TT,North America,North America,North America,international
+Seattle Sounders,Asociacion Deportiva Isidro Metapan,2010-07-29,1,0,F,CONCACAF CC,Seattle Sounders (United States),Asociacion Deportiva Isidro Metapan (El Salvador),united-states,el-salvador,US,SV,North America,North America,North America,international
+CD Fas,Xelaju MC,2010-07-30,1,1,F,CONCACAF CC,CD Fas (El Salvador),Xelaju MC (Guatemala),el-salvador,guatemala,SV,GT,North America,North America,North America,international
+Cruz Azul,San Francisco FC,2010-08-04,6,0,F,CONCACAF CC,Cruz Azul (Mexico),San Francisco FC (Panama),mexico,panama,MX,PA,North America,North America,North America,international
+CD Motagua,Toronto FC,2010-08-04,2,2,F,CONCACAF CC,CD Motagua (Honduras),Toronto FC (Canada),honduras,canada,HN,CA,North America,North America,North America,international
+Asociacion Deportiva Isidro Metapan,Seattle Sounders,2010-08-04,1,1,F,CONCACAF CC,Asociacion Deportiva Isidro Metapan (El Salvador),Seattle Sounders (United States),el-salvador,united-states,SV,US,North America,North America,North America,international
+Puerto Rico Islanders,Los Angeles Galaxy,2010-08-05,1,2,F,CONCACAF CC,Puerto Rico Islanders (Puerto Rico),Los Angeles Galaxy (United States),puerto-rico,united-states,PR,US,North America,North America,North America,international
+Santos Laguna,San Juan Jabloteh,2010-08-05,5,0,F,CONCACAF CC,Santos Laguna (Mexico),San Juan Jabloteh (Trinidad And Tobago),mexico,trinidad-and-tobago,MX,TT,North America,North America,North America,international
+CD Marathon,Tauro FC,2010-08-05,1,2,F,CONCACAF CC,CD Marathon (Honduras),Tauro FC (Panama),honduras,panama,HN,PA,North America,North America,North America,international
+Joe Public FC,Brujas FC,2010-08-06,4,2,F,CONCACAF CC,Joe Public FC (Trinidad And Tobago),Brujas FC (Costa Rica),trinidad-and-tobago,costa-rica,TT,CR,North America,North America,North America,international
+Xelaju MC,CD Fas,2010-08-06,0,2,F,CONCACAF CC,Xelaju MC (Guatemala),CD Fas (El Salvador),guatemala,el-salvador,GT,SV,North America,North America,North America,international
+Toronto FC,Cruz Azul,2010-08-18,2,1,F,CONCACAF CC,Toronto FC (Canada),Cruz Azul (Mexico),canada,mexico,CA,MX,North America,North America,North America,international
+Puerto Rico Islanders,CD Olimpia,2010-08-18,1,1,F,CONCACAF CC,Puerto Rico Islanders (Puerto Rico),CD Olimpia (Honduras),puerto-rico,honduras,PR,HN,North America,North America,North America,international
+CF Monterrey,Deportivo Saprissa,2010-08-18,1,0,F,CONCACAF CC,CF Monterrey (Mexico),Deportivo Saprissa (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+Columbus Crew,CSd Municipal,2010-08-19,1,0,F,CONCACAF CC,Columbus Crew (United States),CSd Municipal (Guatemala),united-states,guatemala,US,GT,North America,North America,North America,international
+Joe Public FC,Santos Laguna,2010-08-19,2,5,F,CONCACAF CC,Joe Public FC (Trinidad And Tobago),Santos Laguna (Mexico),trinidad-and-tobago,mexico,TT,MX,North America,North America,North America,international
+Real Salt Lake,Deportivo Arabe Unido,2010-08-19,2,1,F,CONCACAF CC,Real Salt Lake (United States),Deportivo Arabe Unido (Panama),united-states,panama,US,PA,North America,North America,North America,international
+CD Fas,Deportivo Toluca,2010-08-19,0,0,F,CONCACAF CC,CD Fas (El Salvador),Deportivo Toluca (Mexico),el-salvador,mexico,SV,MX,North America,North America,North America,international
+CD Marathon,Seattle Sounders,2010-08-20,2,1,F,CONCACAF CC,CD Marathon (Honduras),Seattle Sounders (United States),honduras,united-states,HN,US,North America,North America,North America,international
+Deportivo Arabe Unido,Toronto FC,2010-08-25,1,0,F,CONCACAF CC,Deportivo Arabe Unido (Panama),Toronto FC (Canada),panama,canada,PA,CA,North America,North America,North America,international
+Santos Laguna,Columbus Crew,2010-08-25,1,0,F,CONCACAF CC,Santos Laguna (Mexico),Columbus Crew (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Cruz Azul,Real Salt Lake,2010-08-26,5,4,F,CONCACAF CC,Cruz Azul (Mexico),Real Salt Lake (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Puerto Rico Islanders,CD Fas,2010-08-26,4,1,F,CONCACAF CC,Puerto Rico Islanders (Puerto Rico),CD Fas (El Salvador),puerto-rico,el-salvador,PR,SV,North America,North America,North America,international
+Seattle Sounders,CF Monterrey,2010-08-26,0,2,F,CONCACAF CC,Seattle Sounders (United States),CF Monterrey (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Deportivo Toluca,CD Olimpia,2010-08-27,4,0,F,CONCACAF CC,Deportivo Toluca (Mexico),CD Olimpia (Honduras),mexico,honduras,MX,HN,North America,North America,North America,international
+Deportivo Saprissa,CD Marathon,2010-08-27,4,1,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),CD Marathon (Honduras),costa-rica,honduras,CR,HN,North America,North America,North America,international
+CSd Municipal,Joe Public FC,2010-08-27,1,1,F,CONCACAF CC,CSd Municipal (Guatemala),Joe Public FC (Trinidad And Tobago),guatemala,trinidad-and-tobago,GT,TT,North America,North America,North America,international
+Columbus Crew,Joe Public FC,2010-09-15,3,0,F,CONCACAF CC,Columbus Crew (United States),Joe Public FC (Trinidad And Tobago),united-states,trinidad-and-tobago,US,TT,North America,North America,North America,international
+CF Monterrey,CD Marathon,2010-09-15,2,0,F,CONCACAF CC,CF Monterrey (Mexico),CD Marathon (Honduras),mexico,honduras,MX,HN,North America,North America,North America,international
+CSd Municipal,Santos Laguna,2010-09-15,2,2,F,CONCACAF CC,CSd Municipal (Guatemala),Santos Laguna (Mexico),guatemala,mexico,GT,MX,North America,North America,North America,international
+Deportivo Saprissa,Seattle Sounders,2010-09-15,2,0,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),Seattle Sounders (United States),costa-rica,united-states,CR,US,North America,North America,North America,international
+Deportivo Toluca,Puerto Rico Islanders,2010-09-16,3,0,F,CONCACAF CC,Deportivo Toluca (Mexico),Puerto Rico Islanders (Puerto Rico),mexico,puerto-rico,MX,PR,North America,North America,North America,international
+Deportivo Arabe Unido,Cruz Azul,2010-09-16,0,6,F,CONCACAF CC,Deportivo Arabe Unido (Panama),Cruz Azul (Mexico),panama,mexico,PA,MX,North America,North America,North America,international
+Real Salt Lake,Toronto FC,2010-09-16,4,1,F,CONCACAF CC,Real Salt Lake (United States),Toronto FC (Canada),united-states,canada,US,CA,North America,North America,North America,international
+CD Olimpia,CD Fas,2010-09-17,2,0,F,CONCACAF CC,CD Olimpia (Honduras),CD Fas (El Salvador),honduras,el-salvador,HN,SV,North America,North America,North America,international
+Columbus Crew,Santos Laguna,2010-09-22,1,0,F,CONCACAF CC,Columbus Crew (United States),Santos Laguna (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Cruz Azul,Toronto FC,2010-09-22,0,0,F,CONCACAF CC,Cruz Azul (Mexico),Toronto FC (Canada),mexico,canada,MX,CA,North America,North America,North America,international
+Deportivo Arabe Unido,Real Salt Lake,2010-09-23,2,3,F,CONCACAF CC,Deportivo Arabe Unido (Panama),Real Salt Lake (United States),panama,united-states,PA,US,North America,North America,North America,international
+CF Monterrey,Seattle Sounders,2010-09-23,3,2,F,CONCACAF CC,CF Monterrey (Mexico),Seattle Sounders (United States),mexico,united-states,MX,US,North America,North America,North America,international
+CD Marathon,Deportivo Saprissa,2010-09-23,2,1,F,CONCACAF CC,CD Marathon (Honduras),Deportivo Saprissa (Costa Rica),honduras,costa-rica,HN,CR,North America,North America,North America,international
+CD Fas,Puerto Rico Islanders,2010-09-23,0,0,F,CONCACAF CC,CD Fas (El Salvador),Puerto Rico Islanders (Puerto Rico),el-salvador,puerto-rico,SV,PR,North America,North America,North America,international
+Joe Public FC,CSd Municipal,2010-09-24,2,3,F,CONCACAF CC,Joe Public FC (Trinidad And Tobago),CSd Municipal (Guatemala),trinidad-and-tobago,guatemala,TT,GT,North America,North America,North America,international
+CD Olimpia,Deportivo Toluca,2010-09-24,2,1,F,CONCACAF CC,CD Olimpia (Honduras),Deportivo Toluca (Mexico),honduras,mexico,HN,MX,North America,North America,North America,international
+Toronto FC,Real Salt Lake,2010-09-29,1,1,F,CONCACAF CC,Toronto FC (Canada),Real Salt Lake (United States),canada,united-states,CA,US,North America,North America,North America,international
+Cruz Azul,Deportivo Arabe Unido,2010-09-29,2,0,F,CONCACAF CC,Cruz Azul (Mexico),Deportivo Arabe Unido (Panama),mexico,panama,MX,PA,North America,North America,North America,international
+Deportivo Saprissa,CF Monterrey,2010-09-29,2,2,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),CF Monterrey (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+Puerto Rico Islanders,Deportivo Toluca,2010-09-30,3,2,F,CONCACAF CC,Puerto Rico Islanders (Puerto Rico),Deportivo Toluca (Mexico),puerto-rico,mexico,PR,MX,North America,North America,North America,international
+CSd Municipal,Columbus Crew,2010-09-30,2,1,F,CONCACAF CC,CSd Municipal (Guatemala),Columbus Crew (United States),guatemala,united-states,GT,US,North America,North America,North America,international
+Santos Laguna,Joe Public FC,2010-09-30,5,1,F,CONCACAF CC,Santos Laguna (Mexico),Joe Public FC (Trinidad And Tobago),mexico,trinidad-and-tobago,MX,TT,North America,North America,North America,international
+Seattle Sounders,CD Marathon,2010-09-30,2,0,F,CONCACAF CC,Seattle Sounders (United States),CD Marathon (Honduras),united-states,honduras,US,HN,North America,North America,North America,international
+CD Fas,CD Olimpia,2010-10-01,1,4,F,CONCACAF CC,CD Fas (El Salvador),CD Olimpia (Honduras),el-salvador,honduras,SV,HN,North America,North America,North America,international
+Toronto FC,Deportivo Arabe Unido,2010-10-20,1,0,F,CONCACAF CC,Toronto FC (Canada),Deportivo Arabe Unido (Panama),canada,panama,CA,PA,North America,North America,North America,international
+Santos Laguna,CSd Municipal,2010-10-20,6,1,F,CONCACAF CC,Santos Laguna (Mexico),CSd Municipal (Guatemala),mexico,guatemala,MX,GT,North America,North America,North America,international
+Seattle Sounders,Deportivo Saprissa,2010-10-20,1,2,F,CONCACAF CC,Seattle Sounders (United States),Deportivo Saprissa (Costa Rica),united-states,costa-rica,US,CR,North America,North America,North America,international
+Real Salt Lake,Cruz Azul,2010-10-20,3,1,F,CONCACAF CC,Real Salt Lake (United States),Cruz Azul (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Deportivo Toluca,CD Fas,2010-10-21,5,0,F,CONCACAF CC,Deportivo Toluca (Mexico),CD Fas (El Salvador),mexico,el-salvador,MX,SV,North America,North America,North America,international
+CD Marathon,CF Monterrey,2010-10-21,0,1,F,CONCACAF CC,CD Marathon (Honduras),CF Monterrey (Mexico),honduras,mexico,HN,MX,North America,North America,North America,international
+CD Olimpia,Puerto Rico Islanders,2010-10-21,3,0,F,CONCACAF CC,CD Olimpia (Honduras),Puerto Rico Islanders (Puerto Rico),honduras,puerto-rico,HN,PR,North America,North America,North America,international
+Joe Public FC,Columbus Crew,2010-10-22,1,4,F,CONCACAF CC,Joe Public FC (Trinidad And Tobago),Columbus Crew (United States),trinidad-and-tobago,united-states,TT,US,North America,North America,North America,international
+Columbus Crew,Real Salt Lake,2011-02-23,0,0,F,CONCACAF CC,Columbus Crew (United States),Real Salt Lake (United States),united-states,united-states,US,US,North America,North America,North America,international
+Cruz Azul,Santos Laguna,2011-02-23,2,0,F,CONCACAF CC,Cruz Azul (Mexico),Santos Laguna (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Deportivo Toluca,CF Monterrey,2011-02-24,0,1,F,CONCACAF CC,Deportivo Toluca (Mexico),CF Monterrey (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Deportivo Saprissa,CD Olimpia,2011-02-25,1,0,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),CD Olimpia (Honduras),costa-rica,honduras,CR,HN,North America,North America,North America,international
+Santos Laguna,Cruz Azul,2011-03-02,1,3,F,CONCACAF CC,Santos Laguna (Mexico),Cruz Azul (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Real Salt Lake,Columbus Crew,2011-03-02,4,1,F,CONCACAF CC,Real Salt Lake (United States),Columbus Crew (United States),united-states,united-states,US,US,North America,North America,North America,international
+CF Monterrey,Deportivo Toluca,2011-03-03,1,0,F,CONCACAF CC,CF Monterrey (Mexico),Deportivo Toluca (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+CD Olimpia,Deportivo Saprissa,2011-03-04,1,2,F,CONCACAF CC,CD Olimpia (Honduras),Deportivo Saprissa (Costa Rica),honduras,costa-rica,HN,CR,North America,North America,North America,international
+Real Salt Lake,Deportivo Saprissa,2011-03-16,2,0,F,CONCACAF CC,Real Salt Lake (United States),Deportivo Saprissa (Costa Rica),united-states,costa-rica,US,CR,North America,North America,North America,international
+CF Monterrey,Cruz Azul,2011-03-17,2,1,F,CONCACAF CC,CF Monterrey (Mexico),Cruz Azul (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Deportivo Saprissa,Real Salt Lake,2011-04-06,2,1,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),Real Salt Lake (United States),costa-rica,united-states,CR,US,North America,North America,North America,international
+Cruz Azul,CF Monterrey,2011-04-07,1,1,F,CONCACAF CC,Cruz Azul (Mexico),CF Monterrey (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+CF Monterrey,Real Salt Lake,2011-04-21,2,2,F,CONCACAF CC,CF Monterrey (Mexico),Real Salt Lake (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Real Salt Lake,CF Monterrey,2011-04-28,0,1,F,CONCACAF CC,Real Salt Lake (United States),CF Monterrey (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+San Francisco FC,Seattle Sounders,2011-07-27,1,0,F,CONCACAF CC,San Francisco FC (Panama),Seattle Sounders (United States),panama,united-states,PA,US,North America,North America,North America,international
+CS Herediano,Alpha United,2011-07-27,8,0,F,CONCACAF CC,CS Herediano (Costa Rica),Alpha United (Guyana),costa-rica,guyana,CR,GY,North America,South America,North America,international
+Toronto FC,Real Esteli,2011-07-28,2,1,F,CONCACAF CC,Toronto FC (Canada),Real Esteli (Nicaragua),canada,nicaragua,CA,NI,North America,North America,North America,international
+Asociacion Deportiva Isidro Metapan,Puerto Rico Islanders,2011-07-28,2,0,F,CONCACAF CC,Asociacion Deportiva Isidro Metapan (El Salvador),Puerto Rico Islanders (Puerto Rico),el-salvador,puerto-rico,SV,PR,North America,North America,North America,international
+Santos Laguna,CD Olimpia,2011-07-28,3,1,F,CONCACAF CC,Santos Laguna (Mexico),CD Olimpia (Honduras),mexico,honduras,MX,HN,North America,North America,North America,international
+Monarcas Morelia,Tempete FC,2011-07-29,5,0,F,CONCACAF CC,Monarcas Morelia (Mexico),Tempete FC (Haiti),mexico,haiti,MX,HT,North America,North America,North America,international
+Alianza FC,FC Dallas,2011-07-29,0,1,F,CONCACAF CC,Alianza FC (El Salvador),FC Dallas (United States),el-salvador,united-states,SV,US,North America,North America,North America,international
+CD Motagua,CSd Municipal,2011-07-29,4,0,F,CONCACAF CC,CD Motagua (Honduras),CSd Municipal (Guatemala),honduras,guatemala,HN,GT,North America,North America,North America,international
+Real Esteli,Toronto FC,2011-08-03,1,2,F,CONCACAF CC,Real Esteli (Nicaragua),Toronto FC (Canada),nicaragua,canada,NI,CA,North America,North America,North America,international
+FC Dallas,Alianza FC,2011-08-04,1,0,F,CONCACAF CC,FC Dallas (United States),Alianza FC (El Salvador),united-states,el-salvador,US,SV,North America,North America,North America,international
+Tempete FC,Monarcas Morelia,2011-08-04,0,2,F,CONCACAF CC,Tempete FC (Haiti),Monarcas Morelia (Mexico),haiti,mexico,HT,MX,North America,North America,North America,international
+Puerto Rico Islanders,Asociacion Deportiva Isidro Metapan,2011-08-04,3,1,F,CONCACAF CC,Puerto Rico Islanders (Puerto Rico),Asociacion Deportiva Isidro Metapan (El Salvador),puerto-rico,el-salvador,PR,SV,North America,North America,North America,international
+Seattle Sounders,San Francisco FC,2011-08-04,2,0,E,CONCACAF CC,Seattle Sounders (United States),San Francisco FC (Panama),united-states,panama,US,PA,North America,North America,North America,international
+CD Olimpia,Santos Laguna,2011-08-04,2,1,F,CONCACAF CC,CD Olimpia (Honduras),Santos Laguna (Mexico),honduras,mexico,HN,MX,North America,North America,North America,international
+Alpha United,CS Herediano,2011-08-05,2,2,F,CONCACAF CC,Alpha United (Guyana),CS Herediano (Costa Rica),guyana,costa-rica,GY,CR,South America,North America,North America,international
+CSd Municipal,CD Motagua,2011-08-05,2,0,F,CONCACAF CC,CSd Municipal (Guatemala),CD Motagua (Honduras),guatemala,honduras,GT,HN,North America,North America,North America,international
+Santos Laguna,Real CD Espana,2011-08-17,3,2,F,CONCACAF CC,Santos Laguna (Mexico),Real CD Espana (Honduras),mexico,honduras,MX,HN,North America,North America,North America,international
+Los Angeles Galaxy,CD Motagua,2011-08-17,2,0,F,CONCACAF CC,Los Angeles Galaxy (United States),CD Motagua (Honduras),united-states,honduras,US,HN,North America,North America,North America,international
+Ld Alajuelense,Monarcas Morelia,2011-08-17,1,0,F,CONCACAF CC,Ld Alajuelense (Costa Rica),Monarcas Morelia (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+Seattle Sounders,CSd Comunicaciones,2011-08-17,4,1,F,CONCACAF CC,Seattle Sounders (United States),CSd Comunicaciones (Guatemala),united-states,guatemala,US,GT,North America,North America,North America,international
+CS Herediano,CF Monterrey,2011-08-18,0,5,F,CONCACAF CC,CS Herediano (Costa Rica),CF Monterrey (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+Pumas Unam,FC Dallas,2011-08-18,0,1,F,CONCACAF CC,Pumas Unam (Mexico),FC Dallas (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Colorado Rapids,Asociacion Deportiva Isidro Metapan,2011-08-18,3,2,F,CONCACAF CC,Colorado Rapids (United States),Asociacion Deportiva Isidro Metapan (El Salvador),united-states,el-salvador,US,SV,North America,North America,North America,international
+Tauro FC,Toronto FC,2011-08-19,1,2,F,CONCACAF CC,Tauro FC (Panama),Toronto FC (Canada),panama,canada,PA,CA,North America,North America,North America,international
+CF Monterrey,Seattle Sounders,2011-08-24,0,1,F,CONCACAF CC,CF Monterrey (Mexico),Seattle Sounders (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Real CD Espana,Colorado Rapids,2011-08-24,1,1,F,CONCACAF CC,Real CD Espana (Honduras),Colorado Rapids (United States),honduras,united-states,HN,US,North America,North America,North America,international
+CSd Comunicaciones,CS Herediano,2011-08-24,2,0,F,CONCACAF CC,CSd Comunicaciones (Guatemala),CS Herediano (Costa Rica),guatemala,costa-rica,GT,CR,North America,North America,North America,international
+Asociacion Deportiva Isidro Metapan,Santos Laguna,2011-08-25,2,0,F,CONCACAF CC,Asociacion Deportiva Isidro Metapan (El Salvador),Santos Laguna (Mexico),el-salvador,mexico,SV,MX,North America,North America,North America,international
+Toronto FC,FC Dallas,2011-08-25,0,1,F,CONCACAF CC,Toronto FC (Canada),FC Dallas (United States),canada,united-states,CA,US,North America,North America,North America,international
+Tauro FC,Pumas Unam,2011-08-26,0,0,F,CONCACAF CC,Tauro FC (Panama),Pumas Unam (Mexico),panama,mexico,PA,MX,North America,North America,North America,international
+Los Angeles Galaxy,Ld Alajuelense,2011-08-26,2,0,F,CONCACAF CC,Los Angeles Galaxy (United States),Ld Alajuelense (Costa Rica),united-states,costa-rica,US,CR,North America,North America,North America,international
+Monarcas Morelia,CD Motagua,2011-08-26,4,0,F,CONCACAF CC,Monarcas Morelia (Mexico),CD Motagua (Honduras),mexico,honduras,MX,HN,North America,North America,North America,international
+Monarcas Morelia,Los Angeles Galaxy,2011-09-14,2,1,F,CONCACAF CC,Monarcas Morelia (Mexico),Los Angeles Galaxy (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Real CD Espana,Asociacion Deportiva Isidro Metapan,2011-09-14,1,2,F,CONCACAF CC,Real CD Espana (Honduras),Asociacion Deportiva Isidro Metapan (El Salvador),honduras,el-salvador,HN,SV,North America,North America,North America,international
+Colorado Rapids,Santos Laguna,2011-09-14,1,4,F,CONCACAF CC,Colorado Rapids (United States),Santos Laguna (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+FC Dallas,Tauro FC,2011-09-15,1,1,F,CONCACAF CC,FC Dallas (United States),Tauro FC (Panama),united-states,panama,US,PA,North America,North America,North America,international
+Pumas Unam,Toronto FC,2011-09-15,4,0,F,CONCACAF CC,Pumas Unam (Mexico),Toronto FC (Canada),mexico,canada,MX,CA,North America,North America,North America,international
+CS Herediano,Seattle Sounders,2011-09-15,1,2,F,CONCACAF CC,CS Herediano (Costa Rica),Seattle Sounders (United States),costa-rica,united-states,CR,US,North America,North America,North America,international
+CSd Comunicaciones,CF Monterrey,2011-09-15,1,0,F,CONCACAF CC,CSd Comunicaciones (Guatemala),CF Monterrey (Mexico),guatemala,mexico,GT,MX,North America,North America,North America,international
+CD Motagua,Ld Alajuelense,2011-09-16,2,4,F,CONCACAF CC,CD Motagua (Honduras),Ld Alajuelense (Costa Rica),honduras,costa-rica,HN,CR,North America,North America,North America,international
+Toronto FC,Tauro FC,2011-09-21,1,0,F,CONCACAF CC,Toronto FC (Canada),Tauro FC (Panama),canada,panama,CA,PA,North America,North America,North America,international
+CF Monterrey,CSd Comunicaciones,2011-09-21,3,1,F,CONCACAF CC,CF Monterrey (Mexico),CSd Comunicaciones (Guatemala),mexico,guatemala,MX,GT,North America,North America,North America,international
+Seattle Sounders,CS Herediano,2011-09-21,0,1,F,CONCACAF CC,Seattle Sounders (United States),CS Herediano (Costa Rica),united-states,costa-rica,US,CR,North America,North America,North America,international
+FC Dallas,Pumas Unam,2011-09-22,0,2,F,CONCACAF CC,FC Dallas (United States),Pumas Unam (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Colorado Rapids,Real CD Espana,2011-09-22,1,2,F,CONCACAF CC,Colorado Rapids (United States),Real CD Espana (Honduras),united-states,honduras,US,HN,North America,North America,North America,international
+Ld Alajuelense,Los Angeles Galaxy,2011-09-22,1,0,F,CONCACAF CC,Ld Alajuelense (Costa Rica),Los Angeles Galaxy (United States),costa-rica,united-states,CR,US,North America,North America,North America,international
+Santos Laguna,Asociacion Deportiva Isidro Metapan,2011-09-23,6,0,F,CONCACAF CC,Santos Laguna (Mexico),Asociacion Deportiva Isidro Metapan (El Salvador),mexico,el-salvador,MX,SV,North America,North America,North America,international
+CD Motagua,Monarcas Morelia,2011-09-23,0,2,F,CONCACAF CC,CD Motagua (Honduras),Monarcas Morelia (Mexico),honduras,mexico,HN,MX,North America,North America,North America,international
+Toronto FC,Pumas Unam,2011-09-28,1,1,F,CONCACAF CC,Toronto FC (Canada),Pumas Unam (Mexico),canada,mexico,CA,MX,North America,North America,North America,international
+CSd Comunicaciones,Seattle Sounders,2011-09-28,2,2,F,CONCACAF CC,CSd Comunicaciones (Guatemala),Seattle Sounders (United States),guatemala,united-states,GT,US,North America,North America,North America,international
+CF Monterrey,CS Herediano,2011-09-28,1,0,F,CONCACAF CC,CF Monterrey (Mexico),CS Herediano (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+Real CD Espana,Santos Laguna,2011-09-29,1,1,F,CONCACAF CC,Real CD Espana (Honduras),Santos Laguna (Mexico),honduras,mexico,HN,MX,North America,North America,North America,international
+Tauro FC,FC Dallas,2011-09-29,5,3,F,CONCACAF CC,Tauro FC (Panama),FC Dallas (United States),panama,united-states,PA,US,North America,North America,North America,international
+Los Angeles Galaxy,Monarcas Morelia,2011-09-29,2,1,F,CONCACAF CC,Los Angeles Galaxy (United States),Monarcas Morelia (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Asociacion Deportiva Isidro Metapan,Colorado Rapids,2011-09-29,1,3,F,CONCACAF CC,Asociacion Deportiva Isidro Metapan (El Salvador),Colorado Rapids (United States),el-salvador,united-states,SV,US,North America,North America,North America,international
+Ld Alajuelense,CD Motagua,2011-09-30,1,0,F,CONCACAF CC,Ld Alajuelense (Costa Rica),CD Motagua (Honduras),costa-rica,honduras,CR,HN,North America,North America,North America,international
+Monarcas Morelia,Ld Alajuelense,2011-10-19,2,1,F,CONCACAF CC,Monarcas Morelia (Mexico),Ld Alajuelense (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+FC Dallas,Toronto FC,2011-10-19,0,3,F,CONCACAF CC,FC Dallas (United States),Toronto FC (Canada),united-states,canada,US,CA,North America,North America,North America,international
+Seattle Sounders,CF Monterrey,2011-10-19,1,2,F,CONCACAF CC,Seattle Sounders (United States),CF Monterrey (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Santos Laguna,Colorado Rapids,2011-10-20,2,0,F,CONCACAF CC,Santos Laguna (Mexico),Colorado Rapids (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Pumas Unam,Tauro FC,2011-10-20,1,0,F,CONCACAF CC,Pumas Unam (Mexico),Tauro FC (Panama),mexico,panama,MX,PA,North America,North America,North America,international
+CS Herediano,CSd Comunicaciones,2011-10-20,4,1,F,CONCACAF CC,CS Herediano (Costa Rica),CSd Comunicaciones (Guatemala),costa-rica,guatemala,CR,GT,North America,North America,North America,international
+Asociacion Deportiva Isidro Metapan,Real CD Espana,2011-10-21,3,2,F,CONCACAF CC,Asociacion Deportiva Isidro Metapan (El Salvador),Real CD Espana (Honduras),el-salvador,honduras,SV,HN,North America,North America,North America,international
+CD Motagua,Los Angeles Galaxy,2011-10-21,0,1,F,CONCACAF CC,CD Motagua (Honduras),Los Angeles Galaxy (United States),honduras,united-states,HN,US,North America,North America,North America,international
+Monarcas Morelia,CF Monterrey,2012-03-07,1,3,F,CONCACAF CC,Monarcas Morelia (Mexico),CF Monterrey (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Toronto FC,Los Angeles Galaxy,2012-03-08,2,2,F,CONCACAF CC,Toronto FC (Canada),Los Angeles Galaxy (United States),canada,united-states,CA,US,North America,North America,North America,international
+Seattle Sounders,Santos Laguna,2012-03-08,2,1,F,CONCACAF CC,Seattle Sounders (United States),Santos Laguna (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Asociacion Deportiva Isidro Metapan,Pumas Unam,2012-03-09,2,1,F,CONCACAF CC,Asociacion Deportiva Isidro Metapan (El Salvador),Pumas Unam (Mexico),el-salvador,mexico,SV,MX,North America,North America,North America,international
+CF Monterrey,Monarcas Morelia,2012-03-14,4,1,F,CONCACAF CC,CF Monterrey (Mexico),Monarcas Morelia (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Santos Laguna,Seattle Sounders,2012-03-15,6,1,F,CONCACAF CC,Santos Laguna (Mexico),Seattle Sounders (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Los Angeles Galaxy,Toronto FC,2012-03-15,1,2,F,CONCACAF CC,Los Angeles Galaxy (United States),Toronto FC (Canada),united-states,canada,US,CA,North America,North America,North America,international
+Pumas Unam,Asociacion Deportiva Isidro Metapan,2012-03-16,8,0,F,CONCACAF CC,Pumas Unam (Mexico),Asociacion Deportiva Isidro Metapan (El Salvador),mexico,el-salvador,MX,SV,North America,North America,North America,international
+Toronto FC,Santos Laguna,2012-03-29,1,1,F,CONCACAF CC,Toronto FC (Canada),Santos Laguna (Mexico),canada,mexico,CA,MX,North America,North America,North America,international
+CF Monterrey,Pumas Unam,2012-03-29,3,0,F,CONCACAF CC,CF Monterrey (Mexico),Pumas Unam (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Santos Laguna,Toronto FC,2012-04-05,6,2,F,CONCACAF CC,Santos Laguna (Mexico),Toronto FC (Canada),mexico,canada,MX,CA,North America,North America,North America,international
+Pumas Unam,CF Monterrey,2012-04-05,1,1,F,CONCACAF CC,Pumas Unam (Mexico),CF Monterrey (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+CF Monterrey,Santos Laguna,2012-04-19,2,0,F,CONCACAF CC,CF Monterrey (Mexico),Santos Laguna (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Santos Laguna,CF Monterrey,2012-04-26,2,1,F,CONCACAF CC,Santos Laguna (Mexico),CF Monterrey (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+CF Monterrey,Chorrillo FC,2012-08-01,5,0,F,CONCACAF CC,CF Monterrey (Mexico),Chorrillo FC (Panama),mexico,panama,MX,PA,North America,North America,North America,international
+CS Herediano,Real Salt Lake,2012-08-01,1,0,F,CONCACAF CC,CS Herediano (Costa Rica),Real Salt Lake (United States),costa-rica,united-states,CR,US,North America,North America,North America,international
+Toronto FC,CD Aguila,2012-08-02,5,1,F,CONCACAF CC,Toronto FC (Canada),CD Aguila (El Salvador),canada,el-salvador,CA,SV,North America,North America,North America,international
+Uanl Tigres,Real Esteli,2012-08-02,4,0,F,CONCACAF CC,Uanl Tigres (Mexico),Real Esteli (Nicaragua),mexico,nicaragua,MX,NI,North America,North America,North America,international
+Asociacion Deportiva Isidro Metapan,Puerto Rico Islanders,2012-08-02,3,1,F,CONCACAF CC,Asociacion Deportiva Isidro Metapan (El Salvador),Puerto Rico Islanders (Puerto Rico),el-salvador,puerto-rico,SV,PR,North America,North America,North America,international
+W Connection,Xelaju MC,2012-08-03,2,2,F,CONCACAF CC,W Connection (Trinidad And Tobago),Xelaju MC (Guatemala),trinidad-and-tobago,guatemala,TT,GT,North America,North America,North America,international
+CD Olimpia,CD Fas,2012-08-03,3,0,F,CONCACAF CC,CD Olimpia (Honduras),CD Fas (El Salvador),honduras,el-salvador,HN,SV,North America,North America,North America,international
+Seattle Sounders,Caledonia Aia,2012-08-03,3,1,F,CONCACAF CC,Seattle Sounders (United States),Caledonia Aia (Trinidad And Tobago),united-states,trinidad-and-tobago,US,TT,North America,North America,North America,international
+Santos Laguna,CD Aguila,2012-08-22,5,0,F,CONCACAF CC,Santos Laguna (Mexico),CD Aguila (El Salvador),mexico,el-salvador,MX,SV,North America,North America,North America,international
+Real Salt Lake,Tauro FC,2012-08-22,2,0,F,CONCACAF CC,Real Salt Lake (United States),Tauro FC (Panama),united-states,panama,US,PA,North America,North America,North America,international
+Xelaju MC,Deportivo Guadalajara,2012-08-22,1,0,F,CONCACAF CC,Xelaju MC (Guatemala),Deportivo Guadalajara (Mexico),guatemala,mexico,GT,MX,North America,North America,North America,international
+Caledonia Aia,CD Marathon,2012-08-23,0,0,F,CONCACAF CC,Caledonia Aia (Trinidad And Tobago),CD Marathon (Honduras),trinidad-and-tobago,honduras,TT,HN,North America,North America,North America,international
+Ld Alajuelense,Uanl Tigres,2012-08-23,2,2,F,CONCACAF CC,Ld Alajuelense (Costa Rica),Uanl Tigres (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+CD Fas,Houston Dynamo,2012-08-23,1,3,F,CONCACAF CC,CD Fas (El Salvador),Houston Dynamo (United States),el-salvador,united-states,SV,US,North America,North America,North America,international
+Chorrillo FC,CSd Municipal,2012-08-24,1,2,F,CONCACAF CC,Chorrillo FC (Panama),CSd Municipal (Guatemala),panama,guatemala,PA,GT,North America,North America,North America,international
+Los Angeles Galaxy,Asociacion Deportiva Isidro Metapan,2012-08-24,5,2,F,CONCACAF CC,Los Angeles Galaxy (United States),Asociacion Deportiva Isidro Metapan (El Salvador),united-states,el-salvador,US,SV,North America,North America,North America,international
+Toronto FC,Santos Laguna,2012-08-29,1,3,F,CONCACAF CC,Toronto FC (Canada),Santos Laguna (Mexico),canada,mexico,CA,MX,North America,North America,North America,international
+Real Esteli,Ld Alajuelense,2012-08-29,0,1,F,CONCACAF CC,Real Esteli (Nicaragua),Ld Alajuelense (Costa Rica),nicaragua,costa-rica,NI,CR,North America,North America,North America,international
+Deportivo Guadalajara,W Connection,2012-08-30,4,0,F,CONCACAF CC,Deportivo Guadalajara (Mexico),W Connection (Trinidad And Tobago),mexico,trinidad-and-tobago,MX,TT,North America,North America,North America,international
+CSd Municipal,CF Monterrey,2012-08-30,0,1,F,CONCACAF CC,CSd Municipal (Guatemala),CF Monterrey (Mexico),guatemala,mexico,GT,MX,North America,North America,North America,international
+Los Angeles Galaxy,Puerto Rico Islanders,2012-08-30,4,0,F,CONCACAF CC,Los Angeles Galaxy (United States),Puerto Rico Islanders (Puerto Rico),united-states,puerto-rico,US,PR,North America,North America,North America,international
+Tauro FC,CS Herediano,2012-08-31,0,1,F,CONCACAF CC,Tauro FC (Panama),CS Herediano (Costa Rica),panama,costa-rica,PA,CR,North America,North America,North America,international
+Caledonia Aia,Seattle Sounders,2012-08-31,1,3,F,CONCACAF CC,Caledonia Aia (Trinidad And Tobago),Seattle Sounders (United States),trinidad-and-tobago,united-states,TT,US,North America,North America,North America,international
+CD Olimpia,Houston Dynamo,2012-08-31,1,1,F,CONCACAF CC,CD Olimpia (Honduras),Houston Dynamo (United States),honduras,united-states,HN,US,North America,North America,North America,international
+Tauro FC,Real Salt Lake,2012-09-19,0,1,F,CONCACAF CC,Tauro FC (Panama),Real Salt Lake (United States),panama,united-states,PA,US,North America,North America,North America,international
+Xelaju MC,W Connection,2012-09-19,3,2,F,CONCACAF CC,Xelaju MC (Guatemala),W Connection (Trinidad And Tobago),guatemala,trinidad-and-tobago,GT,TT,North America,North America,North America,international
+Real Esteli,Uanl Tigres,2012-09-19,1,1,F,CONCACAF CC,Real Esteli (Nicaragua),Uanl Tigres (Mexico),nicaragua,mexico,NI,MX,North America,North America,North America,international
+Puerto Rico Islanders,Los Angeles Galaxy,2012-09-20,0,0,F,CONCACAF CC,Puerto Rico Islanders (Puerto Rico),Los Angeles Galaxy (United States),puerto-rico,united-states,PR,US,North America,North America,North America,international
+CD Aguila,Santos Laguna,2012-09-20,0,4,F,CONCACAF CC,CD Aguila (El Salvador),Santos Laguna (Mexico),el-salvador,mexico,SV,MX,North America,North America,North America,international
+CD Marathon,Seattle Sounders,2012-09-20,2,3,F,CONCACAF CC,CD Marathon (Honduras),Seattle Sounders (United States),honduras,united-states,HN,US,North America,North America,North America,international
+Houston Dynamo,CD Fas,2012-09-21,4,0,F,CONCACAF CC,Houston Dynamo (United States),CD Fas (El Salvador),united-states,el-salvador,US,SV,North America,North America,North America,international
+CSd Municipal,Chorrillo FC,2012-09-21,2,1,F,CONCACAF CC,CSd Municipal (Guatemala),Chorrillo FC (Panama),guatemala,panama,GT,PA,North America,North America,North America,international
+CF Monterrey,CSd Municipal,2012-09-26,3,0,F,CONCACAF CC,CF Monterrey (Mexico),CSd Municipal (Guatemala),mexico,guatemala,MX,GT,North America,North America,North America,international
+CD Aguila,Toronto FC,2012-09-26,0,3,F,CONCACAF CC,CD Aguila (El Salvador),Toronto FC (Canada),el-salvador,canada,SV,CA,North America,North America,North America,international
+CS Herediano,Tauro FC,2012-09-26,2,1,F,CONCACAF CC,CS Herediano (Costa Rica),Tauro FC (Panama),costa-rica,panama,CR,PA,North America,North America,North America,international
+W Connection,Deportivo Guadalajara,2012-09-27,1,1,F,CONCACAF CC,W Connection (Trinidad And Tobago),Deportivo Guadalajara (Mexico),trinidad-and-tobago,mexico,TT,MX,North America,North America,North America,international
+CD Marathon,Caledonia Aia,2012-09-27,2,1,F,CONCACAF CC,CD Marathon (Honduras),Caledonia Aia (Trinidad And Tobago),honduras,trinidad-and-tobago,HN,TT,North America,North America,North America,international
+Ld Alajuelense,Real Esteli,2012-09-27,1,0,F,CONCACAF CC,Ld Alajuelense (Costa Rica),Real Esteli (Nicaragua),costa-rica,nicaragua,CR,NI,North America,North America,North America,international
+Puerto Rico Islanders,Asociacion Deportiva Isidro Metapan,2012-09-28,3,0,F,CONCACAF CC,Puerto Rico Islanders (Puerto Rico),Asociacion Deportiva Isidro Metapan (El Salvador),puerto-rico,el-salvador,PR,SV,North America,North America,North America,international
+CD Fas,CD Olimpia,2012-09-28,2,1,F,CONCACAF CC,CD Fas (El Salvador),CD Olimpia (Honduras),el-salvador,honduras,SV,HN,North America,North America,North America,international
+Houston Dynamo,CD Olimpia,2012-10-24,1,1,F,CONCACAF CC,Houston Dynamo (United States),CD Olimpia (Honduras),united-states,honduras,US,HN,North America,North America,North America,international
+Real Salt Lake,CS Herediano,2012-10-24,0,0,F,CONCACAF CC,Real Salt Lake (United States),CS Herediano (Costa Rica),united-states,costa-rica,US,CR,North America,North America,North America,international
+Chorrillo FC,CF Monterrey,2012-10-24,0,6,F,CONCACAF CC,Chorrillo FC (Panama),CF Monterrey (Mexico),panama,mexico,PA,MX,North America,North America,North America,international
+Santos Laguna,Toronto FC,2012-10-25,1,0,F,CONCACAF CC,Santos Laguna (Mexico),Toronto FC (Canada),mexico,canada,MX,CA,North America,North America,North America,international
+Seattle Sounders,CD Marathon,2012-10-25,3,1,F,CONCACAF CC,Seattle Sounders (United States),CD Marathon (Honduras),united-states,honduras,US,HN,North America,North America,North America,international
+Uanl Tigres,Ld Alajuelense,2012-10-25,5,0,F,CONCACAF CC,Uanl Tigres (Mexico),Ld Alajuelense (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+Deportivo Guadalajara,Xelaju MC,2012-10-26,2,1,F,CONCACAF CC,Deportivo Guadalajara (Mexico),Xelaju MC (Guatemala),mexico,guatemala,MX,GT,North America,North America,North America,international
+Asociacion Deportiva Isidro Metapan,Los Angeles Galaxy,2012-10-26,2,3,F,CONCACAF CC,Asociacion Deportiva Isidro Metapan (El Salvador),Los Angeles Galaxy (United States),el-salvador,united-states,SV,US,North America,North America,North America,international
+Houston Dynamo,Santos Laguna,2013-03-06,1,0,F,CONCACAF CC,Houston Dynamo (United States),Santos Laguna (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Xelaju MC,CF Monterrey,2013-03-07,1,3,F,CONCACAF CC,Xelaju MC (Guatemala),CF Monterrey (Mexico),guatemala,mexico,GT,MX,North America,North America,North America,international
+Uanl Tigres,Seattle Sounders,2013-03-07,1,0,F,CONCACAF CC,Uanl Tigres (Mexico),Seattle Sounders (United States),mexico,united-states,MX,US,North America,North America,North America,international
+CS Herediano,Los Angeles Galaxy,2013-03-08,0,0,F,CONCACAF CC,CS Herediano (Costa Rica),Los Angeles Galaxy (United States),costa-rica,united-states,CR,US,North America,North America,North America,international
+CF Monterrey,Xelaju MC,2013-03-13,1,1,F,CONCACAF CC,CF Monterrey (Mexico),Xelaju MC (Guatemala),mexico,guatemala,MX,GT,North America,North America,North America,international
+Seattle Sounders,Uanl Tigres,2013-03-13,3,1,F,CONCACAF CC,Seattle Sounders (United States),Uanl Tigres (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Santos Laguna,Houston Dynamo,2013-03-14,3,0,F,CONCACAF CC,Santos Laguna (Mexico),Houston Dynamo (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Los Angeles Galaxy,CS Herediano,2013-03-14,4,1,F,CONCACAF CC,Los Angeles Galaxy (United States),CS Herediano (Costa Rica),united-states,costa-rica,US,CR,North America,North America,North America,international
+Seattle Sounders,Santos Laguna,2013-04-03,0,1,F,CONCACAF CC,Seattle Sounders (United States),Santos Laguna (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Los Angeles Galaxy,CF Monterrey,2013-04-04,1,2,F,CONCACAF CC,Los Angeles Galaxy (United States),CF Monterrey (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Santos Laguna,Seattle Sounders,2013-04-10,1,1,F,CONCACAF CC,Santos Laguna (Mexico),Seattle Sounders (United States),mexico,united-states,MX,US,North America,North America,North America,international
+CF Monterrey,Los Angeles Galaxy,2013-04-11,1,0,F,CONCACAF CC,CF Monterrey (Mexico),Los Angeles Galaxy (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Santos Laguna,CF Monterrey,2013-04-25,0,0,F,CONCACAF CC,Santos Laguna (Mexico),CF Monterrey (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+CF Monterrey,Santos Laguna,2013-05-02,4,2,F,CONCACAF CC,CF Monterrey (Mexico),Santos Laguna (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Deportivo Toluca,Caledonia Aia,2013-08-07,3,1,F,CONCACAF CC,Deportivo Toluca (Mexico),Caledonia Aia (Trinidad And Tobago),mexico,trinidad-and-tobago,MX,TT,North America,North America,North America,international
+Club Deportivo Luis Angel Firpo,Club Tijuana,2013-08-07,0,0,F,CONCACAF CC,Club Deportivo Luis Angel Firpo (El Salvador),Club Tijuana (Mexico),el-salvador,mexico,SV,MX,North America,North America,North America,international
+Montreal Impacts,San Jose Earthquakes,2013-08-08,1,0,F,CONCACAF CC,Montreal Impacts (Canada),San Jose Earthquakes (United States),canada,united-states,CA,US,North America,North America,North America,international
+Sporting San Miguelito,CF America,2013-08-08,0,1,F,CONCACAF CC,Sporting San Miguelito (Panama),CF America (Mexico),panama,mexico,PA,MX,North America,North America,North America,international
+Real Esteli,Sporting Kansas City,2013-08-08,0,2,F,CONCACAF CC,Real Esteli (Nicaragua),Sporting Kansas City (United States),nicaragua,united-states,NI,US,North America,North America,North America,international
+Valencia Of Leogane,CS Herediano,2013-08-09,1,6,F,CONCACAF CC,Valencia Of Leogane (Haiti),CS Herediano (Costa Rica),haiti,costa-rica,HT,CR,North America,North America,North America,international
+Asociacion Deportiva Isidro Metapan,Club Sport Cartagines,2013-08-09,2,4,F,CONCACAF CC,Asociacion Deportiva Isidro Metapan (El Salvador),Club Sport Cartagines (Costa Rica),el-salvador,costa-rica,SV,CR,North America,North America,North America,international
+Deportivo Arabe Unido,W Connection,2013-08-09,3,1,F,CONCACAF CC,Deportivo Arabe Unido (Panama),W Connection (Trinidad And Tobago),panama,trinidad-and-tobago,PA,TT,North America,North America,North America,international
+W Connection,Houston Dynamo,2013-08-21,0,0,F,CONCACAF CC,W Connection (Trinidad And Tobago),Houston Dynamo (United States),trinidad-and-tobago,united-states,TT,US,North America,North America,North America,international
+Los Angeles Galaxy,Club Sport Cartagines,2013-08-21,2,0,F,CONCACAF CC,Los Angeles Galaxy (United States),Club Sport Cartagines (Costa Rica),united-states,costa-rica,US,CR,North America,North America,North America,international
+CD Victoria,Club Tijuana,2013-08-21,2,3,F,CONCACAF CC,CD Victoria (Honduras),Club Tijuana (Mexico),honduras,mexico,HN,MX,North America,North America,North America,international
+Club Deportivo Heredia,Montreal Impacts,2013-08-22,1,0,F,CONCACAF CC,Club Deportivo Heredia (Guatemala),Montreal Impacts (Canada),guatemala,canada,GT,CA,North America,North America,North America,international
+Real Esteli,CD Olimpia,2013-08-22,0,1,F,CONCACAF CC,Real Esteli (Nicaragua),CD Olimpia (Honduras),nicaragua,honduras,NI,HN,North America,North America,North America,international
+Cruz Azul,CS Herediano,2013-08-23,3,0,F,CONCACAF CC,Cruz Azul (Mexico),CS Herediano (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+CSd Comunicaciones,Deportivo Toluca,2013-08-23,1,2,F,CONCACAF CC,CSd Comunicaciones (Guatemala),Deportivo Toluca (Mexico),guatemala,mexico,GT,MX,North America,North America,North America,international
+Sporting San Miguelito,Ld Alajuelense,2013-08-23,1,0,F,CONCACAF CC,Sporting San Miguelito (Panama),Ld Alajuelense (Costa Rica),panama,costa-rica,PA,CR,North America,North America,North America,international
+Houston Dynamo,Deportivo Arabe Unido,2013-08-28,2,1,F,CONCACAF CC,Houston Dynamo (United States),Deportivo Arabe Unido (Panama),united-states,panama,US,PA,North America,North America,North America,international
+CD Olimpia,Sporting Kansas City,2013-08-28,0,2,F,CONCACAF CC,CD Olimpia (Honduras),Sporting Kansas City (United States),honduras,united-states,HN,US,North America,North America,North America,international
+Club Sport Cartagines,Asociacion Deportiva Isidro Metapan,2013-08-28,0,0,F,CONCACAF CC,Club Sport Cartagines (Costa Rica),Asociacion Deportiva Isidro Metapan (El Salvador),costa-rica,el-salvador,CR,SV,North America,North America,North America,international
+Valencia Of Leogane,Cruz Azul,2013-08-29,1,2,F,CONCACAF CC,Valencia Of Leogane (Haiti),Cruz Azul (Mexico),haiti,mexico,HT,MX,North America,North America,North America,international
+Club Deportivo Heredia,San Jose Earthquakes,2013-08-29,1,0,F,CONCACAF CC,Club Deportivo Heredia (Guatemala),San Jose Earthquakes (United States),guatemala,united-states,GT,US,North America,North America,North America,international
+Club Tijuana,Club Deportivo Luis Angel Firpo,2013-08-29,1,0,F,CONCACAF CC,Club Tijuana (Mexico),Club Deportivo Luis Angel Firpo (El Salvador),mexico,el-salvador,MX,SV,North America,North America,North America,international
+Caledonia Aia,CSd Comunicaciones,2013-08-30,0,3,F,CONCACAF CC,Caledonia Aia (Trinidad And Tobago),CSd Comunicaciones (Guatemala),trinidad-and-tobago,guatemala,TT,GT,North America,North America,North America,international
+Ld Alajuelense,CF America,2013-08-30,1,0,F,CONCACAF CC,Ld Alajuelense (Costa Rica),CF America (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+Sporting Kansas City,Real Esteli,2013-09-18,1,1,F,CONCACAF CC,Sporting Kansas City (United States),Real Esteli (Nicaragua),united-states,nicaragua,US,NI,North America,North America,North America,international
+CF America,Sporting San Miguelito,2013-09-18,3,0,F,CONCACAF CC,CF America (Mexico),Sporting San Miguelito (Panama),mexico,panama,MX,PA,North America,North America,North America,international
+San Jose Earthquakes,Montreal Impacts,2013-09-18,3,0,F,CONCACAF CC,San Jose Earthquakes (United States),Montreal Impacts (Canada),united-states,canada,US,CA,North America,North America,North America,international
+Caledonia Aia,Deportivo Toluca,2013-09-19,1,5,F,CONCACAF CC,Caledonia Aia (Trinidad And Tobago),Deportivo Toluca (Mexico),trinidad-and-tobago,mexico,TT,MX,North America,North America,North America,international
+Los Angeles Galaxy,Asociacion Deportiva Isidro Metapan,2013-09-19,1,0,F,CONCACAF CC,Los Angeles Galaxy (United States),Asociacion Deportiva Isidro Metapan (El Salvador),united-states,el-salvador,US,SV,North America,North America,North America,international
+CS Herediano,Valencia Of Leogane,2013-09-19,4,2,F,CONCACAF CC,CS Herediano (Costa Rica),Valencia Of Leogane (Haiti),costa-rica,haiti,CR,HT,North America,North America,North America,international
+W Connection,Deportivo Arabe Unido,2013-09-20,0,2,F,CONCACAF CC,W Connection (Trinidad And Tobago),Deportivo Arabe Unido (Panama),trinidad-and-tobago,panama,TT,PA,North America,North America,North America,international
+Club Deportivo Luis Angel Firpo,CD Victoria,2013-09-20,2,1,F,CONCACAF CC,Club Deportivo Luis Angel Firpo (El Salvador),CD Victoria (Honduras),el-salvador,honduras,SV,HN,North America,North America,North America,international
+Cruz Azul,Valencia Of Leogane,2013-09-25,3,0,F,CONCACAF CC,Cruz Azul (Mexico),Valencia Of Leogane (Haiti),mexico,haiti,MX,HT,North America,North America,North America,international
+Montreal Impacts,Club Deportivo Heredia,2013-09-25,2,0,F,CONCACAF CC,Montreal Impacts (Canada),Club Deportivo Heredia (Guatemala),canada,guatemala,CA,GT,North America,North America,North America,international
+CD Olimpia,Real Esteli,2013-09-25,1,0,F,CONCACAF CC,CD Olimpia (Honduras),Real Esteli (Nicaragua),honduras,nicaragua,HN,NI,North America,North America,North America,international
+Houston Dynamo,W Connection,2013-09-26,2,0,F,CONCACAF CC,Houston Dynamo (United States),W Connection (Trinidad And Tobago),united-states,trinidad-and-tobago,US,TT,North America,North America,North America,international
+Club Sport Cartagines,Los Angeles Galaxy,2013-09-26,0,3,F,CONCACAF CC,Club Sport Cartagines (Costa Rica),Los Angeles Galaxy (United States),costa-rica,united-states,CR,US,North America,North America,North America,international
+CSd Comunicaciones,Caledonia Aia,2013-09-26,2,0,F,CONCACAF CC,CSd Comunicaciones (Guatemala),Caledonia Aia (Trinidad And Tobago),guatemala,trinidad-and-tobago,GT,TT,North America,North America,North America,international
+Ld Alajuelense,Sporting San Miguelito,2013-09-27,2,0,F,CONCACAF CC,Ld Alajuelense (Costa Rica),Sporting San Miguelito (Panama),costa-rica,panama,CR,PA,North America,North America,North America,international
+Club Tijuana,CD Victoria,2013-09-27,6,0,F,CONCACAF CC,Club Tijuana (Mexico),CD Victoria (Honduras),mexico,honduras,MX,HN,North America,North America,North America,international
+CF America,Ld Alajuelense,2013-10-23,0,1,F,CONCACAF CC,CF America (Mexico),Ld Alajuelense (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+CS Herediano,Cruz Azul,2013-10-23,1,2,F,CONCACAF CC,CS Herediano (Costa Rica),Cruz Azul (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+Sporting Kansas City,CD Olimpia,2013-10-24,0,0,F,CONCACAF CC,Sporting Kansas City (United States),CD Olimpia (Honduras),united-states,honduras,US,HN,North America,North America,North America,international
+Deportivo Toluca,CSd Comunicaciones,2013-10-24,5,1,F,CONCACAF CC,Deportivo Toluca (Mexico),CSd Comunicaciones (Guatemala),mexico,guatemala,MX,GT,North America,North America,North America,international
+San Jose Earthquakes,Club Deportivo Heredia,2013-10-24,1,0,F,CONCACAF CC,San Jose Earthquakes (United States),Club Deportivo Heredia (Guatemala),united-states,guatemala,US,GT,North America,North America,North America,international
+CD Victoria,Club Deportivo Luis Angel Firpo,2013-10-24,1,4,F,CONCACAF CC,CD Victoria (Honduras),Club Deportivo Luis Angel Firpo (El Salvador),honduras,el-salvador,HN,SV,North America,North America,North America,international
+Deportivo Arabe Unido,Houston Dynamo,2013-10-25,1,0,F,CONCACAF CC,Deportivo Arabe Unido (Panama),Houston Dynamo (United States),panama,united-states,PA,US,North America,North America,North America,international
+Asociacion Deportiva Isidro Metapan,Los Angeles Galaxy,2013-10-25,4,0,F,CONCACAF CC,Asociacion Deportiva Isidro Metapan (El Salvador),Los Angeles Galaxy (United States),el-salvador,united-states,SV,US,North America,North America,North America,international
+Ld Alajuelense,Deportivo Arabe Unido,2014-03-11,0,0,F,CONCACAF CC,Ld Alajuelense (Costa Rica),Deportivo Arabe Unido (Panama),costa-rica,panama,CR,PA,North America,North America,North America,international
+San Jose Earthquakes,Deportivo Toluca,2014-03-12,1,1,F,CONCACAF CC,San Jose Earthquakes (United States),Deportivo Toluca (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Sporting Kansas City,Cruz Azul,2014-03-13,1,0,F,CONCACAF CC,Sporting Kansas City (United States),Cruz Azul (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Los Angeles Galaxy,Club Tijuana,2014-03-13,1,0,F,CONCACAF CC,Los Angeles Galaxy (United States),Club Tijuana (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Club Tijuana,Los Angeles Galaxy,2014-03-19,4,2,F,CONCACAF CC,Club Tijuana (Mexico),Los Angeles Galaxy (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Deportivo Toluca,San Jose Earthquakes,2014-03-20,1,1,P,CONCACAF CC,Deportivo Toluca (Mexico),San Jose Earthquakes (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Cruz Azul,Sporting Kansas City,2014-03-20,5,1,F,CONCACAF CC,Cruz Azul (Mexico),Sporting Kansas City (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Deportivo Arabe Unido,Ld Alajuelense,2014-03-21,0,2,F,CONCACAF CC,Deportivo Arabe Unido (Panama),Ld Alajuelense (Costa Rica),panama,costa-rica,PA,CR,North America,North America,North America,international
+Ld Alajuelense,Deportivo Toluca,2014-04-02,0,1,F,CONCACAF CC,Ld Alajuelense (Costa Rica),Deportivo Toluca (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+Club Tijuana,Cruz Azul,2014-04-02,1,0,F,CONCACAF CC,Club Tijuana (Mexico),Cruz Azul (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Deportivo Toluca,Ld Alajuelense,2014-04-09,2,0,F,CONCACAF CC,Deportivo Toluca (Mexico),Ld Alajuelense (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+Cruz Azul,Club Tijuana,2014-04-10,2,0,F,CONCACAF CC,Cruz Azul (Mexico),Club Tijuana (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Cruz Azul,Deportivo Toluca,2014-04-16,0,0,F,CONCACAF CC,Cruz Azul (Mexico),Deportivo Toluca (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Deportivo Toluca,Cruz Azul,2014-04-24,1,1,F,CONCACAF CC,Deportivo Toluca (Mexico),Cruz Azul (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Montreal Impacts,CD Fas,2014-08-06,1,0,F,CONCACAF CC,Montreal Impacts (Canada),CD Fas (El Salvador),canada,el-salvador,CA,SV,North America,North America,North America,international
+Alpha United,CD Olimpia,2014-08-06,0,1,F,CONCACAF CC,Alpha United (Guyana),CD Olimpia (Honduras),guyana,honduras,GY,HN,South America,North America,North America,international
+Cruz Azul,Ld Alajuelense,2014-08-06,1,1,F,CONCACAF CC,Cruz Azul (Mexico),Ld Alajuelense (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+Asociacion Deportiva Isidro Metapan,Club Leon,2014-08-06,2,4,F,CONCACAF CC,Asociacion Deportiva Isidro Metapan (El Salvador),Club Leon (Mexico),el-salvador,mexico,SV,MX,North America,North America,North America,international
+CF Pachuca,Real CD Espana,2014-08-07,4,1,F,CONCACAF CC,CF Pachuca (Mexico),Real CD Espana (Honduras),mexico,honduras,MX,HN,North America,North America,North America,international
+Real Esteli,Deportivo Saprissa,2014-08-07,1,1,F,CONCACAF CC,Real Esteli (Nicaragua),Deportivo Saprissa (Costa Rica),nicaragua,costa-rica,NI,CR,North America,North America,North America,international
+Tauro FC,Waterhouse FC,2014-08-08,1,2,F,CONCACAF CC,Tauro FC (Panama),Waterhouse FC (Jamaica),panama,jamaica,PA,JM,North America,North America,North America,international
+CSd Comunicaciones,Bayamon FC,2014-08-08,5,0,F,CONCACAF CC,CSd Comunicaciones (Guatemala),Bayamon FC (Puerto Rico),guatemala,puerto-rico,GT,PR,North America,North America,North America,international
+Alpha United,Portland Timbers,2014-08-20,1,4,F,CONCACAF CC,Alpha United (Guyana),Portland Timbers (United States),guyana,united-states,GY,US,South America,North America,North America,international
+CF America,Bayamon FC,2014-08-20,6,1,F,CONCACAF CC,CF America (Mexico),Bayamon FC (Puerto Rico),mexico,puerto-rico,MX,PR,North America,North America,North America,international
+Real Esteli,Sporting Kansas City,2014-08-20,1,1,F,CONCACAF CC,Real Esteli (Nicaragua),Sporting Kansas City (United States),nicaragua,united-states,NI,US,North America,North America,North America,international
+Chorrillo FC,Cruz Azul,2014-08-20,1,0,F,CONCACAF CC,Chorrillo FC (Panama),Cruz Azul (Mexico),panama,mexico,PA,MX,North America,North America,North America,international
+D C United,Waterhouse FC,2014-08-21,1,0,F,CONCACAF CC,D C United (United States),Waterhouse FC (Jamaica),united-states,jamaica,US,JM,North America,North America,North America,international
+CD Fas,Montreal Impacts,2014-08-21,2,3,F,CONCACAF CC,CD Fas (El Salvador),Montreal Impacts (Canada),el-salvador,canada,SV,CA,North America,North America,North America,international
+Real CD Espana,CSd Municipal,2014-08-22,1,1,F,CONCACAF CC,Real CD Espana (Honduras),CSd Municipal (Guatemala),honduras,guatemala,HN,GT,North America,North America,North America,international
+CS Herediano,Asociacion Deportiva Isidro Metapan,2014-08-22,4,0,F,CONCACAF CC,CS Herediano (Costa Rica),Asociacion Deportiva Isidro Metapan (El Salvador),costa-rica,el-salvador,CR,SV,North America,North America,North America,international
+New York RB,CD Fas,2014-08-27,2,0,F,CONCACAF CC,New York RB (United States),CD Fas (El Salvador),united-states,el-salvador,US,SV,North America,North America,North America,international
+Deportivo Saprissa,Real Esteli,2014-08-27,3,0,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),Real Esteli (Nicaragua),costa-rica,nicaragua,CR,NI,North America,North America,North America,international
+CSd Comunicaciones,CF America,2014-08-27,1,1,F,CONCACAF CC,CSd Comunicaciones (Guatemala),CF America (Mexico),guatemala,mexico,GT,MX,North America,North America,North America,international
+Club Leon,CS Herediano,2014-08-28,1,1,F,CONCACAF CC,Club Leon (Mexico),CS Herediano (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+CSd Municipal,CF Pachuca,2014-08-28,3,7,F,CONCACAF CC,CSd Municipal (Guatemala),CF Pachuca (Mexico),guatemala,mexico,GT,MX,North America,North America,North America,international
+Waterhouse FC,Tauro FC,2014-08-29,4,1,F,CONCACAF CC,Waterhouse FC (Jamaica),Tauro FC (Panama),jamaica,panama,JM,PA,North America,North America,North America,international
+CD Olimpia,Alpha United,2014-08-29,6,0,F,CONCACAF CC,CD Olimpia (Honduras),Alpha United (Guyana),honduras,guyana,HN,GY,North America,South America,North America,international
+Ld Alajuelense,Chorrillo FC,2014-08-29,1,0,F,CONCACAF CC,Ld Alajuelense (Costa Rica),Chorrillo FC (Panama),costa-rica,panama,CR,PA,North America,North America,North America,international
+Waterhouse FC,D C United,2014-09-17,1,2,F,CONCACAF CC,Waterhouse FC (Jamaica),D C United (United States),jamaica,united-states,JM,US,North America,North America,North America,international
+Cruz Azul,Chorrillo FC,2014-09-17,3,0,F,CONCACAF CC,Cruz Azul (Mexico),Chorrillo FC (Panama),mexico,panama,MX,PA,North America,North America,North America,international
+Portland Timbers,CD Olimpia,2014-09-17,4,2,F,CONCACAF CC,Portland Timbers (United States),CD Olimpia (Honduras),united-states,honduras,US,HN,North America,North America,North America,international
+Montreal Impacts,New York RB,2014-09-18,1,0,F,CONCACAF CC,Montreal Impacts (Canada),New York RB (United States),canada,united-states,CA,US,North America,North America,North America,international
+Bayamon FC,CF America,2014-09-18,1,10,F,CONCACAF CC,Bayamon FC (Puerto Rico),CF America (Mexico),puerto-rico,mexico,PR,MX,North America,North America,North America,international
+CSd Municipal,Real CD Espana,2014-09-18,3,0,F,CONCACAF CC,CSd Municipal (Guatemala),Real CD Espana (Honduras),guatemala,honduras,GT,HN,North America,North America,North America,international
+Sporting Kansas City,Deportivo Saprissa,2014-09-19,3,1,F,CONCACAF CC,Sporting Kansas City (United States),Deportivo Saprissa (Costa Rica),united-states,costa-rica,US,CR,North America,North America,North America,international
+Asociacion Deportiva Isidro Metapan,CS Herediano,2014-09-19,2,4,F,CONCACAF CC,Asociacion Deportiva Isidro Metapan (El Salvador),CS Herediano (Costa Rica),el-salvador,costa-rica,SV,CR,North America,North America,North America,international
+Sporting Kansas City,Real Esteli,2014-09-24,3,0,F,CONCACAF CC,Sporting Kansas City (United States),Real Esteli (Nicaragua),united-states,nicaragua,US,NI,North America,North America,North America,international
+Portland Timbers,Alpha United,2014-09-24,6,0,F,CONCACAF CC,Portland Timbers (United States),Alpha United (Guyana),united-states,guyana,US,GY,North America,South America,North America,international
+CF Pachuca,CSd Municipal,2014-09-25,4,1,F,CONCACAF CC,CF Pachuca (Mexico),CSd Municipal (Guatemala),mexico,guatemala,MX,GT,North America,North America,North America,international
+D C United,Tauro FC,2014-09-25,2,0,F,CONCACAF CC,D C United (United States),Tauro FC (Panama),united-states,panama,US,PA,North America,North America,North America,international
+CD Fas,New York RB,2014-09-25,0,0,F,CONCACAF CC,CD Fas (El Salvador),New York RB (United States),el-salvador,united-states,SV,US,North America,North America,North America,international
+CS Herediano,Club Leon,2014-09-25,2,1,F,CONCACAF CC,CS Herediano (Costa Rica),Club Leon (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+Bayamon FC,CSd Comunicaciones,2014-09-26,0,2,F,CONCACAF CC,Bayamon FC (Puerto Rico),CSd Comunicaciones (Guatemala),puerto-rico,guatemala,PR,GT,North America,North America,North America,international
+Chorrillo FC,Ld Alajuelense,2014-09-26,1,1,F,CONCACAF CC,Chorrillo FC (Panama),Ld Alajuelense (Costa Rica),panama,costa-rica,PA,CR,North America,North America,North America,international
+CF America,CSd Comunicaciones,2014-10-22,2,0,F,CONCACAF CC,CF America (Mexico),CSd Comunicaciones (Guatemala),mexico,guatemala,MX,GT,North America,North America,North America,international
+Tauro FC,D C United,2014-10-22,0,1,F,CONCACAF CC,Tauro FC (Panama),D C United (United States),panama,united-states,PA,US,North America,North America,North America,international
+CD Olimpia,Portland Timbers,2014-10-22,3,1,F,CONCACAF CC,CD Olimpia (Honduras),Portland Timbers (United States),honduras,united-states,HN,US,North America,North America,North America,international
+Ld Alajuelense,Cruz Azul,2014-10-22,1,1,F,CONCACAF CC,Ld Alajuelense (Costa Rica),Cruz Azul (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+New York RB,Montreal Impacts,2014-10-23,1,1,F,CONCACAF CC,New York RB (United States),Montreal Impacts (Canada),united-states,canada,US,CA,North America,North America,North America,international
+Real CD Espana,CF Pachuca,2014-10-23,3,2,F,CONCACAF CC,Real CD Espana (Honduras),CF Pachuca (Mexico),honduras,mexico,HN,MX,North America,North America,North America,international
+Club Leon,Asociacion Deportiva Isidro Metapan,2014-10-24,4,1,F,CONCACAF CC,Club Leon (Mexico),Asociacion Deportiva Isidro Metapan (El Salvador),mexico,el-salvador,MX,SV,North America,North America,North America,international
+Deportivo Saprissa,Sporting Kansas City,2014-10-24,2,0,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),Sporting Kansas City (United States),costa-rica,united-states,CR,US,North America,North America,North America,international
+CD Olimpia,CS Herediano,2015-02-25,1,1,F,CONCACAF CC,CD Olimpia (Honduras),CS Herediano (Costa Rica),honduras,costa-rica,HN,CR,North America,North America,North America,international
+CF Pachuca,Montreal Impacts,2015-02-25,2,2,F,CONCACAF CC,CF Pachuca (Mexico),Montreal Impacts (Canada),mexico,canada,MX,CA,North America,North America,North America,international
+Deportivo Saprissa,CF America,2015-02-26,0,3,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),CF America (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+Ld Alajuelense,D C United,2015-02-27,5,2,F,CONCACAF CC,Ld Alajuelense (Costa Rica),D C United (United States),costa-rica,united-states,CR,US,North America,North America,North America,international
+Montreal Impacts,CF Pachuca,2015-03-04,1,1,F,CONCACAF CC,Montreal Impacts (Canada),CF Pachuca (Mexico),canada,mexico,CA,MX,North America,North America,North America,international
+D C United,Ld Alajuelense,2015-03-05,2,1,F,CONCACAF CC,D C United (United States),Ld Alajuelense (Costa Rica),united-states,costa-rica,US,CR,North America,North America,North America,international
+CF America,Deportivo Saprissa,2015-03-05,2,0,F,CONCACAF CC,CF America (Mexico),Deportivo Saprissa (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+CS Herediano,CD Olimpia,2015-03-06,2,0,F,CONCACAF CC,CS Herediano (Costa Rica),CD Olimpia (Honduras),costa-rica,honduras,CR,HN,North America,North America,North America,international
+CS Herediano,CF America,2015-03-18,3,0,F,CONCACAF CC,CS Herediano (Costa Rica),CF America (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+Montreal Impacts,Ld Alajuelense,2015-03-19,2,0,F,CONCACAF CC,Montreal Impacts (Canada),Ld Alajuelense (Costa Rica),canada,costa-rica,CA,CR,North America,North America,North America,international
+Ld Alajuelense,Montreal Impacts,2015-04-08,4,2,F,CONCACAF CC,Ld Alajuelense (Costa Rica),Montreal Impacts (Canada),costa-rica,canada,CR,CA,North America,North America,North America,international
+CF America,CS Herediano,2015-04-09,6,0,F,CONCACAF CC,CF America (Mexico),CS Herediano (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+CF America,Montreal Impacts,2015-04-23,1,1,F,CONCACAF CC,CF America (Mexico),Montreal Impacts (Canada),mexico,canada,MX,CA,North America,North America,North America,international
+Montreal Impacts,CF America,2015-04-30,2,4,F,CONCACAF CC,Montreal Impacts (Canada),CF America (Mexico),canada,mexico,CA,MX,North America,North America,North America,international
+Gallos Blancos,San Francisco FC,2015-08-05,2,0,F,CONCACAF CC,Gallos Blancos (Mexico),San Francisco FC (Panama),mexico,panama,MX,PA,North America,North America,North America,international
+Santos Laguna,W Connection,2015-08-05,4,0,F,CONCACAF CC,Santos Laguna (Mexico),W Connection (Trinidad And Tobago),mexico,trinidad-and-tobago,MX,TT,North America,North America,North America,international
+CSd Municipal,Real Salt Lake,2015-08-05,0,1,F,CONCACAF CC,CSd Municipal (Guatemala),Real Salt Lake (United States),guatemala,united-states,GT,US,North America,North America,North America,international
+Deportivo Arabe Unido,Montego Bay United FC,2015-08-06,3,0,F,CONCACAF CC,Deportivo Arabe Unido (Panama),Montego Bay United FC (Jamaica),panama,jamaica,PA,JM,North America,North America,North America,international
+Vancouver Whitecaps,Seattle Sounders,2015-08-06,1,1,F,CONCACAF CC,Vancouver Whitecaps (Canada),Seattle Sounders (United States),canada,united-states,CA,US,North America,North America,North America,international
+CF America,CD Motagua,2015-08-06,4,0,F,CONCACAF CC,CF America (Mexico),CD Motagua (Honduras),mexico,honduras,MX,HN,North America,North America,North America,international
+Los Angeles Galaxy,Central FC,2015-08-07,5,1,F,CONCACAF CC,Los Angeles Galaxy (United States),Central FC (Trinidad And Tobago),united-states,trinidad-and-tobago,US,TT,North America,North America,North America,international
+CS Herediano,Asociacion Deportiva Isidro Metapan,2015-08-07,3,0,F,CONCACAF CC,CS Herediano (Costa Rica),Asociacion Deportiva Isidro Metapan (El Salvador),costa-rica,el-salvador,CR,SV,North America,North America,North America,international
+Uanl Tigres,Asociacion Deportiva Isidro Metapan,2015-08-19,2,1,F,CONCACAF CC,Uanl Tigres (Mexico),Asociacion Deportiva Isidro Metapan (El Salvador),mexico,el-salvador,MX,SV,North America,North America,North America,international
+Hankook Verdes,Gallos Blancos,2015-08-19,0,0,F,CONCACAF CC,Hankook Verdes (Belize),Gallos Blancos (Mexico),belize,mexico,BZ,MX,North America,North America,North America,international
+Los Angeles Galaxy,CSd Comunicaciones,2015-08-19,5,0,F,CONCACAF CC,Los Angeles Galaxy (United States),CSd Comunicaciones (Guatemala),united-states,guatemala,US,GT,North America,North America,North America,international
+Deportivo Arabe Unido,D C United,2015-08-20,0,1,F,CONCACAF CC,Deportivo Arabe Unido (Panama),D C United (United States),panama,united-states,PA,US,North America,North America,North America,international
+Seattle Sounders,CD Olimpia,2015-08-20,2,1,F,CONCACAF CC,Seattle Sounders (United States),CD Olimpia (Honduras),united-states,honduras,US,HN,North America,North America,North America,international
+CF America,Walter Ferreti,2015-08-20,1,0,F,CONCACAF CC,CF America (Mexico),Walter Ferreti (Nicaragua),mexico,nicaragua,MX,NI,North America,North America,North America,international
+Deportivo Saprissa,W Connection,2015-08-21,4,0,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),W Connection (Trinidad And Tobago),costa-rica,trinidad-and-tobago,CR,TT,North America,North America,North America,international
+Santa Tecla FC,CSd Municipal,2015-08-21,1,1,F,CONCACAF CC,Santa Tecla FC (El Salvador),CSd Municipal (Guatemala),el-salvador,guatemala,SV,GT,North America,North America,North America,international
+D C United,Montego Bay United FC,2015-08-26,3,0,F,CONCACAF CC,D C United (United States),Montego Bay United FC (Jamaica),united-states,jamaica,US,JM,North America,North America,North America,international
+Deportivo Saprissa,Santos Laguna,2015-08-26,2,1,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),Santos Laguna (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+CSd Municipal,Santa Tecla FC,2015-08-26,2,1,F,CONCACAF CC,CSd Municipal (Guatemala),Santa Tecla FC (El Salvador),guatemala,el-salvador,GT,SV,North America,North America,North America,international
+San Francisco FC,Gallos Blancos,2015-08-27,2,1,F,CONCACAF CC,San Francisco FC (Panama),Gallos Blancos (Mexico),panama,mexico,PA,MX,North America,North America,North America,international
+CD Olimpia,Seattle Sounders,2015-08-27,1,0,F,CONCACAF CC,CD Olimpia (Honduras),Seattle Sounders (United States),honduras,united-states,HN,US,North America,North America,North America,international
+CS Herediano,Uanl Tigres,2015-08-27,1,1,F,CONCACAF CC,CS Herediano (Costa Rica),Uanl Tigres (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+CSd Comunicaciones,Central FC,2015-08-28,1,0,F,CONCACAF CC,CSd Comunicaciones (Guatemala),Central FC (Trinidad And Tobago),guatemala,trinidad-and-tobago,GT,TT,North America,North America,North America,international
+CD Motagua,Walter Ferreti,2015-08-28,2,0,F,CONCACAF CC,CD Motagua (Honduras),Walter Ferreti (Nicaragua),honduras,nicaragua,HN,NI,North America,North America,North America,international
+D C United,Deportivo Arabe Unido,2015-09-16,2,0,F,CONCACAF CC,D C United (United States),Deportivo Arabe Unido (Panama),united-states,panama,US,PA,North America,North America,North America,international
+Santa Tecla FC,Real Salt Lake,2015-09-16,0,0,F,CONCACAF CC,Santa Tecla FC (El Salvador),Real Salt Lake (United States),el-salvador,united-states,SV,US,North America,North America,North America,international
+W Connection,Deportivo Saprissa,2015-09-17,2,1,F,CONCACAF CC,W Connection (Trinidad And Tobago),Deportivo Saprissa (Costa Rica),trinidad-and-tobago,costa-rica,TT,CR,North America,North America,North America,international
+Vancouver Whitecaps,CD Olimpia,2015-09-17,1,0,F,CONCACAF CC,Vancouver Whitecaps (Canada),CD Olimpia (Honduras),canada,honduras,CA,HN,North America,North America,North America,international
+Walter Ferreti,CF America,2015-09-17,1,3,F,CONCACAF CC,Walter Ferreti (Nicaragua),CF America (Mexico),nicaragua,mexico,NI,MX,North America,North America,North America,international
+Central FC,CSd Comunicaciones,2015-09-18,1,0,F,CONCACAF CC,Central FC (Trinidad And Tobago),CSd Comunicaciones (Guatemala),trinidad-and-tobago,guatemala,TT,GT,North America,North America,North America,international
+Gallos Blancos,Hankook Verdes,2015-09-18,8,0,F,CONCACAF CC,Gallos Blancos (Mexico),Hankook Verdes (Belize),mexico,belize,MX,BZ,North America,North America,North America,international
+Asociacion Deportiva Isidro Metapan,CS Herediano,2015-09-18,2,0,F,CONCACAF CC,Asociacion Deportiva Isidro Metapan (El Salvador),CS Herediano (Costa Rica),el-salvador,costa-rica,SV,CR,North America,North America,North America,international
+Montego Bay United FC,D C United,2015-09-23,3,3,F,CONCACAF CC,Montego Bay United FC (Jamaica),D C United (United States),jamaica,united-states,JM,US,North America,North America,North America,international
+W Connection,Santos Laguna,2015-09-23,0,1,F,CONCACAF CC,W Connection (Trinidad And Tobago),Santos Laguna (Mexico),trinidad-and-tobago,mexico,TT,MX,North America,North America,North America,international
+Hankook Verdes,San Francisco FC,2015-09-23,2,1,F,CONCACAF CC,Hankook Verdes (Belize),San Francisco FC (Panama),belize,panama,BZ,PA,North America,North America,North America,international
+Central FC,Los Angeles Galaxy,2015-09-24,1,1,F,CONCACAF CC,Central FC (Trinidad And Tobago),Los Angeles Galaxy (United States),trinidad-and-tobago,united-states,TT,US,North America,North America,North America,international
+Seattle Sounders,Vancouver Whitecaps,2015-09-24,3,0,F,CONCACAF CC,Seattle Sounders (United States),Vancouver Whitecaps (Canada),united-states,canada,US,CA,North America,North America,North America,international
+Walter Ferreti,CD Motagua,2015-09-25,1,2,F,CONCACAF CC,Walter Ferreti (Nicaragua),CD Motagua (Honduras),nicaragua,honduras,NI,HN,North America,North America,North America,international
+Real Salt Lake,Santa Tecla FC,2015-09-25,2,1,F,CONCACAF CC,Real Salt Lake (United States),Santa Tecla FC (El Salvador),united-states,el-salvador,US,SV,North America,North America,North America,international
+Asociacion Deportiva Isidro Metapan,Uanl Tigres,2015-09-25,1,2,F,CONCACAF CC,Asociacion Deportiva Isidro Metapan (El Salvador),Uanl Tigres (Mexico),el-salvador,mexico,SV,MX,North America,North America,North America,international
+Santos Laguna,Deportivo Saprissa,2015-10-21,6,1,F,CONCACAF CC,Santos Laguna (Mexico),Deportivo Saprissa (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+CD Motagua,CF America,2015-10-21,1,1,F,CONCACAF CC,CD Motagua (Honduras),CF America (Mexico),honduras,mexico,HN,MX,North America,North America,North America,international
+Real Salt Lake,CSd Municipal,2015-10-21,1,0,F,CONCACAF CC,Real Salt Lake (United States),CSd Municipal (Guatemala),united-states,guatemala,US,GT,North America,North America,North America,international
+Uanl Tigres,CS Herediano,2015-10-22,0,0,F,CONCACAF CC,Uanl Tigres (Mexico),CS Herediano (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+CSd Comunicaciones,Los Angeles Galaxy,2015-10-22,1,1,F,CONCACAF CC,CSd Comunicaciones (Guatemala),Los Angeles Galaxy (United States),guatemala,united-states,GT,US,North America,North America,North America,international
+Montego Bay United FC,Deportivo Arabe Unido,2015-10-23,1,2,F,CONCACAF CC,Montego Bay United FC (Jamaica),Deportivo Arabe Unido (Panama),jamaica,panama,JM,PA,North America,North America,North America,international
+CD Olimpia,Vancouver Whitecaps,2015-10-23,1,0,F,CONCACAF CC,CD Olimpia (Honduras),Vancouver Whitecaps (Canada),honduras,canada,HN,CA,North America,North America,North America,international
+San Francisco FC,Hankook Verdes,2015-10-23,8,0,F,CONCACAF CC,San Francisco FC (Panama),Hankook Verdes (Belize),panama,belize,PA,BZ,North America,North America,North America,international
+Gallos Blancos,D C United,2016-02-24,2,0,F,CONCACAF CC,Gallos Blancos (Mexico),D C United (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Seattle Sounders,CF America,2016-02-24,2,2,F,CONCACAF CC,Seattle Sounders (United States),CF America (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Uanl Tigres,Real Salt Lake,2016-02-25,2,0,F,CONCACAF CC,Uanl Tigres (Mexico),Real Salt Lake (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Los Angeles Galaxy,Santos Laguna,2016-02-25,0,0,F,CONCACAF CC,Los Angeles Galaxy (United States),Santos Laguna (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+D C United,Gallos Blancos,2016-03-02,1,1,F,CONCACAF CC,D C United (United States),Gallos Blancos (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Santos Laguna,Los Angeles Galaxy,2016-03-02,4,0,F,CONCACAF CC,Santos Laguna (Mexico),Los Angeles Galaxy (United States),mexico,united-states,MX,US,North America,North America,North America,international
+CF America,Seattle Sounders,2016-03-03,3,1,F,CONCACAF CC,CF America (Mexico),Seattle Sounders (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Real Salt Lake,Uanl Tigres,2016-03-03,1,1,F,CONCACAF CC,Real Salt Lake (United States),Uanl Tigres (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Gallos Blancos,Uanl Tigres,2016-03-16,0,0,F,CONCACAF CC,Gallos Blancos (Mexico),Uanl Tigres (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Santos Laguna,CF America,2016-03-17,0,0,F,CONCACAF CC,Santos Laguna (Mexico),CF America (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Uanl Tigres,Gallos Blancos,2016-04-06,2,0,F,CONCACAF CC,Uanl Tigres (Mexico),Gallos Blancos (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+CF America,Santos Laguna,2016-04-06,1,0,E,CONCACAF CC,CF America (Mexico),Santos Laguna (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Uanl Tigres,CF America,2016-04-21,0,2,F,CONCACAF CC,Uanl Tigres (Mexico),CF America (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+CF America,Uanl Tigres,2016-04-28,2,1,F,CONCACAF CC,CF America (Mexico),Uanl Tigres (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Central FC,Vancouver Whitecaps,2016-08-03,0,1,F,CONCACAF CC,Central FC (Trinidad And Tobago),Vancouver Whitecaps (Canada),trinidad-and-tobago,canada,TT,CA,North America,North America,North America,international
+CF Pachuca,CD Olimpia,2016-08-03,1,0,F,CONCACAF CC,CF Pachuca (Mexico),CD Olimpia (Honduras),mexico,honduras,MX,HN,North America,North America,North America,international
+W Connection,Pumas Unam,2016-08-04,2,4,F,CONCACAF CC,W Connection (Trinidad And Tobago),Pumas Unam (Mexico),trinidad-and-tobago,mexico,TT,MX,North America,North America,North America,international
+New York RB,Antigua Gfc,2016-08-04,3,0,F,CONCACAF CC,New York RB (United States),Antigua Gfc (Guatemala),united-states,guatemala,US,GT,North America,North America,North America,international
+Portland Timbers,CD Dragon,2016-08-04,2,1,F,CONCACAF CC,Portland Timbers (United States),CD Dragon (El Salvador),united-states,el-salvador,US,SV,North America,North America,North America,international
+Don Bosco,CF Monterrey,2016-08-04,0,3,F,CONCACAF CC,Don Bosco (Haiti),CF Monterrey (Mexico),haiti,mexico,HT,MX,North America,North America,North America,international
+FC Dallas,Real Esteli,2016-08-05,2,1,F,CONCACAF CC,FC Dallas (United States),Real Esteli (Nicaragua),united-states,nicaragua,US,NI,North America,North America,North America,international
+Cd Plaza Amador,CS Herediano,2016-08-05,1,1,F,CONCACAF CC,Cd Plaza Amador (Panama),CS Herediano (Costa Rica),panama,costa-rica,PA,CR,North America,North America,North America,international
+Central FC,Sporting Kansas City,2016-08-17,2,2,F,CONCACAF CC,Central FC (Trinidad And Tobago),Sporting Kansas City (United States),trinidad-and-tobago,united-states,TT,US,North America,North America,North America,international
+CD Olimpia,Police United FC,2016-08-17,4,0,F,CONCACAF CC,CD Olimpia (Honduras),Police United FC (Belize),honduras,belize,HN,BZ,North America,North America,North America,international
+Alianza FC,New York RB,2016-08-17,1,1,F,CONCACAF CC,Alianza FC (El Salvador),New York RB (United States),el-salvador,united-states,SV,US,North America,North America,North America,international
+CF Monterrey,Deportivo Arabe Unido,2016-08-18,2,3,F,CONCACAF CC,CF Monterrey (Mexico),Deportivo Arabe Unido (Panama),mexico,panama,MX,PA,North America,North America,North America,international
+CS Herediano,Uanl Tigres,2016-08-18,1,3,F,CONCACAF CC,CS Herediano (Costa Rica),Uanl Tigres (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+Club Deportivo Suchitepequez,Real Esteli,2016-08-19,1,0,F,CONCACAF CC,Club Deportivo Suchitepequez (Guatemala),Real Esteli (Nicaragua),guatemala,nicaragua,GT,NI,North America,North America,North America,international
+Pumas Unam,CD Honduras Progreso,2016-08-19,2,0,F,CONCACAF CC,Pumas Unam (Mexico),CD Honduras Progreso (Honduras),mexico,honduras,MX,HN,North America,North America,North America,international
+Deportivo Saprissa,CD Dragon,2016-08-19,6,0,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),CD Dragon (El Salvador),costa-rica,el-salvador,CR,SV,North America,North America,North America,international
+Alianza FC,Antigua Gfc,2016-08-24,1,1,F,CONCACAF CC,Alianza FC (El Salvador),Antigua Gfc (Guatemala),el-salvador,guatemala,SV,GT,North America,North America,North America,international
+Vancouver Whitecaps,Sporting Kansas City,2016-08-24,3,0,F,CONCACAF CC,Vancouver Whitecaps (Canada),Sporting Kansas City (United States),canada,united-states,CA,US,North America,North America,North America,international
+CF Pachuca,Police United FC,2016-08-24,3,0,F,CONCACAF CC,CF Pachuca (Mexico),Police United FC (Belize),mexico,belize,MX,BZ,North America,North America,North America,international
+Don Bosco,Deportivo Arabe Unido,2016-08-25,2,5,F,CONCACAF CC,Don Bosco (Haiti),Deportivo Arabe Unido (Panama),haiti,panama,HT,PA,North America,North America,North America,international
+Uanl Tigres,Cd Plaza Amador,2016-08-25,3,1,F,CONCACAF CC,Uanl Tigres (Mexico),Cd Plaza Amador (Panama),mexico,panama,MX,PA,North America,North America,North America,international
+Real Esteli,FC Dallas,2016-08-25,1,1,F,CONCACAF CC,Real Esteli (Nicaragua),FC Dallas (United States),nicaragua,united-states,NI,US,North America,North America,North America,international
+W Connection,CD Honduras Progreso,2016-08-26,1,1,F,CONCACAF CC,W Connection (Trinidad And Tobago),CD Honduras Progreso (Honduras),trinidad-and-tobago,honduras,TT,HN,North America,North America,North America,international
+CD Dragon,Deportivo Saprissa,2016-08-26,0,0,F,CONCACAF CC,CD Dragon (El Salvador),Deportivo Saprissa (Costa Rica),el-salvador,costa-rica,SV,CR,North America,North America,North America,international
+Sporting Kansas City,Vancouver Whitecaps,2016-09-14,1,2,F,CONCACAF CC,Sporting Kansas City (United States),Vancouver Whitecaps (Canada),united-states,canada,US,CA,North America,North America,North America,international
+Police United FC,CF Pachuca,2016-09-14,0,11,F,CONCACAF CC,Police United FC (Belize),CF Pachuca (Mexico),belize,mexico,BZ,MX,North America,North America,North America,international
+Real Esteli,Club Deportivo Suchitepequez,2016-09-14,1,1,F,CONCACAF CC,Real Esteli (Nicaragua),Club Deportivo Suchitepequez (Guatemala),nicaragua,guatemala,NI,GT,North America,North America,North America,international
+Deportivo Arabe Unido,CF Monterrey,2016-09-15,2,1,F,CONCACAF CC,Deportivo Arabe Unido (Panama),CF Monterrey (Mexico),panama,mexico,PA,MX,North America,North America,North America,international
+Deportivo Saprissa,Portland Timbers,2016-09-15,4,2,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),Portland Timbers (United States),costa-rica,united-states,CR,US,North America,North America,North America,international
+New York RB,Alianza FC,2016-09-16,1,0,F,CONCACAF CC,New York RB (United States),Alianza FC (El Salvador),united-states,el-salvador,US,SV,North America,North America,North America,international
+CD Honduras Progreso,Pumas Unam,2016-09-16,2,1,F,CONCACAF CC,CD Honduras Progreso (Honduras),Pumas Unam (Mexico),honduras,mexico,HN,MX,North America,North America,North America,international
+CS Herediano,Cd Plaza Amador,2016-09-16,2,0,F,CONCACAF CC,CS Herediano (Costa Rica),Cd Plaza Amador (Panama),costa-rica,panama,CR,PA,North America,North America,North America,international
+Antigua Gfc,New York RB,2016-09-28,0,0,F,CONCACAF CC,Antigua Gfc (Guatemala),New York RB (United States),guatemala,united-states,GT,US,North America,North America,North America,international
+CD Dragon,Portland Timbers,2016-09-28,1,2,F,CONCACAF CC,CD Dragon (El Salvador),Portland Timbers (United States),el-salvador,united-states,SV,US,North America,North America,North America,international
+Cd Plaza Amador,Uanl Tigres,2016-09-29,1,0,F,CONCACAF CC,Cd Plaza Amador (Panama),Uanl Tigres (Mexico),panama,mexico,PA,MX,North America,North America,North America,international
+FC Dallas,Club Deportivo Suchitepequez,2016-09-29,0,0,F,CONCACAF CC,FC Dallas (United States),Club Deportivo Suchitepequez (Guatemala),united-states,guatemala,US,GT,North America,North America,North America,international
+Vancouver Whitecaps,Central FC,2016-09-29,4,1,F,CONCACAF CC,Vancouver Whitecaps (Canada),Central FC (Trinidad And Tobago),canada,trinidad-and-tobago,CA,TT,North America,North America,North America,international
+CF Monterrey,Don Bosco,2016-09-29,3,0,F,CONCACAF CC,CF Monterrey (Mexico),Don Bosco (Haiti),mexico,haiti,MX,HT,North America,North America,North America,international
+Police United FC,CD Olimpia,2016-09-30,1,5,F,CONCACAF CC,Police United FC (Belize),CD Olimpia (Honduras),belize,honduras,BZ,HN,North America,North America,North America,international
+CD Honduras Progreso,W Connection,2016-09-30,1,0,F,CONCACAF CC,CD Honduras Progreso (Honduras),W Connection (Trinidad And Tobago),honduras,trinidad-and-tobago,HN,TT,North America,North America,North America,international
+Deportivo Arabe Unido,Don Bosco,2016-10-19,2,0,F,CONCACAF CC,Deportivo Arabe Unido (Panama),Don Bosco (Haiti),panama,haiti,PA,HT,North America,North America,North America,international
+Antigua Gfc,Alianza FC,2016-10-19,1,3,F,CONCACAF CC,Antigua Gfc (Guatemala),Alianza FC (El Salvador),guatemala,el-salvador,GT,SV,North America,North America,North America,international
+Uanl Tigres,CS Herediano,2016-10-19,3,0,F,CONCACAF CC,Uanl Tigres (Mexico),CS Herediano (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+Sporting Kansas City,Central FC,2016-10-20,3,1,F,CONCACAF CC,Sporting Kansas City (United States),Central FC (Trinidad And Tobago),united-states,trinidad-and-tobago,US,TT,North America,North America,North America,international
+Portland Timbers,Deportivo Saprissa,2016-10-20,1,1,F,CONCACAF CC,Portland Timbers (United States),Deportivo Saprissa (Costa Rica),united-states,costa-rica,US,CR,North America,North America,North America,international
+CD Olimpia,CF Pachuca,2016-10-20,4,4,F,CONCACAF CC,CD Olimpia (Honduras),CF Pachuca (Mexico),honduras,mexico,HN,MX,North America,North America,North America,international
+Club Deportivo Suchitepequez,FC Dallas,2016-10-21,2,5,F,CONCACAF CC,Club Deportivo Suchitepequez (Guatemala),FC Dallas (United States),guatemala,united-states,GT,US,North America,North America,North America,international
+Pumas Unam,W Connection,2016-10-21,8,1,F,CONCACAF CC,Pumas Unam (Mexico),W Connection (Trinidad And Tobago),mexico,trinidad-and-tobago,MX,TT,North America,North America,North America,international
+Deportivo Saprissa,CF Pachuca,2017-02-22,0,0,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),CF Pachuca (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+New York RB,Vancouver Whitecaps,2017-02-23,1,1,F,CONCACAF CC,New York RB (United States),Vancouver Whitecaps (Canada),united-states,canada,US,CA,North America,North America,North America,international
+Uanl Tigres,Pumas Unam,2017-02-23,1,1,F,CONCACAF CC,Uanl Tigres (Mexico),Pumas Unam (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+FC Dallas,Deportivo Arabe Unido,2017-02-24,4,0,F,CONCACAF CC,FC Dallas (United States),Deportivo Arabe Unido (Panama),united-states,panama,US,PA,North America,North America,North America,international
+CF Pachuca,Deportivo Saprissa,2017-03-01,4,0,F,CONCACAF CC,CF Pachuca (Mexico),Deportivo Saprissa (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+Deportivo Arabe Unido,FC Dallas,2017-03-02,2,1,F,CONCACAF CC,Deportivo Arabe Unido (Panama),FC Dallas (United States),panama,united-states,PA,US,North America,North America,North America,international
+Pumas Unam,Uanl Tigres,2017-03-02,0,3,F,CONCACAF CC,Pumas Unam (Mexico),Uanl Tigres (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Vancouver Whitecaps,New York RB,2017-03-03,2,0,F,CONCACAF CC,Vancouver Whitecaps (Canada),New York RB (United States),canada,united-states,CA,US,North America,North America,North America,international
+Uanl Tigres,Vancouver Whitecaps,2017-03-15,2,0,F,CONCACAF CC,Uanl Tigres (Mexico),Vancouver Whitecaps (Canada),mexico,canada,MX,CA,North America,North America,North America,international
+FC Dallas,CF Pachuca,2017-03-16,2,1,F,CONCACAF CC,FC Dallas (United States),CF Pachuca (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+CF Pachuca,FC Dallas,2017-04-05,3,1,F,CONCACAF CC,CF Pachuca (Mexico),FC Dallas (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Vancouver Whitecaps,Uanl Tigres,2017-04-06,1,2,F,CONCACAF CC,Vancouver Whitecaps (Canada),Uanl Tigres (Mexico),canada,mexico,CA,MX,North America,North America,North America,international
+Uanl Tigres,CF Pachuca,2017-04-19,1,1,F,CONCACAF CC,Uanl Tigres (Mexico),CF Pachuca (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+CF Pachuca,Uanl Tigres,2017-04-27,1,0,F,CONCACAF CC,CF Pachuca (Mexico),Uanl Tigres (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+CS Herediano,Uanl Tigres,2018-02-21,2,2,F,CONCACAF CC,CS Herediano (Costa Rica),Uanl Tigres (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+Colorado Rapids,Toronto FC,2018-02-21,0,2,F,CONCACAF CC,Colorado Rapids (United States),Toronto FC (Canada),united-states,canada,US,CA,North America,North America,North America,international
+Tauro FC,FC Dallas,2018-02-22,1,0,F,CONCACAF CC,Tauro FC (Panama),FC Dallas (United States),panama,united-states,PA,US,North America,North America,North America,international
+Deportivo Saprissa,CF America,2018-02-22,1,5,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),CF America (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+CD Motagua,Club Tijuana,2018-02-22,0,1,F,CONCACAF CC,CD Motagua (Honduras),Club Tijuana (Mexico),honduras,mexico,HN,MX,North America,North America,North America,international
+Cibao,Deportivo Guadalajara,2018-02-23,0,2,F,CONCACAF CC,Cibao (Dominican Republic),Deportivo Guadalajara (Mexico),dominican-republic,mexico,DO,MX,North America,North America,North America,international
+Santa Tecla FC,Seattle Sounders,2018-02-23,2,1,F,CONCACAF CC,Santa Tecla FC (El Salvador),Seattle Sounders (United States),el-salvador,united-states,SV,US,North America,North America,North America,international
+CD Olimpia,New York RB,2018-02-23,1,1,F,CONCACAF CC,CD Olimpia (Honduras),New York RB (United States),honduras,united-states,HN,US,North America,North America,North America,international
+Uanl Tigres,CS Herediano,2018-02-28,3,1,F,CONCACAF CC,Uanl Tigres (Mexico),CS Herediano (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+Toronto FC,Colorado Rapids,2018-02-28,0,0,F,CONCACAF CC,Toronto FC (Canada),Colorado Rapids (United States),canada,united-states,CA,US,North America,North America,North America,international
+Club Tijuana,CD Motagua,2018-02-28,1,1,F,CONCACAF CC,Club Tijuana (Mexico),CD Motagua (Honduras),mexico,honduras,MX,HN,North America,North America,North America,international
+Deportivo Guadalajara,Cibao,2018-03-01,5,0,F,CONCACAF CC,Deportivo Guadalajara (Mexico),Cibao (Dominican Republic),mexico,dominican-republic,MX,DO,North America,North America,North America,international
+FC Dallas,Tauro FC,2018-03-01,3,2,F,CONCACAF CC,FC Dallas (United States),Tauro FC (Panama),united-states,panama,US,PA,North America,North America,North America,international
+CF America,Deportivo Saprissa,2018-03-01,1,1,F,CONCACAF CC,CF America (Mexico),Deportivo Saprissa (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+New York RB,CD Olimpia,2018-03-02,2,0,F,CONCACAF CC,New York RB (United States),CD Olimpia (Honduras),united-states,honduras,US,HN,North America,North America,North America,international
+Seattle Sounders,Santa Tecla FC,2018-03-02,4,0,F,CONCACAF CC,Seattle Sounders (United States),Santa Tecla FC (El Salvador),united-states,el-salvador,US,SV,North America,North America,North America,international
+CF America,Tauro FC,2018-03-07,4,0,F,CONCACAF CC,CF America (Mexico),Tauro FC (Panama),mexico,panama,MX,PA,North America,North America,North America,international
+Club Tijuana,New York RB,2018-03-07,0,2,F,CONCACAF CC,Club Tijuana (Mexico),New York RB (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Toronto FC,Uanl Tigres,2018-03-08,2,1,F,CONCACAF CC,Toronto FC (Canada),Uanl Tigres (Mexico),canada,mexico,CA,MX,North America,North America,North America,international
+Seattle Sounders,Deportivo Guadalajara,2018-03-08,1,0,F,CONCACAF CC,Seattle Sounders (United States),Deportivo Guadalajara (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+New York RB,Club Tijuana,2018-03-14,3,1,F,CONCACAF CC,New York RB (United States),Club Tijuana (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Uanl Tigres,Toronto FC,2018-03-14,3,2,F,CONCACAF CC,Uanl Tigres (Mexico),Toronto FC (Canada),mexico,canada,MX,CA,North America,North America,North America,international
+Tauro FC,CF America,2018-03-15,1,3,F,CONCACAF CC,Tauro FC (Panama),CF America (Mexico),panama,mexico,PA,MX,North America,North America,North America,international
+Deportivo Guadalajara,Seattle Sounders,2018-03-15,3,0,F,CONCACAF CC,Deportivo Guadalajara (Mexico),Seattle Sounders (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Toronto FC,CF America,2018-04-04,3,1,F,CONCACAF CC,Toronto FC (Canada),CF America (Mexico),canada,mexico,CA,MX,North America,North America,North America,international
+Deportivo Guadalajara,New York RB,2018-04-05,1,0,F,CONCACAF CC,Deportivo Guadalajara (Mexico),New York RB (United States),mexico,united-states,MX,US,North America,North America,North America,international
+New York RB,Deportivo Guadalajara,2018-04-11,0,0,F,CONCACAF CC,New York RB (United States),Deportivo Guadalajara (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+CF America,Toronto FC,2018-04-11,1,1,F,CONCACAF CC,CF America (Mexico),Toronto FC (Canada),mexico,canada,MX,CA,North America,North America,North America,international
+Toronto FC,Deportivo Guadalajara,2018-04-18,1,2,F,CONCACAF CC,Toronto FC (Canada),Deportivo Guadalajara (Mexico),canada,mexico,CA,MX,North America,North America,North America,international
+Deportivo Guadalajara,Toronto FC,2018-04-26,1,2,P,CONCACAF CC,Deportivo Guadalajara (Mexico),Toronto FC (Canada),mexico,canada,MX,CA,North America,North America,North America,international
+Deportivo Saprissa,Uanl Tigres,2019-02-20,1,0,F,CONCACAF CC,Deportivo Saprissa (Costa Rica),Uanl Tigres (Mexico),costa-rica,mexico,CR,MX,North America,North America,North America,international
+Panama CA Independiente De La Chorrera,Toronto FC,2019-02-20,4,0,F,CONCACAF CC,Panama CA Independiente De La Chorrera (Panama),Toronto FC (Canada),panama,canada,PA,CA,North America,North America,North America,international
+Deportivo Guastatoya,Houston Dynamo,2019-02-20,0,1,F,CONCACAF CC,Deportivo Guastatoya (Guatemala),Houston Dynamo (United States),guatemala,united-states,GT,US,North America,North America,North America,international
+CD Marathon,Santos Laguna,2019-02-21,2,6,F,CONCACAF CC,CD Marathon (Honduras),Santos Laguna (Mexico),honduras,mexico,HN,MX,North America,North America,North America,international
+Deportivo Pantoja,New York RB,2019-02-21,0,2,F,CONCACAF CC,Deportivo Pantoja (Dominican Republic),New York RB (United States),dominican-republic,united-states,DO,US,North America,North America,North America,international
+Alianza FC,CF Monterrey,2019-02-21,0,0,F,CONCACAF CC,Alianza FC (El Salvador),CF Monterrey (Mexico),el-salvador,mexico,SV,MX,North America,North America,North America,international
+Sporting Kansas City,Deportivo Toluca,2019-02-22,3,0,F,CONCACAF CC,Sporting Kansas City (United States),Deportivo Toluca (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+CS Herediano,Atlanta United,2019-02-22,3,1,F,CONCACAF CC,CS Herediano (Costa Rica),Atlanta United (United States),costa-rica,united-states,CR,US,North America,North America,North America,international
+Toronto FC,Panama CA Independiente De La Chorrera,2019-02-27,1,1,F,CONCACAF CC,Toronto FC (Canada),Panama CA Independiente De La Chorrera (Panama),canada,panama,CA,PA,North America,North America,North America,international
+Uanl Tigres,Deportivo Saprissa,2019-02-27,5,1,F,CONCACAF CC,Uanl Tigres (Mexico),Deportivo Saprissa (Costa Rica),mexico,costa-rica,MX,CR,North America,North America,North America,international
+Houston Dynamo,Deportivo Guastatoya,2019-02-27,2,1,F,CONCACAF CC,Houston Dynamo (United States),Deportivo Guastatoya (Guatemala),united-states,guatemala,US,GT,North America,North America,North America,international
+Santos Laguna,CD Marathon,2019-02-28,5,0,F,CONCACAF CC,Santos Laguna (Mexico),CD Marathon (Honduras),mexico,honduras,MX,HN,North America,North America,North America,international
+New York RB,Deportivo Pantoja,2019-02-28,3,0,F,CONCACAF CC,New York RB (United States),Deportivo Pantoja (Dominican Republic),united-states,dominican-republic,US,DO,North America,North America,North America,international
+CF Monterrey,Alianza FC,2019-02-28,1,0,F,CONCACAF CC,CF Monterrey (Mexico),Alianza FC (El Salvador),mexico,el-salvador,MX,SV,North America,North America,North America,international
+Atlanta United,CS Herediano,2019-03-01,4,0,F,CONCACAF CC,Atlanta United (United States),CS Herediano (Costa Rica),united-states,costa-rica,US,CR,North America,North America,North America,international
+Deportivo Toluca,Sporting Kansas City,2019-03-01,0,2,F,CONCACAF CC,Deportivo Toluca (Mexico),Sporting Kansas City (United States),mexico,united-states,MX,US,North America,North America,North America,international
+New York RB,Santos Laguna,2019-03-06,0,2,F,CONCACAF CC,New York RB (United States),Santos Laguna (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Houston Dynamo,Uanl Tigres,2019-03-06,0,2,F,CONCACAF CC,Houston Dynamo (United States),Uanl Tigres (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Panama CA Independiente De La Chorrera,Sporting Kansas City,2019-03-07,2,1,F,CONCACAF CC,Panama CA Independiente De La Chorrera (Panama),Sporting Kansas City (United States),panama,united-states,PA,US,North America,North America,North America,international
+CF Monterrey,Atlanta United,2019-03-07,3,0,F,CONCACAF CC,CF Monterrey (Mexico),Atlanta United (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Santos Laguna,New York RB,2019-03-13,4,2,F,CONCACAF CC,Santos Laguna (Mexico),New York RB (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Uanl Tigres,Houston Dynamo,2019-03-13,1,0,F,CONCACAF CC,Uanl Tigres (Mexico),Houston Dynamo (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Atlanta United,CF Monterrey,2019-03-14,1,0,F,CONCACAF CC,Atlanta United (United States),CF Monterrey (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Sporting Kansas City,Panama CA Independiente De La Chorrera,2019-03-15,3,0,F,CONCACAF CC,Sporting Kansas City (United States),Panama CA Independiente De La Chorrera (Panama),united-states,panama,US,PA,North America,North America,North America,international
+Uanl Tigres,Santos Laguna,2019-04-04,3,0,F,CONCACAF CC,Uanl Tigres (Mexico),Santos Laguna (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+CF Monterrey,Sporting Kansas City,2019-04-05,5,0,F,CONCACAF CC,CF Monterrey (Mexico),Sporting Kansas City (United States),mexico,united-states,MX,US,North America,North America,North America,international
+Santos Laguna,Uanl Tigres,2019-04-11,3,2,F,CONCACAF CC,Santos Laguna (Mexico),Uanl Tigres (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+Sporting Kansas City,CF Monterrey,2019-04-12,2,5,F,CONCACAF CC,Sporting Kansas City (United States),CF Monterrey (Mexico),united-states,mexico,US,MX,North America,North America,North America,international
+Uanl Tigres,CF Monterrey,2019-04-24,0,1,F,CONCACAF CC,Uanl Tigres (Mexico),CF Monterrey (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international
+CF Monterrey,Uanl Tigres,2019-05-02,1,1,F,CONCACAF CC,CF Monterrey (Mexico),Uanl Tigres (Mexico),mexico,mexico,MX,MX,North America,North America,North America,international

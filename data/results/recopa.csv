@@ -1,0 +1,45 @@
+home,away,date,gh,ga,full_time,competition,home_ident,away_ident,home_country,away_country,home_code,away_code,home_continent,away_continent,continent,level
+Nacional,Racing Club,1989-01-31,1,0,F,Recopa,Nacional (Uruguay),Racing Club (Argentina),uruguay,argentina,UY,AR,South America,South America,South America,international
+Racing Club,Nacional,1989-02-06,0,0,F,Recopa,Racing Club (Argentina),Nacional (Uruguay),argentina,uruguay,AR,UY,South America,South America,South America,international
+Atletico Nacional,Boca Juniors,1990-03-17,0,1,F,Recopa,Atletico Nacional (Colombia),Boca Juniors (Argentina),colombia,argentina,CO,AR,South America,South America,South America,international
+Colo Colo,Cruzeiro EC,1992-04-19,5,4,F,Recopa,Colo Colo (Chile),Cruzeiro EC (Brazil),chile,brazil,CL,BR,South America,South America,South America,international
+Sao Paulo FC,Cruzeiro EC,1993-09-22,0,0,F,Recopa,Sao Paulo FC (Brazil),Cruzeiro EC (Brazil),brazil,brazil,BR,BR,South America,South America,South America,international
+Cruzeiro EC,Sao Paulo FC,1993-09-29,2,4,F,Recopa,Cruzeiro EC (Brazil),Sao Paulo FC (Brazil),brazil,brazil,BR,BR,South America,South America,South America,international
+Sao Paulo FC,Botafogo RJ,1994-04-03,3,1,F,Recopa,Sao Paulo FC (Brazil),Botafogo RJ (Brazil),brazil,brazil,BR,BR,South America,South America,South America,international
+Velez Sarsfield,Independiente,1995-04-09,0,1,F,Recopa,Velez Sarsfield (Argentina),Independiente (Argentina),argentina,argentina,AR,AR,South America,South America,South America,international
+Gremio Porto Alegre,Independiente,1996-04-07,4,1,F,Recopa,Gremio Porto Alegre (Brazil),Independiente (Argentina),brazil,argentina,BR,AR,South America,South America,South America,international
+River Plate,Velez Sarsfield,1997-04-13,2,4,F,Recopa,River Plate (Argentina),Velez Sarsfield (Argentina),argentina,argentina,AR,AR,South America,South America,South America,international
+Cruzeiro EC,River Plate,1999-08-03,2,0,F,Recopa,Cruzeiro EC (Brazil),River Plate (Argentina),brazil,argentina,BR,AR,South America,South America,South America,international
+River Plate,Cruzeiro EC,1999-09-23,0,3,F,Recopa,River Plate (Argentina),Cruzeiro EC (Brazil),argentina,brazil,AR,BR,South America,South America,South America,international
+Club Olimpia,San Lorenzo,2003-07-13,2,0,F,Recopa,Club Olimpia (Paraguay),San Lorenzo (Argentina),paraguay,argentina,PY,AR,South America,South America,South America,international
+Boca Juniors,Cienciano,2004-09-08,2,4,F,Recopa,Boca Juniors (Argentina),Cienciano (Peru),argentina,peru,AR,PE,South America,South America,South America,international
+Boca Juniors,Once Caldas,2005-08-25,3,1,F,Recopa,Boca Juniors (Argentina),Once Caldas (Colombia),argentina,colombia,AR,CO,South America,South America,South America,international
+Once Caldas,Boca Juniors,2005-08-31,2,1,F,Recopa,Once Caldas (Colombia),Boca Juniors (Argentina),colombia,argentina,CO,AR,South America,South America,South America,international
+Boca Juniors,Sao Paulo FC,2006-09-07,2,1,F,Recopa,Boca Juniors (Argentina),Sao Paulo FC (Brazil),argentina,brazil,AR,BR,South America,South America,South America,international
+Sao Paulo FC,Boca Juniors,2006-09-14,2,2,F,Recopa,Sao Paulo FC (Brazil),Boca Juniors (Argentina),brazil,argentina,BR,AR,South America,South America,South America,international
+CF Pachuca,Internacional,2007-05-31,2,1,F,Recopa,CF Pachuca (Mexico),Internacional (Brazil),mexico,brazil,MX,BR,North America,South America,South America,international
+Internacional,CF Pachuca,2007-06-07,4,0,F,Recopa,Internacional (Brazil),CF Pachuca (Mexico),brazil,mexico,BR,MX,South America,North America,South America,international
+Arsenal Sarandi,Boca Juniors,2008-08-14,1,3,F,Recopa,Arsenal Sarandi (Argentina),Boca Juniors (Argentina),argentina,argentina,AR,AR,South America,South America,South America,international
+Boca Juniors,Arsenal Sarandi,2008-08-28,2,2,F,Recopa,Boca Juniors (Argentina),Arsenal Sarandi (Argentina),argentina,argentina,AR,AR,South America,South America,South America,international
+Internacional,Ldu Quito,2009-06-26,0,1,F,Recopa,Internacional (Brazil),Ldu Quito (Ecuador),brazil,ecuador,BR,EC,South America,South America,South America,international
+Ldu Quito,Internacional,2009-07-10,3,0,F,Recopa,Ldu Quito (Ecuador),Internacional (Brazil),ecuador,brazil,EC,BR,South America,South America,South America,international
+Ldu Quito,Estudiantes,2010-08-26,2,1,F,Recopa,Ldu Quito (Ecuador),Estudiantes (Argentina),ecuador,argentina,EC,AR,South America,South America,South America,international
+Estudiantes,Ldu Quito,2010-09-09,0,0,F,Recopa,Estudiantes (Argentina),Ldu Quito (Ecuador),argentina,ecuador,AR,EC,South America,South America,South America,international
+Independiente,Internacional,2011-08-11,2,1,F,Recopa,Independiente (Argentina),Internacional (Brazil),argentina,brazil,AR,BR,South America,South America,South America,international
+Internacional,Independiente,2011-08-25,3,1,F,Recopa,Internacional (Brazil),Independiente (Argentina),brazil,argentina,BR,AR,South America,South America,South America,international
+Universidad de Chile,Santos FC,2012-08-23,0,0,F,Recopa,Universidad de Chile (Chile),Santos FC (Brazil),chile,brazil,CL,BR,South America,South America,South America,international
+Santos FC,Universidad de Chile,2012-09-27,2,0,F,Recopa,Santos FC (Brazil),Universidad de Chile (Chile),brazil,chile,BR,CL,South America,South America,South America,international
+Sao Paulo FC,Corinthians SP,2013-07-04,1,2,F,Recopa,Sao Paulo FC (Brazil),Corinthians SP (Brazil),brazil,brazil,BR,BR,South America,South America,South America,international
+Corinthians SP,Sao Paulo FC,2013-07-18,2,0,F,Recopa,Corinthians SP (Brazil),Sao Paulo FC (Brazil),brazil,brazil,BR,BR,South America,South America,South America,international
+CA Lanus,Atletico Mineiro,2014-07-17,0,1,F,Recopa,CA Lanus (Argentina),Atletico Mineiro (Brazil),argentina,brazil,AR,BR,South America,South America,South America,international
+Atletico Mineiro,CA Lanus,2014-07-24,4,3,E,Recopa,Atletico Mineiro (Brazil),CA Lanus (Argentina),brazil,argentina,BR,AR,South America,South America,South America,international
+River Plate,San Lorenzo,2015-02-07,1,0,F,Recopa,River Plate (Argentina),San Lorenzo (Argentina),argentina,argentina,AR,AR,South America,South America,South America,international
+San Lorenzo,River Plate,2015-02-12,0,1,F,Recopa,San Lorenzo (Argentina),River Plate (Argentina),argentina,argentina,AR,AR,South America,South America,South America,international
+Santa Fe,River Plate,2016-08-19,0,0,F,Recopa,Santa Fe (Colombia),River Plate (Argentina),colombia,argentina,CO,AR,South America,South America,South America,international
+River Plate,Santa Fe,2016-08-26,2,1,F,Recopa,River Plate (Argentina),Santa Fe (Colombia),argentina,colombia,AR,CO,South America,South America,South America,international
+Chapecoense,Atletico Nacional,2017-04-05,2,1,F,Recopa,Chapecoense (Brazil),Atletico Nacional (Colombia),brazil,colombia,BR,CO,South America,South America,South America,international
+Atletico Nacional,Chapecoense,2017-05-11,4,1,F,Recopa,Atletico Nacional (Colombia),Chapecoense (Brazil),colombia,brazil,CO,BR,South America,South America,South America,international
+Independiente,Gremio Porto Alegre,2018-02-15,1,1,F,Recopa,Independiente (Argentina),Gremio Porto Alegre (Brazil),argentina,brazil,AR,BR,South America,South America,South America,international
+Gremio Porto Alegre,Independiente,2018-02-22,0,0,P,Recopa,Gremio Porto Alegre (Brazil),Independiente (Argentina),brazil,argentina,BR,AR,South America,South America,South America,international
+Atletico Paranaense,River Plate,2019-05-23,1,0,F,Recopa,Atletico Paranaense (Brazil),River Plate (Argentina),brazil,argentina,BR,AR,South America,South America,South America,international
+River Plate,Atletico Paranaense,2019-05-31,3,0,F,Recopa,River Plate (Argentina),Atletico Paranaense (Brazil),argentina,brazil,AR,BR,South America,South America,South America,international

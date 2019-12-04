@@ -1,0 +1,715 @@
+home,away,date,gh,ga,full_time,competition,home_ident,away_ident,home_country,away_country,home_code,away_code,home_continent,away_continent,continent,level
+Guam Shipyard,No Ka Oi,2006-02-18,9,2,F,guam,Guam Shipyard (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Guam Shipyard,2006-03-08,2,1,F,guam,Quality Distributors (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Quality Distributors,2006-03-15,0,4,F,guam,No Ka Oi (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Quality Distributors,2006-04-12,4,1,F,guam,Guam Shipyard (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Quality Distributors,2006-04-19,2,3,F,guam,No Ka Oi (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,No Ka Oi,2006-04-26,6,0,F,guam,Guam Shipyard (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Guam Shipyard,2006-05-03,2,0,F,guam,Quality Distributors (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Guam Shipyard,2006-05-06,0,24,F,guam,No Ka Oi (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Paintco Strykers,2006-09-30,4,1,F,guam,Bank Of Guam Crushers (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Guam Shipyard,2006-09-30,2,2,F,guam,Quality Distributors (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Bank Of Guam Crushers,2006-10-07,2,1,F,guam,Quality Distributors (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Paintco Strykers,2006-10-07,3,5,F,guam,No Ka Oi (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Quality Distributors,2006-10-14,2,5,F,guam,Paintco Strykers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,No Ka Oi,2006-10-14,6,5,F,guam,Guam Shipyard (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Quality Distributors,2006-10-21,1,9,F,guam,No Ka Oi (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Bank Of Guam Crushers,2006-10-21,4,0,F,guam,Guam Shipyard (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Guam Shipyard,2006-10-28,3,2,F,guam,Paintco Strykers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,No Ka Oi,2006-10-28,3,3,F,guam,Bank Of Guam Crushers (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Quality Distributors,2006-11-04,0,2,F,guam,Guam Shipyard (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Bank Of Guam Crushers,2006-11-04,3,1,F,guam,Paintco Strykers (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Quality Distributors,2006-11-11,0,1,F,guam,Bank Of Guam Crushers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,No Ka Oi,2006-11-11,4,2,F,guam,Paintco Strykers (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Paintco Strykers,2006-11-18,6,1,F,guam,Quality Distributors (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Guam Shipyard,2006-11-18,1,4,F,guam,No Ka Oi (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,No Ka Oi,2006-11-25,12,3,F,guam,Quality Distributors (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Guam Shipyard,2006-11-25,0,3,F,guam,Bank Of Guam Crushers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Paintco Strykers,2006-12-02,3,1,F,guam,Guam Shipyard (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Bank Of Guam Crushers,2006-12-02,3,8,F,guam,No Ka Oi (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Paintco Strykers,2006-12-09,5,5,F,guam,Bank Of Guam Crushers (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Guam Shipyard,2006-12-09,0,2,F,guam,Quality Distributors (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Bank Of Guam Crushers,2006-12-16,2,1,F,guam,Quality Distributors (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Paintco Strykers,2006-12-16,4,7,F,guam,No Ka Oi (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Quality Distributors,2007-01-06,0,6,F,guam,Paintco Strykers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,No Ka Oi,2007-01-06,5,1,F,guam,Guam Shipyard (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Quality Distributors,2007-01-13,1,4,F,guam,No Ka Oi (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Bank Of Guam Crushers,2007-01-13,6,1,F,guam,Guam Shipyard (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Guam Shipyard,2007-01-20,0,2,F,guam,Paintco Strykers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,No Ka Oi,2007-01-20,4,3,F,guam,Bank Of Guam Crushers (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Quality Distributors,2007-01-27,3,4,F,guam,Guam Shipyard (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Bank Of Guam Crushers,2007-01-27,4,6,F,guam,Paintco Strykers (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Quality Distributors,2007-02-03,3,2,F,guam,Bank Of Guam Crushers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,No Ka Oi,2007-02-03,2,7,F,guam,Paintco Strykers (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Paintco Strykers,2007-02-10,2,1,F,guam,Quality Distributors (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Guam Shipyard,2007-02-10,2,4,F,guam,No Ka Oi (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,No Ka Oi,2007-02-17,6,0,F,guam,Quality Distributors (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Guam Shipyard,2007-02-17,3,3,F,guam,Bank Of Guam Crushers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Paintco Strykers,2007-02-24,5,2,F,guam,Guam Shipyard (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Bank Of Guam Crushers,2007-02-24,2,5,F,guam,No Ka Oi (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Paintco Strykers,2007-03-02,2,4,F,guam,Bank Of Guam Crushers (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Guam Shipyard,2007-03-02,2,2,F,guam,Quality Distributors (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Bank Of Guam Crushers,2007-03-09,1,2,F,guam,Quality Distributors (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Paintco Strykers,2007-03-09,3,6,F,guam,No Ka Oi (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Quality Distributors,2007-03-16,1,1,F,guam,Paintco Strykers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,No Ka Oi,2007-03-16,4,1,F,guam,Guam Shipyard (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Quality Distributors,2007-03-30,1,12,F,guam,No Ka Oi (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Bank Of Guam Crushers,2007-03-30,3,1,F,guam,Guam Shipyard (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Guam Shipyard,2007-04-06,1,2,F,guam,Paintco Strykers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,No Ka Oi,2007-04-06,2,9,F,guam,Bank Of Guam Crushers (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,No Ka Oi,2008-09-21,9,2,F,guam,Paintco Strykers (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Wild Bills Ii,Guam Shipyard,2008-09-21,0,5,F,guam,Wild Bills Ii (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Quality Distributors,2008-09-21,0,4,F,guam,Bank Of Guam Crushers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Quality Distributors,2008-09-28,1,9,F,guam,Paintco Strykers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Bank Of Guam Crushers,2008-09-28,1,2,F,guam,Guam Shipyard (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Wild Bills Ii,2008-09-28,3,7,F,guam,No Ka Oi (Guam),Wild Bills Ii (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Wild Bills Ii,Bank Of Guam Crushers,2008-10-05,2,3,F,guam,Wild Bills Ii (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Quality Distributors,2008-10-05,0,8,F,guam,No Ka Oi (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Guam Shipyard,2008-10-05,3,2,F,guam,Paintco Strykers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Guam Shipyard,2008-10-12,0,3,F,guam,No Ka Oi (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Bank Of Guam Crushers,2008-10-12,6,0,F,guam,Paintco Strykers (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Wild Bills Ii,Quality Distributors,2008-10-12,0,8,F,guam,Wild Bills Ii (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Wild Bills Ii,Paintco Strykers,2008-10-19,1,8,F,guam,Wild Bills Ii (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Guam Shipyard,2008-10-19,1,0,F,guam,Quality Distributors (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,No Ka Oi,2008-10-19,5,2,F,guam,Bank Of Guam Crushers (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Wild Bills Ii,2008-10-26,1,2,F,guam,Guam Shipyard (Guam),Wild Bills Ii (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Bank Of Guam Crushers,2008-10-26,4,0,F,guam,Quality Distributors (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Paintco Strykers,2008-10-26,2,6,F,guam,No Ka Oi (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Guam Shipyard,2008-11-09,0,2,F,guam,Bank Of Guam Crushers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Wild Bills Ii,No Ka Oi,2008-11-09,4,2,F,guam,Wild Bills Ii (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Paintco Strykers,2008-11-09,0,0,F,guam,Quality Distributors (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,No Ka Oi,2008-11-16,9,0,F,guam,Quality Distributors (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Paintco Strykers,2008-11-16,2,0,F,guam,Guam Shipyard (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Wild Bills Ii,2008-11-16,2,3,F,guam,Bank Of Guam Crushers (Guam),Wild Bills Ii (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Paintco Strykers,2008-11-23,2,4,F,guam,Bank Of Guam Crushers (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Wild Bills Ii,2008-11-23,4,2,F,guam,Quality Distributors (Guam),Wild Bills Ii (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,No Ka Oi,2008-11-23,8,0,F,guam,Guam Shipyard (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Quality Distributors,2008-12-07,1,4,F,guam,Guam Shipyard (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Bank Of Guam Crushers,2008-12-07,1,5,F,guam,No Ka Oi (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Wild Bills Ii,2008-12-07,7,3,F,guam,Paintco Strykers (Guam),Wild Bills Ii (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,No Ka Oi,2008-12-14,8,2,F,guam,Paintco Strykers (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Wild Bills Ii,Guam Shipyard,2008-12-14,2,2,F,guam,Wild Bills Ii (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Quality Distributors,2008-12-14,0,3,F,guam,Bank Of Guam Crushers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Quality Distributors,2009-01-04,1,1,F,guam,Paintco Strykers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Wild Bills Ii,2009-01-04,4,0,F,guam,No Ka Oi (Guam),Wild Bills Ii (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Bank Of Guam Crushers,2009-01-06,1,3,F,guam,Guam Shipyard (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Wild Bills Ii,Bank Of Guam Crushers,2009-01-11,1,7,F,guam,Wild Bills Ii (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Quality Distributors,2009-01-11,1,8,F,guam,No Ka Oi (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Guam Shipyard,2009-01-11,4,4,F,guam,Paintco Strykers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Guam Shipyard,2009-01-18,2,6,F,guam,No Ka Oi (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Bank Of Guam Crushers,2009-01-18,4,3,F,guam,Paintco Strykers (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Wild Bills Ii,Quality Distributors,2009-01-18,1,8,F,guam,Wild Bills Ii (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Wild Bills Ii,Paintco Strykers,2009-01-25,3,6,F,guam,Wild Bills Ii (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Guam Shipyard,2009-01-25,4,1,F,guam,Quality Distributors (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,No Ka Oi,2009-01-25,8,1,F,guam,Bank Of Guam Crushers (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Wild Bills Ii,2009-02-01,3,2,F,guam,Guam Shipyard (Guam),Wild Bills Ii (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Bank Of Guam Crushers,2009-02-01,1,1,F,guam,Quality Distributors (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Paintco Strykers,2009-02-01,0,11,F,guam,No Ka Oi (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Guam Shipyard,2009-02-08,3,0,F,guam,Bank Of Guam Crushers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Wild Bills Ii,No Ka Oi,2009-02-08,7,2,F,guam,Wild Bills Ii (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Paintco Strykers,2009-02-08,2,2,F,guam,Quality Distributors (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,No Ka Oi,2009-02-15,4,3,F,guam,Quality Distributors (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Paintco Strykers,2009-02-15,0,8,F,guam,Guam Shipyard (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Wild Bills Ii,2009-02-15,5,2,F,guam,Bank Of Guam Crushers (Guam),Wild Bills Ii (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Paintco Strykers,2009-02-22,2,3,F,guam,Bank Of Guam Crushers (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Wild Bills Ii,2009-02-22,5,0,F,guam,Quality Distributors (Guam),Wild Bills Ii (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,No Ka Oi,2009-02-22,0,3,F,guam,Guam Shipyard (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Quality Distributors,2009-03-01,2,1,F,guam,Guam Shipyard (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Bank Of Guam Crushers,2009-03-01,2,2,F,guam,No Ka Oi (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Wild Bills Ii,2009-03-01,18,1,F,guam,Paintco Strykers (Guam),Wild Bills Ii (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Paintco Strykers,2009-09-13,1,5,F,guam,Bank Of Guam Crushers (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Quality Distributors,2009-09-13,3,7,F,guam,No Ka Oi (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Guam Shipyard,2009-09-20,1,3,F,guam,Bank Of Guam Crushers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,No Ka Oi,2009-09-20,7,1,F,guam,Paintco Strykers (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Quality Distributors,2009-09-27,1,4,F,guam,Bank Of Guam Crushers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Guam Shipyard,2009-09-27,6,0,F,guam,Paintco Strykers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Carpet Masters,2009-09-27,3,0,F,guam,No Ka Oi (Guam),Carpet Masters (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Guam Shipyard,2009-10-04,1,6,F,guam,No Ka Oi (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Carpet Masters,2009-10-04,9,0,F,guam,Bank Of Guam Crushers (Guam),Carpet Masters (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Quality Distributors,2009-10-04,2,5,F,guam,Paintco Strykers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Carpet Masters,Paintco Strykers,2009-10-11,0,10,F,guam,Carpet Masters (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Quality Distributors,2009-10-11,1,2,F,guam,Guam Shipyard (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Bank Of Guam Crushers,2009-10-11,2,4,F,guam,No Ka Oi (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Bank Of Guam Crushers,2009-10-18,14,4,F,guam,Paintco Strykers (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Carpet Masters,2009-10-18,3,0,F,guam,Guam Shipyard (Guam),Carpet Masters (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,No Ka Oi,2009-10-18,7,2,F,guam,Quality Distributors (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Paintco Strykers,2009-10-25,1,7,F,guam,No Ka Oi (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Carpet Masters,Quality Distributors,2009-10-25,0,11,F,guam,Carpet Masters (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Bank Of Guam Crushers,2009-10-25,2,1,F,guam,Guam Shipyard (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Paintco Strykers,2009-11-15,0,5,F,guam,Guam Shipyard (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Bank Of Guam Crushers,2009-11-15,6,1,F,guam,Quality Distributors (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Carpet Masters,No Ka Oi,2009-11-15,1,2,F,guam,Carpet Masters (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,No Ka Oi,2009-11-22,0,3,F,guam,Guam Shipyard (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Carpet Masters,Bank Of Guam Crushers,2009-11-22,1,3,F,guam,Carpet Masters (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,No Ka Oi,2009-11-29,5,5,F,guam,Bank Of Guam Crushers (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Carpet Masters,2009-11-29,8,0,F,guam,Paintco Strykers (Guam),Carpet Masters (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Guam Shipyard,2009-11-29,7,0,F,guam,Quality Distributors (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Carpet Masters,Guam Shipyard,2009-12-06,0,2,F,guam,Carpet Masters (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Quality Distributors,2009-12-06,2,7,F,guam,No Ka Oi (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Paintco Strykers,2009-12-06,3,4,F,guam,Bank Of Guam Crushers (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Carpet Masters,2009-12-09,9,3,F,guam,Quality Distributors (Guam),Carpet Masters (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Carpet Masters,2009-12-13,5,0,F,guam,Quality Distributors (Guam),Carpet Masters (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Guam Shipyard,2009-12-13,3,0,F,guam,Bank Of Guam Crushers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,No Ka Oi,2009-12-13,5,1,F,guam,Paintco Strykers (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Guam Shipyard,2010-01-17,1,1,F,guam,No Ka Oi (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Carpet Masters,2010-01-17,0,1,F,guam,Bank Of Guam Crushers (Guam),Carpet Masters (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Quality Distributors,2010-01-17,2,5,F,guam,Paintco Strykers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Quality Distributors,2010-01-24,2,4,F,guam,Guam Shipyard (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Bank Of Guam Crushers,2010-01-24,5,4,F,guam,No Ka Oi (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Carpet Masters,Paintco Strykers,2010-01-24,0,5,F,guam,Carpet Masters (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Paintco Strykers,2010-01-27,3,2,F,guam,Quality Distributors (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Carpet Masters,2010-01-31,0,0,F,guam,Guam Shipyard (Guam),Carpet Masters (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,No Ka Oi,2010-01-31,5,1,F,guam,Quality Distributors (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Bank Of Guam Crushers,2010-01-31,3,0,F,guam,Paintco Strykers (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Paintco Strykers,2010-02-07,1,7,F,guam,No Ka Oi (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Carpet Masters,Quality Distributors,2010-02-07,0,12,F,guam,Carpet Masters (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Bank Of Guam Crushers,2010-02-07,1,2,F,guam,Guam Shipyard (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Bank Of Guam Crushers,2010-02-14,7,2,F,guam,Quality Distributors (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Paintco Strykers,2010-02-14,0,3,F,guam,Guam Shipyard (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,No Ka Oi,2010-02-21,8,0,F,guam,Guam Shipyard (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Carpet Masters,Bank Of Guam Crushers,2010-02-21,1,3,F,guam,Carpet Masters (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Paintco Strykers,2010-02-21,4,2,F,guam,Quality Distributors (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Carpet Masters,2010-02-28,5,1,F,guam,Paintco Strykers (Guam),Carpet Masters (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Guam Shipyard,2010-02-28,3,0,F,guam,Quality Distributors (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,No Ka Oi,2010-02-28,2,11,F,guam,Bank Of Guam Crushers (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Carpet Masters,Guam Shipyard,2010-03-03,0,0,F,guam,Carpet Masters (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+No Ka Oi,Carpet Masters,2010-03-07,3,2,F,guam,No Ka Oi (Guam),Carpet Masters (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Quality Distributors,2010-03-07,0,3,F,guam,Bank Of Guam Crushers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Guam Shipyard,2010-03-07,0,0,F,guam,Paintco Strykers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Carpet Masters,No Ka Oi,2010-03-24,3,1,F,guam,Carpet Masters (Guam),No Ka Oi (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Carpet Masters,2011-02-27,4,2,F,guam,Guam Shipyard (Guam),Carpet Masters (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Cars Plus FC,2011-02-27,0,3,F,guam,Quality Distributors (Guam),Cars Plus FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Benjamin Moore Strykers,Fuji Ichiban Espada FC,2011-02-27,1,2,F,guam,Benjamin Moore Strykers (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Carpet Masters,Quality Distributors,2011-03-06,3,9,F,guam,Carpet Masters (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Cars Plus FC,Benjamin Moore Strykers,2011-03-06,9,2,F,guam,Cars Plus FC (Guam),Benjamin Moore Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Guam Shipyard,2011-03-06,6,2,F,guam,Fuji Ichiban Espada FC (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Cars Plus FC,Fuji Ichiban Espada FC,2011-03-13,4,1,F,guam,Cars Plus FC (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Benjamin Moore Strykers,Carpet Masters,2011-03-13,8,1,F,guam,Benjamin Moore Strykers (Guam),Carpet Masters (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Guam Shipyard,2011-03-13,3,2,F,guam,Quality Distributors (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Benjamin Moore Strykers,2011-03-20,1,1,F,guam,Guam Shipyard (Guam),Benjamin Moore Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Quality Distributors,2011-03-20,1,2,F,guam,Fuji Ichiban Espada FC (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Carpet Masters,Cars Plus FC,2011-03-20,0,9,F,guam,Carpet Masters (Guam),Cars Plus FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Cars Plus FC,Guam Shipyard,2011-03-27,5,1,F,guam,Cars Plus FC (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Carpet Masters,Fuji Ichiban Espada FC,2011-03-27,2,4,F,guam,Carpet Masters (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Benjamin Moore Strykers,Quality Distributors,2011-03-27,3,6,F,guam,Benjamin Moore Strykers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Benjamin Moore Strykers,Fuji Ichiban Espada FC,2011-04-03,1,6,F,guam,Benjamin Moore Strykers (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Carpet Masters,Guam Shipyard,2011-04-03,2,1,F,guam,Carpet Masters (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Cars Plus FC,Quality Distributors,2011-04-03,1,0,F,guam,Cars Plus FC (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Carpet Masters,2011-04-10,8,0,F,guam,Quality Distributors (Guam),Carpet Masters (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Benjamin Moore Strykers,Cars Plus FC,2011-04-10,0,9,F,guam,Benjamin Moore Strykers (Guam),Cars Plus FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Fuji Ichiban Espada FC,2011-04-10,1,4,F,guam,Guam Shipyard (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Quality Distributors,2011-04-18,1,7,F,guam,Guam Shipyard (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Cars Plus FC,2011-04-18,1,2,F,guam,Fuji Ichiban Espada FC (Guam),Cars Plus FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Carpet Masters,Benjamin Moore Strykers,2011-04-20,5,1,F,guam,Carpet Masters (Guam),Benjamin Moore Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Cars Plus FC,Carpet Masters,2011-04-25,5,1,F,guam,Cars Plus FC (Guam),Carpet Masters (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Benjamin Moore Strykers,Guam Shipyard,2011-04-27,0,2,F,guam,Benjamin Moore Strykers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Benjamin Moore Strykers,2011-05-01,4,5,F,guam,Quality Distributors (Guam),Benjamin Moore Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Carpet Masters,2011-05-01,10,1,F,guam,Fuji Ichiban Espada FC (Guam),Carpet Masters (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Cars Plus FC,2011-05-01,0,8,F,guam,Guam Shipyard (Guam),Cars Plus FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Fuji Ichiban Espada FC,2011-05-08,1,1,F,guam,Quality Distributors (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Cars Plus FC,2011-10-07,1,2,F,guam,Guam Shipyard (Guam),Cars Plus FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Guahan Icrc,2011-10-09,2,0,F,guam,Quality Distributors (Guam),Guahan Icrc (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Fuji Ichiban Espada FC,2011-10-09,2,4,F,guam,Paintco Strykers (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Cars Plus FC,Paintco Strykers,2011-10-14,3,3,F,guam,Cars Plus FC (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guahan Icrc,Fuji Ichiban Espada FC,2011-10-16,0,4,F,guam,Guahan Icrc (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Guam Shipyard,2011-10-16,2,1,F,guam,Quality Distributors (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Guahan Icrc,2011-10-21,8,0,F,guam,Guam Shipyard (Guam),Guahan Icrc (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Quality Distributors,2011-10-23,0,4,F,guam,Paintco Strykers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Cars Plus FC,2011-10-24,0,4,F,guam,Fuji Ichiban Espada FC (Guam),Cars Plus FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Paintco Strykers,2011-10-30,3,0,F,guam,Guam Shipyard (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Guahan Icrc,2011-11-07,2,3,F,guam,Paintco Strykers (Guam),Guahan Icrc (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guahan Icrc,Quality Distributors,2011-11-13,1,8,F,guam,Guahan Icrc (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Paintco Strykers,2011-11-14,6,2,F,guam,Fuji Ichiban Espada FC (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Cars Plus FC,2011-11-18,0,6,F,guam,Paintco Strykers (Guam),Cars Plus FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Guahan Icrc,2011-11-20,9,0,F,guam,Fuji Ichiban Espada FC (Guam),Guahan Icrc (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Quality Distributors,2011-11-21,4,2,F,guam,Guam Shipyard (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guahan Icrc,Guam Shipyard,2011-11-25,1,18,F,guam,Guahan Icrc (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Paintco Strykers,2011-11-27,4,1,F,guam,Quality Distributors (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Cars Plus FC,Fuji Ichiban Espada FC,2011-11-28,0,2,F,guam,Cars Plus FC (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Quality Distributors,2011-12-02,5,4,F,guam,Fuji Ichiban Espada FC (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Guam Shipyard,2011-12-04,0,6,F,guam,Paintco Strykers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Cars Plus FC,Guahan Icrc,2011-12-05,5,0,F,guam,Cars Plus FC (Guam),Guahan Icrc (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Fuji Ichiban Espada FC,2011-12-11,3,1,F,guam,Guam Shipyard (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guahan Icrc,Paintco Strykers,2011-12-12,5,3,F,guam,Guahan Icrc (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Guam Shipyard,2011-12-16,1,2,F,guam,Fuji Ichiban Espada FC (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Fuji Ichiban Espada FC,2011-12-19,2,0,F,guam,Quality Distributors (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guahan Icrc,Cars Plus FC,2011-12-20,1,10,F,guam,Guahan Icrc (Guam),Cars Plus FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Cars Plus FC,Quality Distributors,2011-12-22,2,2,F,guam,Cars Plus FC (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Cars Plus FC,Guam Shipyard,2011-12-27,1,2,F,guam,Cars Plus FC (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Cars Plus FC,2011-12-30,4,2,F,guam,Quality Distributors (Guam),Cars Plus FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Cars Plus FC,2012-01-13,2,2,F,guam,Guam Shipyard (Guam),Cars Plus FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Guahan Icrc,2012-01-14,11,0,F,guam,Quality Distributors (Guam),Guahan Icrc (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Fuji Ichiban Espada FC,2012-01-16,3,4,F,guam,Paintco Strykers (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Cars Plus FC,Paintco Strykers,2012-01-22,4,1,F,guam,Cars Plus FC (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guahan Icrc,Fuji Ichiban Espada FC,2012-01-22,0,16,F,guam,Guahan Icrc (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Guam Shipyard,2012-01-22,2,0,F,guam,Quality Distributors (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Guahan Icrc,2012-01-29,0,1,F,guam,Guam Shipyard (Guam),Guahan Icrc (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Quality Distributors,2012-01-29,2,1,F,guam,Paintco Strykers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Cars Plus FC,2012-01-29,1,5,F,guam,Fuji Ichiban Espada FC (Guam),Cars Plus FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Fuji Ichiban Espada FC,2012-02-05,9,0,F,guam,Quality Distributors (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Paintco Strykers,2012-02-05,1,0,F,guam,Guam Shipyard (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guahan Icrc,Cars Plus FC,2012-02-05,2,6,F,guam,Guahan Icrc (Guam),Cars Plus FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Guam Shipyard,2012-02-12,3,2,F,guam,Fuji Ichiban Espada FC (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Guahan Icrc,2012-02-12,2,3,F,guam,Paintco Strykers (Guam),Guahan Icrc (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Cars Plus FC,Quality Distributors,2012-02-12,0,0,F,guam,Cars Plus FC (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Cars Plus FC,Guam Shipyard,2012-02-19,2,5,F,guam,Cars Plus FC (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guahan Icrc,Quality Distributors,2012-02-19,3,5,F,guam,Guahan Icrc (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Paintco Strykers,2012-02-19,5,3,F,guam,Fuji Ichiban Espada FC (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Cars Plus FC,2012-02-26,5,10,F,guam,Paintco Strykers (Guam),Cars Plus FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Guahan Icrc,2012-02-26,4,3,F,guam,Fuji Ichiban Espada FC (Guam),Guahan Icrc (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Quality Distributors,2012-02-26,1,1,F,guam,Guam Shipyard (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guahan Icrc,Guam Shipyard,2012-03-04,2,9,F,guam,Guahan Icrc (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Paintco Strykers,2012-03-04,11,0,F,guam,Quality Distributors (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Cars Plus FC,Fuji Ichiban Espada FC,2012-03-04,0,4,F,guam,Cars Plus FC (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Quality Distributors,2012-03-11,1,1,F,guam,Fuji Ichiban Espada FC (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Guam Shipyard,2012-03-11,0,14,F,guam,Paintco Strykers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Cars Plus FC,Guahan Icrc,2012-03-11,4,6,F,guam,Cars Plus FC (Guam),Guahan Icrc (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Fuji Ichiban Espada FC,2012-03-18,9,2,F,guam,Guam Shipyard (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guahan Icrc,Paintco Strykers,2012-03-18,3,2,F,guam,Guahan Icrc (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Cars Plus FC,2012-03-18,9,2,F,guam,Quality Distributors (Guam),Cars Plus FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Quality Distributors,2012-10-13,4,5,F,guam,Southern Cobras (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Guam Shipyard,2012-10-14,1,4,F,guam,Paintco Strykers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Doosan FC,2012-10-16,23,0,F,guam,Fuji Ichiban Espada FC (Guam),Doosan FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Paintco Strykers,2012-10-20,4,2,F,guam,Quality Distributors (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Fuji Ichiban Espada FC,2012-10-21,1,5,F,guam,Guam Shipyard (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Doosan FC,Southern Cobras,2012-10-23,1,6,F,guam,Doosan FC (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Doosan FC,2012-10-27,3,0,F,guam,Guam Shipyard (Guam),Doosan FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Quality Distributors,2012-10-28,2,2,F,guam,Fuji Ichiban Espada FC (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Southern Cobras,2012-10-30,4,4,F,guam,Paintco Strykers (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Fuji Ichiban Espada FC,2012-11-17,2,2,F,guam,Southern Cobras (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Doosan FC,Paintco Strykers,2012-11-18,0,4,F,guam,Doosan FC (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Guam Shipyard,2012-11-20,0,1,F,guam,Quality Distributors (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Southern Cobras,2012-11-24,3,2,F,guam,Guam Shipyard (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Doosan FC,2012-11-25,13,0,F,guam,Quality Distributors (Guam),Doosan FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Paintco Strykers,2012-11-27,0,3,F,guam,Fuji Ichiban Espada FC (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Southern Cobras,2013-01-05,6,1,F,guam,Quality Distributors (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Paintco Strykers,2013-01-06,2,1,F,guam,Guam Shipyard (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Doosan FC,Fuji Ichiban Espada FC,2013-01-08,0,12,F,guam,Doosan FC (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Quality Distributors,2013-01-12,1,10,F,guam,Paintco Strykers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Guam Shipyard,2013-01-13,4,3,F,guam,Fuji Ichiban Espada FC (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Doosan FC,2013-01-15,10,0,F,guam,Southern Cobras (Guam),Doosan FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Doosan FC,Guam Shipyard,2013-01-19,1,10,F,guam,Doosan FC (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Fuji Ichiban Espada FC,2013-01-20,3,3,F,guam,Quality Distributors (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Paintco Strykers,2013-01-22,7,4,F,guam,Southern Cobras (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Southern Cobras,2013-01-26,4,1,F,guam,Fuji Ichiban Espada FC (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Doosan FC,2013-01-27,5,4,F,guam,Paintco Strykers (Guam),Doosan FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Quality Distributors,2013-01-29,3,4,F,guam,Guam Shipyard (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Guam Shipyard,2013-02-02,3,2,F,guam,Southern Cobras (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Doosan FC,Quality Distributors,2013-02-03,0,8,F,guam,Doosan FC (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Fuji Ichiban Espada FC,2013-02-05,3,1,F,guam,Paintco Strykers (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Quality Distributors,2013-02-09,3,3,F,guam,Southern Cobras (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Guam Shipyard,2013-02-10,2,6,F,guam,Paintco Strykers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Doosan FC,2013-02-12,6,2,F,guam,Fuji Ichiban Espada FC (Guam),Doosan FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Paintco Strykers,2013-02-16,2,1,F,guam,Quality Distributors (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Fuji Ichiban Espada FC,2013-02-17,1,4,F,guam,Guam Shipyard (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Doosan FC,Southern Cobras,2013-02-19,1,8,F,guam,Doosan FC (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Doosan FC,2013-02-23,4,1,F,guam,Guam Shipyard (Guam),Doosan FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Quality Distributors,2013-02-24,0,3,F,guam,Fuji Ichiban Espada FC (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Southern Cobras,2013-02-26,1,3,F,guam,Paintco Strykers (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Fuji Ichiban Espada FC,2013-03-02,10,2,F,guam,Southern Cobras (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Doosan FC,Paintco Strykers,2013-03-03,1,4,F,guam,Doosan FC (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Guam Shipyard,2013-03-05,0,1,F,guam,Quality Distributors (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Southern Cobras,2013-03-09,6,0,F,guam,Guam Shipyard (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Doosan FC,2013-03-10,5,0,F,guam,Quality Distributors (Guam),Doosan FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Paintco Strykers,2013-03-12,3,2,F,guam,Fuji Ichiban Espada FC (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Southern Cobras,2013-03-16,5,0,F,guam,Quality Distributors (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Paintco Strykers,2013-03-17,6,3,F,guam,Guam Shipyard (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Doosan FC,Fuji Ichiban Espada FC,2013-03-19,1,6,F,guam,Doosan FC (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Quality Distributors,2013-03-23,2,4,F,guam,Paintco Strykers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Guam Shipyard,2013-03-24,1,1,F,guam,Fuji Ichiban Espada FC (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Doosan FC,2013-03-26,6,1,F,guam,Southern Cobras (Guam),Doosan FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Doosan FC,Guam Shipyard,2013-03-30,1,4,F,guam,Doosan FC (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Fuji Ichiban Espada FC,2013-03-31,1,1,F,guam,Quality Distributors (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Paintco Strykers,2013-04-02,4,3,F,guam,Southern Cobras (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Southern Cobras,2013-04-06,2,2,F,guam,Fuji Ichiban Espada FC (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Doosan FC,2013-04-07,8,0,F,guam,Paintco Strykers (Guam),Doosan FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Quality Distributors,2013-04-09,1,4,F,guam,Guam Shipyard (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Guam Shipyard,2013-04-13,5,2,F,guam,Southern Cobras (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Doosan FC,Quality Distributors,2013-04-14,3,9,F,guam,Doosan FC (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Fuji Ichiban Espada FC,2013-04-16,2,2,F,guam,Paintco Strykers (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Quality Distributors,2013-10-25,3,5,F,guam,Southern Cobras (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Guam Shipyard,2013-10-26,2,6,F,guam,Paintco Strykers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Rovers,2013-10-27,3,4,F,guam,Fuji Ichiban Espada FC (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Guam Shipyard,2013-11-01,4,1,F,guam,Rovers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Quality Distributors,2013-11-02,2,3,F,guam,Fuji Ichiban Espada FC (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Paintco Strykers,2013-11-03,3,3,F,guam,Southern Cobras (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Paintco Strykers,2013-11-08,11,0,F,guam,Rovers (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Fuji Ichiban Espada FC,2013-11-09,4,1,F,guam,Southern Cobras (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Quality Distributors,2013-11-10,4,3,F,guam,Guam Shipyard (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Fuji Ichiban Espada FC,2013-11-15,2,0,F,guam,Guam Shipyard (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Rovers,2013-11-16,4,2,F,guam,Southern Cobras (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Paintco Strykers,2013-11-17,1,1,F,guam,Quality Distributors (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Guam Shipyard,2013-11-29,4,4,F,guam,Southern Cobras (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Rovers,2013-11-30,0,4,F,guam,Quality Distributors (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Fuji Ichiban Espada FC,2013-12-01,0,5,F,guam,Paintco Strykers (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Southern Cobras,2013-12-06,4,2,F,guam,Quality Distributors (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Paintco Strykers,2013-12-07,3,0,F,guam,Guam Shipyard (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Fuji Ichiban Espada FC,2013-12-08,8,0,F,guam,Rovers (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Rovers,2013-12-13,0,4,F,guam,Guam Shipyard (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Fuji Ichiban Espada FC,2013-12-14,7,0,F,guam,Quality Distributors (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Southern Cobras,2013-12-15,2,10,F,guam,Paintco Strykers (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Rovers,2014-01-10,1,3,F,guam,Paintco Strykers (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Southern Cobras,2014-01-11,7,2,F,guam,Fuji Ichiban Espada FC (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Guam Shipyard,2014-01-12,3,3,F,guam,Quality Distributors (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Guam Shipyard,2014-01-17,1,2,F,guam,Fuji Ichiban Espada FC (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Southern Cobras,2014-01-18,14,1,F,guam,Rovers (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Quality Distributors,2014-01-19,4,6,F,guam,Paintco Strykers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Southern Cobras,2014-01-24,9,3,F,guam,Guam Shipyard (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Quality Distributors,2014-01-25,10,1,F,guam,Rovers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Paintco Strykers,2014-01-26,10,1,F,guam,Fuji Ichiban Espada FC (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Quality Distributors,2014-01-31,3,4,F,guam,Southern Cobras (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Guam Shipyard,2014-02-01,2,2,F,guam,Paintco Strykers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Rovers,2014-02-02,2,1,F,guam,Fuji Ichiban Espada FC (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Paintco Strykers,2014-02-06,3,0,F,guam,Southern Cobras (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Guam Shipyard,2014-02-07,3,1,F,guam,Rovers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Quality Distributors,2014-02-08,1,1,F,guam,Fuji Ichiban Espada FC (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Paintco Strykers,2014-02-14,11,0,F,guam,Rovers (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Fuji Ichiban Espada FC,2014-02-15,0,1,F,guam,Southern Cobras (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Fuji Ichiban Espada FC,2014-02-21,2,2,F,guam,Guam Shipyard (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Rovers,2014-02-22,1,5,F,guam,Southern Cobras (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Paintco Strykers,2014-02-23,2,0,F,guam,Quality Distributors (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Rovers,2014-02-28,3,2,F,guam,Quality Distributors (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Fuji Ichiban Espada FC,2014-03-01,0,3,F,guam,Paintco Strykers (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Guam Shipyard,2014-03-02,2,6,F,guam,Southern Cobras (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Quality Distributors,2014-03-05,3,1,F,guam,Guam Shipyard (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Paintco Strykers,2014-03-07,6,1,F,guam,Guam Shipyard (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Southern Cobras,2014-03-08,4,3,F,guam,Quality Distributors (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Fuji Ichiban Espada FC,2014-03-09,3,1,F,guam,Rovers (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Rovers,2014-03-12,0,4,F,guam,Guam Shipyard (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Fuji Ichiban Espada FC,2014-03-15,3,5,F,guam,Quality Distributors (Guam),Fuji Ichiban Espada FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Southern Cobras,2014-03-16,1,8,F,guam,Paintco Strykers (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Southern Cobras,2014-03-21,3,8,F,guam,Fuji Ichiban Espada FC (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Guam Shipyard,2014-03-23,1,5,F,guam,Quality Distributors (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Guam Shipyard,2014-03-28,3,3,F,guam,Fuji Ichiban Espada FC (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Southern Cobras,2014-03-29,0,3,F,guam,Rovers (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Quality Distributors,2014-03-30,2,4,F,guam,Paintco Strykers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Southern Cobras,2014-04-04,13,1,F,guam,Guam Shipyard (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Quality Distributors,2014-04-05,6,1,F,guam,Rovers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Fuji Ichiban Espada FC,Paintco Strykers,2014-04-06,11,0,F,guam,Fuji Ichiban Espada FC (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Rovers,2014-04-09,0,11,F,guam,Paintco Strykers (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Doosan FC,2014-10-13,13,0,F,guam,Paintco Strykers (Guam),Doosan FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Rovers,2014-10-18,4,5,F,guam,Quality Distributors (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Guam Shipyard,2014-10-19,0,1,F,guam,Paintco Strykers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Quality Distributors,2014-10-25,3,1,F,guam,Paintco Strykers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Rovers,2014-10-26,3,6,F,guam,Southern Cobras (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Doosan FC,Guam Shipyard,2014-10-27,0,11,F,guam,Doosan FC (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Paintco Strykers,2014-11-01,2,4,F,guam,Southern Cobras (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Doosan FC,Quality Distributors,2014-11-02,1,11,F,guam,Doosan FC (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Rovers,2014-11-03,1,11,F,guam,Paradise F Sidekicks (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Paradise F Sidekicks,2014-11-10,5,5,F,guam,Southern Cobras (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Doosan FC,Southern Cobras,2014-11-22,1,8,F,guam,Doosan FC (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Paintco Strykers,2014-11-23,2,5,F,guam,Paradise F Sidekicks (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Quality Distributors,2014-11-24,0,3,F,guam,Guam Shipyard (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Southern Cobras,2014-11-30,0,3,F,guam,Guam Shipyard (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Paintco Strykers,2014-12-01,4,2,F,guam,Rovers (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Doosan FC,2014-12-02,0,3,F,guam,Paradise F Sidekicks (Guam),Doosan FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Paradise F Sidekicks,2014-12-06,0,3,F,guam,Guam Shipyard (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Doosan FC,2014-12-07,18,0,F,guam,Rovers (Guam),Doosan FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Southern Cobras,2014-12-08,6,3,F,guam,Quality Distributors (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Doosan FC,Paintco Strykers,2014-12-14,1,6,F,guam,Doosan FC (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Rovers,2014-12-15,0,3,F,guam,Guam Shipyard (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Quality Distributors,2014-12-17,0,5,F,guam,Paradise F Sidekicks (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Guam Shipyard,2014-12-21,3,0,F,guam,Rovers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Paintco Strykers,2015-01-10,0,3,F,guam,Guam Shipyard (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Southern Cobras,2015-01-11,3,0,F,guam,Paradise F Sidekicks (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Quality Distributors,2015-01-12,6,1,F,guam,Rovers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Doosan FC,2015-01-18,8,0,F,guam,Guam Shipyard (Guam),Doosan FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Paintco Strykers,2015-01-19,1,5,F,guam,Quality Distributors (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Doosan FC,2015-01-24,3,0,F,guam,Quality Distributors (Guam),Doosan FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Paradise F Sidekicks,2015-01-25,4,1,F,guam,Rovers (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Southern Cobras,2015-01-26,5,2,F,guam,Paintco Strykers (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Southern Cobras,2015-02-07,4,1,F,guam,Rovers (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Guam Shipyard,2015-02-08,3,3,F,guam,Quality Distributors (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Doosan FC,2015-02-09,12,0,F,guam,Southern Cobras (Guam),Doosan FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Guam Shipyard,2015-02-14,2,4,F,guam,Southern Cobras (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Rovers,2015-02-15,7,0,F,guam,Paintco Strykers (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Doosan FC,Paradise F Sidekicks,2015-02-16,1,9,F,guam,Doosan FC (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Doosan FC,Rovers,2015-02-21,1,24,F,guam,Doosan FC (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Paradise F Sidekicks,2015-02-21,6,0,F,guam,Paintco Strykers (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Quality Distributors,2015-02-22,2,4,F,guam,Southern Cobras (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Guam Shipyard,2015-02-23,1,3,F,guam,Paradise F Sidekicks (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Guam Shipyard,2015-03-01,3,3,F,guam,Rovers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Paradise F Sidekicks,2015-03-02,3,1,F,guam,Quality Distributors (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Paradise F Sidekicks,2015-03-02,8,4,F,guam,Quality Distributors (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Paradise F Sidekicks,2015-03-07,3,3,F,guam,Southern Cobras (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Rovers,2015-03-08,1,5,F,guam,Quality Distributors (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Guam Shipyard,2015-03-09,5,4,F,guam,Paintco Strykers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Doosan FC,Guam Shipyard,2015-03-14,0,14,F,guam,Doosan FC (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Rovers,2015-03-16,5,2,F,guam,Southern Cobras (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Rovers,2015-03-21,2,7,F,guam,Paradise F Sidekicks (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Paintco Strykers,2015-03-22,4,5,F,guam,Southern Cobras (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Doosan FC,Quality Distributors,2015-03-23,2,3,F,guam,Doosan FC (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Quality Distributors,2015-03-28,4,1,F,guam,Guam Shipyard (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Doosan FC,Southern Cobras,2015-03-29,2,11,F,guam,Doosan FC (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Paintco Strykers,2015-03-30,1,1,F,guam,Paradise F Sidekicks (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Southern Cobras,2015-04-11,6,2,F,guam,Guam Shipyard (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Doosan FC,2015-04-13,11,0,F,guam,Paintco Strykers (Guam),Doosan FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Southern Cobras,2015-04-18,1,7,F,guam,Quality Distributors (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Doosan FC,2015-04-20,18,0,F,guam,Rovers (Guam),Doosan FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Quality Distributors,2015-04-22,7,0,F,guam,Paintco Strykers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Paradise F Sidekicks,2015-04-22,0,3,F,guam,Guam Shipyard (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Paintco Strykers,2015-04-26,2,2,F,guam,Rovers (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Doosan FC,2015-04-27,3,3,F,guam,Paradise F Sidekicks (Guam),Doosan FC (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Southern Cobras,2015-10-10,5,2,F,guam,Guam Shipyard (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Rovers,2015-10-10,3,2,F,guam,Quality Distributors (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Guam Shipyard,2015-10-17,2,1,F,guam,Rovers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Paintco Strykers,2015-10-17,3,2,F,guam,Southern Cobras (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Paradise F Sidekicks,2015-10-18,9,0,F,guam,Quality Distributors (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Quality Distributors,2015-10-24,2,9,F,guam,Southern Cobras (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Paradise F Sidekicks,2015-10-24,11,0,F,guam,Rovers (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Paintco Strykers,2015-10-25,6,4,F,guam,Guam Shipyard (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Quality Distributors,2015-11-01,5,2,F,guam,Paintco Strykers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Guam Shipyard,2015-11-03,0,3,F,guam,Paradise F Sidekicks (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Southern Cobras,2015-11-03,8,1,F,guam,Rovers (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Quality Distributors,2015-11-07,2,2,F,guam,Guam Shipyard (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Southern Cobras,2015-11-07,3,3,F,guam,Paradise F Sidekicks (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Rovers,2015-11-08,0,2,F,guam,Paintco Strykers (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Paradise F Sidekicks,2015-11-21,16,2,F,guam,Paintco Strykers (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Quality Distributors,2015-11-21,5,0,F,guam,Rovers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Guam Shipyard,2015-11-22,1,5,F,guam,Southern Cobras (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Rovers,2015-11-28,1,12,F,guam,Paradise F Sidekicks (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Guam Shipyard,2015-11-28,5,3,F,guam,Paintco Strykers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Southern Cobras,2015-11-29,9,3,F,guam,Quality Distributors (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Paradise F Sidekicks,2015-12-05,15,1,F,guam,Guam Shipyard (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Paintco Strykers,2015-12-05,3,2,F,guam,Quality Distributors (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Rovers,2015-12-06,4,7,F,guam,Southern Cobras (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Paintco Strykers,2015-12-12,5,2,F,guam,Rovers (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Paradise F Sidekicks,2015-12-12,12,1,F,guam,Southern Cobras (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Guam Shipyard,2015-12-13,1,6,F,guam,Quality Distributors (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Rovers,2016-01-16,3,0,F,guam,Guam Shipyard (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Southern Cobras,2016-01-16,7,3,F,guam,Paintco Strykers (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Quality Distributors,2016-01-17,0,10,F,guam,Paradise F Sidekicks (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Southern Cobras,2016-01-23,12,5,F,guam,Guam Shipyard (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Rovers,2016-01-23,0,1,F,guam,Quality Distributors (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Paintco Strykers,2016-01-24,0,6,F,guam,Paradise F Sidekicks (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Guam Shipyard,2016-01-30,2,1,F,guam,Rovers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Paradise F Sidekicks,2016-01-30,5,0,F,guam,Quality Distributors (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Paintco Strykers,2016-01-31,5,11,F,guam,Southern Cobras (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Quality Distributors,2016-02-06,2,6,F,guam,Southern Cobras (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Paradise F Sidekicks,2016-02-06,21,0,F,guam,Rovers (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Paintco Strykers,2016-02-07,1,3,F,guam,Guam Shipyard (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Quality Distributors,2016-02-20,1,4,F,guam,Paintco Strykers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Guam Shipyard,2016-02-20,1,6,F,guam,Paradise F Sidekicks (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Southern Cobras,2016-02-21,13,1,F,guam,Rovers (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Quality Distributors,2016-02-27,5,0,F,guam,Guam Shipyard (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Southern Cobras,2016-02-27,1,6,F,guam,Paradise F Sidekicks (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Rovers,2016-02-28,1,6,F,guam,Paintco Strykers (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Paintco Strykers,2016-03-06,0,3,F,guam,Paradise F Sidekicks (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Southern Cobras,2016-03-12,4,3,F,guam,Paintco Strykers (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Rovers,2016-03-12,3,1,F,guam,Guam Shipyard (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Quality Distributors,2016-03-13,0,6,F,guam,Paradise F Sidekicks (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Rovers,2016-04-02,0,3,F,guam,Paradise F Sidekicks (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Guam Shipyard,2016-04-02,0,3,F,guam,Paintco Strykers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Southern Cobras,2016-04-03,3,2,F,guam,Quality Distributors (Guam),Southern Cobras (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Paradise F Sidekicks,2016-04-09,16,0,F,guam,Guam Shipyard (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Paintco Strykers,2016-04-09,8,4,F,guam,Quality Distributors (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Rovers,2016-04-10,1,13,F,guam,Southern Cobras (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Paintco Strykers,2016-04-16,13,1,F,guam,Rovers (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Paradise F Sidekicks,2016-04-16,7,3,F,guam,Southern Cobras (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Guam Shipyard,2016-04-17,0,5,F,guam,Quality Distributors (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Paradise F Sidekicks,2016-04-23,12,0,F,guam,Paintco Strykers (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Quality Distributors,2016-04-23,10,1,F,guam,Rovers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Southern Cobras,Guam Shipyard,2016-04-24,1,7,F,guam,Southern Cobras (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Rovers,2016-10-08,0,8,F,guam,Paintco Strykers (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Haya United,2016-10-08,3,1,F,guam,Quality Distributors (Guam),Haya United (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Quality Distributors,2016-10-15,6,5,F,guam,Paintco Strykers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Guam Shipyard,2016-10-15,2,4,F,guam,Rovers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Haya United,2016-10-22,17,2,F,guam,Guam Shipyard (Guam),Haya United (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Quality Distributors,2016-10-22,5,1,F,guam,Rovers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Guam Shipyard,2016-10-29,2,4,F,guam,Quality Distributors (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Haya United,Paintco Strykers,2016-10-29,0,11,F,guam,Haya United (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Haya United,Rovers,2016-11-19,2,8,F,guam,Haya United (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Paintco Strykers,2016-11-19,5,0,F,guam,Guam Shipyard (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Haya United,Quality Distributors,2016-12-03,0,8,F,guam,Haya United (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Haya United,2016-12-10,7,0,F,guam,Rovers (Guam),Haya United (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Guam Shipyard,2016-12-11,2,3,F,guam,Paintco Strykers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Rovers,2017-01-07,1,5,F,guam,Guam Shipyard (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Paintco Strykers,2017-01-07,3,3,F,guam,Quality Distributors (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Rovers,2017-01-14,3,2,F,guam,Quality Distributors (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Haya United,Guam Shipyard,2017-01-14,1,7,F,guam,Haya United (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Quality Distributors,2017-01-21,2,1,F,guam,Guam Shipyard (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Haya United,2017-01-21,2,3,F,guam,Paintco Strykers (Guam),Haya United (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Guam Shipyard,2017-01-28,1,4,F,guam,Paintco Strykers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Haya United,2017-01-28,10,1,F,guam,Rovers (Guam),Haya United (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Haya United,2017-02-04,3,0,F,guam,Quality Distributors (Guam),Haya United (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Paintco Strykers,2017-02-04,5,1,F,guam,Rovers (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Guam Shipyard,2017-02-11,3,2,F,guam,Rovers (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Quality Distributors,2017-02-11,1,3,F,guam,Paintco Strykers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Haya United,2017-02-18,10,1,F,guam,Guam Shipyard (Guam),Haya United (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Quality Distributors,2017-02-18,3,1,F,guam,Rovers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Guam Shipyard,2017-02-25,1,4,F,guam,Quality Distributors (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Haya United,Paintco Strykers,2017-02-25,2,4,F,guam,Haya United (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Paintco Strykers,2017-03-11,5,2,F,guam,Guam Shipyard (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Haya United,Rovers,2017-03-11,2,9,F,guam,Haya United (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Haya United,Quality Distributors,2017-03-25,3,6,F,guam,Haya United (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Paintco Strykers,2017-03-25,2,6,F,guam,Rovers (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Quality Distributors,2017-04-01,3,1,F,guam,Guam Shipyard (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Haya United,2017-04-01,5,6,F,guam,Paintco Strykers (Guam),Haya United (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Shipyard,Rovers,2017-04-08,1,2,F,guam,Guam Shipyard (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Paintco Strykers,2017-04-08,0,3,F,guam,Quality Distributors (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Haya United,Guam Shipyard,2017-04-22,0,15,F,guam,Haya United (Guam),Guam Shipyard (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Rovers,2017-04-22,0,6,F,guam,Quality Distributors (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Paintco Strykers,2017-04-25,10,0,F,guam,Rovers (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Eurocar,Bobcat Rovers,2017-09-15,7,0,F,guam,Eurocar (Guam),Bobcat Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Beercelona,2017-09-15,5,2,F,guam,Paradise F Sidekicks (Guam),Beercelona (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Familia,Pago Bay Disasters,2017-09-16,3,0,F,guam,Familia (Guam),Pago Bay Disasters (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bombers,Haya United,2017-09-16,3,2,F,guam,Bombers (Guam),Haya United (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Beercelona,Familia,2017-09-21,1,4,F,guam,Beercelona (Guam),Familia (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Pago Bay Disasters,Bombers,2017-09-21,0,11,F,guam,Pago Bay Disasters (Guam),Bombers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bobcat Rovers,Paradise F Sidekicks,2017-09-22,3,2,F,guam,Bobcat Rovers (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Haya United,Eurocar,2017-09-22,0,4,F,guam,Haya United (Guam),Eurocar (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Uog,Loa Heat,2017-09-27,3,0,F,guam,Uog (Guam),Loa Heat (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Pago Bay Disasters,Bog Ii,2017-09-29,0,7,F,guam,Pago Bay Disasters (Guam),Bog Ii (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Eurocar,Idl,2017-09-29,1,8,F,guam,Eurocar (Guam),Idl (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Beercelona,Quality Distributors,2017-09-30,0,3,F,guam,Beercelona (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Bombers,2017-10-01,4,3,F,guam,Rovers (Guam),Bombers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Islanders,Beercelona,2017-10-11,16,0,F,guam,Islanders (Guam),Beercelona (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Uog,Bobcat Rovers,2017-10-13,4,0,F,guam,Uog (Guam),Bobcat Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Loa Heat,Familia,2017-10-13,3,2,F,guam,Loa Heat (Guam),Familia (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Paradise F Sidekicks,2017-10-14,1,5,F,guam,Bank Of Guam Crushers (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Pago Bay Disasters,2017-10-14,1,1,F,guam,Quality Distributors (Guam),Pago Bay Disasters (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bog Ii,Haya United,2017-10-15,3,3,F,guam,Bog Ii (Guam),Haya United (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Islanders,Eurocar,2017-10-18,4,1,F,guam,Islanders (Guam),Eurocar (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Idl,Bombers,2017-10-20,3,1,F,guam,Idl (Guam),Bombers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Paradise F Sidekicks,2017-10-20,4,0,F,guam,Rovers (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Familia,2017-10-21,7,0,F,guam,Paintco Strykers (Guam),Familia (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Loa Heat,Bobcat Rovers,2017-10-21,7,1,F,guam,Loa Heat (Guam),Bobcat Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Beercelona,2017-10-22,2,5,F,guam,Bank Of Guam Crushers (Guam),Beercelona (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Islanders,Haya United,2017-10-25,6,0,F,guam,Islanders (Guam),Haya United (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Idl,Paradise F Sidekicks,2017-10-27,6,1,F,guam,Idl (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Bog Ii,2017-10-27,1,4,F,guam,Quality Distributors (Guam),Bog Ii (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Eurocar,Bombers,2017-10-28,1,2,F,guam,Eurocar (Guam),Bombers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Familia,2017-10-28,2,1,F,guam,Bank Of Guam Crushers (Guam),Familia (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Uog,Pago Bay Disasters,2017-10-29,8,2,F,guam,Uog (Guam),Pago Bay Disasters (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Uog,Bog Ii,2017-11-01,7,1,F,guam,Uog (Guam),Bog Ii (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Beercelona,2017-11-03,9,0,F,guam,Rovers (Guam),Beercelona (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Haya United,2017-11-03,0,5,F,guam,Bank Of Guam Crushers (Guam),Haya United (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Loa Heat,Pago Bay Disasters,2017-11-04,3,0,F,guam,Loa Heat (Guam),Pago Bay Disasters (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Bobcat Rovers,2017-11-04,14,0,F,guam,Paintco Strykers (Guam),Bobcat Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Islanders,Quality Distributors,2017-11-05,4,0,F,guam,Islanders (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Familia,Eurocar,2017-11-08,3,3,F,guam,Familia (Guam),Eurocar (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bombers,Paradise F Sidekicks,2017-11-10,4,0,F,guam,Bombers (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Haya United,2017-11-11,15,1,F,guam,Rovers (Guam),Haya United (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Pago Bay Disasters,2017-11-11,17,0,F,guam,Paintco Strykers (Guam),Pago Bay Disasters (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bobcat Rovers,Islanders,2017-11-12,0,4,F,guam,Bobcat Rovers (Guam),Islanders (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Eurocar,Paradise F Sidekicks,2017-11-17,2,1,F,guam,Eurocar (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Quality Distributors,2017-11-25,0,8,F,guam,Bank Of Guam Crushers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Loa Heat,Islanders,2017-12-02,2,0,F,guam,Loa Heat (Guam),Islanders (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Uog,2017-12-03,0,13,F,guam,Bank Of Guam Crushers (Guam),Uog (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Eurocar,2018-01-17,3,2,F,guam,Quality Distributors (Guam),Eurocar (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bombers,Loa Heat,2018-01-19,7,1,F,guam,Bombers (Guam),Loa Heat (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Idl,Paintco Strykers,2018-01-19,6,0,F,guam,Idl (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Familia,Rovers,2018-01-20,1,11,F,guam,Familia (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bog Ii,Islanders,2018-01-20,2,4,F,guam,Bog Ii (Guam),Islanders (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Shipyard Haya,Uog,2018-01-21,3,5,F,guam,Shipyard Haya (Guam),Uog (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Beercelona,Shipyard Haya,2018-01-24,1,8,F,guam,Beercelona (Guam),Shipyard Haya (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Uog,2018-01-26,1,1,F,guam,Paradise F Sidekicks (Guam),Uog (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bombers,Quality Distributors,2018-01-26,1,0,F,guam,Bombers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Idl,Loa Heat,2018-01-27,8,1,F,guam,Idl (Guam),Loa Heat (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Bank Of Guam Crushers,2018-01-27,11,1,F,guam,Paintco Strykers (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Pago Bay Disasters,2018-01-28,17,0,F,guam,Rovers (Guam),Pago Bay Disasters (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Beercelona,Eurocar,2018-01-31,0,5,F,guam,Beercelona (Guam),Eurocar (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Islanders,Bank Of Guam Crushers,2018-02-02,11,0,F,guam,Islanders (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Shipyard Haya,2018-02-02,0,4,F,guam,Paradise F Sidekicks (Guam),Shipyard Haya (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Familia,Bog Ii,2018-02-03,2,3,F,guam,Familia (Guam),Bog Ii (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Idl,Uog,2018-02-03,6,0,F,guam,Idl (Guam),Uog (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Loa Heat,2018-02-04,9,2,F,guam,Rovers (Guam),Loa Heat (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Beercelona,Uog,2018-02-07,0,4,F,guam,Beercelona (Guam),Uog (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bobcat Rovers,Bank Of Guam Crushers,2018-02-09,0,3,F,guam,Bobcat Rovers (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Loa Heat,2018-02-09,0,3,F,guam,Paradise F Sidekicks (Guam),Loa Heat (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Shipyard Haya,Quality Distributors,2018-02-10,1,4,F,guam,Shipyard Haya (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bombers,Paintco Strykers,2018-02-10,1,3,F,guam,Bombers (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Eurocar,Bog Ii,2018-02-11,2,3,F,guam,Eurocar (Guam),Bog Ii (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Loa Heat,Paintco Strykers,2018-02-16,0,6,F,guam,Loa Heat (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Idl,2018-02-16,0,12,F,guam,Bank Of Guam Crushers (Guam),Idl (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bobcat Rovers,Beercelona,2018-02-17,3,5,F,guam,Bobcat Rovers (Guam),Beercelona (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Islanders,Bombers,2018-02-17,2,1,F,guam,Islanders (Guam),Bombers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Familia,2018-02-18,0,5,F,guam,Quality Distributors (Guam),Familia (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Eurocar,Rovers,2018-02-21,1,7,F,guam,Eurocar (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Idl,Quality Distributors,2018-02-23,3,0,F,guam,Idl (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bobcat Rovers,Bog Ii,2018-02-23,2,7,F,guam,Bobcat Rovers (Guam),Bog Ii (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Loa Heat,Bank Of Guam Crushers,2018-02-24,3,0,F,guam,Loa Heat (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Familia,Islanders,2018-02-24,1,10,F,guam,Familia (Guam),Islanders (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Islanders,2018-02-28,2,7,F,guam,Paintco Strykers (Guam),Islanders (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bobcat Rovers,Bombers,2018-03-02,0,3,F,guam,Bobcat Rovers (Guam),Bombers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Quality Distributors,2018-03-02,0,1,F,guam,Paradise F Sidekicks (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Uog,2018-03-03,4,1,F,guam,Rovers (Guam),Uog (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Eurocar,Pago Bay Disasters,2018-03-03,7,3,F,guam,Eurocar (Guam),Pago Bay Disasters (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Shipyard Haya,Familia,2018-03-04,2,3,F,guam,Shipyard Haya (Guam),Familia (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bog Ii,Paradise F Sidekicks,2018-03-07,2,1,F,guam,Bog Ii (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Pago Bay Disasters,Beercelona,2018-03-09,2,3,F,guam,Pago Bay Disasters (Guam),Beercelona (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Shipyard Haya,Bobcat Rovers,2018-03-09,3,0,F,guam,Shipyard Haya (Guam),Bobcat Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Eurocar,2018-03-10,4,2,F,guam,Paintco Strykers (Guam),Eurocar (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Idl,2018-03-10,2,4,F,guam,Rovers (Guam),Idl (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Loa Heat,Quality Distributors,2018-03-11,4,0,F,guam,Loa Heat (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Eurocar,Bank Of Guam Crushers,2018-03-14,8,0,F,guam,Eurocar (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Loa Heat,Shipyard Haya,2018-03-16,11,2,F,guam,Loa Heat (Guam),Shipyard Haya (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Rovers,2018-03-16,0,1,F,guam,Paintco Strykers (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Pago Bay Disasters,Islanders,2018-03-18,1,13,F,guam,Pago Bay Disasters (Guam),Islanders (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Islanders,Idl,2018-03-21,2,3,F,guam,Islanders (Guam),Idl (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Uog,Quality Distributors,2018-03-23,3,1,F,guam,Uog (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bog Ii,Bombers,2018-03-23,1,3,F,guam,Bog Ii (Guam),Bombers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Familia,Paradise F Sidekicks,2018-03-25,1,0,F,guam,Familia (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Quality Distributors,2018-03-28,9,1,F,guam,Rovers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Paintco Strykers,2018-04-04,0,3,F,guam,Paradise F Sidekicks (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Bobcat Rovers,2018-04-07,3,0,F,guam,Quality Distributors (Guam),Bobcat Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bog Ii,Beercelona,2018-04-07,6,2,F,guam,Bog Ii (Guam),Beercelona (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bombers,Familia,2018-04-08,1,1,F,guam,Bombers (Guam),Familia (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Idl,Bobcat Rovers,2018-04-12,3,0,F,guam,Idl (Guam),Bobcat Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Pago Bay Disasters,2018-04-13,4,0,F,guam,Paradise F Sidekicks (Guam),Pago Bay Disasters (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Islanders,Rovers,2018-04-13,1,4,F,guam,Islanders (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Bog Ii,2018-04-14,2,8,F,guam,Bank Of Guam Crushers (Guam),Bog Ii (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Familia,Uog,2018-04-14,1,6,F,guam,Familia (Guam),Uog (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Shipyard Haya,2018-04-15,25,1,F,guam,Paintco Strykers (Guam),Shipyard Haya (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Idl,Pago Bay Disasters,2018-04-18,19,1,F,guam,Idl (Guam),Pago Bay Disasters (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Islanders,2018-04-19,0,3,F,guam,Paradise F Sidekicks (Guam),Islanders (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Rovers,2018-04-20,0,17,F,guam,Bank Of Guam Crushers (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Beercelona,Loa Heat,2018-04-20,0,5,F,guam,Beercelona (Guam),Loa Heat (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Bog Ii,2018-04-21,1,2,F,guam,Paintco Strykers (Guam),Bog Ii (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Uog,Eurocar,2018-04-21,4,0,F,guam,Uog (Guam),Eurocar (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Idl,Familia,2018-04-22,15,0,F,guam,Idl (Guam),Familia (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Eurocar,Loa Heat,2018-04-27,2,9,F,guam,Eurocar (Guam),Loa Heat (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Idl,Bog Ii,2018-04-27,3,1,F,guam,Idl (Guam),Bog Ii (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Bobcat Rovers,2018-04-27,3,0,F,guam,Rovers (Guam),Bobcat Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Beercelona,Paintco Strykers,2018-04-28,0,14,F,guam,Beercelona (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Pago Bay Disasters,Bank Of Guam Crushers,2018-04-28,1,2,F,guam,Pago Bay Disasters (Guam),Bank Of Guam Crushers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bombers,Uog,2018-05-02,0,2,F,guam,Bombers (Guam),Uog (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Eurocar,Islanders,2018-05-04,0,6,F,guam,Eurocar (Guam),Islanders (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Bog Ii,2018-05-04,7,3,F,guam,Rovers (Guam),Bog Ii (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Bank Of Guam Crushers,Bombers,2018-05-04,1,6,F,guam,Bank Of Guam Crushers (Guam),Bombers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Idl,Beercelona,2018-05-05,3,0,F,guam,Idl (Guam),Beercelona (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Paintco Strykers,2018-05-05,3,8,F,guam,Quality Distributors (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Uog,Bombers,2018-05-11,3,2,E,guam,Uog (Guam),Bombers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Bog Ii,2018-05-12,7,1,F,guam,Rovers (Guam),Bog Ii (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Islanders,2018-05-12,3,1,F,guam,Paintco Strykers (Guam),Islanders (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Islanders,Loa Heat,2018-05-18,5,6,F,guam,Islanders (Guam),Loa Heat (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Uog,2018-05-18,3,1,F,guam,Rovers (Guam),Uog (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Loa Heat,Paintco Strykers,2018-05-23,4,3,F,guam,Loa Heat (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Loa Heat,2018-05-27,4,3,F,guam,Rovers (Guam),Loa Heat (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Guam Guam Under 19,2018-10-13,7,1,F,guam,Rovers (Guam),Guam Guam Under 19 (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Islanders,Shipyard Haya,2018-10-13,6,0,F,guam,Islanders (Guam),Shipyard Haya (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Paradise F Sidekicks,2018-10-13,5,0,F,guam,Paintco Strykers (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Loa Heat,Quality Distributors,2018-10-13,2,0,F,guam,Loa Heat (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Islanders,Loa Heat,2018-10-20,3,3,F,guam,Islanders (Guam),Loa Heat (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Guam Under 19,Shipyard Haya,2018-10-20,11,1,F,guam,Guam Guam Under 19 (Guam),Shipyard Haya (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Rovers,2018-10-20,1,3,F,guam,Paradise F Sidekicks (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Quality Distributors,2018-10-20,8,0,F,guam,Paintco Strykers (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Guam Under 19,Loa Heat,2018-10-27,3,2,F,guam,Guam Guam Under 19 (Guam),Loa Heat (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Shipyard Haya,2018-10-27,13,2,F,guam,Rovers (Guam),Shipyard Haya (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paintco Strykers,Islanders,2018-10-27,6,0,F,guam,Paintco Strykers (Guam),Islanders (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Quality Distributors,2018-10-27,2,2,F,guam,Paradise F Sidekicks (Guam),Quality Distributors (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Shipyard Haya,Loa Heat,2018-11-03,1,6,F,guam,Shipyard Haya (Guam),Loa Heat (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Guam Guam Under 19,Paintco Strykers,2018-11-03,1,5,F,guam,Guam Guam Under 19 (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Islanders,2018-11-03,1,0,F,guam,Paradise F Sidekicks (Guam),Islanders (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Rovers,2018-11-03,1,10,F,guam,Quality Distributors (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Paradise F Sidekicks,Guam Guam Under 19,2018-11-07,2,3,F,guam,Paradise F Sidekicks (Guam),Guam Guam Under 19 (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Loa Heat,2018-11-08,5,1,F,guam,Rovers (Guam),Loa Heat (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Islanders,2018-11-10,3,2,F,guam,Quality Distributors (Guam),Islanders (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Shipyard Haya,2018-11-21,4,3,F,guam,Quality Distributors (Guam),Shipyard Haya (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Islanders,Guam Guam Under 19,2018-11-21,0,1,F,guam,Islanders (Guam),Guam Guam Under 19 (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Loa Heat,Paradise F Sidekicks,2018-11-21,1,1,F,guam,Loa Heat (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Shipyard Haya,Paradise F Sidekicks,2018-11-24,0,4,F,guam,Shipyard Haya (Guam),Paradise F Sidekicks (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Loa Heat,Paintco Strykers,2018-11-24,3,0,F,guam,Loa Heat (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Islanders,Rovers,2018-11-24,2,4,F,guam,Islanders (Guam),Rovers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Quality Distributors,Guam Guam Under 19,2018-11-24,0,1,F,guam,Quality Distributors (Guam),Guam Guam Under 19 (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national
+Rovers,Paintco Strykers,2019-04-23,5,4,F,guam,Rovers (Guam),Paintco Strykers (Guam),guam,guam,GU,GU,Oceania,Oceania,Oceania,national

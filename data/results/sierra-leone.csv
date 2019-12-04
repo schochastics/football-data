@@ -1,0 +1,484 @@
+home,away,date,gh,ga,full_time,competition,home_ident,away_ident,home_country,away_country,home_code,away_code,home_continent,away_continent,continent,level
+Ports Authority,Mighty Blackpool SC,2011-02-26,2,1,F,sierra-leone,Ports Authority (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,Old Edwardians FC,2011-02-27,2,0,F,sierra-leone,Freetown City FC (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,Diamond Stars FC Of Kono,2011-03-04,2,0,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,Kissy All Stars FC,2011-03-04,0,0,F,sierra-leone,Central Parade FC (Sierra Leone),Kissy All Stars FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,Ports Authority,2011-03-05,1,1,F,sierra-leone,Old Edwardians FC (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,Freetown City FC,2011-03-06,0,0,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Wusum Stars Of Bombali,Area Best FC Of Makeni,2011-03-07,2,1,F,sierra-leone,Wusum Stars Of Bombali (Sierra Leone),Area Best FC Of Makeni (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Nepean Stars FC,Bo Rangers FC,2011-03-07,0,1,F,sierra-leone,Nepean Stars FC (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Bo Rangers FC,2011-03-11,0,0,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kissy All Stars FC,Wusum Stars Of Bombali,2011-03-11,0,2,F,sierra-leone,Kissy All Stars FC (Sierra Leone),Wusum Stars Of Bombali (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,Mighty Blackpool SC,2011-03-12,1,0,F,sierra-leone,Old Edwardians FC (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Area Best FC Of Makeni,Central Parade FC,2011-03-13,0,1,F,sierra-leone,Area Best FC Of Makeni (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,East End Lions,2011-03-13,2,1,F,sierra-leone,Ports Authority (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Nepean Stars FC,Kamboi Eagles FC,2011-03-14,1,2,F,sierra-leone,Nepean Stars FC (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,Area Best FC Of Makeni,2011-03-18,3,1,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),Area Best FC Of Makeni (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,Kissy All Stars FC,2011-03-18,0,0,F,sierra-leone,Bo Rangers FC (Sierra Leone),Kissy All Stars FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,FC Kallon,2011-03-19,0,0,F,sierra-leone,East End Lions (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Central Parade FC,2011-03-20,1,0,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Wusum Stars Of Bombali,Nepean Stars FC,2011-03-20,1,0,F,sierra-leone,Wusum Stars Of Bombali (Sierra Leone),Nepean Stars FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,Ports Authority,2011-03-20,0,1,F,sierra-leone,Freetown City FC (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Wusum Stars Of Bombali,2011-03-25,0,0,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Wusum Stars Of Bombali (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,Bo Rangers FC,2011-03-25,1,1,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Area Best FC Of Makeni,Freetown City FC,2011-03-26,0,1,F,sierra-leone,Area Best FC Of Makeni (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,FC Kallon,2011-04-01,0,0,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,East End Lions,2011-04-01,2,0,F,sierra-leone,Bo Rangers FC (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,FC Kallon,2011-04-08,0,0,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Nepean Stars FC,Old Edwardians FC,2011-04-08,0,0,F,sierra-leone,Nepean Stars FC (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,Ports Authority,2011-04-15,0,0,F,sierra-leone,Bo Rangers FC (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Kissy All Stars FC,2011-04-15,1,1,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Kissy All Stars FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Wusum Stars Of Bombali,Mighty Blackpool SC,2011-04-16,0,0,F,sierra-leone,Wusum Stars Of Bombali (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Nepean Stars FC,Freetown City FC,2011-04-18,3,1,F,sierra-leone,Nepean Stars FC (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Wusum Stars Of Bombali,East End Lions,2011-04-23,0,2,F,sierra-leone,Wusum Stars Of Bombali (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Area Best FC Of Makeni,Mighty Blackpool SC,2011-04-24,0,2,F,sierra-leone,Area Best FC Of Makeni (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Nepean Stars FC,2011-05-06,1,0,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Nepean Stars FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,Central Parade FC,2011-05-06,2,1,F,sierra-leone,FC Kallon (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,Kissy All Stars FC,2011-05-07,3,2,F,sierra-leone,East End Lions (Sierra Leone),Kissy All Stars FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,Kamboi Eagles FC,2011-05-08,0,1,F,sierra-leone,Old Edwardians FC (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,Area Best FC Of Makeni,2011-05-11,3,0,F,sierra-leone,FC Kallon (Sierra Leone),Area Best FC Of Makeni (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,Ports Authority,2011-05-13,2,1,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,East End Lions,2011-05-13,0,1,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,Nepean Stars FC,2011-05-13,2,0,F,sierra-leone,Central Parade FC (Sierra Leone),Nepean Stars FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Wusum Stars Of Bombali,Old Edwardians FC,2011-05-14,1,1,F,sierra-leone,Wusum Stars Of Bombali (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,Kissy All Stars FC,2011-05-14,0,1,F,sierra-leone,Freetown City FC (Sierra Leone),Kissy All Stars FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Area Best FC Of Makeni,Bo Rangers FC,2011-05-15,0,3,F,sierra-leone,Area Best FC Of Makeni (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,Mighty Blackpool SC,2011-05-15,0,0,F,sierra-leone,FC Kallon (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,East End Lions,2011-05-18,1,1,F,sierra-leone,Central Parade FC (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,Mighty Blackpool SC,2011-05-20,0,0,F,sierra-leone,Bo Rangers FC (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,Kissy All Stars FC,2011-05-20,1,0,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),Kissy All Stars FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,Wusum Stars Of Bombali,2011-05-20,1,0,F,sierra-leone,Ports Authority (Sierra Leone),Wusum Stars Of Bombali (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,Central Parade FC,2011-05-22,1,1,F,sierra-leone,Freetown City FC (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Old Edwardians FC,2011-05-23,1,0,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Nepean Stars FC,FC Kallon,2011-05-23,0,3,F,sierra-leone,Nepean Stars FC (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Wusum Stars Of Bombali,Kamboi Eagles FC,2011-05-25,2,0,F,sierra-leone,Wusum Stars Of Bombali (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,Area Best FC Of Makeni,2011-05-26,2,0,F,sierra-leone,Old Edwardians FC (Sierra Leone),Area Best FC Of Makeni (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,Central Parade FC,2011-05-27,0,0,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Nepean Stars FC,Ports Authority,2011-05-29,1,3,F,sierra-leone,Nepean Stars FC (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,Kissy All Stars FC,2011-05-29,2,2,F,sierra-leone,FC Kallon (Sierra Leone),Kissy All Stars FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,FC Kallon,2011-06-08,0,2,F,sierra-leone,Freetown City FC (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,Diamond Stars FC Of Kono,2011-06-10,0,0,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Area Best FC Of Makeni,Ports Authority,2011-06-11,0,1,F,sierra-leone,Area Best FC Of Makeni (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,Central Parade FC,2011-06-11,3,1,F,sierra-leone,Bo Rangers FC (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,Kamboi Eagles FC,2011-06-11,4,1,F,sierra-leone,East End Lions (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Wusum Stars Of Bombali,FC Kallon,2011-06-12,2,1,F,sierra-leone,Wusum Stars Of Bombali (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kissy All Stars FC,Nepean Stars FC,2011-06-12,2,1,F,sierra-leone,Kissy All Stars FC (Sierra Leone),Nepean Stars FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,Central Parade FC,2011-06-15,0,0,F,sierra-leone,Old Edwardians FC (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,Kissy All Stars FC,2011-06-17,0,0,F,sierra-leone,Ports Authority (Sierra Leone),Kissy All Stars FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Wusum Stars Of Bombali,Freetown City FC,2011-06-18,2,2,F,sierra-leone,Wusum Stars Of Bombali (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,Nepean Stars FC,2011-06-18,2,0,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),Nepean Stars FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,East End Lions,2011-06-19,0,0,F,sierra-leone,Old Edwardians FC (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,Bo Rangers FC,2011-06-21,1,0,F,sierra-leone,Freetown City FC (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,Area Best FC Of Makeni,2011-06-22,1,1,F,sierra-leone,East End Lions (Sierra Leone),Area Best FC Of Makeni (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,Mighty Blackpool SC,2011-06-24,0,1,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,Bo Rangers FC,2011-06-24,2,1,F,sierra-leone,FC Kallon (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,Diamond Stars FC Of Kono,2011-06-25,1,0,F,sierra-leone,Ports Authority (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Area Best FC Of Makeni,Kissy All Stars FC,2011-06-26,0,2,F,sierra-leone,Area Best FC Of Makeni (Sierra Leone),Kissy All Stars FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,East End Lions,2011-06-26,0,1,F,sierra-leone,Freetown City FC (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,Ports Authority,2011-06-29,0,1,F,sierra-leone,Central Parade FC (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,Old Edwardians FC,2011-06-29,2,0,F,sierra-leone,Bo Rangers FC (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,Kamboi Eagles FC,2011-07-01,2,2,F,sierra-leone,Freetown City FC (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Area Best FC Of Makeni,Diamond Stars FC Of Kono,2011-07-02,2,0,F,sierra-leone,Area Best FC Of Makeni (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Nepean Stars FC,East End Lions,2011-07-02,0,2,F,sierra-leone,Nepean Stars FC (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,Old Edwardians FC,2011-07-03,3,1,F,sierra-leone,FC Kallon (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,Wusum Stars Of Bombali,2011-07-04,0,2,F,sierra-leone,Central Parade FC (Sierra Leone),Wusum Stars Of Bombali (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,Kissy All Stars FC,2011-07-05,0,0,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),Kissy All Stars FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kissy All Stars FC,Old Edwardians FC,2011-07-08,0,0,F,sierra-leone,Kissy All Stars FC (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,Mighty Blackpool SC,2011-07-09,0,1,F,sierra-leone,East End Lions (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Nepean Stars FC,Area Best FC Of Makeni,2011-07-09,2,1,F,sierra-leone,Nepean Stars FC (Sierra Leone),Area Best FC Of Makeni (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,Wusum Stars Of Bombali,2011-07-10,0,0,F,sierra-leone,Bo Rangers FC (Sierra Leone),Wusum Stars Of Bombali (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Freetown City FC,2011-07-10,0,0,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,Central Parade FC,2011-07-10,1,0,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,Ports Authority,2011-07-10,0,0,F,sierra-leone,FC Kallon (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Wusum Stars Of Bombali,Central Parade FC,2011-12-14,2,1,F,sierra-leone,Wusum Stars Of Bombali (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Freetown City FC,2011-12-14,2,1,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,Kissy All Stars FC,2011-12-14,1,1,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),Kissy All Stars FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,FC Johansen,2011-12-14,0,0,F,sierra-leone,Bo Rangers FC (Sierra Leone),FC Johansen (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Wusum Stars Of Bombali,Diamond Stars FC Of Kono,2012-01-15,2,1,F,sierra-leone,Wusum Stars Of Bombali (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,The Gem Stars Of Tongoma FC,2012-01-15,1,0,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),The Gem Stars Of Tongoma FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Johansen,Old Edwardians FC,2012-01-15,1,0,F,sierra-leone,FC Johansen (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,Kissy All Stars FC,2012-01-16,0,0,F,sierra-leone,Bo Rangers FC (Sierra Leone),Kissy All Stars FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,FC Kallon,2012-01-19,1,3,F,sierra-leone,Ports Authority (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,The Gem Stars Of Tongoma FC,2012-01-20,1,0,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),The Gem Stars Of Tongoma FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,Wusum Stars Of Bombali,2012-01-20,2,0,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),Wusum Stars Of Bombali (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,East End Lions,2012-01-20,0,0,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,Bo Rangers FC,2012-01-21,2,3,F,sierra-leone,Old Edwardians FC (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kissy All Stars FC,FC Johansen,2012-01-22,0,0,F,sierra-leone,Kissy All Stars FC (Sierra Leone),FC Johansen (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,Ports Authority,2012-01-25,2,0,F,sierra-leone,Central Parade FC (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,Freetown City FC,2012-01-27,2,0,F,sierra-leone,FC Kallon (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Wusum Stars Of Bombali,Mighty Blackpool SC,2012-01-28,1,0,F,sierra-leone,Wusum Stars Of Bombali (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,Diamond Stars FC Of Kono,2012-01-28,1,0,F,sierra-leone,East End Lions (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Johansen,Kamboi Eagles FC,2012-01-29,2,1,F,sierra-leone,FC Johansen (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,Central Parade FC,2012-01-30,2,1,F,sierra-leone,Bo Rangers FC (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,Old Edwardians FC,2012-02-01,0,1,F,sierra-leone,Ports Authority (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,Kissy All Stars FC,2012-02-02,0,1,F,sierra-leone,Freetown City FC (Sierra Leone),Kissy All Stars FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+The Gem Stars Of Tongoma FC,FC Kallon,2012-02-03,0,1,F,sierra-leone,The Gem Stars Of Tongoma FC (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Bo Rangers FC,2012-02-03,1,0,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,FC Johansen,2012-02-05,1,2,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),FC Johansen (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,East End Lions,2012-02-06,0,0,F,sierra-leone,Old Edwardians FC (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,Mighty Blackpool SC,2012-02-08,0,0,F,sierra-leone,FC Kallon (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+The Gem Stars Of Tongoma FC,Wusum Stars Of Bombali,2012-02-10,1,0,F,sierra-leone,The Gem Stars Of Tongoma FC (Sierra Leone),Wusum Stars Of Bombali (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,Ports Authority,2012-02-10,0,0,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,Diamond Stars FC Of Kono,2012-02-10,1,4,F,sierra-leone,Central Parade FC (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kissy All Stars FC,Old Edwardians FC,2012-02-11,0,1,F,sierra-leone,Kissy All Stars FC (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Johansen,FC Kallon,2012-02-12,0,0,F,sierra-leone,FC Johansen (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,Freetown City FC,2012-02-13,0,2,F,sierra-leone,Bo Rangers FC (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,Kissy All Stars FC,2012-02-15,1,1,F,sierra-leone,East End Lions (Sierra Leone),Kissy All Stars FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+The Gem Stars Of Tongoma FC,Central Parade FC,2012-02-17,1,2,F,sierra-leone,The Gem Stars Of Tongoma FC (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Kamboi Eagles FC,2012-02-17,1,0,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,Wusum Stars Of Bombali,2012-02-20,2,1,F,sierra-leone,Bo Rangers FC (Sierra Leone),Wusum Stars Of Bombali (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,Central Parade FC,2012-02-20,1,2,F,sierra-leone,Freetown City FC (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,East End Lions,2012-02-22,2,2,F,sierra-leone,Ports Authority (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,FC Kallon,2012-02-24,2,0,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,Bo Rangers FC,2012-02-24,0,1,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Wusum Stars Of Bombali,FC Johansen,2012-02-25,1,2,F,sierra-leone,Wusum Stars Of Bombali (Sierra Leone),FC Johansen (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,The Gem Stars Of Tongoma FC,2012-02-25,1,0,F,sierra-leone,Old Edwardians FC (Sierra Leone),The Gem Stars Of Tongoma FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Kissy All Stars FC,2012-02-25,3,0,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Kissy All Stars FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,East End Lions,2012-02-26,1,0,F,sierra-leone,Central Parade FC (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+The Gem Stars Of Tongoma FC,Kissy All Stars FC,2012-03-02,1,0,F,sierra-leone,The Gem Stars Of Tongoma FC (Sierra Leone),Kissy All Stars FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,Kamboi Eagles FC,2012-03-04,2,0,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,Wusum Stars Of Bombali,2012-03-05,3,0,F,sierra-leone,Old Edwardians FC (Sierra Leone),Wusum Stars Of Bombali (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,Central Parade FC,2012-03-07,1,1,F,sierra-leone,FC Kallon (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+The Gem Stars Of Tongoma FC,Freetown City FC,2012-03-07,1,0,F,sierra-leone,The Gem Stars Of Tongoma FC (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Mighty Blackpool SC,2012-03-09,1,0,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,Bo Rangers FC,2012-03-09,0,0,F,sierra-leone,East End Lions (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,FC Kallon,2012-03-10,1,2,F,sierra-leone,Old Edwardians FC (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,Freetown City FC,2012-03-11,0,2,F,sierra-leone,Ports Authority (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,Kamboi Eagles FC,2012-03-12,0,0,F,sierra-leone,Bo Rangers FC (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,FC Johansen,2012-03-12,1,0,F,sierra-leone,Central Parade FC (Sierra Leone),FC Johansen (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kissy All Stars FC,Wusum Stars Of Bombali,2012-03-14,1,0,F,sierra-leone,Kissy All Stars FC (Sierra Leone),Wusum Stars Of Bombali (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,Central Parade FC,2012-03-16,0,0,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,East End Lions,2012-03-16,0,1,F,sierra-leone,Freetown City FC (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,Ports Authority,2012-03-17,0,0,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Johansen,The Gem Stars Of Tongoma FC,2012-03-18,0,0,F,sierra-leone,FC Johansen (Sierra Leone),The Gem Stars Of Tongoma FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Old Edwardians FC,2012-03-19,1,2,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Wusum Stars Of Bombali,Freetown City FC,2012-03-21,3,0,F,sierra-leone,Wusum Stars Of Bombali (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,Kissy All Stars FC,2012-03-22,1,1,F,sierra-leone,Central Parade FC (Sierra Leone),Kissy All Stars FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+The Gem Stars Of Tongoma FC,Mighty Blackpool SC,2012-03-23,1,1,F,sierra-leone,The Gem Stars Of Tongoma FC (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,FC Johansen,2012-03-23,1,0,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),FC Johansen (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,Wusum Stars Of Bombali,2012-03-25,1,0,F,sierra-leone,Ports Authority (Sierra Leone),Wusum Stars Of Bombali (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,Old Edwardians FC,2012-03-26,0,1,F,sierra-leone,Freetown City FC (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,Kamboi Eagles FC,2012-03-28,3,0,F,sierra-leone,East End Lions (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kissy All Stars FC,FC Kallon,2012-03-29,0,1,F,sierra-leone,Kissy All Stars FC (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+The Gem Stars Of Tongoma FC,Bo Rangers FC,2012-03-30,0,1,F,sierra-leone,The Gem Stars Of Tongoma FC (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Johansen,Ports Authority,2012-03-30,0,0,F,sierra-leone,FC Johansen (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Wusum Stars Of Bombali,East End Lions,2012-03-31,1,3,F,sierra-leone,Wusum Stars Of Bombali (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,Diamond Stars FC Of Kono,2012-04-01,1,0,F,sierra-leone,FC Kallon (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,The Gem Stars Of Tongoma FC,2012-04-02,1,0,F,sierra-leone,Ports Authority (Sierra Leone),The Gem Stars Of Tongoma FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,Ports Authority,2012-04-06,0,1,F,sierra-leone,Bo Rangers FC (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+The Gem Stars Of Tongoma FC,East End Lions,2012-04-11,1,1,F,sierra-leone,The Gem Stars Of Tongoma FC (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,Mighty Blackpool SC,2012-04-11,0,0,F,sierra-leone,Old Edwardians FC (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Johansen,Freetown City FC,2012-04-11,1,0,F,sierra-leone,FC Johansen (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,Wusum Stars Of Bombali,2012-04-12,2,0,F,sierra-leone,FC Kallon (Sierra Leone),Wusum Stars Of Bombali (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,Kissy All Stars FC,2012-04-13,1,0,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),Kissy All Stars FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,Old Edwardians FC,2012-04-13,0,1,F,sierra-leone,Central Parade FC (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,Bo Rangers FC,2012-04-14,1,0,F,sierra-leone,FC Kallon (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,Diamond Stars FC Of Kono,2012-04-15,1,1,F,sierra-leone,Ports Authority (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,Kamboi Eagles FC,2012-04-16,0,1,F,sierra-leone,Freetown City FC (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,Central Parade FC,2012-04-17,0,0,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,FC Johansen,2012-04-17,1,0,F,sierra-leone,East End Lions (Sierra Leone),FC Johansen (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,Old Edwardians FC,2012-04-20,0,1,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,Kissy All Stars FC,2012-04-22,1,1,F,sierra-leone,Ports Authority (Sierra Leone),Kissy All Stars FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,Mighty Blackpool SC,2012-04-29,0,0,F,sierra-leone,Freetown City FC (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,East End Lions,2012-04-29,1,0,F,sierra-leone,FC Kallon (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,FC Johansen,2012-05-18,1,0,F,sierra-leone,Old Edwardians FC (Sierra Leone),FC Johansen (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+The Gem Stars Of Tongoma FC,Kamboi Eagles FC,2012-05-19,1,1,F,sierra-leone,The Gem Stars Of Tongoma FC (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Wusum Stars Of Bombali,2012-05-19,3,0,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Wusum Stars Of Bombali (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,East End Lions,2012-05-20,1,0,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kissy All Stars FC,Freetown City FC,2012-05-23,0,0,F,sierra-leone,Kissy All Stars FC (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Wusum Stars Of Bombali,Old Edwardians FC,2012-05-23,1,0,F,sierra-leone,Wusum Stars Of Bombali (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,East End Lions,2012-05-25,0,0,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,Bo Rangers FC,2012-05-25,0,1,F,sierra-leone,Central Parade FC (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,Mighty Blackpool SC,2012-05-26,2,1,F,sierra-leone,Ports Authority (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kissy All Stars FC,The Gem Stars Of Tongoma FC,2012-05-27,0,0,F,sierra-leone,Kissy All Stars FC (Sierra Leone),The Gem Stars Of Tongoma FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,Ports Authority,2012-05-30,0,0,F,sierra-leone,Freetown City FC (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+The Gem Stars Of Tongoma FC,Diamond Stars FC Of Kono,2012-06-01,0,1,F,sierra-leone,The Gem Stars Of Tongoma FC (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Johansen,Central Parade FC,2012-06-03,2,2,F,sierra-leone,FC Johansen (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,FC Kallon,2012-06-06,0,0,F,sierra-leone,Bo Rangers FC (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Wusum Stars Of Bombali,Kissy All Stars FC,2012-06-06,1,1,F,sierra-leone,Wusum Stars Of Bombali (Sierra Leone),Kissy All Stars FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,Kamboi Eagles FC,2012-06-06,0,3,F,sierra-leone,Old Edwardians FC (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Ports Authority,2012-06-08,0,1,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+The Gem Stars Of Tongoma FC,FC Johansen,2012-06-08,1,1,F,sierra-leone,The Gem Stars Of Tongoma FC (Sierra Leone),FC Johansen (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,Freetown City FC,2012-06-08,1,0,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,Central Parade FC,2012-06-09,1,0,F,sierra-leone,East End Lions (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,Bo Rangers FC,2012-06-10,1,1,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,Old Edwardians FC,2012-06-10,2,0,F,sierra-leone,FC Kallon (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kissy All Stars FC,Mighty Blackpool SC,2012-06-11,1,1,F,sierra-leone,Kissy All Stars FC (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,Wusum Stars Of Bombali,2012-06-12,3,0,F,sierra-leone,Freetown City FC (Sierra Leone),Wusum Stars Of Bombali (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,Kamboi Eagles FC,2012-06-13,1,1,F,sierra-leone,Ports Authority (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Johansen,East End Lions,2012-06-14,2,2,F,sierra-leone,FC Johansen (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,FC Kallon,2012-06-15,1,0,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+The Gem Stars Of Tongoma FC,Old Edwardians FC,2012-06-15,2,1,F,sierra-leone,The Gem Stars Of Tongoma FC (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,Kissy All Stars FC,2012-06-17,2,1,F,sierra-leone,FC Kallon (Sierra Leone),Kissy All Stars FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,Mighty Blackpool SC,2012-06-17,0,1,F,sierra-leone,Bo Rangers FC (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Wusum Stars Of Bombali,Ports Authority,2012-06-17,2,0,F,sierra-leone,Wusum Stars Of Bombali (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,Freetown City FC,2012-06-17,0,1,F,sierra-leone,Central Parade FC (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,FC Johansen,2012-06-18,1,0,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),FC Johansen (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,The Gem Stars Of Tongoma FC,2012-06-18,1,2,F,sierra-leone,East End Lions (Sierra Leone),The Gem Stars Of Tongoma FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Old Edwardians FC,2012-06-19,3,0,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,Wusum Stars Of Bombali,2012-06-20,1,0,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),Wusum Stars Of Bombali (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,FC Kallon,2012-06-21,2,1,F,sierra-leone,Freetown City FC (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,The Gem Stars Of Tongoma FC,2012-06-22,1,0,F,sierra-leone,Bo Rangers FC (Sierra Leone),The Gem Stars Of Tongoma FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,Central Parade FC,2012-06-22,1,0,F,sierra-leone,Ports Authority (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kissy All Stars FC,Kamboi Eagles FC,2012-06-22,1,2,F,sierra-leone,Kissy All Stars FC (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Johansen,Diamond Stars FC Of Kono,2012-06-23,1,0,F,sierra-leone,FC Johansen (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,Wusum Stars Of Bombali,2012-06-23,1,0,F,sierra-leone,East End Lions (Sierra Leone),Wusum Stars Of Bombali (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,Freetown City FC,2012-06-24,2,0,F,sierra-leone,Old Edwardians FC (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,Mighty Blackpool SC,2012-06-24,1,1,F,sierra-leone,Central Parade FC (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,Ports Authority,2012-06-25,0,1,F,sierra-leone,FC Kallon (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kissy All Stars FC,Bo Rangers FC,2012-06-25,0,0,F,sierra-leone,Kissy All Stars FC (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,Diamond Stars FC Of Kono,2012-06-26,2,0,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Wusum Stars Of Bombali,The Gem Stars Of Tongoma FC,2012-06-26,0,3,F,sierra-leone,Wusum Stars Of Bombali (Sierra Leone),The Gem Stars Of Tongoma FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,Old Edwardians FC,2012-06-27,1,0,F,sierra-leone,East End Lions (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,FC Johansen,2012-06-27,0,1,F,sierra-leone,Freetown City FC (Sierra Leone),FC Johansen (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,FC Kallon,2012-06-28,1,1,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+The Gem Stars Of Tongoma FC,Ports Authority,2012-06-29,2,0,F,sierra-leone,The Gem Stars Of Tongoma FC (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,Diamond Stars FC Of Kono,2012-06-29,1,2,F,sierra-leone,Bo Rangers FC (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kissy All Stars FC,Central Parade FC,2012-06-29,0,0,F,sierra-leone,Kissy All Stars FC (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Wusum Stars Of Bombali,Kamboi Eagles FC,2012-06-30,0,0,F,sierra-leone,Wusum Stars Of Bombali (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,Freetown City FC,2012-06-30,1,2,F,sierra-leone,East End Lions (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,FC Johansen,2012-07-01,1,1,F,sierra-leone,FC Kallon (Sierra Leone),FC Johansen (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,Old Edwardians FC,2012-07-01,3,1,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,Bo Rangers FC,2012-07-02,1,1,F,sierra-leone,Ports Authority (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,The Gem Stars Of Tongoma FC,2012-07-03,2,0,F,sierra-leone,Central Parade FC (Sierra Leone),The Gem Stars Of Tongoma FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kissy All Stars FC,East End Lions,2012-07-03,0,1,F,sierra-leone,Kissy All Stars FC (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,Freetown City FC,2012-07-04,0,0,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Wusum Stars Of Bombali,FC Kallon,2012-07-04,1,2,F,sierra-leone,Wusum Stars Of Bombali (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Johansen,Mighty Blackpool SC,2012-07-04,2,2,F,sierra-leone,FC Johansen (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,Ports Authority,2012-07-06,1,1,F,sierra-leone,East End Lions (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,The Gem Stars Of Tongoma FC,2012-07-06,2,1,F,sierra-leone,Freetown City FC (Sierra Leone),The Gem Stars Of Tongoma FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,Central Parade FC,2012-07-06,0,1,F,sierra-leone,Old Edwardians FC (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,Kamboi Eagles FC,2012-07-07,1,0,F,sierra-leone,FC Kallon (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Wusum Stars Of Bombali,Bo Rangers FC,2012-07-07,1,1,F,sierra-leone,Wusum Stars Of Bombali (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Johansen,Kissy All Stars FC,2012-07-07,2,1,F,sierra-leone,FC Johansen (Sierra Leone),Kissy All Stars FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,Diamond Stars FC Of Kono,2012-07-08,2,1,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,Ports Authority,2012-07-09,1,0,F,sierra-leone,Old Edwardians FC (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,Wusum Stars Of Bombali,2012-07-10,0,0,F,sierra-leone,Central Parade FC (Sierra Leone),Wusum Stars Of Bombali (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,The Gem Stars Of Tongoma FC,2012-07-11,0,0,F,sierra-leone,FC Kallon (Sierra Leone),The Gem Stars Of Tongoma FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,East End Lions,2012-07-11,0,4,F,sierra-leone,Bo Rangers FC (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,Mighty Blackpool SC,2012-07-11,2,0,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kissy All Stars FC,Diamond Stars FC Of Kono,2012-07-11,1,2,F,sierra-leone,Kissy All Stars FC (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,FC Johansen,2012-07-12,0,0,F,sierra-leone,Ports Authority (Sierra Leone),FC Johansen (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,Kissy All Stars FC,2012-07-13,1,1,F,sierra-leone,Old Edwardians FC (Sierra Leone),Kissy All Stars FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,East End Lions,2012-07-13,0,0,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,FC Kallon,2012-07-13,1,0,F,sierra-leone,Central Parade FC (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Johansen,Bo Rangers FC,2012-07-14,1,0,F,sierra-leone,FC Johansen (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Central Parade FC,2012-07-15,1,0,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,Bo Rangers FC,2012-07-17,2,2,F,sierra-leone,Freetown City FC (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kissy All Stars FC,Ports Authority,2012-07-20,1,4,F,sierra-leone,Kissy All Stars FC (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,Kamboi Eagles FC,2012-07-20,0,1,F,sierra-leone,Central Parade FC (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Johansen,Wusum Stars Of Bombali,2012-07-21,1,0,F,sierra-leone,FC Johansen (Sierra Leone),Wusum Stars Of Bombali (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,The Gem Stars Of Tongoma FC,2012-07-21,1,1,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),The Gem Stars Of Tongoma FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,Old Edwardians FC,2012-07-22,1,0,F,sierra-leone,Bo Rangers FC (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,Diamond Stars FC Of Kono,2012-07-22,1,2,F,sierra-leone,Freetown City FC (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,FC Kallon,2012-07-22,2,2,F,sierra-leone,East End Lions (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Johansen,Ports Authority,2013-07-03,0,0,F,sierra-leone,FC Johansen (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Kamboi Eagles FC,2013-07-05,1,0,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,The Gem Stars Of Tongoma FC,2013-07-05,0,2,F,sierra-leone,Bo Rangers FC (Sierra Leone),The Gem Stars Of Tongoma FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Anti Drugs Strikers,East End Lions,2013-07-05,0,0,F,sierra-leone,Anti Drugs Strikers (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,Central Parade FC,2013-07-05,1,1,F,sierra-leone,Freetown City FC (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Rslaf,Mighty Blackpool SC,2013-07-05,0,2,F,sierra-leone,Rslaf (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,Old Edwardians FC,2013-07-06,2,0,F,sierra-leone,FC Kallon (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,Bo Rangers FC,2013-07-07,0,0,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+The Gem Stars Of Tongoma FC,Diamond Stars FC Of Kono,2013-07-07,0,0,F,sierra-leone,The Gem Stars Of Tongoma FC (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,FC Johansen,2013-07-07,0,1,F,sierra-leone,East End Lions (Sierra Leone),FC Johansen (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,Rslaf,2013-07-07,3,1,F,sierra-leone,Ports Authority (Sierra Leone),Rslaf (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,Anti Drugs Strikers,2013-07-09,0,1,F,sierra-leone,Old Edwardians FC (Sierra Leone),Anti Drugs Strikers (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,Freetown City FC,2013-07-10,0,0,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Johansen,Kamboi Eagles FC,2013-07-10,2,1,F,sierra-leone,FC Johansen (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,East End Lions,2013-07-10,1,0,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Rslaf,The Gem Stars Of Tongoma FC,2013-07-10,6,1,F,sierra-leone,Rslaf (Sierra Leone),The Gem Stars Of Tongoma FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,Ports Authority,2013-07-10,1,0,F,sierra-leone,Bo Rangers FC (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Anti Drugs Strikers,Central Parade FC,2013-07-11,0,0,F,sierra-leone,Anti Drugs Strikers (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,Mighty Blackpool SC,2013-07-12,2,2,F,sierra-leone,FC Kallon (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,Old Edwardians FC,2013-07-12,1,2,F,sierra-leone,Freetown City FC (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,Rslaf,2013-07-13,1,2,F,sierra-leone,Central Parade FC (Sierra Leone),Rslaf (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,Anti Drugs Strikers,2013-07-13,3,2,F,sierra-leone,Ports Authority (Sierra Leone),Anti Drugs Strikers (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,Bo Rangers FC,2013-07-14,2,0,F,sierra-leone,East End Lions (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,Diamond Stars FC Of Kono,2013-07-14,0,1,F,sierra-leone,Old Edwardians FC (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+The Gem Stars Of Tongoma FC,FC Johansen,2013-07-14,3,0,F,sierra-leone,The Gem Stars Of Tongoma FC (Sierra Leone),FC Johansen (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,Central Parade FC,2013-07-17,1,0,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,FC Kallon,2013-07-17,0,2,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Rslaf,Freetown City FC,2013-07-17,2,0,F,sierra-leone,Rslaf (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Anti Drugs Strikers,The Gem Stars Of Tongoma FC,2013-07-17,0,0,F,sierra-leone,Anti Drugs Strikers (Sierra Leone),The Gem Stars Of Tongoma FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Ports Authority,2013-07-17,3,0,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,Old Edwardians FC,2013-07-17,1,0,F,sierra-leone,Bo Rangers FC (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,East End Lions,2013-07-19,0,1,F,sierra-leone,Central Parade FC (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Johansen,Mighty Blackpool SC,2013-07-20,0,1,F,sierra-leone,FC Johansen (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,Rslaf,2013-07-20,3,3,F,sierra-leone,FC Kallon (Sierra Leone),Rslaf (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,Kamboi Eagles FC,2013-07-20,2,1,F,sierra-leone,Freetown City FC (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,Central Parade FC,2013-07-21,1,0,F,sierra-leone,Ports Authority (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+The Gem Stars Of Tongoma FC,FC Kallon,2013-07-24,1,0,F,sierra-leone,The Gem Stars Of Tongoma FC (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,FC Johansen,2013-07-24,1,2,F,sierra-leone,Old Edwardians FC (Sierra Leone),FC Johansen (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,Freetown City FC,2013-07-24,1,1,F,sierra-leone,East End Lions (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Rslaf,Bo Rangers FC,2013-07-24,2,1,F,sierra-leone,Rslaf (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,Anti Drugs Strikers,2013-07-26,1,0,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),Anti Drugs Strikers (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,Diamond Stars FC Of Kono,2013-07-26,2,0,F,sierra-leone,Central Parade FC (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,Ports Authority,2013-07-27,1,0,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,East End Lions,2013-07-27,1,1,F,sierra-leone,FC Kallon (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Johansen,Rslaf,2013-07-28,0,1,F,sierra-leone,FC Johansen (Sierra Leone),Rslaf (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,The Gem Stars Of Tongoma FC,2013-07-28,1,1,F,sierra-leone,Freetown City FC (Sierra Leone),The Gem Stars Of Tongoma FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,Rslaf,2013-09-14,1,1,F,sierra-leone,East End Lions (Sierra Leone),Rslaf (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Johansen,Anti Drugs Strikers,2013-09-18,0,2,F,sierra-leone,FC Johansen (Sierra Leone),Anti Drugs Strikers (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Rslaf,Anti Drugs Strikers,2013-09-22,0,0,F,sierra-leone,Rslaf (Sierra Leone),Anti Drugs Strikers (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,FC Johansen,2013-09-22,0,0,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),FC Johansen (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Rslaf,2013-10-20,2,1,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Rslaf (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,Bo Rangers FC,2014-03-26,0,1,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,Old Edwardians FC,2014-03-26,1,4,F,sierra-leone,Central Parade FC (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,Rslaf,2014-03-26,2,1,F,sierra-leone,Ports Authority (Sierra Leone),Rslaf (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,Anti Drugs Strikers,2014-03-26,3,1,F,sierra-leone,East End Lions (Sierra Leone),Anti Drugs Strikers (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,FC Johansen,2014-03-27,0,0,F,sierra-leone,FC Kallon (Sierra Leone),FC Johansen (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,Freetown City FC,2014-03-27,3,0,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,Ports Authority,2014-04-09,3,1,F,sierra-leone,Old Edwardians FC (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,East End Lions,2014-04-09,1,1,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Rslaf,Kamboi Eagles FC,2014-04-11,0,0,F,sierra-leone,Rslaf (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,Central Parade FC,2014-04-11,0,1,F,sierra-leone,Freetown City FC (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Anti Drugs Strikers,FC Kallon,2014-04-11,2,1,F,sierra-leone,Anti Drugs Strikers (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Johansen,Diamond Stars FC Of Kono,2014-04-13,2,1,F,sierra-leone,FC Johansen (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,Mighty Blackpool SC,2014-04-13,0,0,F,sierra-leone,Bo Rangers FC (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,Old Edwardians FC,2014-04-14,0,0,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,Freetown City FC,2014-04-15,2,1,F,sierra-leone,Ports Authority (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,Rslaf,2014-04-15,2,2,F,sierra-leone,FC Kallon (Sierra Leone),Rslaf (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,Bo Rangers FC,2014-04-16,3,0,F,sierra-leone,Central Parade FC (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Kamboi Eagles FC,2014-04-17,1,1,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,FC Johansen,2014-04-17,1,0,F,sierra-leone,East End Lions (Sierra Leone),FC Johansen (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,Anti Drugs Strikers,2014-04-18,0,0,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),Anti Drugs Strikers (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,Ports Authority,2014-04-23,1,2,F,sierra-leone,Bo Rangers FC (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Rslaf,Mighty Blackpool SC,2014-04-23,1,2,F,sierra-leone,Rslaf (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Anti Drugs Strikers,Central Parade FC,2014-04-23,1,1,F,sierra-leone,Anti Drugs Strikers (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,Freetown City FC,2014-04-23,2,0,F,sierra-leone,Old Edwardians FC (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+The Gem Stars Of Tongoma FC,Diamond Stars FC Of Kono,2014-04-26,1,3,F,sierra-leone,The Gem Stars Of Tongoma FC (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,East End Lions,2014-04-27,2,1,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,Anti Drugs Strikers,2014-04-27,1,1,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),Anti Drugs Strikers (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+The Gem Stars Of Tongoma FC,Old Edwardians FC,2014-04-30,4,0,F,sierra-leone,The Gem Stars Of Tongoma FC (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,FC Kallon,2014-05-02,1,0,F,sierra-leone,Ports Authority (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Central Parade FC,2014-05-02,3,0,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Rslaf,Freetown City FC,2014-05-02,1,1,F,sierra-leone,Rslaf (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,Kamboi Eagles FC,2014-05-02,1,1,F,sierra-leone,East End Lions (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Johansen,The Gem Stars Of Tongoma FC,2014-05-02,1,0,F,sierra-leone,FC Johansen (Sierra Leone),The Gem Stars Of Tongoma FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,Mighty Blackpool SC,2014-05-02,0,0,F,sierra-leone,Old Edwardians FC (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,FC Kallon,2014-05-07,0,1,F,sierra-leone,Bo Rangers FC (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,Diamond Stars FC Of Kono,2014-05-07,0,0,F,sierra-leone,Freetown City FC (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,Ports Authority,2014-05-07,0,0,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+The Gem Stars Of Tongoma FC,Bo Rangers FC,2014-05-11,2,0,F,sierra-leone,The Gem Stars Of Tongoma FC (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,Kamboi Eagles FC,2014-05-11,0,0,F,sierra-leone,Central Parade FC (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Old Edwardians FC,2014-05-11,0,1,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,Mighty Blackpool SC,2014-05-11,1,0,F,sierra-leone,Ports Authority (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Johansen,Central Parade FC,2014-05-14,0,1,F,sierra-leone,FC Johansen (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,The Gem Stars Of Tongoma FC,2014-05-14,2,0,F,sierra-leone,East End Lions (Sierra Leone),The Gem Stars Of Tongoma FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,Rslaf,2014-05-16,0,1,F,sierra-leone,Bo Rangers FC (Sierra Leone),Rslaf (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,Freetown City FC,2014-05-16,1,1,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,FC Kallon,2014-05-16,0,1,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,Anti Drugs Strikers,2014-05-16,2,1,F,sierra-leone,Old Edwardians FC (Sierra Leone),Anti Drugs Strikers (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Ports Authority,2014-05-16,2,1,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,East End Lions,2014-05-18,0,1,F,sierra-leone,Central Parade FC (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Anti Drugs Strikers,Bo Rangers FC,2014-05-21,1,2,F,sierra-leone,Anti Drugs Strikers (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+The Gem Stars Of Tongoma FC,Kamboi Eagles FC,2014-05-22,2,0,F,sierra-leone,The Gem Stars Of Tongoma FC (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,Rslaf,2014-05-26,1,1,F,sierra-leone,Central Parade FC (Sierra Leone),Rslaf (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,The Gem Stars Of Tongoma FC,2014-05-26,0,0,F,sierra-leone,Freetown City FC (Sierra Leone),The Gem Stars Of Tongoma FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,Old Edwardians FC,2014-05-26,1,0,F,sierra-leone,Bo Rangers FC (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,Anti Drugs Strikers,2014-05-27,0,1,F,sierra-leone,Ports Authority (Sierra Leone),Anti Drugs Strikers (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Anti Drugs Strikers,FC Johansen,2014-05-30,1,1,F,sierra-leone,Anti Drugs Strikers (Sierra Leone),FC Johansen (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,Rslaf,2014-05-30,0,1,F,sierra-leone,Old Edwardians FC (Sierra Leone),Rslaf (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+The Gem Stars Of Tongoma FC,FC Kallon,2014-05-30,1,1,F,sierra-leone,The Gem Stars Of Tongoma FC (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,Mighty Blackpool SC,2014-05-31,0,0,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Anti Drugs Strikers,The Gem Stars Of Tongoma FC,2014-06-01,1,0,F,sierra-leone,Anti Drugs Strikers (Sierra Leone),The Gem Stars Of Tongoma FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Rslaf,East End Lions,2014-06-01,1,3,F,sierra-leone,Rslaf (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,Freetown City FC,2014-06-01,2,2,F,sierra-leone,FC Kallon (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,Ports Authority,2014-06-01,3,4,F,sierra-leone,Central Parade FC (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Mighty Blackpool SC,2014-06-01,0,0,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,Central Parade FC,2014-06-04,1,0,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+The Gem Stars Of Tongoma FC,Rslaf,2014-06-04,1,0,F,sierra-leone,The Gem Stars Of Tongoma FC (Sierra Leone),Rslaf (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,Diamond Stars FC Of Kono,2014-06-04,0,0,F,sierra-leone,Bo Rangers FC (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,Anti Drugs Strikers,2014-06-04,2,0,F,sierra-leone,Freetown City FC (Sierra Leone),Anti Drugs Strikers (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,East End Lions,2014-06-05,1,3,F,sierra-leone,FC Kallon (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,FC Johansen,2014-06-05,1,1,F,sierra-leone,Ports Authority (Sierra Leone),FC Johansen (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,Bo Rangers FC,2014-06-08,2,0,F,sierra-leone,Freetown City FC (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Rslaf,FC Johansen,2014-06-11,1,0,F,sierra-leone,Rslaf (Sierra Leone),FC Johansen (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,FC Kallon,2014-06-11,0,1,F,sierra-leone,Central Parade FC (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,Ports Authority,2014-06-11,1,0,F,sierra-leone,East End Lions (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Anti Drugs Strikers,2014-06-11,1,0,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Anti Drugs Strikers (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,East End Lions,2014-06-14,0,1,F,sierra-leone,Old Edwardians FC (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,Diamond Stars FC Of Kono,2014-06-15,1,1,F,sierra-leone,FC Kallon (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,The Gem Stars Of Tongoma FC,2014-06-15,0,1,F,sierra-leone,Ports Authority (Sierra Leone),The Gem Stars Of Tongoma FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Anti Drugs Strikers,Rslaf,2014-06-15,2,1,F,sierra-leone,Anti Drugs Strikers (Sierra Leone),Rslaf (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,FC Johansen,2014-06-16,1,2,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),FC Johansen (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,Kamboi Eagles FC,2014-06-18,4,1,F,sierra-leone,FC Kallon (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Rslaf,Diamond Stars FC Of Kono,2014-06-18,4,1,F,sierra-leone,Rslaf (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,East End Lions,2014-06-18,1,0,F,sierra-leone,Freetown City FC (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+The Gem Stars Of Tongoma FC,Central Parade FC,2014-06-20,1,0,F,sierra-leone,The Gem Stars Of Tongoma FC (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Johansen,Freetown City FC,2014-06-21,0,0,F,sierra-leone,FC Johansen (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,FC Kallon,2014-06-21,0,0,F,sierra-leone,Old Edwardians FC (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,FC Johansen,2014-06-25,1,0,F,sierra-leone,Bo Rangers FC (Sierra Leone),FC Johansen (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+The Gem Stars Of Tongoma FC,Mighty Blackpool SC,2014-06-25,0,0,F,sierra-leone,The Gem Stars Of Tongoma FC (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Johansen,Kamboi Eagles FC,2014-06-28,2,2,F,sierra-leone,FC Johansen (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,Bo Rangers FC,2014-06-29,1,0,F,sierra-leone,East End Lions (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Johansen,Old Edwardians FC,2014-07-01,1,0,F,sierra-leone,FC Johansen (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,FC Kallon,2019-02-01,0,1,F,sierra-leone,Bo Rangers FC (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,Diamond Stars FC Of Kono,2019-02-01,1,1,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,Ports Authority,2019-02-01,0,1,F,sierra-leone,Freetown City FC (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Anti Drugs Strikers,Central Parade FC,2019-02-02,0,2,F,sierra-leone,Anti Drugs Strikers (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Rslaf,East End Tigers,2019-02-02,0,1,F,sierra-leone,Rslaf (Sierra Leone),East End Tigers (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,Old Edwardians FC,2019-02-02,1,0,F,sierra-leone,East End Lions (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,Mighty Blackpool SC,2019-02-06,0,0,F,sierra-leone,Central Parade FC (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,Bo Rangers FC,2019-02-06,1,0,F,sierra-leone,Ports Authority (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,Anti Drugs Strikers,2019-02-06,0,0,F,sierra-leone,FC Kallon (Sierra Leone),Anti Drugs Strikers (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,Ports Authority,2019-02-13,0,1,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,East End Tigers,2019-02-13,0,1,F,sierra-leone,Freetown City FC (Sierra Leone),East End Tigers (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,Old Edwardians FC,2019-02-13,0,0,F,sierra-leone,FC Kallon (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Rslaf,Diamond Stars FC Of Kono,2019-02-13,2,1,F,sierra-leone,Rslaf (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,Central Parade FC,2019-02-20,0,1,F,sierra-leone,Freetown City FC (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,Ports Authority,2019-02-20,1,0,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,East End Lions,2019-02-22,0,0,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,Old Edwardians FC,2019-03-06,1,0,F,sierra-leone,Bo Rangers FC (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,Freetown City FC,2019-03-06,1,1,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,Diamond Stars FC Of Kono,2019-03-06,0,0,F,sierra-leone,East End Lions (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Rslaf,Central Parade FC,2019-03-08,1,0,F,sierra-leone,Rslaf (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Anti Drugs Strikers,Bo Rangers FC,2019-03-09,1,1,F,sierra-leone,Anti Drugs Strikers (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,Kamboi Eagles FC,2019-03-09,1,0,F,sierra-leone,FC Kallon (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Tigers,FC Kallon,2019-03-12,0,0,F,sierra-leone,East End Tigers (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Anti Drugs Strikers,2019-03-13,2,0,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Anti Drugs Strikers (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,Rslaf,2019-03-13,2,1,F,sierra-leone,East End Lions (Sierra Leone),Rslaf (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Rslaf,Bo Rangers FC,2019-03-20,0,0,F,sierra-leone,Rslaf (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Tigers,Central Parade FC,2019-03-20,0,1,F,sierra-leone,East End Tigers (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Anti Drugs Strikers,Kamboi Eagles FC,2019-03-20,2,2,F,sierra-leone,Anti Drugs Strikers (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,Diamond Stars FC Of Kono,2019-03-20,1,2,F,sierra-leone,Old Edwardians FC (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,East End Lions,2019-03-21,0,0,F,sierra-leone,Freetown City FC (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,Rslaf,2019-03-23,1,0,F,sierra-leone,Ports Authority (Sierra Leone),Rslaf (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,Mighty Blackpool SC,2019-03-23,0,0,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,Anti Drugs Strikers,2019-03-23,1,1,F,sierra-leone,Old Edwardians FC (Sierra Leone),Anti Drugs Strikers (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,East End Tigers,2019-03-24,1,0,F,sierra-leone,East End Lions (Sierra Leone),East End Tigers (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Rslaf,FC Kallon,2019-03-26,2,2,F,sierra-leone,Rslaf (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Mighty Blackpool SC,2019-03-27,0,2,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,Old Edwardians FC,2019-04-03,2,1,F,sierra-leone,Ports Authority (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,Diamond Stars FC Of Kono,2019-04-05,1,0,F,sierra-leone,Central Parade FC (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,Bo Rangers FC,2019-04-06,2,1,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,Ports Authority,2019-04-07,0,2,F,sierra-leone,Central Parade FC (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,East End Lions,2019-04-10,0,0,F,sierra-leone,Ports Authority (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Anti Drugs Strikers,Mighty Blackpool SC,2019-05-01,0,0,F,sierra-leone,Anti Drugs Strikers (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Central Parade FC,2019-05-02,2,0,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,East End Tigers,2019-05-03,1,3,F,sierra-leone,Bo Rangers FC (Sierra Leone),East End Tigers (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,Rslaf,2019-05-04,3,0,F,sierra-leone,FC Kallon (Sierra Leone),Rslaf (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,East End Tigers,2019-05-05,1,1,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),East End Tigers (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,Ports Authority,2019-05-05,1,0,F,sierra-leone,Old Edwardians FC (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,Bo Rangers FC,2019-05-07,0,0,F,sierra-leone,Central Parade FC (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Mighty Blackpool SC,Diamond Stars FC Of Kono,2019-05-08,1,1,F,sierra-leone,Mighty Blackpool SC (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,Freetown City FC,2019-05-09,0,1,F,sierra-leone,Ports Authority (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Lions,Kamboi Eagles FC,2019-05-09,4,2,F,sierra-leone,East End Lions (Sierra Leone),Kamboi Eagles FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Anti Drugs Strikers,FC Kallon,2019-05-10,0,1,F,sierra-leone,Anti Drugs Strikers (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Tigers,Old Edwardians FC,2019-05-11,0,1,F,sierra-leone,East End Tigers (Sierra Leone),Old Edwardians FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,Mighty Blackpool SC,2019-05-12,0,0,F,sierra-leone,Bo Rangers FC (Sierra Leone),Mighty Blackpool SC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Rslaf,Ports Authority,2019-05-12,0,1,F,sierra-leone,Rslaf (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,East End Lions,2019-05-12,0,0,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Kamboi Eagles FC,Central Parade FC,2019-05-12,1,0,F,sierra-leone,Kamboi Eagles FC (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Freetown City FC,Bo Rangers FC,2019-05-15,0,2,F,sierra-leone,Freetown City FC (Sierra Leone),Bo Rangers FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Ports Authority,East End Tigers,2019-05-17,1,1,F,sierra-leone,Ports Authority (Sierra Leone),East End Tigers (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,FC Kallon,2019-05-18,0,0,F,sierra-leone,Old Edwardians FC (Sierra Leone),FC Kallon (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Rslaf,Anti Drugs Strikers,2019-05-19,1,0,F,sierra-leone,Rslaf (Sierra Leone),Anti Drugs Strikers (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+East End Tigers,Diamond Stars FC Of Kono,2019-05-22,0,0,F,sierra-leone,East End Tigers (Sierra Leone),Diamond Stars FC Of Kono (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Central Parade FC,Freetown City FC,2019-05-23,1,0,F,sierra-leone,Central Parade FC (Sierra Leone),Freetown City FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Bo Rangers FC,Ports Authority,2019-05-25,2,0,F,sierra-leone,Bo Rangers FC (Sierra Leone),Ports Authority (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+FC Kallon,Central Parade FC,2019-05-26,2,0,F,sierra-leone,FC Kallon (Sierra Leone),Central Parade FC (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Old Edwardians FC,East End Lions,2019-05-29,0,0,F,sierra-leone,Old Edwardians FC (Sierra Leone),East End Lions (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Diamond Stars FC Of Kono,Rslaf,2019-05-31,3,2,F,sierra-leone,Diamond Stars FC Of Kono (Sierra Leone),Rslaf (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national
+Anti Drugs Strikers,East End Tigers,2019-05-31,1,0,F,sierra-leone,Anti Drugs Strikers (Sierra Leone),East End Tigers (Sierra Leone),sierra-leone,sierra-leone,SL,SL,Africa,Africa,Africa,national

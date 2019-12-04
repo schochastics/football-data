@@ -1,0 +1,123 @@
+home,away,date,gh,ga,full_time,competition,home_ident,away_ident,home_country,away_country,home_code,away_code,home_continent,away_continent,continent,level
+Al Nasr Riyadh,Real Madrid,2000-01-05,1,3,F,Fifa Club,Al Nasr Riyadh (Saudi Arabia),Real Madrid (Spain),saudi-arabia,spain,SA,ES,Asia,Europe,world,international
+Corinthians SP,Raja Casablanca,2000-01-05,2,0,F,Fifa Club,Corinthians SP (Brazil),Raja Casablanca (Morocco),brazil,morocco,BR,MA,South America,Africa,world,international
+Manchester United,Club Necaxa,2000-01-06,1,1,F,Fifa Club,Manchester United (England),Club Necaxa (Mexico),england,mexico,ENG,MX,Europe,North America,world,international
+Vasco Da Gama,South Melbourne FC,2000-01-06,2,0,F,Fifa Club,Vasco Da Gama (Brazil),South Melbourne FC (Australia),brazil,australia,BR,AU,South America,Oceania,world,international
+Raja Casablanca,Al Nasr Riyadh,2000-01-07,3,4,F,Fifa Club,Raja Casablanca (Morocco),Al Nasr Riyadh (Saudi Arabia),morocco,saudi-arabia,MA,SA,Africa,Asia,world,international
+Corinthians SP,Real Madrid,2000-01-07,2,2,F,Fifa Club,Corinthians SP (Brazil),Real Madrid (Spain),brazil,spain,BR,ES,South America,Europe,world,international
+Vasco Da Gama,Manchester United,2000-01-08,3,1,F,Fifa Club,Vasco Da Gama (Brazil),Manchester United (England),brazil,england,BR,ENG,South America,Europe,world,international
+Club Necaxa,South Melbourne FC,2000-01-08,3,1,F,Fifa Club,Club Necaxa (Mexico),South Melbourne FC (Australia),mexico,australia,MX,AU,North America,Oceania,world,international
+Corinthians SP,Al Nasr Riyadh,2000-01-10,2,0,F,Fifa Club,Corinthians SP (Brazil),Al Nasr Riyadh (Saudi Arabia),brazil,saudi-arabia,BR,SA,South America,Asia,world,international
+Real Madrid,Raja Casablanca,2000-01-10,3,2,F,Fifa Club,Real Madrid (Spain),Raja Casablanca (Morocco),spain,morocco,ES,MA,Europe,Africa,world,international
+Vasco Da Gama,Club Necaxa,2000-01-11,2,1,F,Fifa Club,Vasco Da Gama (Brazil),Club Necaxa (Mexico),brazil,mexico,BR,MX,South America,North America,world,international
+South Melbourne FC,Manchester United,2000-01-11,0,2,F,Fifa Club,South Melbourne FC (Australia),Manchester United (England),australia,england,AU,ENG,Oceania,Europe,world,international
+Corinthians SP,Vasco Da Gama,2000-01-14,0,0,P,Fifa Club,Corinthians SP (Brazil),Vasco Da Gama (Brazil),brazil,brazil,BR,BR,South America,South America,world,international
+Al Ittihad,Al Ahly,2005-12-11,1,0,F,Fifa Club,Al Ittihad (Saudi Arabia),Al Ahly (Egypt),saudi-arabia,egypt,SA,EG,Asia,Africa,world,international
+Sydney FC,Deportivo Saprissa,2005-12-12,0,1,F,Fifa Club,Sydney FC (Australia),Deportivo Saprissa (Costa Rica),australia,costa-rica,AU,CR,Oceania,North America,world,international
+Al Ittihad,Sao Paulo FC,2005-12-14,2,3,F,Fifa Club,Al Ittihad (Saudi Arabia),Sao Paulo FC (Brazil),saudi-arabia,brazil,SA,BR,Asia,South America,world,international
+Deportivo Saprissa,Liverpool FC,2005-12-15,0,3,F,Fifa Club,Deportivo Saprissa (Costa Rica),Liverpool FC (England),costa-rica,england,CR,ENG,North America,Europe,world,international
+Al Ahly,Sydney FC,2005-12-16,1,2,F,Fifa Club,Al Ahly (Egypt),Sydney FC (Australia),egypt,australia,EG,AU,Africa,Oceania,world,international
+Al Ittihad,Deportivo Saprissa,2005-12-18,2,3,F,Fifa Club,Al Ittihad (Saudi Arabia),Deportivo Saprissa (Costa Rica),saudi-arabia,costa-rica,SA,CR,Asia,North America,world,international
+Sao Paulo FC,Liverpool FC,2005-12-18,1,0,F,Fifa Club,Sao Paulo FC (Brazil),Liverpool FC (England),brazil,england,BR,ENG,South America,Europe,world,international
+Auckland City FC,Al Ahly,2006-12-10,0,2,F,Fifa Club,Auckland City FC (New Zealand),Al Ahly (Egypt),new-zealand,egypt,NZ,EG,Oceania,Africa,world,international
+Jeonbuk FC,CF America,2006-12-11,0,1,F,Fifa Club,Jeonbuk FC (Korea Republic),CF America (Mexico),korea-republic,mexico,KOR,MX,Asia,North America,world,international
+Al Ahly,Internacional,2006-12-13,1,2,F,Fifa Club,Al Ahly (Egypt),Internacional (Brazil),egypt,brazil,EG,BR,Africa,South America,world,international
+CF America,FC Barcelona,2006-12-14,0,4,F,Fifa Club,CF America (Mexico),FC Barcelona (Spain),mexico,spain,MX,ES,North America,Europe,world,international
+Jeonbuk FC,Auckland City FC,2006-12-15,3,0,F,Fifa Club,Jeonbuk FC (Korea Republic),Auckland City FC (New Zealand),korea-republic,new-zealand,KOR,NZ,Asia,Oceania,world,international
+Al Ahly,CF America,2006-12-17,2,1,F,Fifa Club,Al Ahly (Egypt),CF America (Mexico),egypt,mexico,EG,MX,Africa,North America,world,international
+Internacional,FC Barcelona,2006-12-17,1,0,F,Fifa Club,Internacional (Brazil),FC Barcelona (Spain),brazil,spain,BR,ES,South America,Europe,world,international
+Sepahan FC,Waitakere United,2007-12-07,3,1,F,Fifa Club,Sepahan FC (Iran),Waitakere United (New Zealand),iran,new-zealand,IR,NZ,Asia,Oceania,world,international
+ES Sahel,CF Pachuca,2007-12-09,1,0,F,Fifa Club,ES Sahel (Tunisia),CF Pachuca (Mexico),tunisia,mexico,TN,MX,Africa,North America,world,international
+Sepahan FC,Urawa Red Diamonds,2007-12-10,1,3,F,Fifa Club,Sepahan FC (Iran),Urawa Red Diamonds (Japan),iran,japan,IR,JP,Asia,Asia,world,international
+ES Sahel,Boca Juniors,2007-12-12,0,1,F,Fifa Club,ES Sahel (Tunisia),Boca Juniors (Argentina),tunisia,argentina,TN,AR,Africa,South America,world,international
+Urawa Red Diamonds,AC Milan,2007-12-13,0,1,F,Fifa Club,Urawa Red Diamonds (Japan),AC Milan (Italy),japan,italy,JP,IT,Asia,Europe,world,international
+ES Sahel,Urawa Red Diamonds,2007-12-16,2,2,P,Fifa Club,ES Sahel (Tunisia),Urawa Red Diamonds (Japan),tunisia,japan,TN,JP,Africa,Asia,world,international
+AC Milan,Boca Juniors,2007-12-16,4,2,F,Fifa Club,AC Milan (Italy),Boca Juniors (Argentina),italy,argentina,IT,AR,Europe,South America,world,international
+Adelaide United,Waitakere United,2008-12-11,2,1,F,Fifa Club,Adelaide United (Australia),Waitakere United (New Zealand),australia,new-zealand,AU,NZ,Oceania,Oceania,world,international
+Al Ahly,CF Pachuca,2008-12-13,2,4,E,Fifa Club,Al Ahly (Egypt),CF Pachuca (Mexico),egypt,mexico,EG,MX,Africa,North America,world,international
+Adelaide United,Gamba Osaka,2008-12-14,0,1,F,Fifa Club,Adelaide United (Australia),Gamba Osaka (Japan),australia,japan,AU,JP,Oceania,Asia,world,international
+CF Pachuca,Ldu Quito,2008-12-17,0,2,F,Fifa Club,CF Pachuca (Mexico),Ldu Quito (Ecuador),mexico,ecuador,MX,EC,North America,South America,world,international
+Al Ahly,Adelaide United,2008-12-18,0,1,F,Fifa Club,Al Ahly (Egypt),Adelaide United (Australia),egypt,australia,EG,AU,Africa,Oceania,world,international
+Gamba Osaka,Manchester United,2008-12-18,3,5,F,Fifa Club,Gamba Osaka (Japan),Manchester United (England),japan,england,JP,ENG,Asia,Europe,world,international
+CF Pachuca,Gamba Osaka,2008-12-21,0,1,F,Fifa Club,CF Pachuca (Mexico),Gamba Osaka (Japan),mexico,japan,MX,JP,North America,Asia,world,international
+Ldu Quito,Manchester United,2008-12-21,0,1,F,Fifa Club,Ldu Quito (Ecuador),Manchester United (England),ecuador,england,EC,ENG,South America,Europe,world,international
+Al Ahli,Auckland City FC,2009-12-09,0,2,F,Fifa Club,Al Ahli (United Arab Emirates),Auckland City FC (New Zealand),united-arab-emirates,new-zealand,AE,NZ,Asia,Oceania,world,international
+Tp Mazembe,Pohang Steelers,2009-12-11,1,2,F,Fifa Club,Tp Mazembe (Congo Dr),Pohang Steelers (Korea Republic),congo-dr,korea-republic,CDR,KOR,Africa,Asia,world,international
+Auckland City FC,CF Atlante,2009-12-12,0,3,F,Fifa Club,Auckland City FC (New Zealand),CF Atlante (Mexico),new-zealand,mexico,NZ,MX,Oceania,North America,world,international
+Pohang Steelers,Estudiantes,2009-12-15,1,2,F,Fifa Club,Pohang Steelers (Korea Republic),Estudiantes (Argentina),korea-republic,argentina,KOR,AR,Asia,South America,world,international
+Tp Mazembe,Auckland City FC,2009-12-16,2,3,F,Fifa Club,Tp Mazembe (Congo Dr),Auckland City FC (New Zealand),congo-dr,new-zealand,CDR,NZ,Africa,Oceania,world,international
+CF Atlante,FC Barcelona,2009-12-16,1,3,F,Fifa Club,CF Atlante (Mexico),FC Barcelona (Spain),mexico,spain,MX,ES,North America,Europe,world,international
+Pohang Steelers,CF Atlante,2009-12-19,1,1,P,Fifa Club,Pohang Steelers (Korea Republic),CF Atlante (Mexico),korea-republic,mexico,KOR,MX,Asia,North America,world,international
+Estudiantes,FC Barcelona,2009-12-19,1,2,E,Fifa Club,Estudiantes (Argentina),FC Barcelona (Spain),argentina,spain,AR,ES,South America,Europe,world,international
+Al Wahda,Prk Hekari United,2010-12-08,3,0,F,Fifa Club,Al Wahda (United Arab Emirates),Prk Hekari United (Papua New Guinea),united-arab-emirates,papua-new-guinea,AE,PG,Asia,Oceania,world,international
+Tp Mazembe,CF Pachuca,2010-12-10,1,0,F,Fifa Club,Tp Mazembe (Congo Dr),CF Pachuca (Mexico),congo-dr,mexico,CDR,MX,Africa,North America,world,international
+Al Wahda,Seongnam FC,2010-12-11,1,4,F,Fifa Club,Al Wahda (United Arab Emirates),Seongnam FC (Korea Republic),united-arab-emirates,korea-republic,AE,KOR,Asia,Asia,world,international
+Tp Mazembe,Internacional,2010-12-14,2,0,F,Fifa Club,Tp Mazembe (Congo Dr),Internacional (Brazil),congo-dr,brazil,CDR,BR,Africa,South America,world,international
+CF Pachuca,Al Wahda,2010-12-15,2,2,P,Fifa Club,CF Pachuca (Mexico),Al Wahda (United Arab Emirates),mexico,united-arab-emirates,MX,AE,North America,Asia,world,international
+Seongnam FC,Inter,2010-12-15,0,3,F,Fifa Club,Seongnam FC (Korea Republic),Inter (Italy),korea-republic,italy,KOR,IT,Asia,Europe,world,international
+Internacional,Seongnam FC,2010-12-18,4,2,F,Fifa Club,Internacional (Brazil),Seongnam FC (Korea Republic),brazil,korea-republic,BR,KOR,South America,Asia,world,international
+Tp Mazembe,Inter,2010-12-18,0,3,F,Fifa Club,Tp Mazembe (Congo Dr),Inter (Italy),congo-dr,italy,CDR,IT,Africa,Europe,world,international
+Kashiwa Reysol,Auckland City FC,2011-12-08,2,0,F,Fifa Club,Kashiwa Reysol (Japan),Auckland City FC (New Zealand),japan,new-zealand,JP,NZ,Asia,Oceania,world,international
+Esperance Tunis,Al Sadd,2011-12-11,1,2,F,Fifa Club,Esperance Tunis (Tunisia),Al Sadd (Qatar),tunisia,qatar,TN,QA,Africa,Asia,world,international
+Kashiwa Reysol,CF Monterrey,2011-12-11,1,1,P,Fifa Club,Kashiwa Reysol (Japan),CF Monterrey (Mexico),japan,mexico,JP,MX,Asia,North America,world,international
+Kashiwa Reysol,Santos FC,2011-12-14,1,3,F,Fifa Club,Kashiwa Reysol (Japan),Santos FC (Brazil),japan,brazil,JP,BR,Asia,South America,world,international
+CF Monterrey,Esperance Tunis,2011-12-14,3,2,F,Fifa Club,CF Monterrey (Mexico),Esperance Tunis (Tunisia),mexico,tunisia,MX,TN,North America,Africa,world,international
+Al Sadd,FC Barcelona,2011-12-15,0,4,F,Fifa Club,Al Sadd (Qatar),FC Barcelona (Spain),qatar,spain,QA,ES,Asia,Europe,world,international
+Santos FC,FC Barcelona,2011-12-18,0,4,F,Fifa Club,Santos FC (Brazil),FC Barcelona (Spain),brazil,spain,BR,ES,South America,Europe,world,international
+Kashiwa Reysol,Al Sadd,2011-12-18,0,0,P,Fifa Club,Kashiwa Reysol (Japan),Al Sadd (Qatar),japan,qatar,JP,QA,Asia,Asia,world,international
+Sanfrecce Hiroshima,Auckland City FC,2012-12-06,1,0,F,Fifa Club,Sanfrecce Hiroshima (Japan),Auckland City FC (New Zealand),japan,new-zealand,JP,NZ,Asia,Oceania,world,international
+Ulsan Horang I,CF Monterrey,2012-12-09,1,3,F,Fifa Club,Ulsan Horang I (Korea Republic),CF Monterrey (Mexico),korea-republic,mexico,KOR,MX,Asia,North America,world,international
+Sanfrecce Hiroshima,Al Ahly,2012-12-09,1,2,F,Fifa Club,Sanfrecce Hiroshima (Japan),Al Ahly (Egypt),japan,egypt,JP,EG,Asia,Africa,world,international
+Al Ahly,Corinthians SP,2012-12-12,0,1,F,Fifa Club,Al Ahly (Egypt),Corinthians SP (Brazil),egypt,brazil,EG,BR,Africa,South America,world,international
+Ulsan Horang I,Sanfrecce Hiroshima,2012-12-12,2,3,F,Fifa Club,Ulsan Horang I (Korea Republic),Sanfrecce Hiroshima (Japan),korea-republic,japan,KOR,JP,Asia,Asia,world,international
+CF Monterrey,Chelsea FC,2012-12-13,1,3,F,Fifa Club,CF Monterrey (Mexico),Chelsea FC (England),mexico,england,MX,ENG,North America,Europe,world,international
+Corinthians SP,Chelsea FC,2012-12-16,1,0,F,Fifa Club,Corinthians SP (Brazil),Chelsea FC (England),brazil,england,BR,ENG,South America,Europe,world,international
+Al Ahly,CF Monterrey,2012-12-16,0,2,F,Fifa Club,Al Ahly (Egypt),CF Monterrey (Mexico),egypt,mexico,EG,MX,Africa,North America,world,international
+Raja Casablanca,Auckland City FC,2013-12-11,2,1,F,Fifa Club,Raja Casablanca (Morocco),Auckland City FC (New Zealand),morocco,new-zealand,MA,NZ,Africa,Oceania,world,international
+Guangzhou Evergrande,Al Ahly,2013-12-14,2,0,F,Fifa Club,Guangzhou Evergrande (China Pr),Al Ahly (Egypt),china-pr,egypt,CPR,EG,Asia,Africa,world,international
+Raja Casablanca,CF Monterrey,2013-12-14,2,1,E,Fifa Club,Raja Casablanca (Morocco),CF Monterrey (Mexico),morocco,mexico,MA,MX,Africa,North America,world,international
+Guangzhou Evergrande,Bayern Muenchen,2013-12-17,0,3,F,Fifa Club,Guangzhou Evergrande (China Pr),Bayern Muenchen (Germany),china-pr,germany,CPR,DE,Asia,Europe,world,international
+Al Ahly,CF Monterrey,2013-12-18,1,5,F,Fifa Club,Al Ahly (Egypt),CF Monterrey (Mexico),egypt,mexico,EG,MX,Africa,North America,world,international
+Raja Casablanca,Atletico Mineiro,2013-12-18,3,1,F,Fifa Club,Raja Casablanca (Morocco),Atletico Mineiro (Brazil),morocco,brazil,MA,BR,Africa,South America,world,international
+Bayern Muenchen,Raja Casablanca,2013-12-21,2,0,F,Fifa Club,Bayern Muenchen (Germany),Raja Casablanca (Morocco),germany,morocco,DE,MA,Europe,Africa,world,international
+Guangzhou Evergrande,Atletico Mineiro,2013-12-21,2,3,F,Fifa Club,Guangzhou Evergrande (China Pr),Atletico Mineiro (Brazil),china-pr,brazil,CPR,BR,Asia,South America,world,international
+Maghrib Association Tetouan,Auckland City FC,2014-12-10,0,0,P,Fifa Club,Maghrib Association Tetouan (Morocco),Auckland City FC (New Zealand),morocco,new-zealand,MA,NZ,Africa,Oceania,world,international
+ES Setif,Auckland City FC,2014-12-13,0,1,F,Fifa Club,ES Setif (Algeria),Auckland City FC (New Zealand),algeria,new-zealand,DZ,NZ,Africa,Oceania,world,international
+Cruz Azul,Western Sydney Wanderers,2014-12-13,3,1,E,Fifa Club,Cruz Azul (Mexico),Western Sydney Wanderers (Australia),mexico,australia,MX,AU,North America,Oceania,world,international
+Cruz Azul,Real Madrid,2014-12-16,0,4,F,Fifa Club,Cruz Azul (Mexico),Real Madrid (Spain),mexico,spain,MX,ES,North America,Europe,world,international
+ES Setif,Western Sydney Wanderers,2014-12-17,2,2,P,Fifa Club,ES Setif (Algeria),Western Sydney Wanderers (Australia),algeria,australia,DZ,AU,Africa,Oceania,world,international
+San Lorenzo,Auckland City FC,2014-12-17,2,1,E,Fifa Club,San Lorenzo (Argentina),Auckland City FC (New Zealand),argentina,new-zealand,AR,NZ,South America,Oceania,world,international
+Cruz Azul,Auckland City FC,2014-12-20,1,1,P,Fifa Club,Cruz Azul (Mexico),Auckland City FC (New Zealand),mexico,new-zealand,MX,NZ,North America,Oceania,world,international
+Real Madrid,San Lorenzo,2014-12-20,2,0,F,Fifa Club,Real Madrid (Spain),San Lorenzo (Argentina),spain,argentina,ES,AR,Europe,South America,world,international
+Sanfrecce Hiroshima,Auckland City FC,2015-12-10,2,0,F,Fifa Club,Sanfrecce Hiroshima (Japan),Auckland City FC (New Zealand),japan,new-zealand,JP,NZ,Asia,Oceania,world,international
+CF America,Guangzhou Evergrande,2015-12-13,1,2,F,Fifa Club,CF America (Mexico),Guangzhou Evergrande (China Pr),mexico,china-pr,MX,CPR,North America,Asia,world,international
+Tp Mazembe,Sanfrecce Hiroshima,2015-12-13,0,3,F,Fifa Club,Tp Mazembe (Congo Dr),Sanfrecce Hiroshima (Japan),congo-dr,japan,CDR,JP,Africa,Asia,world,international
+CF America,Tp Mazembe,2015-12-16,2,1,F,Fifa Club,CF America (Mexico),Tp Mazembe (Congo Dr),mexico,congo-dr,MX,CDR,North America,Africa,world,international
+Sanfrecce Hiroshima,River Plate,2015-12-16,0,1,F,Fifa Club,Sanfrecce Hiroshima (Japan),River Plate (Argentina),japan,argentina,JP,AR,Asia,South America,world,international
+FC Barcelona,Guangzhou Evergrande,2015-12-17,3,0,F,Fifa Club,FC Barcelona (Spain),Guangzhou Evergrande (China Pr),spain,china-pr,ES,CPR,Europe,Asia,world,international
+Sanfrecce Hiroshima,Guangzhou Evergrande,2015-12-20,2,1,F,Fifa Club,Sanfrecce Hiroshima (Japan),Guangzhou Evergrande (China Pr),japan,china-pr,JP,CPR,Asia,Asia,world,international
+River Plate,FC Barcelona,2015-12-20,0,3,F,Fifa Club,River Plate (Argentina),FC Barcelona (Spain),argentina,spain,AR,ES,South America,Europe,world,international
+Kashima Antlers,Auckland City FC,2016-12-08,2,1,F,Fifa Club,Kashima Antlers (Japan),Auckland City FC (New Zealand),japan,new-zealand,JP,NZ,Asia,Oceania,world,international
+Jeonbuk FC,CF America,2016-12-11,1,2,F,Fifa Club,Jeonbuk FC (Korea Republic),CF America (Mexico),korea-republic,mexico,KOR,MX,Asia,North America,world,international
+Mamelodi Sundowns,Kashima Antlers,2016-12-11,0,2,F,Fifa Club,Mamelodi Sundowns (South Africa),Kashima Antlers (Japan),south-africa,japan,ZA,JP,Africa,Asia,world,international
+Jeonbuk FC,Mamelodi Sundowns,2016-12-14,4,1,F,Fifa Club,Jeonbuk FC (Korea Republic),Mamelodi Sundowns (South Africa),korea-republic,south-africa,KOR,ZA,Asia,Africa,world,international
+Atletico Nacional,Kashima Antlers,2016-12-14,0,3,F,Fifa Club,Atletico Nacional (Colombia),Kashima Antlers (Japan),colombia,japan,CO,JP,South America,Asia,world,international
+CF America,Real Madrid,2016-12-15,0,2,F,Fifa Club,CF America (Mexico),Real Madrid (Spain),mexico,spain,MX,ES,North America,Europe,world,international
+CF America,Atletico Nacional,2016-12-18,2,2,P,Fifa Club,CF America (Mexico),Atletico Nacional (Colombia),mexico,colombia,MX,CO,North America,South America,world,international
+Real Madrid,Kashima Antlers,2016-12-18,4,2,E,Fifa Club,Real Madrid (Spain),Kashima Antlers (Japan),spain,japan,ES,JP,Europe,Asia,world,international
+Al Jazeera Abu Dhabi,Auckland City FC,2017-12-06,1,0,F,Fifa Club,Al Jazeera Abu Dhabi (United Arab Emirates),Auckland City FC (New Zealand),united-arab-emirates,new-zealand,AE,NZ,Asia,Oceania,world,international
+CF Pachuca,Wydad AC,2017-12-09,1,0,E,Fifa Club,CF Pachuca (Mexico),Wydad AC (Morocco),mexico,morocco,MX,MA,North America,Africa,world,international
+Al Jazeera Abu Dhabi,Urawa Red Diamonds,2017-12-09,1,0,F,Fifa Club,Al Jazeera Abu Dhabi (United Arab Emirates),Urawa Red Diamonds (Japan),united-arab-emirates,japan,AE,JP,Asia,Asia,world,international
+Wydad AC,Urawa Red Diamonds,2017-12-12,2,3,F,Fifa Club,Wydad AC (Morocco),Urawa Red Diamonds (Japan),morocco,japan,MA,JP,Africa,Asia,world,international
+Gremio Porto Alegre,CF Pachuca,2017-12-12,1,0,E,Fifa Club,Gremio Porto Alegre (Brazil),CF Pachuca (Mexico),brazil,mexico,BR,MX,South America,North America,world,international
+Al Jazeera Abu Dhabi,Real Madrid,2017-12-13,1,2,F,Fifa Club,Al Jazeera Abu Dhabi (United Arab Emirates),Real Madrid (Spain),united-arab-emirates,spain,AE,ES,Asia,Europe,world,international
+Al Jazeera Abu Dhabi,CF Pachuca,2017-12-16,1,4,F,Fifa Club,Al Jazeera Abu Dhabi (United Arab Emirates),CF Pachuca (Mexico),united-arab-emirates,mexico,AE,MX,Asia,North America,world,international
+Real Madrid,Gremio Porto Alegre,2017-12-16,1,0,F,Fifa Club,Real Madrid (Spain),Gremio Porto Alegre (Brazil),spain,brazil,ES,BR,Europe,South America,world,international
+Al Ain FC,Team Wellington,2018-12-12,3,3,P,Fifa Club,Al Ain FC (United Arab Emirates),Team Wellington (New Zealand),united-arab-emirates,new-zealand,AE,NZ,Asia,Oceania,world,international
+Kashima Antlers,Deportivo Guadalajara,2018-12-15,3,2,F,Fifa Club,Kashima Antlers (Japan),Deportivo Guadalajara (Mexico),japan,mexico,JP,MX,Asia,North America,world,international
+Esperance Tunis,Al Ain FC,2018-12-15,0,3,F,Fifa Club,Esperance Tunis (Tunisia),Al Ain FC (United Arab Emirates),tunisia,united-arab-emirates,TN,AE,Africa,Asia,world,international
+Esperance Tunis,Deportivo Guadalajara,2018-12-18,1,1,P,Fifa Club,Esperance Tunis (Tunisia),Deportivo Guadalajara (Mexico),tunisia,mexico,TN,MX,Africa,North America,world,international
+River Plate,Al Ain FC,2018-12-18,2,2,P,Fifa Club,River Plate (Argentina),Al Ain FC (United Arab Emirates),argentina,united-arab-emirates,AR,AE,South America,Asia,world,international
+Kashima Antlers,Real Madrid,2018-12-19,1,3,F,Fifa Club,Kashima Antlers (Japan),Real Madrid (Spain),japan,spain,JP,ES,Asia,Europe,world,international
+Kashima Antlers,River Plate,2018-12-22,0,4,F,Fifa Club,Kashima Antlers (Japan),River Plate (Argentina),japan,argentina,JP,AR,Asia,South America,world,international
+Real Madrid,Al Ain FC,2018-12-22,4,1,F,Fifa Club,Real Madrid (Spain),Al Ain FC (United Arab Emirates),spain,united-arab-emirates,ES,AE,Europe,Asia,world,international

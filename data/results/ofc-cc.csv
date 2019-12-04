@@ -1,0 +1,433 @@
+home,away,date,gh,ga,full_time,competition,home_ident,away_ident,home_country,away_country,home_code,away_code,home_continent,away_continent,continent,level
+Mt Wellington FC,Ba FC,1987-03-12,6,1,F,OFC CC,Mt Wellington FC (New Zealand),Ba FC (Fiji),new-zealand,fiji,NZ,FJ,Oceania,Oceania,Oceania,international
+Adelaide City FC,Mt Wellington FC,1987-03-15,4,1,F,OFC CC,Adelaide City FC (Australia),Mt Wellington FC (New Zealand),australia,new-zealand,AU,NZ,Oceania,Oceania,Oceania,international
+South Melbourne FC,Malaita Eagles,1999-09-18,2,1,F,OFC CC,South Melbourne FC (Australia),Malaita Eagles (Solomon Islands),australia,solomon-islands,AU,SB,Oceania,Oceania,Oceania,international
+Nadi FC,As Venus Mahina,1999-09-18,1,1,F,OFC CC,Nadi FC (Fiji),As Venus Mahina (Tahiti),fiji,tahiti,FJ,TAH,Oceania,Oceania,Oceania,international
+Tafea FC,Lotohaapai United,1999-09-18,10,0,F,OFC CC,Tafea FC (Vanuatu),Lotohaapai United (Tonga),vanuatu,tonga,VU,TO,Oceania,Oceania,Oceania,international
+Malaita Eagles,Konica FC,1999-09-20,14,2,F,OFC CC,Malaita Eagles (Solomon Islands),Konica FC (American Samoa),solomon-islands,american-samoa,SB,AS,Oceania,Oceania,Oceania,international
+Nadi FC,Kiwi FC,1999-09-20,13,0,F,OFC CC,Nadi FC (Fiji),Kiwi FC (Samoa),fiji,samoa,FJ,WS,Oceania,Oceania,Oceania,international
+Central United,Lotohaapai United,1999-09-20,16,0,F,OFC CC,Central United (New Zealand),Lotohaapai United (Tonga),new-zealand,tonga,NZ,TO,Oceania,Oceania,Oceania,international
+South Melbourne FC,Konica FC,1999-09-22,10,0,F,OFC CC,South Melbourne FC (Australia),Konica FC (American Samoa),australia,american-samoa,AU,AS,Oceania,Oceania,Oceania,international
+As Venus Mahina,Kiwi FC,1999-09-22,14,1,F,OFC CC,As Venus Mahina (Tahiti),Kiwi FC (Samoa),tahiti,samoa,TAH,WS,Oceania,Oceania,Oceania,international
+Central United,Tafea FC,1999-09-22,2,2,F,OFC CC,Central United (New Zealand),Tafea FC (Vanuatu),new-zealand,vanuatu,NZ,VU,Oceania,Oceania,Oceania,international
+Nadi FC,Central United,1999-09-24,1,0,F,OFC CC,Nadi FC (Fiji),Central United (New Zealand),fiji,new-zealand,FJ,NZ,Oceania,Oceania,Oceania,international
+South Melbourne FC,As Venus Mahina,1999-09-24,3,0,F,OFC CC,South Melbourne FC (Australia),As Venus Mahina (Tahiti),australia,tahiti,AU,TAH,Oceania,Oceania,Oceania,international
+Nadi FC,South Melbourne FC,1999-09-26,1,5,F,OFC CC,Nadi FC (Fiji),South Melbourne FC (Australia),fiji,australia,FJ,AU,Oceania,Oceania,Oceania,international
+Lotohaapai United,Wollongong Wolves,2001-01-09,0,16,F,OFC CC,Lotohaapai United (Tonga),Wollongong Wolves (Australia),tonga,australia,TO,AU,Oceania,Oceania,Oceania,international
+Labasa FC,Laugu FC,2001-01-09,1,3,F,OFC CC,Labasa FC (Fiji),Laugu FC (Solomon Islands),fiji,solomon-islands,FJ,SB,Oceania,Oceania,Oceania,international
+Unitech Lahi,Napier City Rovers,2001-01-09,0,2,F,OFC CC,Unitech Lahi (Papua New Guinea),Napier City Rovers (New Zealand),papua-new-guinea,new-zealand,PG,NZ,Oceania,Oceania,Oceania,international
+As Venus Mahina,Pansa East FC,2001-01-10,2,0,F,OFC CC,As Venus Mahina (Tahiti),Pansa East FC (American Samoa),tahiti,american-samoa,TAH,AS,Oceania,Oceania,Oceania,international
+Tafea FC,Titavi,2001-01-10,5,1,F,OFC CC,Tafea FC (Vanuatu),Titavi (Samoa),vanuatu,samoa,VU,WS,Oceania,Oceania,Oceania,international
+Napier City Rovers,Laugu FC,2001-01-11,1,1,F,OFC CC,Napier City Rovers (New Zealand),Laugu FC (Solomon Islands),new-zealand,solomon-islands,NZ,SB,Oceania,Oceania,Oceania,international
+Unitech Lahi,Lotohaapai United,2001-01-11,5,2,F,OFC CC,Unitech Lahi (Papua New Guinea),Lotohaapai United (Tonga),papua-new-guinea,tonga,PG,TO,Oceania,Oceania,Oceania,international
+Wollongong Wolves,Labasa FC,2001-01-11,5,0,F,OFC CC,Wollongong Wolves (Australia),Labasa FC (Fiji),australia,fiji,AU,FJ,Oceania,Oceania,Oceania,international
+Titavi,As Venus Mahina,2001-01-12,0,6,F,OFC CC,Titavi (Samoa),As Venus Mahina (Tahiti),samoa,tahiti,WS,TAH,Oceania,Oceania,Oceania,international
+Pansa East FC,Tupapa Maraerenga,2001-01-12,0,2,F,OFC CC,Pansa East FC (American Samoa),Tupapa Maraerenga (Cook Islands),american-samoa,cook-islands,AS,CK,Oceania,Oceania,Oceania,international
+Labasa FC,Unitech Lahi,2001-01-13,1,3,F,OFC CC,Labasa FC (Fiji),Unitech Lahi (Papua New Guinea),fiji,papua-new-guinea,FJ,PG,Oceania,Oceania,Oceania,international
+Lotohaapai United,Napier City Rovers,2001-01-13,0,9,F,OFC CC,Lotohaapai United (Tonga),Napier City Rovers (New Zealand),tonga,new-zealand,TO,NZ,Oceania,Oceania,Oceania,international
+Laugu FC,Wollongong Wolves,2001-01-13,0,10,F,OFC CC,Laugu FC (Solomon Islands),Wollongong Wolves (Australia),solomon-islands,australia,SB,AU,Oceania,Oceania,Oceania,international
+Tafea FC,Pansa East FC,2001-01-14,2,0,F,OFC CC,Tafea FC (Vanuatu),Pansa East FC (American Samoa),vanuatu,american-samoa,VU,AS,Oceania,Oceania,Oceania,international
+As Venus Mahina,Tupapa Maraerenga,2001-01-14,10,1,F,OFC CC,As Venus Mahina (Tahiti),Tupapa Maraerenga (Cook Islands),tahiti,cook-islands,TAH,CK,Oceania,Oceania,Oceania,international
+Labasa FC,Napier City Rovers,2001-01-15,0,4,F,OFC CC,Labasa FC (Fiji),Napier City Rovers (New Zealand),fiji,new-zealand,FJ,NZ,Oceania,Oceania,Oceania,international
+Wollongong Wolves,Unitech Lahi,2001-01-15,6,0,F,OFC CC,Wollongong Wolves (Australia),Unitech Lahi (Papua New Guinea),australia,papua-new-guinea,AU,PG,Oceania,Oceania,Oceania,international
+Laugu FC,Lotohaapai United,2001-01-15,7,0,F,OFC CC,Laugu FC (Solomon Islands),Lotohaapai United (Tonga),solomon-islands,tonga,SB,TO,Oceania,Oceania,Oceania,international
+Tupapa Maraerenga,Tafea FC,2001-01-16,0,9,F,OFC CC,Tupapa Maraerenga (Cook Islands),Tafea FC (Vanuatu),cook-islands,vanuatu,CK,VU,Oceania,Oceania,Oceania,international
+Pansa East FC,Titavi,2001-01-16,0,2,F,OFC CC,Pansa East FC (American Samoa),Titavi (Samoa),american-samoa,samoa,AS,WS,Oceania,Oceania,Oceania,international
+Unitech Lahi,Laugu FC,2001-01-17,2,8,F,OFC CC,Unitech Lahi (Papua New Guinea),Laugu FC (Solomon Islands),papua-new-guinea,solomon-islands,PG,SB,Oceania,Oceania,Oceania,international
+Lotohaapai United,Labasa FC,2001-01-17,2,5,F,OFC CC,Lotohaapai United (Tonga),Labasa FC (Fiji),tonga,fiji,TO,FJ,Oceania,Oceania,Oceania,international
+Napier City Rovers,Wollongong Wolves,2001-01-17,0,1,F,OFC CC,Napier City Rovers (New Zealand),Wollongong Wolves (Australia),new-zealand,australia,NZ,AU,Oceania,Oceania,Oceania,international
+Titavi,Tupapa Maraerenga,2001-01-18,2,0,F,OFC CC,Titavi (Samoa),Tupapa Maraerenga (Cook Islands),samoa,cook-islands,WS,CK,Oceania,Oceania,Oceania,international
+Tafea FC,As Venus Mahina,2001-01-18,6,0,F,OFC CC,Tafea FC (Vanuatu),As Venus Mahina (Tahiti),vanuatu,tahiti,VU,TAH,Oceania,Oceania,Oceania,international
+Wollongong Wolves,As Venus Mahina,2001-01-20,4,2,F,OFC CC,Wollongong Wolves (Australia),As Venus Mahina (Tahiti),australia,tahiti,AU,TAH,Oceania,Oceania,Oceania,international
+Tafea FC,Napier City Rovers,2001-01-20,4,2,F,OFC CC,Tafea FC (Vanuatu),Napier City Rovers (New Zealand),vanuatu,new-zealand,VU,NZ,Oceania,Oceania,Oceania,international
+As Venus Mahina,Napier City Rovers,2001-01-22,2,3,F,OFC CC,As Venus Mahina (Tahiti),Napier City Rovers (New Zealand),tahiti,new-zealand,TAH,NZ,Oceania,Oceania,Oceania,international
+Wollongong Wolves,Tafea FC,2001-01-22,1,0,F,OFC CC,Wollongong Wolves (Australia),Tafea FC (Vanuatu),australia,vanuatu,AU,VU,Oceania,Oceania,Oceania,international
+Sydney FC,Auckland City FC,2005-05-31,3,2,F,OFC CC,Sydney FC (Australia),Auckland City FC (New Zealand),australia,new-zealand,AU,NZ,Oceania,Oceania,Oceania,international
+Sobou FC,As Pirae,2005-05-31,1,5,F,OFC CC,Sobou FC (Papua New Guinea),As Pirae (Tahiti),papua-new-guinea,tahiti,PG,TAH,Oceania,Oceania,Oceania,international
+Tafea FC,Makuru FC,2005-06-01,3,2,F,OFC CC,Tafea FC (Vanuatu),Makuru FC (Solomon Islands),vanuatu,solomon-islands,VU,SB,Oceania,Oceania,Oceania,international
+AS Magenta,As Manu Ura,2005-06-01,4,1,F,OFC CC,AS Magenta (New Caledonia),As Manu Ura (Tahiti),new-caledonia,tahiti,NC,TAH,Oceania,Oceania,Oceania,international
+As Pirae,Auckland City FC,2005-06-02,1,0,F,OFC CC,As Pirae (Tahiti),Auckland City FC (New Zealand),tahiti,new-zealand,TAH,NZ,Oceania,Oceania,Oceania,international
+Sobou FC,Sydney FC,2005-06-02,2,9,F,OFC CC,Sobou FC (Papua New Guinea),Sydney FC (Australia),papua-new-guinea,australia,PG,AU,Oceania,Oceania,Oceania,international
+As Manu Ura,Makuru FC,2005-06-03,1,2,F,OFC CC,As Manu Ura (Tahiti),Makuru FC (Solomon Islands),tahiti,solomon-islands,TAH,SB,Oceania,Oceania,Oceania,international
+AS Magenta,Tafea FC,2005-06-03,1,1,F,OFC CC,AS Magenta (New Caledonia),Tafea FC (Vanuatu),new-caledonia,vanuatu,NC,VU,Oceania,Oceania,Oceania,international
+Sydney FC,As Pirae,2005-06-04,6,0,F,OFC CC,Sydney FC (Australia),As Pirae (Tahiti),australia,tahiti,AU,TAH,Oceania,Oceania,Oceania,international
+Auckland City FC,Sobou FC,2005-06-05,6,1,F,OFC CC,Auckland City FC (New Zealand),Sobou FC (Papua New Guinea),new-zealand,papua-new-guinea,NZ,PG,Oceania,Oceania,Oceania,international
+As Manu Ura,Tafea FC,2005-06-05,0,2,F,OFC CC,As Manu Ura (Tahiti),Tafea FC (Vanuatu),tahiti,vanuatu,TAH,VU,Oceania,Oceania,Oceania,international
+Makuru FC,AS Magenta,2005-06-05,0,3,F,OFC CC,Makuru FC (Solomon Islands),AS Magenta (New Caledonia),solomon-islands,new-caledonia,SB,NC,Oceania,Oceania,Oceania,international
+Sydney FC,Tafea FC,2005-06-07,6,0,F,OFC CC,Sydney FC (Australia),Tafea FC (Vanuatu),australia,vanuatu,AU,VU,Oceania,Oceania,Oceania,international
+AS Magenta,As Pirae,2005-06-07,4,1,F,OFC CC,AS Magenta (New Caledonia),As Pirae (Tahiti),new-caledonia,tahiti,NC,TAH,Oceania,Oceania,Oceania,international
+Tafea FC,As Pirae,2005-06-10,3,1,F,OFC CC,Tafea FC (Vanuatu),As Pirae (Tahiti),vanuatu,tahiti,VU,TAH,Oceania,Oceania,Oceania,international
+Sydney FC,AS Magenta,2005-06-10,2,0,F,OFC CC,Sydney FC (Australia),AS Magenta (New Caledonia),australia,new-caledonia,AU,NC,Oceania,Oceania,Oceania,international
+Lotohaapai United,Nokia Eagles,2006-02-06,1,5,F,OFC CC,Lotohaapai United (Tonga),Nokia Eagles (Fiji),tonga,fiji,TO,FJ,Oceania,Oceania,Oceania,international
+Nikao Sokattak,Tuanaimato Breeze,2006-02-06,1,2,F,OFC CC,Nikao Sokattak (Cook Islands),Tuanaimato Breeze (Samoa),cook-islands,samoa,CK,WS,Oceania,Oceania,Oceania,international
+Nikao Sokattak,Lotohaapai United,2006-02-08,1,3,F,OFC CC,Nikao Sokattak (Cook Islands),Lotohaapai United (Tonga),cook-islands,tonga,CK,TO,Oceania,Oceania,Oceania,international
+Nokia Eagles,Tuanaimato Breeze,2006-02-08,2,1,F,OFC CC,Nokia Eagles (Fiji),Tuanaimato Breeze (Samoa),fiji,samoa,FJ,WS,Oceania,Oceania,Oceania,international
+Lotohaapai United,Tuanaimato Breeze,2006-02-10,1,1,F,OFC CC,Lotohaapai United (Tonga),Tuanaimato Breeze (Samoa),tonga,samoa,TO,WS,Oceania,Oceania,Oceania,international
+Nokia Eagles,Nikao Sokattak,2006-02-10,0,0,F,OFC CC,Nokia Eagles (Fiji),Nikao Sokattak (Cook Islands),fiji,cook-islands,FJ,CK,Oceania,Oceania,Oceania,international
+Marist FC,As Pirae,2006-05-10,1,10,F,OFC CC,Marist FC (Solomon Islands),As Pirae (Tahiti),solomon-islands,tahiti,SB,TAH,Oceania,Oceania,Oceania,international
+Auckland City FC,Sobou FC,2006-05-10,7,0,F,OFC CC,Auckland City FC (New Zealand),Sobou FC (Papua New Guinea),new-zealand,papua-new-guinea,NZ,PG,Oceania,Oceania,Oceania,international
+AS Magenta,Tafea FC,2006-05-11,0,1,F,OFC CC,AS Magenta (New Caledonia),Tafea FC (Vanuatu),new-caledonia,vanuatu,NC,VU,Oceania,Oceania,Oceania,international
+Nokia Eagles,Youngheart Manawatu,2006-05-11,2,2,F,OFC CC,Nokia Eagles (Fiji),Youngheart Manawatu (New Zealand),fiji,new-zealand,FJ,NZ,Oceania,Oceania,Oceania,international
+Auckland City FC,Marist FC,2006-05-13,3,1,F,OFC CC,Auckland City FC (New Zealand),Marist FC (Solomon Islands),new-zealand,solomon-islands,NZ,SB,Oceania,Oceania,Oceania,international
+AS Magenta,Youngheart Manawatu,2006-05-13,0,3,F,OFC CC,AS Magenta (New Caledonia),Youngheart Manawatu (New Zealand),new-caledonia,new-zealand,NC,NZ,Oceania,Oceania,Oceania,international
+As Pirae,Sobou FC,2006-05-14,7,0,F,OFC CC,As Pirae (Tahiti),Sobou FC (Papua New Guinea),tahiti,papua-new-guinea,TAH,PG,Oceania,Oceania,Oceania,international
+Tafea FC,Nokia Eagles,2006-05-14,0,4,F,OFC CC,Tafea FC (Vanuatu),Nokia Eagles (Fiji),vanuatu,fiji,VU,FJ,Oceania,Oceania,Oceania,international
+Sobou FC,Marist FC,2006-05-16,1,7,F,OFC CC,Sobou FC (Papua New Guinea),Marist FC (Solomon Islands),papua-new-guinea,solomon-islands,PG,SB,Oceania,Oceania,Oceania,international
+As Pirae,Auckland City FC,2006-05-16,0,1,F,OFC CC,As Pirae (Tahiti),Auckland City FC (New Zealand),tahiti,new-zealand,TAH,NZ,Oceania,Oceania,Oceania,international
+Tafea FC,Youngheart Manawatu,2006-05-16,3,3,F,OFC CC,Tafea FC (Vanuatu),Youngheart Manawatu (New Zealand),vanuatu,new-zealand,VU,NZ,Oceania,Oceania,Oceania,international
+Nokia Eagles,AS Magenta,2006-05-16,0,1,F,OFC CC,Nokia Eagles (Fiji),AS Magenta (New Caledonia),fiji,new-caledonia,FJ,NC,Oceania,Oceania,Oceania,international
+Auckland City FC,Nokia Eagles,2006-05-19,9,1,F,OFC CC,Auckland City FC (New Zealand),Nokia Eagles (Fiji),new-zealand,fiji,NZ,FJ,Oceania,Oceania,Oceania,international
+Youngheart Manawatu,As Pirae,2006-05-19,1,2,F,OFC CC,Youngheart Manawatu (New Zealand),As Pirae (Tahiti),new-zealand,tahiti,NZ,TAH,Oceania,Oceania,Oceania,international
+Nokia Eagles,Youngheart Manawatu,2006-05-21,0,4,F,OFC CC,Nokia Eagles (Fiji),Youngheart Manawatu (New Zealand),fiji,new-zealand,FJ,NZ,Oceania,Oceania,Oceania,international
+Auckland City FC,As Pirae,2006-05-21,3,1,F,OFC CC,Auckland City FC (New Zealand),As Pirae (Tahiti),new-zealand,tahiti,NZ,TAH,Oceania,Oceania,Oceania,international
+AS Mont Dore,Auckland City FC,2007-01-21,0,2,F,OFC CC,AS Mont Dore (New Caledonia),Auckland City FC (New Zealand),new-caledonia,new-zealand,NC,NZ,Oceania,Oceania,Oceania,international
+Waitakere United,Auckland City FC,2007-01-24,2,2,F,OFC CC,Waitakere United (New Zealand),Auckland City FC (New Zealand),new-zealand,new-zealand,NZ,NZ,Oceania,Oceania,Oceania,international
+Marist FC,Ba FC,2007-02-19,0,2,F,OFC CC,Marist FC (Solomon Islands),Ba FC (Fiji),solomon-islands,fiji,SB,FJ,Oceania,Oceania,Oceania,international
+Waitakere United,AS Mont Dore,2007-02-20,6,1,F,OFC CC,Waitakere United (New Zealand),AS Mont Dore (New Caledonia),new-zealand,new-caledonia,NZ,NC,Oceania,Oceania,Oceania,international
+Auckland City FC,AS Mont Dore,2007-02-22,4,0,F,OFC CC,Auckland City FC (New Zealand),AS Mont Dore (New Caledonia),new-zealand,new-caledonia,NZ,NC,Oceania,Oceania,Oceania,international
+As Temanava,Ba FC,2007-02-23,1,1,F,OFC CC,As Temanava (Tahiti),Ba FC (Fiji),tahiti,fiji,TAH,FJ,Oceania,Oceania,Oceania,international
+Ba FC,Marist FC,2007-03-12,3,2,F,OFC CC,Ba FC (Fiji),Marist FC (Solomon Islands),fiji,solomon-islands,FJ,SB,Oceania,Oceania,Oceania,international
+As Temanava,Marist FC,2007-03-16,2,1,F,OFC CC,As Temanava (Tahiti),Marist FC (Solomon Islands),tahiti,solomon-islands,TAH,SB,Oceania,Oceania,Oceania,international
+Ba FC,As Temanava,2007-03-20,1,0,F,OFC CC,Ba FC (Fiji),As Temanava (Tahiti),fiji,tahiti,FJ,TAH,Oceania,Oceania,Oceania,international
+Marist FC,As Temanava,2007-03-22,2,0,F,OFC CC,Marist FC (Solomon Islands),As Temanava (Tahiti),solomon-islands,tahiti,SB,TAH,Oceania,Oceania,Oceania,international
+AS Mont Dore,Waitakere United,2007-03-31,0,3,F,OFC CC,AS Mont Dore (New Caledonia),Waitakere United (New Zealand),new-caledonia,new-zealand,NC,NZ,Oceania,Oceania,Oceania,international
+Auckland City FC,Waitakere United,2007-04-04,2,2,F,OFC CC,Auckland City FC (New Zealand),Waitakere United (New Zealand),new-zealand,new-zealand,NZ,NZ,Oceania,Oceania,Oceania,international
+Ba FC,Waitakere United,2007-04-21,2,1,F,OFC CC,Ba FC (Fiji),Waitakere United (New Zealand),fiji,new-zealand,FJ,NZ,Oceania,Oceania,Oceania,international
+Waitakere United,Ba FC,2007-04-29,1,0,F,OFC CC,Waitakere United (New Zealand),Ba FC (Fiji),new-zealand,fiji,NZ,FJ,Oceania,Oceania,Oceania,international
+Auckland City FC,As Manu Ura,2007-10-27,6,0,F,OFC CC,Auckland City FC (New Zealand),As Manu Ura (Tahiti),new-zealand,tahiti,NZ,TAH,Oceania,Oceania,Oceania,international
+Kossa FC,Tafea FC,2007-10-27,1,1,F,OFC CC,Kossa FC (Solomon Islands),Tafea FC (Vanuatu),solomon-islands,vanuatu,SB,VU,Oceania,Oceania,Oceania,international
+Waitakere United,As Manu Ura,2007-10-31,2,1,F,OFC CC,Waitakere United (New Zealand),As Manu Ura (Tahiti),new-zealand,tahiti,NZ,TAH,Oceania,Oceania,Oceania,international
+Ba FC,Tafea FC,2007-10-31,1,0,F,OFC CC,Ba FC (Fiji),Tafea FC (Vanuatu),fiji,vanuatu,FJ,VU,Oceania,Oceania,Oceania,international
+As Manu Ura,Waitakere United,2008-02-16,1,1,F,OFC CC,As Manu Ura (Tahiti),Waitakere United (New Zealand),tahiti,new-zealand,TAH,NZ,Oceania,Oceania,Oceania,international
+Tafea FC,Ba FC,2008-02-20,2,1,F,OFC CC,Tafea FC (Vanuatu),Ba FC (Fiji),vanuatu,fiji,VU,FJ,Oceania,Oceania,Oceania,international
+Auckland City FC,Waitakere United,2008-02-20,0,1,F,OFC CC,Auckland City FC (New Zealand),Waitakere United (New Zealand),new-zealand,new-zealand,NZ,NZ,Oceania,Oceania,Oceania,international
+Kossa FC,Ba FC,2008-02-25,2,0,F,OFC CC,Kossa FC (Solomon Islands),Ba FC (Fiji),solomon-islands,fiji,SB,FJ,Oceania,Oceania,Oceania,international
+Tafea FC,Kossa FC,2008-03-26,1,1,F,OFC CC,Tafea FC (Vanuatu),Kossa FC (Solomon Islands),vanuatu,solomon-islands,VU,SB,Oceania,Oceania,Oceania,international
+As Manu Ura,Auckland City FC,2008-03-30,0,1,F,OFC CC,As Manu Ura (Tahiti),Auckland City FC (New Zealand),tahiti,new-zealand,TAH,NZ,Oceania,Oceania,Oceania,international
+Ba FC,Kossa FC,2008-03-30,2,4,F,OFC CC,Ba FC (Fiji),Kossa FC (Solomon Islands),fiji,solomon-islands,FJ,SB,Oceania,Oceania,Oceania,international
+Waitakere United,Auckland City FC,2008-04-02,1,1,F,OFC CC,Waitakere United (New Zealand),Auckland City FC (New Zealand),new-zealand,new-zealand,NZ,NZ,Oceania,Oceania,Oceania,international
+Kossa FC,Waitakere United,2008-04-12,3,1,F,OFC CC,Kossa FC (Solomon Islands),Waitakere United (New Zealand),solomon-islands,new-zealand,SB,NZ,Oceania,Oceania,Oceania,international
+Waitakere United,Kossa FC,2008-05-11,5,0,F,OFC CC,Waitakere United (New Zealand),Kossa FC (Solomon Islands),new-zealand,solomon-islands,NZ,SB,Oceania,Oceania,Oceania,international
+Ba FC,Koloale FC Honiara,2008-11-02,0,0,F,OFC CC,Ba FC (Fiji),Koloale FC Honiara (Solomon Islands),fiji,solomon-islands,FJ,SB,Oceania,Oceania,Oceania,international
+Auckland City FC,Waitakere United,2008-11-02,2,2,F,OFC CC,Auckland City FC (New Zealand),Waitakere United (New Zealand),new-zealand,new-zealand,NZ,NZ,Oceania,Oceania,Oceania,international
+Koloale FC Honiara,Prk Hekari United,2008-11-22,3,1,F,OFC CC,Koloale FC Honiara (Solomon Islands),Prk Hekari United (Papua New Guinea),solomon-islands,papua-new-guinea,SB,PG,Oceania,Oceania,Oceania,international
+Waitakere United,Port Vila Sharks FC,2008-11-22,3,0,F,OFC CC,Waitakere United (New Zealand),Port Vila Sharks FC (Vanuatu),new-zealand,vanuatu,NZ,VU,Oceania,Oceania,Oceania,international
+Port Vila Sharks FC,Auckland City FC,2008-12-13,0,2,F,OFC CC,Port Vila Sharks FC (Vanuatu),Auckland City FC (New Zealand),vanuatu,new-zealand,VU,NZ,Oceania,Oceania,Oceania,international
+Prk Hekari United,Ba FC,2008-12-13,1,2,F,OFC CC,Prk Hekari United (Papua New Guinea),Ba FC (Fiji),papua-new-guinea,fiji,PG,FJ,Oceania,Oceania,Oceania,international
+Auckland City FC,Port Vila Sharks FC,2009-02-14,8,1,F,OFC CC,Auckland City FC (New Zealand),Port Vila Sharks FC (Vanuatu),new-zealand,vanuatu,NZ,VU,Oceania,Oceania,Oceania,international
+Ba FC,Prk Hekari United,2009-02-14,1,3,F,OFC CC,Ba FC (Fiji),Prk Hekari United (Papua New Guinea),fiji,papua-new-guinea,FJ,PG,Oceania,Oceania,Oceania,international
+Port Vila Sharks FC,Waitakere United,2009-03-07,2,3,F,OFC CC,Port Vila Sharks FC (Vanuatu),Waitakere United (New Zealand),vanuatu,new-zealand,VU,NZ,Oceania,Oceania,Oceania,international
+Prk Hekari United,Koloale FC Honiara,2009-03-07,1,0,F,OFC CC,Prk Hekari United (Papua New Guinea),Koloale FC Honiara (Solomon Islands),papua-new-guinea,solomon-islands,PG,SB,Oceania,Oceania,Oceania,international
+Koloale FC Honiara,Ba FC,2009-03-28,1,0,F,OFC CC,Koloale FC Honiara (Solomon Islands),Ba FC (Fiji),solomon-islands,fiji,SB,FJ,Oceania,Oceania,Oceania,international
+Waitakere United,Auckland City FC,2009-04-05,1,3,F,OFC CC,Waitakere United (New Zealand),Auckland City FC (New Zealand),new-zealand,new-zealand,NZ,NZ,Oceania,Oceania,Oceania,international
+Koloale FC Honiara,Auckland City FC,2009-04-25,2,7,F,OFC CC,Koloale FC Honiara (Solomon Islands),Auckland City FC (New Zealand),solomon-islands,new-zealand,SB,NZ,Oceania,Oceania,Oceania,international
+Auckland City FC,Koloale FC Honiara,2009-05-03,2,2,F,OFC CC,Auckland City FC (New Zealand),Koloale FC Honiara (Solomon Islands),new-zealand,solomon-islands,NZ,SB,Oceania,Oceania,Oceania,international
+Auckland City FC,As Manu Ura,2009-10-17,5,0,F,OFC CC,Auckland City FC (New Zealand),As Manu Ura (Tahiti),new-zealand,tahiti,NZ,TAH,Oceania,Oceania,Oceania,international
+Tafea FC,Prk Hekari United,2009-10-17,3,3,F,OFC CC,Tafea FC (Vanuatu),Prk Hekari United (Papua New Guinea),vanuatu,papua-new-guinea,VU,PG,Oceania,Oceania,Oceania,international
+Marist FC,Lautoka FC,2009-10-18,1,3,F,OFC CC,Marist FC (Solomon Islands),Lautoka FC (Fiji),solomon-islands,fiji,SB,FJ,Oceania,Oceania,Oceania,international
+AS Magenta,Waitakere United,2009-10-24,1,1,F,OFC CC,AS Magenta (New Caledonia),Waitakere United (New Zealand),new-caledonia,new-zealand,NC,NZ,Oceania,Oceania,Oceania,international
+Waitakere United,As Manu Ura,2009-11-07,2,0,F,OFC CC,Waitakere United (New Zealand),As Manu Ura (Tahiti),new-zealand,tahiti,NZ,TAH,Oceania,Oceania,Oceania,international
+Marist FC,Tafea FC,2009-11-07,0,2,F,OFC CC,Marist FC (Solomon Islands),Tafea FC (Vanuatu),solomon-islands,vanuatu,SB,VU,Oceania,Oceania,Oceania,international
+Prk Hekari United,Lautoka FC,2009-11-07,1,2,F,OFC CC,Prk Hekari United (Papua New Guinea),Lautoka FC (Fiji),papua-new-guinea,fiji,PG,FJ,Oceania,Oceania,Oceania,international
+Auckland City FC,AS Magenta,2009-11-08,2,1,F,OFC CC,Auckland City FC (New Zealand),AS Magenta (New Caledonia),new-zealand,new-caledonia,NZ,NC,Oceania,Oceania,Oceania,international
+Waitakere United,Auckland City FC,2009-11-28,1,1,F,OFC CC,Waitakere United (New Zealand),Auckland City FC (New Zealand),new-zealand,new-zealand,NZ,NZ,Oceania,Oceania,Oceania,international
+As Manu Ura,AS Magenta,2009-11-28,1,1,F,OFC CC,As Manu Ura (Tahiti),AS Magenta (New Caledonia),tahiti,new-caledonia,TAH,NC,Oceania,Oceania,Oceania,international
+Lautoka FC,Tafea FC,2009-11-29,1,2,F,OFC CC,Lautoka FC (Fiji),Tafea FC (Vanuatu),fiji,vanuatu,FJ,VU,Oceania,Oceania,Oceania,international
+Prk Hekari United,Marist FC,2009-12-05,2,1,F,OFC CC,Prk Hekari United (Papua New Guinea),Marist FC (Solomon Islands),papua-new-guinea,solomon-islands,PG,SB,Oceania,Oceania,Oceania,international
+Prk Hekari United,Tafea FC,2010-02-13,4,0,F,OFC CC,Prk Hekari United (Papua New Guinea),Tafea FC (Vanuatu),papua-new-guinea,vanuatu,PG,VU,Oceania,Oceania,Oceania,international
+As Manu Ura,Auckland City FC,2010-02-13,0,2,F,OFC CC,As Manu Ura (Tahiti),Auckland City FC (New Zealand),tahiti,new-zealand,TAH,NZ,Oceania,Oceania,Oceania,international
+Lautoka FC,Marist FC,2010-02-14,3,0,F,OFC CC,Lautoka FC (Fiji),Marist FC (Solomon Islands),fiji,solomon-islands,FJ,SB,Oceania,Oceania,Oceania,international
+Waitakere United,AS Magenta,2010-02-20,4,1,F,OFC CC,Waitakere United (New Zealand),AS Magenta (New Caledonia),new-zealand,new-caledonia,NZ,NC,Oceania,Oceania,Oceania,international
+AS Magenta,Auckland City FC,2010-03-06,1,1,F,OFC CC,AS Magenta (New Caledonia),Auckland City FC (New Zealand),new-caledonia,new-zealand,NC,NZ,Oceania,Oceania,Oceania,international
+Tafea FC,Marist FC,2010-03-06,0,0,F,OFC CC,Tafea FC (Vanuatu),Marist FC (Solomon Islands),vanuatu,solomon-islands,VU,SB,Oceania,Oceania,Oceania,international
+Lautoka FC,Prk Hekari United,2010-03-07,0,1,F,OFC CC,Lautoka FC (Fiji),Prk Hekari United (Papua New Guinea),fiji,papua-new-guinea,FJ,PG,Oceania,Oceania,Oceania,international
+As Manu Ura,Waitakere United,2010-03-19,1,5,F,OFC CC,As Manu Ura (Tahiti),Waitakere United (New Zealand),tahiti,new-zealand,TAH,NZ,Oceania,Oceania,Oceania,international
+AS Magenta,As Manu Ura,2010-03-27,8,1,F,OFC CC,AS Magenta (New Caledonia),As Manu Ura (Tahiti),new-caledonia,tahiti,NC,TAH,Oceania,Oceania,Oceania,international
+Marist FC,Prk Hekari United,2010-03-27,1,4,F,OFC CC,Marist FC (Solomon Islands),Prk Hekari United (Papua New Guinea),solomon-islands,papua-new-guinea,SB,PG,Oceania,Oceania,Oceania,international
+Tafea FC,Lautoka FC,2010-03-27,1,3,F,OFC CC,Tafea FC (Vanuatu),Lautoka FC (Fiji),vanuatu,fiji,VU,FJ,Oceania,Oceania,Oceania,international
+Auckland City FC,Waitakere United,2010-03-28,2,2,F,OFC CC,Auckland City FC (New Zealand),Waitakere United (New Zealand),new-zealand,new-zealand,NZ,NZ,Oceania,Oceania,Oceania,international
+Prk Hekari United,Waitakere United,2010-04-17,3,0,F,OFC CC,Prk Hekari United (Papua New Guinea),Waitakere United (New Zealand),papua-new-guinea,new-zealand,PG,NZ,Oceania,Oceania,Oceania,international
+Waitakere United,Prk Hekari United,2010-05-02,2,1,F,OFC CC,Waitakere United (New Zealand),Prk Hekari United (Papua New Guinea),new-zealand,papua-new-guinea,NZ,PG,Oceania,Oceania,Oceania,international
+Auckland City FC,AS Magenta,2010-10-23,3,0,F,OFC CC,Auckland City FC (New Zealand),AS Magenta (New Caledonia),new-zealand,new-caledonia,NZ,NC,Oceania,Oceania,Oceania,international
+Koloale FC Honiara,Lautoka FC,2010-10-23,1,2,F,OFC CC,Koloale FC Honiara (Solomon Islands),Lautoka FC (Fiji),solomon-islands,fiji,SB,FJ,Oceania,Oceania,Oceania,international
+Prk Hekari United,Amicale FC,2010-10-23,1,2,F,OFC CC,Prk Hekari United (Papua New Guinea),Amicale FC (Vanuatu),papua-new-guinea,vanuatu,PG,VU,Oceania,Oceania,Oceania,international
+Waitakere United,As Tefana,2010-10-24,3,1,F,OFC CC,Waitakere United (New Zealand),As Tefana (Tahiti),new-zealand,tahiti,NZ,TAH,Oceania,Oceania,Oceania,international
+Lautoka FC,Amicale FC,2010-11-13,1,0,F,OFC CC,Lautoka FC (Fiji),Amicale FC (Vanuatu),fiji,vanuatu,FJ,VU,Oceania,Oceania,Oceania,international
+AS Magenta,As Tefana,2010-11-13,1,0,F,OFC CC,AS Magenta (New Caledonia),As Tefana (Tahiti),new-caledonia,tahiti,NC,TAH,Oceania,Oceania,Oceania,international
+Prk Hekari United,Koloale FC Honiara,2010-11-13,4,0,F,OFC CC,Prk Hekari United (Papua New Guinea),Koloale FC Honiara (Solomon Islands),papua-new-guinea,solomon-islands,PG,SB,Oceania,Oceania,Oceania,international
+Waitakere United,Auckland City FC,2010-11-14,1,1,F,OFC CC,Waitakere United (New Zealand),Auckland City FC (New Zealand),new-zealand,new-zealand,NZ,NZ,Oceania,Oceania,Oceania,international
+Amicale FC,Koloale FC Honiara,2010-12-04,2,0,F,OFC CC,Amicale FC (Vanuatu),Koloale FC Honiara (Solomon Islands),vanuatu,solomon-islands,VU,SB,Oceania,Oceania,Oceania,international
+AS Magenta,Waitakere United,2010-12-04,1,1,F,OFC CC,AS Magenta (New Caledonia),Waitakere United (New Zealand),new-caledonia,new-zealand,NC,NZ,Oceania,Oceania,Oceania,international
+As Tefana,Auckland City FC,2010-12-04,1,1,F,OFC CC,As Tefana (Tahiti),Auckland City FC (New Zealand),tahiti,new-zealand,TAH,NZ,Oceania,Oceania,Oceania,international
+Lautoka FC,Prk Hekari United,2011-01-15,0,0,F,OFC CC,Lautoka FC (Fiji),Prk Hekari United (Papua New Guinea),fiji,papua-new-guinea,FJ,PG,Oceania,Oceania,Oceania,international
+Lautoka FC,Koloale FC Honiara,2011-02-05,1,6,F,OFC CC,Lautoka FC (Fiji),Koloale FC Honiara (Solomon Islands),fiji,solomon-islands,FJ,SB,Oceania,Oceania,Oceania,international
+Amicale FC,Prk Hekari United,2011-02-05,3,3,F,OFC CC,Amicale FC (Vanuatu),Prk Hekari United (Papua New Guinea),vanuatu,papua-new-guinea,VU,PG,Oceania,Oceania,Oceania,international
+As Tefana,Waitakere United,2011-02-05,3,1,F,OFC CC,As Tefana (Tahiti),Waitakere United (New Zealand),tahiti,new-zealand,TAH,NZ,Oceania,Oceania,Oceania,international
+AS Magenta,Auckland City FC,2011-02-21,0,1,F,OFC CC,AS Magenta (New Caledonia),Auckland City FC (New Zealand),new-caledonia,new-zealand,NC,NZ,Oceania,Oceania,Oceania,international
+Koloale FC Honiara,Prk Hekari United,2011-02-26,2,1,F,OFC CC,Koloale FC Honiara (Solomon Islands),Prk Hekari United (Papua New Guinea),solomon-islands,papua-new-guinea,SB,PG,Oceania,Oceania,Oceania,international
+Amicale FC,Lautoka FC,2011-02-26,5,1,F,OFC CC,Amicale FC (Vanuatu),Lautoka FC (Fiji),vanuatu,fiji,VU,FJ,Oceania,Oceania,Oceania,international
+As Tefana,AS Magenta,2011-02-26,0,3,F,OFC CC,As Tefana (Tahiti),AS Magenta (New Caledonia),tahiti,new-caledonia,TAH,NC,Oceania,Oceania,Oceania,international
+Auckland City FC,Waitakere United,2011-02-27,1,0,F,OFC CC,Auckland City FC (New Zealand),Waitakere United (New Zealand),new-zealand,new-zealand,NZ,NZ,Oceania,Oceania,Oceania,international
+Waitakere United,AS Magenta,2011-03-19,2,1,F,OFC CC,Waitakere United (New Zealand),AS Magenta (New Caledonia),new-zealand,new-caledonia,NZ,NC,Oceania,Oceania,Oceania,international
+Auckland City FC,As Tefana,2011-03-19,5,0,F,OFC CC,Auckland City FC (New Zealand),As Tefana (Tahiti),new-zealand,tahiti,NZ,TAH,Oceania,Oceania,Oceania,international
+Koloale FC Honiara,Amicale FC,2011-03-19,1,0,F,OFC CC,Koloale FC Honiara (Solomon Islands),Amicale FC (Vanuatu),solomon-islands,vanuatu,SB,VU,Oceania,Oceania,Oceania,international
+Prk Hekari United,Lautoka FC,2011-03-19,1,1,F,OFC CC,Prk Hekari United (Papua New Guinea),Lautoka FC (Fiji),papua-new-guinea,fiji,PG,FJ,Oceania,Oceania,Oceania,international
+Amicale FC,Auckland City FC,2011-04-02,1,2,F,OFC CC,Amicale FC (Vanuatu),Auckland City FC (New Zealand),vanuatu,new-zealand,VU,NZ,Oceania,Oceania,Oceania,international
+Auckland City FC,Amicale FC,2011-04-17,4,0,F,OFC CC,Auckland City FC (New Zealand),Amicale FC (Vanuatu),new-zealand,vanuatu,NZ,VU,Oceania,Oceania,Oceania,international
+Waitakere United,As Tefana,2011-10-29,10,0,F,OFC CC,Waitakere United (New Zealand),As Tefana (Tahiti),new-zealand,tahiti,NZ,TAH,Oceania,Oceania,Oceania,international
+Amicale FC,Prk Hekari United,2011-10-29,1,1,F,OFC CC,Amicale FC (Vanuatu),Prk Hekari United (Papua New Guinea),vanuatu,papua-new-guinea,VU,PG,Oceania,Oceania,Oceania,international
+Koloale FC Honiara,Auckland City FC,2011-10-29,1,4,F,OFC CC,Koloale FC Honiara (Solomon Islands),Auckland City FC (New Zealand),solomon-islands,new-zealand,SB,NZ,Oceania,Oceania,Oceania,international
+Ba FC,AS Mont Dore,2011-10-30,2,1,F,OFC CC,Ba FC (Fiji),AS Mont Dore (New Caledonia),fiji,new-caledonia,FJ,NC,Oceania,Oceania,Oceania,international
+AS Mont Dore,As Tefana,2011-11-12,1,1,F,OFC CC,AS Mont Dore (New Caledonia),As Tefana (Tahiti),new-caledonia,tahiti,NC,TAH,Oceania,Oceania,Oceania,international
+Auckland City FC,Prk Hekari United,2011-11-19,2,0,F,OFC CC,Auckland City FC (New Zealand),Prk Hekari United (Papua New Guinea),new-zealand,papua-new-guinea,NZ,PG,Oceania,Oceania,Oceania,international
+Amicale FC,Koloale FC Honiara,2011-11-19,2,0,F,OFC CC,Amicale FC (Vanuatu),Koloale FC Honiara (Solomon Islands),vanuatu,solomon-islands,VU,SB,Oceania,Oceania,Oceania,international
+Waitakere United,Ba FC,2011-11-20,4,0,F,OFC CC,Waitakere United (New Zealand),Ba FC (Fiji),new-zealand,fiji,NZ,FJ,Oceania,Oceania,Oceania,international
+AS Mont Dore,Waitakere United,2011-12-03,0,1,F,OFC CC,AS Mont Dore (New Caledonia),Waitakere United (New Zealand),new-caledonia,new-zealand,NC,NZ,Oceania,Oceania,Oceania,international
+As Tefana,Ba FC,2011-12-03,4,1,F,OFC CC,As Tefana (Tahiti),Ba FC (Fiji),tahiti,fiji,TAH,FJ,Oceania,Oceania,Oceania,international
+Prk Hekari United,Koloale FC Honiara,2011-12-10,3,1,F,OFC CC,Prk Hekari United (Papua New Guinea),Koloale FC Honiara (Solomon Islands),papua-new-guinea,solomon-islands,PG,SB,Oceania,Oceania,Oceania,international
+Auckland City FC,Amicale FC,2012-01-18,3,2,F,OFC CC,Auckland City FC (New Zealand),Amicale FC (Vanuatu),new-zealand,vanuatu,NZ,VU,Oceania,Oceania,Oceania,international
+Auckland City FC,Koloale FC Honiara,2012-02-18,7,3,F,OFC CC,Auckland City FC (New Zealand),Koloale FC Honiara (Solomon Islands),new-zealand,solomon-islands,NZ,SB,Oceania,Oceania,Oceania,international
+AS Mont Dore,Ba FC,2012-02-18,0,1,F,OFC CC,AS Mont Dore (New Caledonia),Ba FC (Fiji),new-caledonia,fiji,NC,FJ,Oceania,Oceania,Oceania,international
+Prk Hekari United,Amicale FC,2012-02-18,2,0,F,OFC CC,Prk Hekari United (Papua New Guinea),Amicale FC (Vanuatu),papua-new-guinea,vanuatu,PG,VU,Oceania,Oceania,Oceania,international
+As Tefana,Waitakere United,2012-02-18,3,0,F,OFC CC,As Tefana (Tahiti),Waitakere United (New Zealand),tahiti,new-zealand,TAH,NZ,Oceania,Oceania,Oceania,international
+Koloale FC Honiara,Amicale FC,2012-03-03,1,0,F,OFC CC,Koloale FC Honiara (Solomon Islands),Amicale FC (Vanuatu),solomon-islands,vanuatu,SB,VU,Oceania,Oceania,Oceania,international
+Prk Hekari United,Auckland City FC,2012-03-03,1,1,F,OFC CC,Prk Hekari United (Papua New Guinea),Auckland City FC (New Zealand),papua-new-guinea,new-zealand,PG,NZ,Oceania,Oceania,Oceania,international
+As Tefana,AS Mont Dore,2012-03-03,2,0,F,OFC CC,As Tefana (Tahiti),AS Mont Dore (New Caledonia),tahiti,new-caledonia,TAH,NC,Oceania,Oceania,Oceania,international
+Ba FC,Waitakere United,2012-03-04,3,2,F,OFC CC,Ba FC (Fiji),Waitakere United (New Zealand),fiji,new-zealand,FJ,NZ,Oceania,Oceania,Oceania,international
+Waitakere United,AS Mont Dore,2012-03-31,4,0,F,OFC CC,Waitakere United (New Zealand),AS Mont Dore (New Caledonia),new-zealand,new-caledonia,NZ,NC,Oceania,Oceania,Oceania,international
+Amicale FC,Auckland City FC,2012-03-31,1,0,F,OFC CC,Amicale FC (Vanuatu),Auckland City FC (New Zealand),vanuatu,new-zealand,VU,NZ,Oceania,Oceania,Oceania,international
+Koloale FC Honiara,Prk Hekari United,2012-03-31,1,2,F,OFC CC,Koloale FC Honiara (Solomon Islands),Prk Hekari United (Papua New Guinea),solomon-islands,papua-new-guinea,SB,PG,Oceania,Oceania,Oceania,international
+Ba FC,As Tefana,2012-04-15,0,5,F,OFC CC,Ba FC (Fiji),As Tefana (Tahiti),fiji,tahiti,FJ,TAH,Oceania,Oceania,Oceania,international
+Auckland City FC,As Tefana,2012-04-29,2,1,F,OFC CC,Auckland City FC (New Zealand),As Tefana (Tahiti),new-zealand,tahiti,NZ,TAH,Oceania,Oceania,Oceania,international
+Pago Youth A,Kiwi FC,2012-05-01,1,5,F,OFC CC,Pago Youth A (American Samoa),Kiwi FC (Samoa),american-samoa,samoa,AS,WS,Oceania,Oceania,Oceania,international
+Lotohaapai United,Tupapa Maraerenga,2012-05-01,3,3,F,OFC CC,Lotohaapai United (Tonga),Tupapa Maraerenga (Cook Islands),tonga,cook-islands,TO,CK,Oceania,Oceania,Oceania,international
+Lotohaapai United,Pago Youth A,2012-05-03,6,0,F,OFC CC,Lotohaapai United (Tonga),Pago Youth A (American Samoa),tonga,american-samoa,TO,AS,Oceania,Oceania,Oceania,international
+Kiwi FC,Tupapa Maraerenga,2012-05-03,1,2,F,OFC CC,Kiwi FC (Samoa),Tupapa Maraerenga (Cook Islands),samoa,cook-islands,WS,CK,Oceania,Oceania,Oceania,international
+Tupapa Maraerenga,Pago Youth A,2012-05-05,9,0,F,OFC CC,Tupapa Maraerenga (Cook Islands),Pago Youth A (American Samoa),cook-islands,american-samoa,CK,AS,Oceania,Oceania,Oceania,international
+Kiwi FC,Lotohaapai United,2012-05-05,1,2,F,OFC CC,Kiwi FC (Samoa),Lotohaapai United (Tonga),samoa,tonga,WS,TO,Oceania,Oceania,Oceania,international
+Tupapa Maraerenga,AS Mont Dore,2012-05-08,1,3,F,OFC CC,Tupapa Maraerenga (Cook Islands),AS Mont Dore (New Caledonia),cook-islands,new-caledonia,CK,NC,Oceania,Oceania,Oceania,international
+As Tefana,Auckland City FC,2012-05-13,0,1,F,OFC CC,As Tefana (Tahiti),Auckland City FC (New Zealand),tahiti,new-zealand,TAH,NZ,Oceania,Oceania,Oceania,international
+Waitakere United,As Dragon,2013-03-30,0,0,F,OFC CC,Waitakere United (New Zealand),As Dragon (Tahiti),new-zealand,tahiti,NZ,TAH,Oceania,Oceania,Oceania,international
+Solomon Warriors,Amicale FC,2013-03-30,0,2,F,OFC CC,Solomon Warriors (Solomon Islands),Amicale FC (Vanuatu),solomon-islands,vanuatu,SB,VU,Oceania,Oceania,Oceania,international
+AS Mont Dore,Auckland City FC,2013-03-30,0,2,F,OFC CC,AS Mont Dore (New Caledonia),Auckland City FC (New Zealand),new-caledonia,new-zealand,NC,NZ,Oceania,Oceania,Oceania,international
+Prk Hekari United,Ba FC,2013-03-30,1,3,F,OFC CC,Prk Hekari United (Papua New Guinea),Ba FC (Fiji),papua-new-guinea,fiji,PG,FJ,Oceania,Oceania,Oceania,international
+Solomon Warriors,Ba FC,2013-04-03,2,2,F,OFC CC,Solomon Warriors (Solomon Islands),Ba FC (Fiji),solomon-islands,fiji,SB,FJ,Oceania,Oceania,Oceania,international
+AS Mont Dore,As Dragon,2013-04-05,1,4,F,OFC CC,AS Mont Dore (New Caledonia),As Dragon (Tahiti),new-caledonia,tahiti,NC,TAH,Oceania,Oceania,Oceania,international
+Prk Hekari United,Amicale FC,2013-04-06,0,0,F,OFC CC,Prk Hekari United (Papua New Guinea),Amicale FC (Vanuatu),papua-new-guinea,vanuatu,PG,VU,Oceania,Oceania,Oceania,international
+Waitakere United,Auckland City FC,2013-04-07,1,3,F,OFC CC,Waitakere United (New Zealand),Auckland City FC (New Zealand),new-zealand,new-zealand,NZ,NZ,Oceania,Oceania,Oceania,international
+Ba FC,Prk Hekari United,2013-04-13,2,0,F,OFC CC,Ba FC (Fiji),Prk Hekari United (Papua New Guinea),fiji,papua-new-guinea,FJ,PG,Oceania,Oceania,Oceania,international
+Auckland City FC,AS Mont Dore,2013-04-13,12,2,F,OFC CC,Auckland City FC (New Zealand),AS Mont Dore (New Caledonia),new-zealand,new-caledonia,NZ,NC,Oceania,Oceania,Oceania,international
+Amicale FC,Solomon Warriors,2013-04-13,2,0,F,OFC CC,Amicale FC (Vanuatu),Solomon Warriors (Solomon Islands),vanuatu,solomon-islands,VU,SB,Oceania,Oceania,Oceania,international
+As Dragon,Waitakere United,2013-04-13,0,1,F,OFC CC,As Dragon (Tahiti),Waitakere United (New Zealand),tahiti,new-zealand,TAH,NZ,Oceania,Oceania,Oceania,international
+Ba FC,Solomon Warriors,2013-04-17,5,0,F,OFC CC,Ba FC (Fiji),Solomon Warriors (Solomon Islands),fiji,solomon-islands,FJ,SB,Oceania,Oceania,Oceania,international
+Auckland City FC,As Dragon,2013-04-17,1,3,F,OFC CC,Auckland City FC (New Zealand),As Dragon (Tahiti),new-zealand,tahiti,NZ,TAH,Oceania,Oceania,Oceania,international
+Amicale FC,Prk Hekari United,2013-04-17,2,0,F,OFC CC,Amicale FC (Vanuatu),Prk Hekari United (Papua New Guinea),vanuatu,papua-new-guinea,VU,PG,Oceania,Oceania,Oceania,international
+Waitakere United,AS Mont Dore,2013-04-17,3,1,F,OFC CC,Waitakere United (New Zealand),AS Mont Dore (New Caledonia),new-zealand,new-caledonia,NZ,NC,Oceania,Oceania,Oceania,international
+Solomon Warriors,Prk Hekari United,2013-04-20,4,2,F,OFC CC,Solomon Warriors (Solomon Islands),Prk Hekari United (Papua New Guinea),solomon-islands,papua-new-guinea,SB,PG,Oceania,Oceania,Oceania,international
+Amicale FC,Ba FC,2013-04-20,1,2,F,OFC CC,Amicale FC (Vanuatu),Ba FC (Fiji),vanuatu,fiji,VU,FJ,Oceania,Oceania,Oceania,international
+Auckland City FC,Waitakere United,2013-04-21,0,1,F,OFC CC,Auckland City FC (New Zealand),Waitakere United (New Zealand),new-zealand,new-zealand,NZ,NZ,Oceania,Oceania,Oceania,international
+As Dragon,AS Mont Dore,2013-04-24,1,1,F,OFC CC,As Dragon (Tahiti),AS Mont Dore (New Caledonia),tahiti,new-caledonia,TAH,NC,Oceania,Oceania,Oceania,international
+Ba FC,Amicale FC,2013-04-27,2,0,F,OFC CC,Ba FC (Fiji),Amicale FC (Vanuatu),fiji,vanuatu,FJ,VU,Oceania,Oceania,Oceania,international
+Prk Hekari United,Solomon Warriors,2013-04-27,2,1,F,OFC CC,Prk Hekari United (Papua New Guinea),Solomon Warriors (Solomon Islands),papua-new-guinea,solomon-islands,PG,SB,Oceania,Oceania,Oceania,international
+As Dragon,Auckland City FC,2013-04-28,1,1,F,OFC CC,As Dragon (Tahiti),Auckland City FC (New Zealand),tahiti,new-zealand,TAH,NZ,Oceania,Oceania,Oceania,international
+AS Mont Dore,Waitakere United,2013-04-28,2,3,F,OFC CC,AS Mont Dore (New Caledonia),Waitakere United (New Zealand),new-caledonia,new-zealand,NC,NZ,Oceania,Oceania,Oceania,international
+Amicale FC,Waitakere United,2013-05-04,0,2,F,OFC CC,Amicale FC (Vanuatu),Waitakere United (New Zealand),vanuatu,new-zealand,VU,NZ,Oceania,Oceania,Oceania,international
+Auckland City FC,Ba FC,2013-05-05,6,1,F,OFC CC,Auckland City FC (New Zealand),Ba FC (Fiji),new-zealand,fiji,NZ,FJ,Oceania,Oceania,Oceania,international
+Ba FC,Auckland City FC,2013-05-11,0,1,F,OFC CC,Ba FC (Fiji),Auckland City FC (New Zealand),fiji,new-zealand,FJ,NZ,Oceania,Oceania,Oceania,international
+Waitakere United,Amicale FC,2013-05-12,2,1,F,OFC CC,Waitakere United (New Zealand),Amicale FC (Vanuatu),new-zealand,vanuatu,NZ,VU,Oceania,Oceania,Oceania,international
+Waitakere United,Auckland City FC,2013-05-19,1,2,F,OFC CC,Waitakere United (New Zealand),Auckland City FC (New Zealand),new-zealand,new-zealand,NZ,NZ,Oceania,Oceania,Oceania,international
+Lotohaapai United,Tupapa Maraerenga,2013-10-16,0,3,F,OFC CC,Lotohaapai United (Tonga),Tupapa Maraerenga (Cook Islands),tonga,cook-islands,TO,CK,Oceania,Oceania,Oceania,international
+Kiwi FC,Pago Youth A,2013-10-16,5,1,F,OFC CC,Kiwi FC (Samoa),Pago Youth A (American Samoa),samoa,american-samoa,WS,AS,Oceania,Oceania,Oceania,international
+Lotohaapai United,Kiwi FC,2013-10-18,2,4,F,OFC CC,Lotohaapai United (Tonga),Kiwi FC (Samoa),tonga,samoa,TO,WS,Oceania,Oceania,Oceania,international
+Pago Youth A,Tupapa Maraerenga,2013-10-18,1,11,F,OFC CC,Pago Youth A (American Samoa),Tupapa Maraerenga (Cook Islands),american-samoa,cook-islands,AS,CK,Oceania,Oceania,Oceania,international
+Tupapa Maraerenga,Kiwi FC,2013-10-20,0,3,F,OFC CC,Tupapa Maraerenga (Cook Islands),Kiwi FC (Samoa),cook-islands,samoa,CK,WS,Oceania,Oceania,Oceania,international
+Tafea FC,Prk Hekari United,2014-04-07,3,1,F,OFC CC,Tafea FC (Vanuatu),Prk Hekari United (Papua New Guinea),vanuatu,papua-new-guinea,VU,PG,Oceania,Oceania,Oceania,international
+AS Magenta,Ba FC,2014-04-07,0,2,F,OFC CC,AS Magenta (New Caledonia),Ba FC (Fiji),new-caledonia,fiji,NC,FJ,Oceania,Oceania,Oceania,international
+Amicale FC,As Dragon,2014-04-08,1,0,F,OFC CC,Amicale FC (Vanuatu),As Dragon (Tahiti),vanuatu,tahiti,VU,TAH,Oceania,Oceania,Oceania,international
+Auckland City FC,Nadi FC,2014-04-08,3,0,F,OFC CC,Auckland City FC (New Zealand),Nadi FC (Fiji),new-zealand,fiji,NZ,FJ,Oceania,Oceania,Oceania,international
+Kiwi FC,Waitakere United,2014-04-09,0,2,F,OFC CC,Kiwi FC (Samoa),Waitakere United (New Zealand),samoa,new-zealand,WS,NZ,Oceania,Oceania,Oceania,international
+Solomon Warriors,As Pirae,2014-04-09,1,2,F,OFC CC,Solomon Warriors (Solomon Islands),As Pirae (Tahiti),solomon-islands,tahiti,SB,TAH,Oceania,Oceania,Oceania,international
+Ba FC,Tafea FC,2014-04-10,4,0,F,OFC CC,Ba FC (Fiji),Tafea FC (Vanuatu),fiji,vanuatu,FJ,VU,Oceania,Oceania,Oceania,international
+Prk Hekari United,AS Magenta,2014-04-10,2,2,F,OFC CC,Prk Hekari United (Papua New Guinea),AS Magenta (New Caledonia),papua-new-guinea,new-caledonia,PG,NC,Oceania,Oceania,Oceania,international
+As Dragon,Auckland City FC,2014-04-11,0,3,F,OFC CC,As Dragon (Tahiti),Auckland City FC (New Zealand),tahiti,new-zealand,TAH,NZ,Oceania,Oceania,Oceania,international
+Nadi FC,Amicale FC,2014-04-11,0,6,F,OFC CC,Nadi FC (Fiji),Amicale FC (Vanuatu),fiji,vanuatu,FJ,VU,Oceania,Oceania,Oceania,international
+As Pirae,Kiwi FC,2014-04-12,8,0,F,OFC CC,As Pirae (Tahiti),Kiwi FC (Samoa),tahiti,samoa,TAH,WS,Oceania,Oceania,Oceania,international
+Waitakere United,Solomon Warriors,2014-04-12,1,1,F,OFC CC,Waitakere United (New Zealand),Solomon Warriors (Solomon Islands),new-zealand,solomon-islands,NZ,SB,Oceania,Oceania,Oceania,international
+Tafea FC,AS Magenta,2014-04-13,1,3,F,OFC CC,Tafea FC (Vanuatu),AS Magenta (New Caledonia),vanuatu,new-caledonia,VU,NC,Oceania,Oceania,Oceania,international
+Ba FC,Prk Hekari United,2014-04-13,1,1,F,OFC CC,Ba FC (Fiji),Prk Hekari United (Papua New Guinea),fiji,papua-new-guinea,FJ,PG,Oceania,Oceania,Oceania,international
+Nadi FC,As Dragon,2014-04-14,0,5,F,OFC CC,Nadi FC (Fiji),As Dragon (Tahiti),fiji,tahiti,FJ,TAH,Oceania,Oceania,Oceania,international
+Amicale FC,Auckland City FC,2014-04-14,1,0,F,OFC CC,Amicale FC (Vanuatu),Auckland City FC (New Zealand),vanuatu,new-zealand,VU,NZ,Oceania,Oceania,Oceania,international
+Kiwi FC,Solomon Warriors,2014-04-15,0,8,F,OFC CC,Kiwi FC (Samoa),Solomon Warriors (Solomon Islands),samoa,solomon-islands,WS,SB,Oceania,Oceania,Oceania,international
+As Pirae,Waitakere United,2014-04-15,3,1,F,OFC CC,As Pirae (Tahiti),Waitakere United (New Zealand),tahiti,new-zealand,TAH,NZ,Oceania,Oceania,Oceania,international
+Auckland City FC,As Pirae,2014-04-26,3,0,F,OFC CC,Auckland City FC (New Zealand),As Pirae (Tahiti),new-zealand,tahiti,NZ,TAH,Oceania,Oceania,Oceania,international
+Ba FC,Amicale FC,2014-04-27,1,2,F,OFC CC,Ba FC (Fiji),Amicale FC (Vanuatu),fiji,vanuatu,FJ,VU,Oceania,Oceania,Oceania,international
+Amicale FC,Ba FC,2014-05-03,0,0,F,OFC CC,Amicale FC (Vanuatu),Ba FC (Fiji),vanuatu,fiji,VU,FJ,Oceania,Oceania,Oceania,international
+As Pirae,Auckland City FC,2014-05-04,2,1,F,OFC CC,As Pirae (Tahiti),Auckland City FC (New Zealand),tahiti,new-zealand,TAH,NZ,Oceania,Oceania,Oceania,international
+Amicale FC,Auckland City FC,2014-05-10,1,1,F,OFC CC,Amicale FC (Vanuatu),Auckland City FC (New Zealand),vanuatu,new-zealand,VU,NZ,Oceania,Oceania,Oceania,international
+Auckland City FC,Amicale FC,2014-05-18,2,1,F,OFC CC,Auckland City FC (New Zealand),Amicale FC (Vanuatu),new-zealand,vanuatu,NZ,VU,Oceania,Oceania,Oceania,international
+FC SKbc,Puaikura,2014-10-07,1,1,F,OFC CC,FC SKbc (American Samoa),Puaikura (Cook Islands),american-samoa,cook-islands,AS,CK,Oceania,Oceania,Oceania,international
+Lotohaapai United,Lupe Ole Soaga,2014-10-07,0,1,F,OFC CC,Lotohaapai United (Tonga),Lupe Ole Soaga (Samoa),tonga,samoa,TO,WS,Oceania,Oceania,Oceania,international
+FC SKbc,Lotohaapai United,2014-10-09,1,4,F,OFC CC,FC SKbc (American Samoa),Lotohaapai United (Tonga),american-samoa,tonga,AS,TO,Oceania,Oceania,Oceania,international
+Lupe Ole Soaga,Puaikura,2014-10-09,3,2,F,OFC CC,Lupe Ole Soaga (Samoa),Puaikura (Cook Islands),samoa,cook-islands,WS,CK,Oceania,Oceania,Oceania,international
+Puaikura,Lotohaapai United,2014-10-11,1,0,F,OFC CC,Puaikura (Cook Islands),Lotohaapai United (Tonga),cook-islands,tonga,CK,TO,Oceania,Oceania,Oceania,international
+Lupe Ole Soaga,FC SKbc,2014-10-11,6,0,F,OFC CC,Lupe Ole Soaga (Samoa),FC SKbc (American Samoa),samoa,american-samoa,WS,AS,Oceania,Oceania,Oceania,international
+As Pirae,Lupe Ole Soaga,2015-04-11,3,3,F,OFC CC,As Pirae (Tahiti),Lupe Ole Soaga (Samoa),tahiti,samoa,TAH,WS,Oceania,Oceania,Oceania,international
+Auckland City FC,Suva,2015-04-11,3,0,F,OFC CC,Auckland City FC (New Zealand),Suva (Fiji),new-zealand,fiji,NZ,FJ,Oceania,Oceania,Oceania,international
+Ba FC,FC Gaitcha,2015-04-11,3,0,F,OFC CC,Ba FC (Fiji),FC Gaitcha (New Caledonia),fiji,new-caledonia,FJ,NC,Oceania,Oceania,Oceania,international
+Western United FC,Amicale FC,2015-04-11,0,1,F,OFC CC,Western United FC (Solomon Islands),Amicale FC (Vanuatu),solomon-islands,vanuatu,SB,VU,Oceania,Oceania,Oceania,international
+Tafea FC,Prk Hekari United,2015-04-12,2,3,F,OFC CC,Tafea FC (Vanuatu),Prk Hekari United (Papua New Guinea),vanuatu,papua-new-guinea,VU,PG,Oceania,Oceania,Oceania,international
+Team Wellington,As Tefana,2015-04-12,2,1,F,OFC CC,Team Wellington (New Zealand),As Tefana (Tahiti),new-zealand,tahiti,NZ,TAH,Oceania,Oceania,Oceania,international
+Lupe Ole Soaga,Ba FC,2015-04-14,1,3,F,OFC CC,Lupe Ole Soaga (Samoa),Ba FC (Fiji),samoa,fiji,WS,FJ,Oceania,Oceania,Oceania,international
+Auckland City FC,Western United FC,2015-04-14,3,0,F,OFC CC,Auckland City FC (New Zealand),Western United FC (Solomon Islands),new-zealand,solomon-islands,NZ,SB,Oceania,Oceania,Oceania,international
+FC Gaitcha,As Pirae,2015-04-14,5,2,F,OFC CC,FC Gaitcha (New Caledonia),As Pirae (Tahiti),new-caledonia,tahiti,NC,TAH,Oceania,Oceania,Oceania,international
+Amicale FC,Suva,2015-04-14,3,2,F,OFC CC,Amicale FC (Vanuatu),Suva (Fiji),vanuatu,fiji,VU,FJ,Oceania,Oceania,Oceania,international
+Prk Hekari United,Team Wellington,2015-04-15,0,2,F,OFC CC,Prk Hekari United (Papua New Guinea),Team Wellington (New Zealand),papua-new-guinea,new-zealand,PG,NZ,Oceania,Oceania,Oceania,international
+As Tefana,Tafea FC,2015-04-15,1,1,F,OFC CC,As Tefana (Tahiti),Tafea FC (Vanuatu),tahiti,vanuatu,TAH,VU,Oceania,Oceania,Oceania,international
+As Tefana,Prk Hekari United,2015-04-17,2,3,F,OFC CC,As Tefana (Tahiti),Prk Hekari United (Papua New Guinea),tahiti,papua-new-guinea,TAH,PG,Oceania,Oceania,Oceania,international
+Tafea FC,Team Wellington,2015-04-17,2,3,F,OFC CC,Tafea FC (Vanuatu),Team Wellington (New Zealand),vanuatu,new-zealand,VU,NZ,Oceania,Oceania,Oceania,international
+FC Gaitcha,Lupe Ole Soaga,2015-04-18,8,1,F,OFC CC,FC Gaitcha (New Caledonia),Lupe Ole Soaga (Samoa),new-caledonia,samoa,NC,WS,Oceania,Oceania,Oceania,international
+Suva,Western United FC,2015-04-18,3,1,F,OFC CC,Suva (Fiji),Western United FC (Solomon Islands),fiji,solomon-islands,FJ,SB,Oceania,Oceania,Oceania,international
+As Pirae,Ba FC,2015-04-18,0,2,F,OFC CC,As Pirae (Tahiti),Ba FC (Fiji),tahiti,fiji,TAH,FJ,Oceania,Oceania,Oceania,international
+Amicale FC,Auckland City FC,2015-04-18,0,3,F,OFC CC,Amicale FC (Vanuatu),Auckland City FC (New Zealand),vanuatu,new-zealand,VU,NZ,Oceania,Oceania,Oceania,international
+FC Gaitcha,Auckland City FC,2015-04-21,0,1,F,OFC CC,FC Gaitcha (New Caledonia),Auckland City FC (New Zealand),new-caledonia,new-zealand,NC,NZ,Oceania,Oceania,Oceania,international
+Ba FC,Team Wellington,2015-04-21,0,2,F,OFC CC,Ba FC (Fiji),Team Wellington (New Zealand),fiji,new-zealand,FJ,NZ,Oceania,Oceania,Oceania,international
+Auckland City FC,Team Wellington,2015-04-26,1,1,P,OFC CC,Auckland City FC (New Zealand),Team Wellington (New Zealand),new-zealand,new-zealand,NZ,NZ,Oceania,Oceania,Oceania,international
+Utulei Youth,Kiwi FC,2016-01-27,2,6,F,OFC CC,Utulei Youth (American Samoa),Kiwi FC (Samoa),american-samoa,samoa,AS,WS,Oceania,Oceania,Oceania,international
+Veitongo,Tupapa Maraerenga,2016-01-27,0,7,F,OFC CC,Veitongo (Tonga),Tupapa Maraerenga (Cook Islands),tonga,cook-islands,TO,CK,Oceania,Oceania,Oceania,international
+Utulei Youth,Veitongo,2016-01-29,3,2,F,OFC CC,Utulei Youth (American Samoa),Veitongo (Tonga),american-samoa,tonga,AS,TO,Oceania,Oceania,Oceania,international
+Tupapa Maraerenga,Kiwi FC,2016-01-29,1,2,F,OFC CC,Tupapa Maraerenga (Cook Islands),Kiwi FC (Samoa),cook-islands,samoa,CK,WS,Oceania,Oceania,Oceania,international
+Kiwi FC,Veitongo,2016-01-31,7,1,F,OFC CC,Kiwi FC (Samoa),Veitongo (Tonga),samoa,tonga,WS,TO,Oceania,Oceania,Oceania,international
+Tupapa Maraerenga,Utulei Youth,2016-01-31,9,1,F,OFC CC,Tupapa Maraerenga (Cook Islands),Utulei Youth (American Samoa),cook-islands,american-samoa,CK,AS,Oceania,Oceania,Oceania,international
+Nadi FC,As Tefana,2016-04-08,1,6,F,OFC CC,Nadi FC (Fiji),As Tefana (Tahiti),fiji,tahiti,FJ,TAH,Oceania,Oceania,Oceania,international
+Kiwi FC,AS Magenta,2016-04-08,0,2,F,OFC CC,Kiwi FC (Samoa),AS Magenta (New Caledonia),samoa,new-caledonia,WS,NC,Oceania,Oceania,Oceania,international
+Team Wellington,Suva,2016-04-09,2,0,F,OFC CC,Team Wellington (New Zealand),Suva (Fiji),new-zealand,fiji,NZ,FJ,Oceania,Oceania,Oceania,international
+AS Lossi,Prk Hekari United,2016-04-09,1,5,F,OFC CC,AS Lossi (New Caledonia),Prk Hekari United (Papua New Guinea),new-caledonia,papua-new-guinea,NC,PG,Oceania,Oceania,Oceania,international
+Auckland City FC,Solomon Warriors,2016-04-10,4,0,F,OFC CC,Auckland City FC (New Zealand),Solomon Warriors (Solomon Islands),new-zealand,solomon-islands,NZ,SB,Oceania,Oceania,Oceania,international
+Lae City Dwellers,Amicale FC,2016-04-10,0,3,F,OFC CC,Lae City Dwellers (Papua New Guinea),Amicale FC (Vanuatu),papua-new-guinea,vanuatu,PG,VU,Oceania,Oceania,Oceania,international
+AS Magenta,As Tefana,2016-04-11,4,2,F,OFC CC,AS Magenta (New Caledonia),As Tefana (Tahiti),new-caledonia,tahiti,NC,TAH,Oceania,Oceania,Oceania,international
+Kiwi FC,Nadi FC,2016-04-11,3,4,F,OFC CC,Kiwi FC (Samoa),Nadi FC (Fiji),samoa,fiji,WS,FJ,Oceania,Oceania,Oceania,international
+Prk Hekari United,Suva,2016-04-12,3,0,F,OFC CC,Prk Hekari United (Papua New Guinea),Suva (Fiji),papua-new-guinea,fiji,PG,FJ,Oceania,Oceania,Oceania,international
+AS Lossi,Team Wellington,2016-04-12,1,2,F,OFC CC,AS Lossi (New Caledonia),Team Wellington (New Zealand),new-caledonia,new-zealand,NC,NZ,Oceania,Oceania,Oceania,international
+Amicale FC,Solomon Warriors,2016-04-13,3,0,F,OFC CC,Amicale FC (Vanuatu),Solomon Warriors (Solomon Islands),vanuatu,solomon-islands,VU,SB,Oceania,Oceania,Oceania,international
+Lae City Dwellers,Auckland City FC,2016-04-13,1,2,F,OFC CC,Lae City Dwellers (Papua New Guinea),Auckland City FC (New Zealand),papua-new-guinea,new-zealand,PG,NZ,Oceania,Oceania,Oceania,international
+As Tefana,Kiwi FC,2016-04-15,7,0,F,OFC CC,As Tefana (Tahiti),Kiwi FC (Samoa),tahiti,samoa,TAH,WS,Oceania,Oceania,Oceania,international
+Nadi FC,AS Magenta,2016-04-15,0,3,F,OFC CC,Nadi FC (Fiji),AS Magenta (New Caledonia),fiji,new-caledonia,FJ,NC,Oceania,Oceania,Oceania,international
+Suva,AS Lossi,2016-04-16,3,1,F,OFC CC,Suva (Fiji),AS Lossi (New Caledonia),fiji,new-caledonia,FJ,NC,Oceania,Oceania,Oceania,international
+Team Wellington,Prk Hekari United,2016-04-16,4,0,F,OFC CC,Team Wellington (New Zealand),Prk Hekari United (Papua New Guinea),new-zealand,papua-new-guinea,NZ,PG,Oceania,Oceania,Oceania,international
+Solomon Warriors,Lae City Dwellers,2016-04-17,5,4,F,OFC CC,Solomon Warriors (Solomon Islands),Lae City Dwellers (Papua New Guinea),solomon-islands,papua-new-guinea,SB,PG,Oceania,Oceania,Oceania,international
+Auckland City FC,Amicale FC,2016-04-17,3,1,F,OFC CC,Auckland City FC (New Zealand),Amicale FC (Vanuatu),new-zealand,vanuatu,NZ,VU,Oceania,Oceania,Oceania,international
+Auckland City FC,As Tefana,2016-04-20,4,2,F,OFC CC,Auckland City FC (New Zealand),As Tefana (Tahiti),new-zealand,tahiti,NZ,TAH,Oceania,Oceania,Oceania,international
+Team Wellington,AS Magenta,2016-04-20,2,0,F,OFC CC,Team Wellington (New Zealand),AS Magenta (New Caledonia),new-zealand,new-caledonia,NZ,NC,Oceania,Oceania,Oceania,international
+Auckland City FC,Team Wellington,2016-04-23,3,0,F,OFC CC,Auckland City FC (New Zealand),Team Wellington (New Zealand),new-zealand,new-zealand,NZ,NZ,Oceania,Oceania,Oceania,international
+Utulei Youth,Lupe Ole Soaga,2017-01-28,3,4,F,OFC CC,Utulei Youth (American Samoa),Lupe Ole Soaga (Samoa),american-samoa,samoa,AS,WS,Oceania,Oceania,Oceania,international
+Veitongo,Puaikura,2017-01-28,0,4,F,OFC CC,Veitongo (Tonga),Puaikura (Cook Islands),tonga,cook-islands,TO,CK,Oceania,Oceania,Oceania,international
+Puaikura,Lupe Ole Soaga,2017-01-31,2,1,F,OFC CC,Puaikura (Cook Islands),Lupe Ole Soaga (Samoa),cook-islands,samoa,CK,WS,Oceania,Oceania,Oceania,international
+Veitongo,Utulei Youth,2017-01-31,3,1,F,OFC CC,Veitongo (Tonga),Utulei Youth (American Samoa),tonga,american-samoa,TO,AS,Oceania,Oceania,Oceania,international
+Puaikura,Utulei Youth,2017-02-03,3,1,F,OFC CC,Puaikura (Cook Islands),Utulei Youth (American Samoa),cook-islands,american-samoa,CK,AS,Oceania,Oceania,Oceania,international
+Lupe Ole Soaga,Veitongo,2017-02-03,1,1,F,OFC CC,Lupe Ole Soaga (Samoa),Veitongo (Tonga),samoa,tonga,WS,TO,Oceania,Oceania,Oceania,international
+Madang Fox,Central,2017-02-25,3,7,F,OFC CC,Madang Fox (Papua New Guinea),Central (Tahiti),papua-new-guinea,tahiti,PG,TAH,Oceania,Oceania,Oceania,international
+Lupe Ole Soaga,AS Magenta,2017-02-25,1,2,F,OFC CC,Lupe Ole Soaga (Samoa),AS Magenta (New Caledonia),samoa,new-caledonia,WS,NC,Oceania,Oceania,Oceania,international
+Puaikura,Team Wellington,2017-02-26,1,4,F,OFC CC,Puaikura (Cook Islands),Team Wellington (New Zealand),cook-islands,new-zealand,CK,NZ,Oceania,Oceania,Oceania,international
+Ba FC,Hienghene Sport,2017-02-26,1,1,F,OFC CC,Ba FC (Fiji),Hienghene Sport (New Caledonia),fiji,new-caledonia,FJ,NC,Oceania,Oceania,Oceania,international
+Lupe Ole Soaga,Madang Fox,2017-02-28,3,4,F,OFC CC,Lupe Ole Soaga (Samoa),Madang Fox (Papua New Guinea),samoa,papua-new-guinea,WS,PG,Oceania,Oceania,Oceania,international
+AS Magenta,Central,2017-02-28,4,2,F,OFC CC,AS Magenta (New Caledonia),Central (Tahiti),new-caledonia,tahiti,NC,TAH,Oceania,Oceania,Oceania,international
+Puaikura,Ba FC,2017-03-01,0,1,F,OFC CC,Puaikura (Cook Islands),Ba FC (Fiji),cook-islands,fiji,CK,FJ,Oceania,Oceania,Oceania,international
+Team Wellington,Hienghene Sport,2017-03-01,3,1,F,OFC CC,Team Wellington (New Zealand),Hienghene Sport (New Caledonia),new-zealand,new-caledonia,NZ,NC,Oceania,Oceania,Oceania,international
+Central,Lupe Ole Soaga,2017-03-03,3,0,F,OFC CC,Central (Tahiti),Lupe Ole Soaga (Samoa),tahiti,samoa,TAH,WS,Oceania,Oceania,Oceania,international
+AS Magenta,Madang Fox,2017-03-03,5,0,F,OFC CC,AS Magenta (New Caledonia),Madang Fox (Papua New Guinea),new-caledonia,papua-new-guinea,NC,PG,Oceania,Oceania,Oceania,international
+Team Wellington,Ba FC,2017-03-04,8,0,F,OFC CC,Team Wellington (New Zealand),Ba FC (Fiji),new-zealand,fiji,NZ,FJ,Oceania,Oceania,Oceania,international
+Hienghene Sport,Puaikura,2017-03-04,3,1,F,OFC CC,Hienghene Sport (New Caledonia),Puaikura (Cook Islands),new-caledonia,cook-islands,NC,CK,Oceania,Oceania,Oceania,international
+Malampa Revivors,Lae City Dwellers,2017-03-11,2,5,F,OFC CC,Malampa Revivors (Vanuatu),Lae City Dwellers (Papua New Guinea),vanuatu,papua-new-guinea,VU,PG,Oceania,Oceania,Oceania,international
+Western United FC,Auckland City FC,2017-03-11,1,2,F,OFC CC,Western United FC (Solomon Islands),Auckland City FC (New Zealand),solomon-islands,new-zealand,SB,NZ,Oceania,Oceania,Oceania,international
+Marist FC,Rewa,2017-03-12,4,2,F,OFC CC,Marist FC (Solomon Islands),Rewa (Fiji),solomon-islands,fiji,SB,FJ,Oceania,Oceania,Oceania,international
+Erakor Golden Star FC,As Tefana,2017-03-12,2,4,F,OFC CC,Erakor Golden Star FC (Vanuatu),As Tefana (Tahiti),vanuatu,tahiti,VU,TAH,Oceania,Oceania,Oceania,international
+Western United FC,Malampa Revivors,2017-03-15,2,1,F,OFC CC,Western United FC (Solomon Islands),Malampa Revivors (Vanuatu),solomon-islands,vanuatu,SB,VU,Oceania,Oceania,Oceania,international
+Auckland City FC,Lae City Dwellers,2017-03-15,2,0,F,OFC CC,Auckland City FC (New Zealand),Lae City Dwellers (Papua New Guinea),new-zealand,papua-new-guinea,NZ,PG,Oceania,Oceania,Oceania,international
+Erakor Golden Star FC,Marist FC,2017-03-15,2,1,F,OFC CC,Erakor Golden Star FC (Vanuatu),Marist FC (Solomon Islands),vanuatu,solomon-islands,VU,SB,Oceania,Oceania,Oceania,international
+As Tefana,Rewa,2017-03-15,2,0,F,OFC CC,As Tefana (Tahiti),Rewa (Fiji),tahiti,fiji,TAH,FJ,Oceania,Oceania,Oceania,international
+Lae City Dwellers,Western United FC,2017-03-18,3,5,F,OFC CC,Lae City Dwellers (Papua New Guinea),Western United FC (Solomon Islands),papua-new-guinea,solomon-islands,PG,SB,Oceania,Oceania,Oceania,international
+Auckland City FC,Malampa Revivors,2017-03-18,11,0,F,OFC CC,Auckland City FC (New Zealand),Malampa Revivors (Vanuatu),new-zealand,vanuatu,NZ,VU,Oceania,Oceania,Oceania,international
+Rewa,Erakor Golden Star FC,2017-03-18,2,1,F,OFC CC,Rewa (Fiji),Erakor Golden Star FC (Vanuatu),fiji,vanuatu,FJ,VU,Oceania,Oceania,Oceania,international
+As Tefana,Marist FC,2017-03-18,2,2,F,OFC CC,As Tefana (Tahiti),Marist FC (Solomon Islands),tahiti,solomon-islands,TAH,SB,Oceania,Oceania,Oceania,international
+AS Magenta,Team Wellington,2017-04-08,2,2,F,OFC CC,AS Magenta (New Caledonia),Team Wellington (New Zealand),new-caledonia,new-zealand,NC,NZ,Oceania,Oceania,Oceania,international
+As Tefana,Auckland City FC,2017-04-09,0,2,F,OFC CC,As Tefana (Tahiti),Auckland City FC (New Zealand),tahiti,new-zealand,TAH,NZ,Oceania,Oceania,Oceania,international
+Auckland City FC,As Tefana,2017-04-16,2,0,F,OFC CC,Auckland City FC (New Zealand),As Tefana (Tahiti),new-zealand,tahiti,NZ,TAH,Oceania,Oceania,Oceania,international
+Team Wellington,AS Magenta,2017-04-16,7,1,F,OFC CC,Team Wellington (New Zealand),AS Magenta (New Caledonia),new-zealand,new-caledonia,NZ,NC,Oceania,Oceania,Oceania,international
+Auckland City FC,Team Wellington,2017-04-30,3,0,F,OFC CC,Auckland City FC (New Zealand),Team Wellington (New Zealand),new-zealand,new-zealand,NZ,NZ,Oceania,Oceania,Oceania,international
+Team Wellington,Auckland City FC,2017-05-07,0,2,F,OFC CC,Team Wellington (New Zealand),Auckland City FC (New Zealand),new-zealand,new-zealand,NZ,NZ,Oceania,Oceania,Oceania,international
+Tupapa Maraerenga,Lupe Ole Soaga,2018-01-21,1,0,F,OFC CC,Tupapa Maraerenga (Cook Islands),Lupe Ole Soaga (Samoa),cook-islands,samoa,CK,WS,Oceania,Oceania,Oceania,international
+Veitongo,Pago Youth A,2018-01-21,1,1,F,OFC CC,Veitongo (Tonga),Pago Youth A (American Samoa),tonga,american-samoa,TO,AS,Oceania,Oceania,Oceania,international
+Veitongo,Tupapa Maraerenga,2018-01-24,2,9,F,OFC CC,Veitongo (Tonga),Tupapa Maraerenga (Cook Islands),tonga,cook-islands,TO,CK,Oceania,Oceania,Oceania,international
+Pago Youth A,Lupe Ole Soaga,2018-01-24,1,13,F,OFC CC,Pago Youth A (American Samoa),Lupe Ole Soaga (Samoa),american-samoa,samoa,AS,WS,Oceania,Oceania,Oceania,international
+Lupe Ole Soaga,Veitongo,2018-01-27,6,0,F,OFC CC,Lupe Ole Soaga (Samoa),Veitongo (Tonga),samoa,tonga,WS,TO,Oceania,Oceania,Oceania,international
+Pago Youth A,Tupapa Maraerenga,2018-01-27,0,5,F,OFC CC,Pago Youth A (American Samoa),Tupapa Maraerenga (Cook Islands),american-samoa,cook-islands,AS,CK,Oceania,Oceania,Oceania,international
+Tupapa Maraerenga,Lae City Dwellers,2018-02-10,2,7,F,OFC CC,Tupapa Maraerenga (Cook Islands),Lae City Dwellers (Papua New Guinea),cook-islands,papua-new-guinea,CK,PG,Oceania,Oceania,Oceania,international
+Nalkutan,Ba FC,2018-02-10,1,0,F,OFC CC,Nalkutan (Vanuatu),Ba FC (Fiji),vanuatu,fiji,VU,FJ,Oceania,Oceania,Oceania,international
+Erakor Golden Star FC,Solomon Warriors,2018-02-12,2,0,F,OFC CC,Erakor Golden Star FC (Vanuatu),Solomon Warriors (Solomon Islands),vanuatu,solomon-islands,VU,SB,Oceania,Oceania,Oceania,international
+As Dragon,AS Lossi,2018-02-12,4,0,F,OFC CC,As Dragon (Tahiti),AS Lossi (New Caledonia),tahiti,new-caledonia,TAH,NC,Oceania,Oceania,Oceania,international
+Lae City Dwellers,Ba FC,2018-02-13,1,0,F,OFC CC,Lae City Dwellers (Papua New Guinea),Ba FC (Fiji),papua-new-guinea,fiji,PG,FJ,Oceania,Oceania,Oceania,international
+Tupapa Maraerenga,Nalkutan,2018-02-13,0,4,F,OFC CC,Tupapa Maraerenga (Cook Islands),Nalkutan (Vanuatu),cook-islands,vanuatu,CK,VU,Oceania,Oceania,Oceania,international
+Solomon Warriors,AS Lossi,2018-02-15,6,1,F,OFC CC,Solomon Warriors (Solomon Islands),AS Lossi (New Caledonia),solomon-islands,new-caledonia,SB,NC,Oceania,Oceania,Oceania,international
+Erakor Golden Star FC,As Dragon,2018-02-15,3,4,F,OFC CC,Erakor Golden Star FC (Vanuatu),As Dragon (Tahiti),vanuatu,tahiti,VU,TAH,Oceania,Oceania,Oceania,international
+Ba FC,Tupapa Maraerenga,2018-02-16,4,1,F,OFC CC,Ba FC (Fiji),Tupapa Maraerenga (Cook Islands),fiji,cook-islands,FJ,CK,Oceania,Oceania,Oceania,international
+Lae City Dwellers,Nalkutan,2018-02-16,1,4,F,OFC CC,Lae City Dwellers (Papua New Guinea),Nalkutan (Vanuatu),papua-new-guinea,vanuatu,PG,VU,Oceania,Oceania,Oceania,international
+AS Lossi,Erakor Golden Star FC,2018-02-18,2,2,F,OFC CC,AS Lossi (New Caledonia),Erakor Golden Star FC (Vanuatu),new-caledonia,vanuatu,NC,VU,Oceania,Oceania,Oceania,international
+Solomon Warriors,As Dragon,2018-02-18,2,1,F,OFC CC,Solomon Warriors (Solomon Islands),As Dragon (Tahiti),solomon-islands,tahiti,SB,TAH,Oceania,Oceania,Oceania,international
+AS Magenta,Lupe Ole Soaga,2018-02-24,2,0,F,OFC CC,AS Magenta (New Caledonia),Lupe Ole Soaga (Samoa),new-caledonia,samoa,NC,WS,Oceania,Oceania,Oceania,international
+Marist FC,Team Wellington,2018-02-24,1,1,F,OFC CC,Marist FC (Solomon Islands),Team Wellington (New Zealand),solomon-islands,new-zealand,SB,NZ,Oceania,Oceania,Oceania,international
+Lautoka FC,Madang Fox,2018-02-25,3,1,F,OFC CC,Lautoka FC (Fiji),Madang Fox (Papua New Guinea),fiji,papua-new-guinea,FJ,PG,Oceania,Oceania,Oceania,international
+As Venus Mahina,Auckland City FC,2018-02-25,0,7,F,OFC CC,As Venus Mahina (Tahiti),Auckland City FC (New Zealand),tahiti,new-zealand,TAH,NZ,Oceania,Oceania,Oceania,international
+Team Wellington,Lupe Ole Soaga,2018-02-27,7,1,F,OFC CC,Team Wellington (New Zealand),Lupe Ole Soaga (Samoa),new-zealand,samoa,NZ,WS,Oceania,Oceania,Oceania,international
+Marist FC,AS Magenta,2018-02-27,1,1,F,OFC CC,Marist FC (Solomon Islands),AS Magenta (New Caledonia),solomon-islands,new-caledonia,SB,NC,Oceania,Oceania,Oceania,international
+As Venus Mahina,Lautoka FC,2018-02-28,1,2,F,OFC CC,As Venus Mahina (Tahiti),Lautoka FC (Fiji),tahiti,fiji,TAH,FJ,Oceania,Oceania,Oceania,international
+Auckland City FC,Madang Fox,2018-02-28,5,0,F,OFC CC,Auckland City FC (New Zealand),Madang Fox (Papua New Guinea),new-zealand,papua-new-guinea,NZ,PG,Oceania,Oceania,Oceania,international
+Team Wellington,AS Magenta,2018-03-02,5,1,F,OFC CC,Team Wellington (New Zealand),AS Magenta (New Caledonia),new-zealand,new-caledonia,NZ,NC,Oceania,Oceania,Oceania,international
+Lupe Ole Soaga,Marist FC,2018-03-02,1,3,F,OFC CC,Lupe Ole Soaga (Samoa),Marist FC (Solomon Islands),samoa,solomon-islands,WS,SB,Oceania,Oceania,Oceania,international
+Madang Fox,As Venus Mahina,2018-03-03,1,2,F,OFC CC,Madang Fox (Papua New Guinea),As Venus Mahina (Tahiti),papua-new-guinea,tahiti,PG,TAH,Oceania,Oceania,Oceania,international
+Auckland City FC,Lautoka FC,2018-03-03,1,0,F,OFC CC,Auckland City FC (New Zealand),Lautoka FC (Fiji),new-zealand,fiji,NZ,FJ,Oceania,Oceania,Oceania,international
+Team Wellington,Lae City Dwellers,2018-04-07,11,0,F,OFC CC,Team Wellington (New Zealand),Lae City Dwellers (Papua New Guinea),new-zealand,papua-new-guinea,NZ,PG,Oceania,Oceania,Oceania,international
+Nalkutan,Marist FC,2018-04-07,1,2,F,OFC CC,Nalkutan (Vanuatu),Marist FC (Solomon Islands),vanuatu,solomon-islands,VU,SB,Oceania,Oceania,Oceania,international
+Auckland City FC,Solomon Warriors,2018-04-08,2,0,F,OFC CC,Auckland City FC (New Zealand),Solomon Warriors (Solomon Islands),new-zealand,solomon-islands,NZ,SB,Oceania,Oceania,Oceania,international
+As Dragon,Lautoka FC,2018-04-08,1,2,F,OFC CC,As Dragon (Tahiti),Lautoka FC (Fiji),tahiti,fiji,TAH,FJ,Oceania,Oceania,Oceania,international
+Team Wellington,Auckland City FC,2018-04-22,0,0,F,OFC CC,Team Wellington (New Zealand),Auckland City FC (New Zealand),new-zealand,new-zealand,NZ,NZ,Oceania,Oceania,Oceania,international
+Lautoka FC,Marist FC,2018-04-22,1,1,F,OFC CC,Lautoka FC (Fiji),Marist FC (Solomon Islands),fiji,solomon-islands,FJ,SB,Oceania,Oceania,Oceania,international
+Auckland City FC,Team Wellington,2018-04-29,2,2,F,OFC CC,Auckland City FC (New Zealand),Team Wellington (New Zealand),new-zealand,new-zealand,NZ,NZ,Oceania,Oceania,Oceania,international
+Marist FC,Lautoka FC,2018-04-29,0,1,F,OFC CC,Marist FC (Solomon Islands),Lautoka FC (Fiji),solomon-islands,fiji,SB,FJ,Oceania,Oceania,Oceania,international
+Team Wellington,Lautoka FC,2018-05-13,6,0,F,OFC CC,Team Wellington (New Zealand),Lautoka FC (Fiji),new-zealand,fiji,NZ,FJ,Oceania,Oceania,Oceania,international
+Lautoka FC,Team Wellington,2018-05-20,3,4,F,OFC CC,Lautoka FC (Fiji),Team Wellington (New Zealand),fiji,new-zealand,FJ,NZ,Oceania,Oceania,Oceania,international
+Pago Youth A,Lotohaapai United,2019-01-27,1,5,F,OFC CC,Pago Youth A (American Samoa),Lotohaapai United (Tonga),american-samoa,tonga,AS,TO,Oceania,Oceania,Oceania,international
+Tupapa Maraerenga,Kiwi FC,2019-01-27,4,1,F,OFC CC,Tupapa Maraerenga (Cook Islands),Kiwi FC (Samoa),cook-islands,samoa,CK,WS,Oceania,Oceania,Oceania,international
+Kiwi FC,Pago Youth A,2019-01-30,4,3,F,OFC CC,Kiwi FC (Samoa),Pago Youth A (American Samoa),samoa,american-samoa,WS,AS,Oceania,Oceania,Oceania,international
+Tupapa Maraerenga,Lotohaapai United,2019-01-30,4,1,F,OFC CC,Tupapa Maraerenga (Cook Islands),Lotohaapai United (Tonga),cook-islands,tonga,CK,TO,Oceania,Oceania,Oceania,international
+Lotohaapai United,Kiwi FC,2019-02-02,1,9,F,OFC CC,Lotohaapai United (Tonga),Kiwi FC (Samoa),tonga,samoa,TO,WS,Oceania,Oceania,Oceania,international
+Tupapa Maraerenga,Pago Youth A,2019-02-02,2,1,F,OFC CC,Tupapa Maraerenga (Cook Islands),Pago Youth A (American Samoa),cook-islands,american-samoa,CK,AS,Oceania,Oceania,Oceania,international
+Central,Henderson Eels,2019-02-10,3,2,F,OFC CC,Central (Tahiti),Henderson Eels (Solomon Islands),tahiti,solomon-islands,TAH,SB,Oceania,Oceania,Oceania,international
+Lae City Dwellers,As Tefana,2019-02-10,3,3,F,OFC CC,Lae City Dwellers (Papua New Guinea),As Tefana (Tahiti),papua-new-guinea,tahiti,PG,TAH,Oceania,Oceania,Oceania,international
+Morobe Wawens,Lautoka FC,2019-02-10,0,5,F,OFC CC,Morobe Wawens (Papua New Guinea),Lautoka FC (Fiji),papua-new-guinea,fiji,PG,FJ,Oceania,Oceania,Oceania,international
+Malampa Revivors,Hienghene Sport,2019-02-10,0,5,F,OFC CC,Malampa Revivors (Vanuatu),Hienghene Sport (New Caledonia),vanuatu,new-caledonia,VU,NC,Oceania,Oceania,Oceania,international
+Morobe Wawens,Central,2019-02-13,0,7,F,OFC CC,Morobe Wawens (Papua New Guinea),Central (Tahiti),papua-new-guinea,tahiti,PG,TAH,Oceania,Oceania,Oceania,international
+Malampa Revivors,Lae City Dwellers,2019-02-13,2,4,F,OFC CC,Malampa Revivors (Vanuatu),Lae City Dwellers (Papua New Guinea),vanuatu,papua-new-guinea,VU,PG,Oceania,Oceania,Oceania,international
+Lautoka FC,Henderson Eels,2019-02-13,5,6,F,OFC CC,Lautoka FC (Fiji),Henderson Eels (Solomon Islands),fiji,solomon-islands,FJ,SB,Oceania,Oceania,Oceania,international
+Hienghene Sport,As Tefana,2019-02-13,1,0,F,OFC CC,Hienghene Sport (New Caledonia),As Tefana (Tahiti),new-caledonia,tahiti,NC,TAH,Oceania,Oceania,Oceania,international
+Henderson Eels,Morobe Wawens,2019-02-16,7,0,F,OFC CC,Henderson Eels (Solomon Islands),Morobe Wawens (Papua New Guinea),solomon-islands,papua-new-guinea,SB,PG,Oceania,Oceania,Oceania,international
+As Tefana,Malampa Revivors,2019-02-16,3,3,F,OFC CC,As Tefana (Tahiti),Malampa Revivors (Vanuatu),tahiti,vanuatu,TAH,VU,Oceania,Oceania,Oceania,international
+Lautoka FC,Central,2019-02-16,2,2,F,OFC CC,Lautoka FC (Fiji),Central (Tahiti),fiji,tahiti,FJ,TAH,Oceania,Oceania,Oceania,international
+Hienghene Sport,Lae City Dwellers,2019-02-16,1,1,F,OFC CC,Hienghene Sport (New Caledonia),Lae City Dwellers (Papua New Guinea),new-caledonia,papua-new-guinea,NC,PG,Oceania,Oceania,Oceania,international
+Team Wellington,Ba FC,2019-02-23,2,0,F,OFC CC,Team Wellington (New Zealand),Ba FC (Fiji),new-zealand,fiji,NZ,FJ,Oceania,Oceania,Oceania,international
+Kiwi FC,Erakor Golden Star FC,2019-02-23,0,2,F,OFC CC,Kiwi FC (Samoa),Erakor Golden Star FC (Vanuatu),samoa,vanuatu,WS,VU,Oceania,Oceania,Oceania,international
+Auckland City FC,AS Magenta,2019-02-24,2,1,F,OFC CC,Auckland City FC (New Zealand),AS Magenta (New Caledonia),new-zealand,new-caledonia,NZ,NC,Oceania,Oceania,Oceania,international
+Tupapa Maraerenga,Solomon Warriors,2019-02-24,1,10,F,OFC CC,Tupapa Maraerenga (Cook Islands),Solomon Warriors (Solomon Islands),cook-islands,solomon-islands,CK,SB,Oceania,Oceania,Oceania,international
+Kiwi FC,Team Wellington,2019-02-26,0,13,F,OFC CC,Kiwi FC (Samoa),Team Wellington (New Zealand),samoa,new-zealand,WS,NZ,Oceania,Oceania,Oceania,international
+Erakor Golden Star FC,Ba FC,2019-02-26,1,1,F,OFC CC,Erakor Golden Star FC (Vanuatu),Ba FC (Fiji),vanuatu,fiji,VU,FJ,Oceania,Oceania,Oceania,international
+Tupapa Maraerenga,Auckland City FC,2019-02-27,0,15,F,OFC CC,Tupapa Maraerenga (Cook Islands),Auckland City FC (New Zealand),cook-islands,new-zealand,CK,NZ,Oceania,Oceania,Oceania,international
+Solomon Warriors,AS Magenta,2019-02-27,0,3,F,OFC CC,Solomon Warriors (Solomon Islands),AS Magenta (New Caledonia),solomon-islands,new-caledonia,SB,NC,Oceania,Oceania,Oceania,international
+Ba FC,Kiwi FC,2019-03-01,5,1,F,OFC CC,Ba FC (Fiji),Kiwi FC (Samoa),fiji,samoa,FJ,WS,Oceania,Oceania,Oceania,international
+Erakor Golden Star FC,Team Wellington,2019-03-01,0,3,F,OFC CC,Erakor Golden Star FC (Vanuatu),Team Wellington (New Zealand),vanuatu,new-zealand,VU,NZ,Oceania,Oceania,Oceania,international
+AS Magenta,Tupapa Maraerenga,2019-03-02,10,1,F,OFC CC,AS Magenta (New Caledonia),Tupapa Maraerenga (Cook Islands),new-caledonia,cook-islands,NC,CK,Oceania,Oceania,Oceania,international
+Solomon Warriors,Auckland City FC,2019-03-02,0,6,F,OFC CC,Solomon Warriors (Solomon Islands),Auckland City FC (New Zealand),solomon-islands,new-zealand,SB,NZ,Oceania,Oceania,Oceania,international
+Auckland City FC,Lae City Dwellers,2019-04-06,4,0,F,OFC CC,Auckland City FC (New Zealand),Lae City Dwellers (Papua New Guinea),new-zealand,papua-new-guinea,NZ,PG,Oceania,Oceania,Oceania,international
+Hienghene Sport,Ba FC,2019-04-06,2,1,F,OFC CC,Hienghene Sport (New Caledonia),Ba FC (Fiji),new-caledonia,fiji,NC,FJ,Oceania,Oceania,Oceania,international
+Team Wellington,Henderson Eels,2019-04-07,6,1,F,OFC CC,Team Wellington (New Zealand),Henderson Eels (Solomon Islands),new-zealand,solomon-islands,NZ,SB,Oceania,Oceania,Oceania,international
+Hienghene Sport,Team Wellington,2019-04-28,2,0,F,OFC CC,Hienghene Sport (New Caledonia),Team Wellington (New Zealand),new-caledonia,new-zealand,NC,NZ,Oceania,Oceania,Oceania,international
+AS Magenta,Auckland City FC,2019-04-28,2,1,F,OFC CC,AS Magenta (New Caledonia),Auckland City FC (New Zealand),new-caledonia,new-zealand,NC,NZ,Oceania,Oceania,Oceania,international
+AS Magenta,Hienghene Sport,2019-05-11,0,1,F,OFC CC,AS Magenta (New Caledonia),Hienghene Sport (New Caledonia),new-caledonia,new-caledonia,NC,NC,Oceania,Oceania,Oceania,international

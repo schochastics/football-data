@@ -1,0 +1,31 @@
+home,away,date,gh,ga,full_time,competition,home_ident,away_ident,home_country,away_country,home_code,away_code,home_continent,away_continent,continent,level
+Deportivo Arabe Unido,Arnett Gardens FC,2018-08-01,3,0,F,CONCACAF L,Deportivo Arabe Unido (Panama),Arnett Gardens FC (Jamaica),panama,jamaica,PA,JM,North America,North America,North America,international
+CD Motagua,Belmopan Bandits Football Sporting Club,2018-08-01,2,0,F,CONCACAF L,CD Motagua (Honduras),Belmopan Bandits Football Sporting Club (Belize),honduras,belize,HN,BZ,North America,North America,North America,international
+CD Fas,Municipal Perez Zeledon,2018-08-01,2,1,F,CONCACAF L,CD Fas (El Salvador),Municipal Perez Zeledon (Costa Rica),el-salvador,costa-rica,SV,CR,North America,North America,North America,international
+Club Franciscain,Walter Ferreti,2018-08-02,1,0,F,CONCACAF L,Club Franciscain (Martinique),Walter Ferreti (Nicaragua),martinique,nicaragua,MQ,NI,North America,North America,North America,international
+Caciques Del Diriangen,Panama Cd Universitario,2018-08-02,0,4,F,CONCACAF L,Caciques Del Diriangen (Nicaragua),Panama Cd Universitario (Panama),nicaragua,panama,NI,PA,North America,North America,North America,international
+Santos De Guapiles FC,Portmore United FC,2018-08-02,1,2,F,CONCACAF L,Santos De Guapiles FC (Costa Rica),Portmore United FC (Jamaica),costa-rica,jamaica,CR,JM,North America,North America,North America,international
+Tauro FC,Real CD Espana,2018-08-03,1,0,F,CONCACAF L,Tauro FC (Panama),Real CD Espana (Honduras),panama,honduras,PA,HN,North America,North America,North America,international
+CS Herediano,Santa Tecla FC,2018-08-03,1,0,F,CONCACAF L,CS Herediano (Costa Rica),Santa Tecla FC (El Salvador),costa-rica,el-salvador,CR,SV,North America,North America,North America,international
+Belmopan Bandits Football Sporting Club,CD Motagua,2018-08-08,0,1,F,CONCACAF L,Belmopan Bandits Football Sporting Club (Belize),CD Motagua (Honduras),belize,honduras,BZ,HN,North America,North America,North America,international
+Panama Cd Universitario,Caciques Del Diriangen,2018-08-08,3,1,F,CONCACAF L,Panama Cd Universitario (Panama),Caciques Del Diriangen (Nicaragua),panama,nicaragua,PA,NI,North America,North America,North America,international
+Municipal Perez Zeledon,CD Fas,2018-08-08,1,1,F,CONCACAF L,Municipal Perez Zeledon (Costa Rica),CD Fas (El Salvador),costa-rica,el-salvador,CR,SV,North America,North America,North America,international
+Walter Ferreti,Club Franciscain,2018-08-09,1,0,P,CONCACAF L,Walter Ferreti (Nicaragua),Club Franciscain (Martinique),nicaragua,martinique,NI,MQ,North America,North America,North America,international
+Santa Tecla FC,CS Herediano,2018-08-09,2,1,F,CONCACAF L,Santa Tecla FC (El Salvador),CS Herediano (Costa Rica),el-salvador,costa-rica,SV,CR,North America,North America,North America,international
+Portmore United FC,Santos De Guapiles FC,2018-08-10,1,2,P,CONCACAF L,Portmore United FC (Jamaica),Santos De Guapiles FC (Costa Rica),jamaica,costa-rica,JM,CR,North America,North America,North America,international
+Real CD Espana,Tauro FC,2018-08-10,1,1,F,CONCACAF L,Real CD Espana (Honduras),Tauro FC (Panama),honduras,panama,HN,PA,North America,North America,North America,international
+Arnett Gardens FC,Deportivo Arabe Unido,2018-08-10,2,1,F,CONCACAF L,Arnett Gardens FC (Jamaica),Deportivo Arabe Unido (Panama),jamaica,panama,JM,PA,North America,North America,North America,international
+CD Fas,Deportivo Arabe Unido,2018-08-22,0,1,F,CONCACAF L,CD Fas (El Salvador),Deportivo Arabe Unido (Panama),el-salvador,panama,SV,PA,North America,North America,North America,international
+CS Herediano,Panama Cd Universitario,2018-08-23,3,0,F,CONCACAF L,CS Herediano (Costa Rica),Panama Cd Universitario (Panama),costa-rica,panama,CR,PA,North America,North America,North America,international
+Tauro FC,Walter Ferreti,2018-08-24,3,1,F,CONCACAF L,Tauro FC (Panama),Walter Ferreti (Nicaragua),panama,nicaragua,PA,NI,North America,North America,North America,international
+CD Motagua,Portmore United FC,2018-08-24,3,2,F,CONCACAF L,CD Motagua (Honduras),Portmore United FC (Jamaica),honduras,jamaica,HN,JM,North America,North America,North America,international
+Deportivo Arabe Unido,CD Fas,2018-08-29,3,1,F,CONCACAF L,Deportivo Arabe Unido (Panama),CD Fas (El Salvador),panama,el-salvador,PA,SV,North America,North America,North America,international
+Panama Cd Universitario,CS Herediano,2018-08-30,1,2,F,CONCACAF L,Panama Cd Universitario (Panama),CS Herediano (Costa Rica),panama,costa-rica,PA,CR,North America,North America,North America,international
+Walter Ferreti,Tauro FC,2018-08-31,0,4,F,CONCACAF L,Walter Ferreti (Nicaragua),Tauro FC (Panama),nicaragua,panama,NI,PA,North America,North America,North America,international
+Portmore United FC,CD Motagua,2018-08-31,0,2,F,CONCACAF L,Portmore United FC (Jamaica),CD Motagua (Honduras),jamaica,honduras,JM,HN,North America,North America,North America,international
+Tauro FC,CD Motagua,2018-09-21,2,1,F,CONCACAF L,Tauro FC (Panama),CD Motagua (Honduras),panama,honduras,PA,HN,North America,North America,North America,international
+CS Herediano,Deportivo Arabe Unido,2018-09-21,2,0,F,CONCACAF L,CS Herediano (Costa Rica),Deportivo Arabe Unido (Panama),costa-rica,panama,CR,PA,North America,North America,North America,international
+Deportivo Arabe Unido,CS Herediano,2018-09-28,1,0,F,CONCACAF L,Deportivo Arabe Unido (Panama),CS Herediano (Costa Rica),panama,costa-rica,PA,CR,North America,North America,North America,international
+CD Motagua,Tauro FC,2018-09-28,2,0,F,CONCACAF L,CD Motagua (Honduras),Tauro FC (Panama),honduras,panama,HN,PA,North America,North America,North America,international
+CS Herediano,CD Motagua,2018-10-26,2,0,F,CONCACAF L,CS Herediano (Costa Rica),CD Motagua (Honduras),costa-rica,honduras,CR,HN,North America,North America,North America,international
+CD Motagua,CS Herediano,2018-11-02,2,1,F,CONCACAF L,CD Motagua (Honduras),CS Herediano (Costa Rica),honduras,costa-rica,HN,CR,North America,North America,North America,international

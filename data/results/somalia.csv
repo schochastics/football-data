@@ -1,0 +1,558 @@
+home,away,date,gh,ga,full_time,competition,home_ident,away_ident,home_country,away_country,home_code,away_code,home_continent,away_continent,continent,level
+Bs Club,Heegan,2011-01-21,0,1,F,somalia,Bs Club (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Savaana,2011-01-24,1,0,F,somalia,Elman (Somalia),Savaana (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Horseed,2011-01-25,4,0,F,somalia,Sahafi FC (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Super Shell,2011-01-27,0,3,F,somalia,Dekedda (Somalia),Super Shell (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Savaana,Bs Club,2011-01-28,0,0,F,somalia,Savaana (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Horseed,2011-01-31,4,3,F,somalia,Heegan (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Super Shell,2011-02-01,4,1,F,somalia,Elman (Somalia),Super Shell (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Dekedda,2011-02-03,3,0,F,somalia,Sahafi FC (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Horseed,2011-02-04,1,2,F,somalia,Bs Club (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Savaana,Super Shell,2011-02-07,2,1,F,somalia,Savaana (Somalia),Super Shell (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Dekedda,2011-02-08,0,0,F,somalia,Heegan (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Sahafi FC,2011-02-10,1,0,F,somalia,Elman (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Super Shell,Bs Club,2011-02-11,1,3,F,somalia,Super Shell (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Dekedda,2011-02-14,1,1,F,somalia,Horseed (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Savaana,Sahafi FC,2011-02-15,0,1,F,somalia,Savaana (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Elman,2011-02-17,0,4,F,somalia,Heegan (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Dekedda,2011-02-18,1,0,F,somalia,Bs Club (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Super Shell,Sahafi FC,2011-02-21,2,3,F,somalia,Super Shell (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Elman,2011-02-22,0,2,F,somalia,Horseed (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Savaana,Heegan,2011-02-24,1,3,F,somalia,Savaana (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Bs Club,2011-02-25,1,1,F,somalia,Sahafi FC (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Elman,2011-02-28,1,5,F,somalia,Dekedda (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Super Shell,Heegan,2011-03-01,2,1,F,somalia,Super Shell (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Savaana,2011-03-03,0,0,F,somalia,Horseed (Somalia),Savaana (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Elman,2011-03-04,1,0,F,somalia,Bs Club (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Heegan,2011-03-07,1,0,F,somalia,Sahafi FC (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Super Shell,Horseed,2011-03-08,2,2,F,somalia,Super Shell (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Savaana,2011-03-11,1,1,F,somalia,Dekedda (Somalia),Savaana (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Bs Club,2011-03-18,1,0,F,somalia,Heegan (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Savaana,Elman,2011-03-21,0,3,F,somalia,Savaana (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Sahafi FC,2011-03-22,4,4,F,somalia,Horseed (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Super Shell,Dekedda,2011-03-23,0,1,F,somalia,Super Shell (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Savaana,2011-03-24,1,0,F,somalia,Bs Club (Somalia),Savaana (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Heegan,2011-03-25,0,1,F,somalia,Horseed (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Super Shell,Elman,2011-03-28,2,6,F,somalia,Super Shell (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Sahafi FC,2011-03-29,0,1,F,somalia,Dekedda (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Bs Club,2011-03-30,0,3,F,somalia,Horseed (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Super Shell,Savaana,2011-03-31,2,1,F,somalia,Super Shell (Somalia),Savaana (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Heegan,2011-04-01,0,0,F,somalia,Dekedda (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Elman,2011-04-04,0,1,F,somalia,Sahafi FC (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Super Shell,2011-04-05,2,1,F,somalia,Bs Club (Somalia),Super Shell (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Horseed,2011-04-06,0,1,F,somalia,Dekedda (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Savaana,2011-04-07,2,0,F,somalia,Sahafi FC (Somalia),Savaana (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Heegan,2011-04-08,0,2,F,somalia,Elman (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Bs Club,2011-04-11,0,1,F,somalia,Dekedda (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Super Shell,2011-04-12,2,0,F,somalia,Sahafi FC (Somalia),Super Shell (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Horseed,2011-04-13,1,2,F,somalia,Elman (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Savaana,2011-04-14,3,0,F,somalia,Heegan (Somalia),Savaana (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Sahafi FC,2011-04-15,0,0,F,somalia,Bs Club (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Dekedda,2011-04-18,4,0,F,somalia,Elman (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Super Shell,2011-04-19,2,1,F,somalia,Heegan (Somalia),Super Shell (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Savaana,Horseed,2011-04-20,1,2,F,somalia,Savaana (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Bs Club,2011-04-21,1,1,F,somalia,Elman (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Sahafi FC,2011-04-22,0,1,F,somalia,Heegan (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Savaana,Dekedda,2011-04-25,1,2,F,somalia,Savaana (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Super Shell,2011-04-26,3,2,F,somalia,Horseed (Somalia),Super Shell (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Badbaado,2012-06-04,3,1,F,somalia,Elman (Somalia),Badbaado (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Llpp,2012-06-05,1,1,F,somalia,Sahafi FC (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Dekedda,2012-06-07,1,1,F,somalia,Heegan (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Horseed,2012-06-08,1,1,F,somalia,Bs Club (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Elman,2012-06-11,1,1,F,somalia,Llpp (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Badbaado,Dekedda,2012-06-12,2,3,F,somalia,Badbaado (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Horseed,2012-06-14,1,1,F,somalia,Sahafi FC (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Bs Club,2012-06-15,3,2,F,somalia,Heegan (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Dekedda,2012-06-18,4,0,F,somalia,Elman (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Horseed,2012-06-19,0,0,F,somalia,Llpp (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Badbaado,Bs Club,2012-06-21,0,3,F,somalia,Badbaado (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Heegan,2012-06-22,0,1,F,somalia,Sahafi FC (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Elman,2012-06-25,1,3,F,somalia,Horseed (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Bs Club,2012-06-26,1,1,F,somalia,Dekedda (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Heegan,2012-06-28,0,0,F,somalia,Llpp (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Badbaado,Sahafi FC,2012-06-29,0,1,F,somalia,Badbaado (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Bs Club,2012-07-02,1,1,F,somalia,Elman (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Heegan,2012-07-03,2,2,F,somalia,Horseed (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Sahafi FC,2012-07-04,0,0,F,somalia,Dekedda (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Badbaado,2012-07-05,4,0,F,somalia,Llpp (Somalia),Badbaado (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Elman,2012-07-06,0,3,F,somalia,Heegan (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Sahafi FC,2012-07-09,1,0,F,somalia,Bs Club (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Badbaado,2012-07-10,2,0,F,somalia,Horseed (Somalia),Badbaado (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Llpp,2012-07-11,1,1,F,somalia,Dekedda (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Sahafi FC,2012-07-12,2,1,F,somalia,Elman (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Badbaado,2012-07-13,3,1,F,somalia,Heegan (Somalia),Badbaado (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Llpp,2012-07-16,1,1,F,somalia,Bs Club (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Dekedda,2012-07-17,2,1,F,somalia,Horseed (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Badbaado,Elman,2012-09-27,2,5,F,somalia,Badbaado (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Sahafi FC,2012-09-28,1,1,F,somalia,Llpp (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Heegan,2012-09-29,2,4,F,somalia,Dekedda (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Bs Club,2012-09-30,0,2,F,somalia,Horseed (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Llpp,2012-10-02,1,2,F,somalia,Elman (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Badbaado,2012-10-03,5,1,F,somalia,Dekedda (Somalia),Badbaado (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Sahafi FC,2012-10-04,0,0,F,somalia,Horseed (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Heegan,2012-10-05,1,1,F,somalia,Bs Club (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Elman,2012-10-08,2,3,F,somalia,Dekedda (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Llpp,2012-10-09,1,2,F,somalia,Horseed (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Badbaado,2012-10-10,2,2,F,somalia,Bs Club (Somalia),Badbaado (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Sahafi FC,2012-10-11,2,0,F,somalia,Heegan (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Horseed,2012-10-12,2,0,F,somalia,Elman (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Dekedda,2012-10-15,1,2,F,somalia,Bs Club (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Llpp,2012-10-16,0,1,F,somalia,Heegan (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Badbaado,2012-10-17,2,1,F,somalia,Sahafi FC (Somalia),Badbaado (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Elman,2012-10-18,1,2,F,somalia,Bs Club (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Horseed,2012-10-19,1,0,F,somalia,Heegan (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Dekedda,2012-10-22,0,0,F,somalia,Sahafi FC (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Badbaado,Llpp,2012-10-23,1,3,F,somalia,Badbaado (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Heegan,2012-10-24,1,3,F,somalia,Elman (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Bs Club,2012-10-25,0,0,F,somalia,Sahafi FC (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Badbaado,Horseed,2012-10-26,0,1,F,somalia,Badbaado (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Dekedda,2012-10-27,1,1,F,somalia,Llpp (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Elman,2012-10-28,0,2,F,somalia,Sahafi FC (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Badbaado,Heegan,2012-10-29,0,3,F,somalia,Badbaado (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Bs Club,2012-10-30,1,0,F,somalia,Llpp (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Horseed,2012-10-31,2,2,F,somalia,Dekedda (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Gaadiidka,2013-11-08,3,2,F,somalia,Heegan (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Dekedda,2013-11-10,0,3,F,somalia,Horseed (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Savaana,2013-11-11,2,0,F,somalia,Llpp (Somalia),Savaana (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Bs Club,2013-11-12,1,3,F,somalia,Elman (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Heegan,2013-11-14,1,2,F,somalia,Dekedda (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Savaana,2013-11-15,1,0,F,somalia,Gaadiidka (Somalia),Savaana (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Bs Club,2013-11-18,2,2,F,somalia,Horseed (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Elman,2013-11-19,0,1,F,somalia,Llpp (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Savaana,2014-01-02,4,2,F,somalia,Heegan (Somalia),Savaana (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Bs Club,2014-01-03,2,4,F,somalia,Dekedda (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Elman,2014-01-06,0,3,F,somalia,Gaadiidka (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Llpp,2014-01-07,2,4,F,somalia,Horseed (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Heegan,2014-01-09,1,0,F,somalia,Bs Club (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Savaana,Elman,2014-01-10,1,2,F,somalia,Savaana (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Llpp,2014-01-13,0,3,F,somalia,Dekedda (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Horseed,2014-01-14,2,2,F,somalia,Gaadiidka (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Elman,2014-01-16,1,2,F,somalia,Heegan (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Llpp,2014-01-17,1,1,F,somalia,Bs Club (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Savaana,Horseed,2014-01-20,1,3,F,somalia,Savaana (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Gaadiidka,2014-01-21,1,1,F,somalia,Dekedda (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Heegan,2014-01-23,0,1,F,somalia,Llpp (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Horseed,2014-01-24,3,3,F,somalia,Elman (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Gaadiidka,2014-01-27,3,2,F,somalia,Bs Club (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Savaana,Dekedda,2014-01-28,0,1,F,somalia,Savaana (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Gaadiidka,2014-01-30,2,0,F,somalia,Llpp (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Horseed,2014-01-31,3,0,F,somalia,Heegan (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Dekedda,2014-02-03,2,0,F,somalia,Elman (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Savaana,2014-02-04,4,1,F,somalia,Bs Club (Somalia),Savaana (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Heegan,2014-02-17,1,2,F,somalia,Gaadiidka (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Horseed,2014-02-18,0,1,F,somalia,Dekedda (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Savaana,2014-02-20,1,1,F,somalia,Llpp (Somalia),Savaana (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Elman,2014-02-21,0,0,F,somalia,Bs Club (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Dekedda,2014-02-24,1,2,F,somalia,Heegan (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Savaana,Gaadiidka,2014-02-25,0,2,F,somalia,Savaana (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Horseed,2014-02-27,2,0,F,somalia,Bs Club (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Llpp,2014-02-28,2,5,F,somalia,Elman (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Savaana,Heegan,2014-03-03,1,3,F,somalia,Savaana (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Dekedda,2014-03-04,1,2,F,somalia,Bs Club (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Gaadiidka,2014-03-06,3,1,F,somalia,Elman (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Horseed,2014-03-07,1,0,F,somalia,Llpp (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Bs Club,2014-03-10,0,2,F,somalia,Heegan (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Savaana,2014-03-11,8,0,F,somalia,Elman (Somalia),Savaana (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Dekedda,2014-03-13,1,1,F,somalia,Llpp (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Gaadiidka,2014-03-14,3,2,F,somalia,Horseed (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Heegan,2014-03-20,2,2,F,somalia,Elman (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Bs Club,2014-03-21,1,1,F,somalia,Llpp (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Savaana,2014-03-24,6,1,F,somalia,Horseed (Somalia),Savaana (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Dekedda,2014-03-25,0,0,F,somalia,Gaadiidka (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Llpp,2014-03-27,1,1,F,somalia,Heegan (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Elman,2014-03-28,1,1,F,somalia,Horseed (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Bs Club,2014-03-31,1,2,F,somalia,Gaadiidka (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Savaana,2014-04-01,0,3,F,somalia,Dekedda (Somalia),Savaana (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Llpp,2014-04-03,3,1,F,somalia,Gaadiidka (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Heegan,2014-04-04,3,3,F,somalia,Horseed (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Elman,2014-04-05,0,3,F,somalia,Dekedda (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Savaana,Bs Club,2014-04-06,1,7,F,somalia,Savaana (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Elman,2014-12-19,2,3,F,somalia,Horseed (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Heegan,2014-12-21,1,3,F,somalia,Llpp (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Ssomali Friut,Dekedda,2014-12-22,3,1,F,somalia,Ssomali Friut (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Gaadiidka,2014-12-23,1,1,F,somalia,Bs Club (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Savaana,Sahafi FC,2014-12-25,2,3,F,somalia,Savaana (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Horseed,2014-12-26,4,0,F,somalia,Heegan (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Dekedda,2014-12-29,1,1,F,somalia,Elman (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Gaadiidka,2014-12-30,4,2,F,somalia,Llpp (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Ssomali Friut,2015-01-01,2,0,F,somalia,Sahafi FC (Somalia),Ssomali Friut (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Savaana,2015-01-02,3,0,F,somalia,Bs Club (Somalia),Savaana (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Dekedda,2015-01-05,0,1,F,somalia,Horseed (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Gaadiidka,2015-01-06,1,0,F,somalia,Heegan (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Sahafi FC,2015-01-08,0,2,F,somalia,Elman (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Savaana,2015-01-09,4,1,F,somalia,Llpp (Somalia),Savaana (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Ssomali Friut,Bs Club,2015-01-12,1,2,F,somalia,Ssomali Friut (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Horseed,2015-01-15,0,1,F,somalia,Gaadiidka (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Sahafi FC,2015-01-16,2,1,F,somalia,Dekedda (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Savaana,Heegan,2015-01-19,0,4,F,somalia,Savaana (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Elman,2015-01-22,1,1,F,somalia,Bs Club (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Ssomali Friut,2015-01-23,5,0,F,somalia,Llpp (Somalia),Ssomali Friut (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Sahafi FC,2015-01-26,2,1,F,somalia,Horseed (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Savaana,2015-01-27,3,0,F,somalia,Gaadiidka (Somalia),Savaana (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Bs Club,2015-01-29,0,2,F,somalia,Dekedda (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Ssomali Friut,Heegan,2015-01-30,1,8,F,somalia,Ssomali Friut (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Llpp,2015-02-02,1,1,F,somalia,Elman (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Savaana,Horseed,2015-02-05,2,2,F,somalia,Savaana (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Bs Club,2015-02-06,0,0,F,somalia,Sahafi FC (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Llpp,2015-02-19,0,1,F,somalia,Dekedda (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Heegan,2015-02-20,1,0,F,somalia,Elman (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Bs Club,2015-02-22,0,2,F,somalia,Horseed (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Savaana,Ssomali Friut,2015-02-24,1,2,F,somalia,Savaana (Somalia),Ssomali Friut (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Llpp,2015-02-25,0,0,F,somalia,Sahafi FC (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Elman,2015-02-27,0,0,F,somalia,Gaadiidka (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Ssomali Friut,Horseed,2015-03-01,2,0,F,somalia,Ssomali Friut (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Heegan,2015-03-02,0,2,F,somalia,Dekedda (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Llpp,2015-03-02,0,3,F,somalia,Bs Club (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Savaana,Elman,2015-03-03,1,3,F,somalia,Savaana (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Heegan,2015-03-05,3,3,F,somalia,Sahafi FC (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Dekedda,2015-03-06,0,1,F,somalia,Gaadiidka (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Llpp,2015-03-08,0,1,F,somalia,Horseed (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Ssomali Friut,Elman,2015-03-09,0,2,F,somalia,Ssomali Friut (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Heegan,2015-03-10,0,0,F,somalia,Bs Club (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Savaana,Dekedda,2015-03-12,0,4,F,somalia,Savaana (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Gaadiidka,2015-03-13,0,1,F,somalia,Sahafi FC (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Horseed,2015-03-19,3,0,F,somalia,Elman (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Llpp,2015-03-20,2,0,F,somalia,Heegan (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Ssomali Friut,2015-03-22,0,1,F,somalia,Dekedda (Somalia),Ssomali Friut (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Bs Club,2015-03-23,2,1,F,somalia,Gaadiidka (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Savaana,2015-03-24,7,0,F,somalia,Sahafi FC (Somalia),Savaana (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Heegan,2015-03-26,1,0,F,somalia,Horseed (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Elman,2015-03-27,2,0,F,somalia,Dekedda (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Llpp,2015-03-29,4,2,F,somalia,Gaadiidka (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Ssomali Friut,Sahafi FC,2015-03-30,1,4,F,somalia,Ssomali Friut (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Savaana,Bs Club,2015-03-31,1,5,F,somalia,Savaana (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Horseed,2015-04-02,4,0,F,somalia,Dekedda (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Heegan,2015-04-03,0,1,F,somalia,Gaadiidka (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Elman,2015-04-05,1,3,F,somalia,Sahafi FC (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Ssomali Friut,2015-04-07,2,0,F,somalia,Bs Club (Somalia),Ssomali Friut (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Savaana,Llpp,2015-04-08,1,8,F,somalia,Savaana (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Gaadiidka,2015-04-09,1,3,F,somalia,Horseed (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Dekedda,2015-04-10,1,3,F,somalia,Sahafi FC (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Savaana,2015-04-12,4,1,F,somalia,Heegan (Somalia),Savaana (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Bs Club,2015-04-13,0,0,F,somalia,Elman (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Ssomali Friut,Llpp,2015-04-14,1,1,F,somalia,Ssomali Friut (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Horseed,2015-04-16,0,0,F,somalia,Sahafi FC (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Savaana,Gaadiidka,2015-04-17,0,0,F,somalia,Savaana (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Dekedda,2015-05-13,0,1,F,somalia,Bs Club (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Ssomali Friut,2015-05-14,3,0,F,somalia,Heegan (Somalia),Ssomali Friut (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Elman,2015-05-15,0,0,F,somalia,Llpp (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Savaana,2015-05-17,3,1,F,somalia,Horseed (Somalia),Savaana (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Sahafi FC,2015-05-18,3,0,F,somalia,Bs Club (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Ssomali Friut,Gaadiidka,2015-05-19,1,0,F,somalia,Ssomali Friut (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Dekedda,2015-05-21,3,0,F,somalia,Llpp (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Elman,2015-05-22,1,1,F,somalia,Heegan (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Horseed,2015-05-24,5,0,F,somalia,Bs Club (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Ssomali Friut,Savaana,2015-05-25,1,2,F,somalia,Ssomali Friut (Somalia),Savaana (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Sahafi FC,2015-05-26,2,1,F,somalia,Llpp (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Gaadiidka,2015-05-28,0,2,F,somalia,Elman (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Dekedda,2015-05-29,2,0,F,somalia,Heegan (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Ssomali Friut,2015-05-31,2,0,F,somalia,Horseed (Somalia),Ssomali Friut (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Bs Club,2015-06-01,1,2,F,somalia,Llpp (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Savaana,2015-06-02,4,2,F,somalia,Elman (Somalia),Savaana (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Sahafi FC,2015-06-04,0,1,F,somalia,Heegan (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Gaadiidka,2015-06-05,2,0,F,somalia,Dekedda (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Horseed,2015-06-07,2,1,F,somalia,Llpp (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Ssomali Friut,2015-06-08,2,2,F,somalia,Elman (Somalia),Ssomali Friut (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Bs Club,2015-06-09,0,2,F,somalia,Heegan (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Savaana,2015-06-11,5,1,F,somalia,Dekedda (Somalia),Savaana (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Sahafi FC,2015-06-12,2,1,F,somalia,Gaadiidka (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Ssomali Friut,2015-06-13,1,0,F,somalia,Horseed (Somalia),Ssomali Friut (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Heegan,2015-12-28,1,0,F,somalia,Dekedda (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Singjet,2015-12-29,1,0,F,somalia,Bs Club (Somalia),Singjet (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Horseed,2015-12-30,1,1,F,somalia,Llpp (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Sahafi FC,2015-12-31,1,1,F,somalia,Gaadiidka (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Mogadishu City,2016-01-01,1,1,F,somalia,Elman (Somalia),Mogadishu City (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Singjet,Dekedda,2016-01-04,0,0,F,somalia,Singjet (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Horseed,2016-01-05,2,2,F,somalia,Heegan (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Sahafi FC,2016-01-06,1,0,F,somalia,Bs Club (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Mogadishu City,2016-01-07,4,1,F,somalia,Llpp (Somalia),Mogadishu City (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Elman,2016-01-08,0,1,F,somalia,Gaadiidka (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Horseed,2016-01-11,2,0,F,somalia,Dekedda (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Singjet,Sahafi FC,2016-01-12,2,1,F,somalia,Singjet (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Mogadishu City,2016-01-13,1,0,F,somalia,Heegan (Somalia),Mogadishu City (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Elman,2016-01-14,2,1,F,somalia,Bs Club (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Gaadiidka,2016-01-15,1,1,F,somalia,Llpp (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Dekedda,2016-01-18,1,4,F,somalia,Sahafi FC (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Mogadishu City,2016-01-19,2,0,F,somalia,Horseed (Somalia),Mogadishu City (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Singjet,Elman,2016-01-20,0,4,F,somalia,Singjet (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Gaadiidka,2016-01-21,0,1,F,somalia,Heegan (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Llpp,2016-01-22,2,0,F,somalia,Bs Club (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Mogadishu City,2016-01-25,2,2,F,somalia,Dekedda (Somalia),Mogadishu City (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Elman,2016-01-26,2,0,F,somalia,Sahafi FC (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Gaadiidka,2016-01-27,0,2,F,somalia,Horseed (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Singjet,Llpp,2016-01-28,1,2,F,somalia,Singjet (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Bs Club,2016-01-29,0,0,F,somalia,Heegan (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Dekedda,2016-02-01,0,1,F,somalia,Elman (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Mogadishu City,Gaadiidka,2016-02-02,0,2,F,somalia,Mogadishu City (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Llpp,2016-02-03,1,3,F,somalia,Sahafi FC (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Bs Club,2016-02-04,0,0,F,somalia,Horseed (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Singjet,Heegan,2016-02-05,0,2,F,somalia,Singjet (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Gaadiidka,2016-02-08,1,1,F,somalia,Dekedda (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Llpp,2016-02-09,1,1,F,somalia,Elman (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Mogadishu City,Bs Club,2016-02-10,0,6,F,somalia,Mogadishu City (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Heegan,2016-02-11,0,2,F,somalia,Sahafi FC (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Singjet,2016-02-12,3,1,F,somalia,Horseed (Somalia),Singjet (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Dekedda,2016-02-15,3,1,F,somalia,Llpp (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Bs Club,2016-02-16,0,2,F,somalia,Gaadiidka (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Heegan,2016-02-17,1,1,F,somalia,Elman (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Mogadishu City,Singjet,2016-02-18,0,4,F,somalia,Mogadishu City (Somalia),Singjet (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Horseed,2016-02-19,2,3,F,somalia,Sahafi FC (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Bs Club,2016-02-22,1,1,F,somalia,Dekedda (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Heegan,2016-02-23,2,2,F,somalia,Llpp (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Singjet,2016-02-24,2,1,F,somalia,Gaadiidka (Somalia),Singjet (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Horseed,2016-02-25,0,3,F,somalia,Elman (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Singjet,Bs Club,2016-03-04,1,2,F,somalia,Singjet (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Llpp,2016-03-07,1,3,F,somalia,Horseed (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Gaadiidka,2016-03-08,1,1,F,somalia,Sahafi FC (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Mogadishu City,Elman,2016-03-09,1,2,F,somalia,Mogadishu City (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Singjet,2016-03-10,2,1,F,somalia,Dekedda (Somalia),Singjet (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Heegan,2016-03-11,1,2,F,somalia,Horseed (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Bs Club,2016-03-14,0,6,F,somalia,Sahafi FC (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Mogadishu City,Llpp,2016-03-15,0,7,F,somalia,Mogadishu City (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Gaadiidka,2016-03-16,0,1,F,somalia,Elman (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Dekedda,2016-03-17,2,2,F,somalia,Horseed (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Singjet,2016-03-18,1,1,F,somalia,Sahafi FC (Somalia),Singjet (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Mogadishu City,Heegan,2016-03-21,1,8,F,somalia,Mogadishu City (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Bs Club,2016-03-22,1,1,F,somalia,Elman (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Llpp,2016-03-23,1,2,F,somalia,Gaadiidka (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Sahafi FC,2016-03-24,4,1,F,somalia,Dekedda (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Mogadishu City,Horseed,2016-03-25,2,3,F,somalia,Mogadishu City (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Singjet,2016-03-28,3,0,F,somalia,Elman (Somalia),Singjet (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Heegan,2016-03-29,0,0,F,somalia,Gaadiidka (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Bs Club,2016-04-08,2,3,F,somalia,Llpp (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Mogadishu City,Dekedda,2016-04-11,0,2,F,somalia,Mogadishu City (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Sahafi FC,2016-04-12,2,1,F,somalia,Elman (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Horseed,2016-04-13,0,0,F,somalia,Gaadiidka (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Singjet,2016-04-14,4,1,F,somalia,Llpp (Somalia),Singjet (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Heegan,2016-04-15,1,1,F,somalia,Bs Club (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Elman,2016-04-26,3,0,F,somalia,Dekedda (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Mogadishu City,2016-04-27,2,0,F,somalia,Gaadiidka (Somalia),Mogadishu City (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Sahafi FC,2016-04-28,1,0,F,somalia,Llpp (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Horseed,2016-04-29,2,0,F,somalia,Bs Club (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Singjet,2016-04-30,4,1,F,somalia,Heegan (Somalia),Singjet (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Dekedda,2016-05-01,0,1,F,somalia,Gaadiidka (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Llpp,Elman,2016-05-02,0,0,F,somalia,Llpp (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Mogadishu City,2016-05-03,4,0,F,somalia,Bs Club (Somalia),Mogadishu City (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Sahafi FC,2016-05-04,2,2,F,somalia,Heegan (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Singjet,Horseed,2016-05-05,2,1,F,somalia,Singjet (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Llpp,2016-05-06,1,0,F,somalia,Dekedda (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Gaadiidka,2016-05-07,2,1,F,somalia,Bs Club (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Elman,2016-05-08,0,0,F,somalia,Heegan (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Singjet,Mogadishu City,2016-05-09,1,1,F,somalia,Singjet (Somalia),Mogadishu City (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Sahafi FC,2016-05-10,2,1,F,somalia,Horseed (Somalia),Sahafi FC (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Dekedda,2016-05-11,0,0,F,somalia,Bs Club (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Llpp,2016-05-12,1,1,F,somalia,Heegan (Somalia),Llpp (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Singjet,Gaadiidka,2016-05-13,3,2,F,somalia,Singjet (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Elman,2016-05-14,2,0,F,somalia,Horseed (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Sahafi FC,Mogadishu City,2016-05-15,12,1,F,somalia,Sahafi FC (Somalia),Mogadishu City (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Elman,2016-11-18,0,2,F,somalia,Heegan (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Jeenyo,2016-11-20,2,2,F,somalia,Gaadiidka (Somalia),Jeenyo (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+M United,Bs Club,2016-11-21,1,3,F,somalia,M United (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bariga Dhexe,Dekedda,2016-11-22,1,2,F,somalia,Bariga Dhexe (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Waxool,2016-11-23,2,1,F,somalia,Horseed (Somalia),Waxool (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Jeenyo,Heegan,2016-11-24,1,1,F,somalia,Jeenyo (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Bs Club,2016-11-25,1,2,F,somalia,Elman (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Dekedda,2016-11-26,1,1,F,somalia,Gaadiidka (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+M United,Waxool,2016-11-27,1,4,F,somalia,M United (Somalia),Waxool (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bariga Dhexe,Horseed,2016-11-28,1,1,F,somalia,Bariga Dhexe (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Bs Club,2017-02-13,0,0,F,somalia,Heegan (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Jeenyo,Dekedda,2017-02-13,2,2,F,somalia,Jeenyo (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Waxool,2017-02-14,5,2,F,somalia,Elman (Somalia),Waxool (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Horseed,2017-02-14,1,1,F,somalia,Gaadiidka (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+M United,Bariga Dhexe,2017-02-16,0,2,F,somalia,M United (Somalia),Bariga Dhexe (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Heegan,2017-02-16,1,1,F,somalia,Dekedda (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Waxool,2017-02-17,3,0,F,somalia,Bs Club (Somalia),Waxool (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Jeenyo,Horseed,2017-02-17,1,0,F,somalia,Jeenyo (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Bariga Dhexe,2017-02-20,4,0,F,somalia,Elman (Somalia),Bariga Dhexe (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,M United,2017-02-20,7,0,F,somalia,Gaadiidka (Somalia),M United (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Waxool,2017-02-21,2,0,F,somalia,Heegan (Somalia),Waxool (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Horseed,2017-02-21,1,2,F,somalia,Dekedda (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Bariga Dhexe,2017-02-23,5,1,F,somalia,Bs Club (Somalia),Bariga Dhexe (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Jeenyo,M United,2017-02-23,2,2,F,somalia,Jeenyo (Somalia),M United (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Gaadiidka,2017-02-24,3,1,F,somalia,Elman (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Heegan,2017-02-24,2,1,F,somalia,Horseed (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Waxool,Bariga Dhexe,2017-02-27,0,1,F,somalia,Waxool (Somalia),Bariga Dhexe (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,M United,2017-02-27,6,0,F,somalia,Dekedda (Somalia),M United (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Gaadiidka,2017-02-28,2,1,F,somalia,Bs Club (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Jeenyo,Elman,2017-02-28,1,1,F,somalia,Jeenyo (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Bariga Dhexe,2017-03-02,1,2,F,somalia,Heegan (Somalia),Bariga Dhexe (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,M United,2017-03-02,2,0,F,somalia,Horseed (Somalia),M United (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Waxool,Gaadiidka,2017-03-03,0,4,F,somalia,Waxool (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Elman,2017-03-03,0,0,F,somalia,Dekedda (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Jeenyo,2017-03-06,2,2,F,somalia,Bs Club (Somalia),Jeenyo (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+M United,Heegan,2017-03-06,1,2,F,somalia,M United (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bariga Dhexe,Gaadiidka,2017-03-07,0,6,F,somalia,Bariga Dhexe (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Elman,2017-03-07,1,1,F,somalia,Horseed (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Waxool,Jeenyo,2017-03-09,0,5,F,somalia,Waxool (Somalia),Jeenyo (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Bs Club,2017-03-09,1,0,F,somalia,Dekedda (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Gaadiidka,2017-03-10,1,0,F,somalia,Heegan (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+M United,Elman,2017-03-10,0,7,F,somalia,M United (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bariga Dhexe,Jeenyo,2017-03-13,1,5,F,somalia,Bariga Dhexe (Somalia),Jeenyo (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Bs Club,2017-03-13,0,3,F,somalia,Horseed (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Waxool,Dekedda,2017-03-14,1,7,F,somalia,Waxool (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Heegan,2017-03-20,0,0,F,somalia,Elman (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Jeenyo,Gaadiidka,2017-03-20,1,1,F,somalia,Jeenyo (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,M United,2017-03-21,3,1,F,somalia,Bs Club (Somalia),M United (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Bariga Dhexe,2017-03-21,3,0,F,somalia,Dekedda (Somalia),Bariga Dhexe (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Waxool,Horseed,2017-03-23,0,0,F,somalia,Waxool (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Jeenyo,2017-03-23,4,3,F,somalia,Heegan (Somalia),Jeenyo (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Elman,2017-03-24,0,1,F,somalia,Bs Club (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Gaadiidka,2017-03-24,2,1,F,somalia,Dekedda (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Waxool,M United,2017-03-27,1,2,F,somalia,Waxool (Somalia),M United (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Bariga Dhexe,2017-03-27,0,0,F,somalia,Horseed (Somalia),Bariga Dhexe (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Heegan,2017-03-28,0,1,F,somalia,Bs Club (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Jeenyo,2017-03-28,4,0,F,somalia,Dekedda (Somalia),Jeenyo (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Waxool,Elman,2017-03-30,0,2,F,somalia,Waxool (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Gaadiidka,2017-03-30,2,1,F,somalia,Horseed (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bariga Dhexe,M United,2017-03-31,0,1,F,somalia,Bariga Dhexe (Somalia),M United (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Dekedda,2017-05-08,0,2,F,somalia,Heegan (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Waxool,Bs Club,2017-05-09,2,1,F,somalia,Waxool (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Jeenyo,2017-05-11,1,0,F,somalia,Horseed (Somalia),Jeenyo (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bariga Dhexe,Elman,2017-05-12,0,6,F,somalia,Bariga Dhexe (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+M United,Gaadiidka,2017-05-14,1,6,F,somalia,M United (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Waxool,Heegan,2017-05-15,0,2,F,somalia,Waxool (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Dekedda,2017-05-16,1,1,F,somalia,Horseed (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bariga Dhexe,Bs Club,2017-05-18,1,4,F,somalia,Bariga Dhexe (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+M United,Jeenyo,2017-05-19,1,3,F,somalia,M United (Somalia),Jeenyo (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Elman,2017-05-21,3,0,F,somalia,Gaadiidka (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Horseed,2017-07-06,1,1,F,somalia,Heegan (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bariga Dhexe,Waxool,2017-07-07,0,2,F,somalia,Bariga Dhexe (Somalia),Waxool (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+M United,Dekedda,2017-07-10,0,1,F,somalia,M United (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Bs Club,2017-07-11,0,0,F,somalia,Gaadiidka (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Jeenyo,2017-07-12,0,1,F,somalia,Elman (Somalia),Jeenyo (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bariga Dhexe,Heegan,2017-07-13,0,4,F,somalia,Bariga Dhexe (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+M United,Horseed,2017-07-14,1,3,F,somalia,M United (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Waxool,2017-07-17,1,1,F,somalia,Gaadiidka (Somalia),Waxool (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Dekedda,2017-07-18,0,2,F,somalia,Elman (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Jeenyo,Bs Club,2017-07-19,0,3,F,somalia,Jeenyo (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,M United,2017-07-20,2,0,F,somalia,Heegan (Somalia),M United (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Bariga Dhexe,2017-07-21,2,0,F,somalia,Gaadiidka (Somalia),Bariga Dhexe (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Horseed,2017-07-24,1,1,F,somalia,Elman (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Jeenyo,Waxool,2017-07-25,0,0,F,somalia,Jeenyo (Somalia),Waxool (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Dekedda,2017-07-26,1,1,F,somalia,Bs Club (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Heegan,2017-07-27,2,3,F,somalia,Gaadiidka (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,M United,2017-07-28,4,0,F,somalia,Elman (Somalia),M United (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Jeenyo,Bariga Dhexe,2017-07-31,1,0,F,somalia,Jeenyo (Somalia),Bariga Dhexe (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Horseed,2017-08-01,1,0,F,somalia,Bs Club (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Waxool,2017-08-02,2,0,F,somalia,Dekedda (Somalia),Waxool (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Waxool,2018-01-22,1,0,F,somalia,Dekedda (Somalia),Waxool (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Batroolka,Gaadiidka,2018-01-23,0,0,F,somalia,Batroolka (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Elman,2018-01-24,4,1,F,somalia,Heegan (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Madbacadda,Jeenyo,2018-01-25,1,1,F,somalia,Madbacadda (Somalia),Jeenyo (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Bs Club,2018-01-26,1,0,F,somalia,Horseed (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Dekedda,2018-01-29,1,1,F,somalia,Gaadiidka (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Waxool,Elman,2018-01-30,0,4,F,somalia,Waxool (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Batroolka,Jeenyo,2018-01-31,0,0,F,somalia,Batroolka (Somalia),Jeenyo (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Bs Club,2018-02-01,1,1,F,somalia,Heegan (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Madbacadda,Horseed,2018-02-02,0,0,F,somalia,Madbacadda (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Elman,2018-02-05,1,0,F,somalia,Dekedda (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Jeenyo,2018-02-06,0,1,F,somalia,Gaadiidka (Somalia),Jeenyo (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Waxool,Bs Club,2018-02-07,1,4,F,somalia,Waxool (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Batroolka,Horseed,2018-02-08,1,5,F,somalia,Batroolka (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Madbacadda,2018-02-09,0,0,F,somalia,Heegan (Somalia),Madbacadda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Jeenyo,Dekedda,2018-02-12,0,2,F,somalia,Jeenyo (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Bs Club,2018-02-13,2,6,F,somalia,Elman (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Horseed,2018-02-14,1,3,F,somalia,Gaadiidka (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Waxool,Madbacadda,2018-02-15,0,1,F,somalia,Waxool (Somalia),Madbacadda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Batroolka,Heegan,2018-02-16,1,2,F,somalia,Batroolka (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Bs Club,2018-02-19,1,0,F,somalia,Dekedda (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Jeenyo,Horseed,2018-02-20,0,2,F,somalia,Jeenyo (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Madbacadda,2018-02-21,5,1,F,somalia,Elman (Somalia),Madbacadda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Heegan,2018-02-22,1,2,F,somalia,Gaadiidka (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Waxool,Batroolka,2018-02-23,2,2,F,somalia,Waxool (Somalia),Batroolka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Dekedda,2018-02-26,0,0,F,somalia,Horseed (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Madbacadda,2018-02-27,2,0,F,somalia,Bs Club (Somalia),Madbacadda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Jeenyo,Heegan,2018-02-28,1,0,F,somalia,Jeenyo (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Batroolka,2018-03-01,1,4,F,somalia,Elman (Somalia),Batroolka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Waxool,2018-03-02,1,1,F,somalia,Gaadiidka (Somalia),Waxool (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Madbacadda,2018-03-05,7,1,F,somalia,Dekedda (Somalia),Madbacadda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Heegan,2018-03-06,0,0,F,somalia,Horseed (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Batroolka,2018-03-07,1,1,F,somalia,Bs Club (Somalia),Batroolka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Jeenyo,Waxool,2018-03-08,0,1,F,somalia,Jeenyo (Somalia),Waxool (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Gaadiidka,2018-03-09,3,0,F,somalia,Elman (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Dekedda,2018-03-12,0,0,F,somalia,Heegan (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Madbacadda,Batroolka,2018-03-13,0,0,F,somalia,Madbacadda (Somalia),Batroolka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Waxool,2018-03-14,3,0,F,somalia,Horseed (Somalia),Waxool (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Gaadiidka,2018-03-15,3,0,F,somalia,Bs Club (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Jeenyo,Elman,2018-03-16,2,2,F,somalia,Jeenyo (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Batroolka,2018-03-20,5,0,F,somalia,Dekedda (Somalia),Batroolka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Waxool,2018-03-20,5,0,F,somalia,Heegan (Somalia),Waxool (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Madbacadda,Gaadiidka,2018-03-21,0,2,F,somalia,Madbacadda (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Elman,2018-03-22,2,0,F,somalia,Horseed (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Jeenyo,2018-03-23,4,2,F,somalia,Bs Club (Somalia),Jeenyo (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Waxool,Dekedda,2018-03-26,1,4,F,somalia,Waxool (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Batroolka,2018-03-27,0,1,F,somalia,Gaadiidka (Somalia),Batroolka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Heegan,2018-03-28,1,2,F,somalia,Elman (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Jeenyo,Madbacadda,2018-03-29,1,1,F,somalia,Jeenyo (Somalia),Madbacadda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Horseed,2018-03-30,3,2,F,somalia,Bs Club (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Gaadiidka,2018-03-31,6,0,F,somalia,Dekedda (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Waxool,2018-04-01,4,1,F,somalia,Elman (Somalia),Waxool (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Jeenyo,Batroolka,2018-04-02,6,0,F,somalia,Jeenyo (Somalia),Batroolka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Heegan,2018-04-03,1,1,F,somalia,Bs Club (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Madbacadda,2018-04-04,1,1,F,somalia,Horseed (Somalia),Madbacadda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Dekedda,2018-04-05,3,0,F,somalia,Elman (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Jeenyo,Gaadiidka,2018-04-07,3,6,F,somalia,Jeenyo (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Waxool,2018-04-08,2,0,F,somalia,Bs Club (Somalia),Waxool (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Batroolka,2018-04-09,5,0,F,somalia,Horseed (Somalia),Batroolka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Madbacadda,Heegan,2018-04-10,1,0,F,somalia,Madbacadda (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Jeenyo,2018-04-11,3,0,F,somalia,Dekedda (Somalia),Jeenyo (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Elman,2018-04-12,4,2,F,somalia,Bs Club (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Gaadiidka,2018-04-13,0,0,F,somalia,Horseed (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Madbacadda,Waxool,2018-04-14,1,2,F,somalia,Madbacadda (Somalia),Waxool (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Batroolka,2018-04-15,3,0,F,somalia,Heegan (Somalia),Batroolka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Dekedda,2018-04-16,0,0,F,somalia,Bs Club (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Jeenyo,2018-04-17,0,0,F,somalia,Horseed (Somalia),Jeenyo (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Madbacadda,Elman,2018-04-18,1,1,F,somalia,Madbacadda (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Gaadiidka,2018-04-19,3,1,F,somalia,Heegan (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Batroolka,Waxool,2018-04-20,1,2,F,somalia,Batroolka (Somalia),Waxool (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Horseed,2018-04-21,2,2,F,somalia,Dekedda (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Madbacadda,Bs Club,2018-04-22,2,2,F,somalia,Madbacadda (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Jeenyo,2018-04-23,4,1,F,somalia,Heegan (Somalia),Jeenyo (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Batroolka,Bs Club,2018-04-24,1,2,F,somalia,Batroolka (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Waxool,Jeenyo,2018-04-25,1,2,F,somalia,Waxool (Somalia),Jeenyo (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Bs Club,2018-04-26,1,2,F,somalia,Gaadiidka (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Batroolka,Elman,2018-04-27,2,2,F,somalia,Batroolka (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Jeenyo,Bs Club,2018-04-28,1,2,F,somalia,Jeenyo (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Horseed,2018-04-29,1,0,F,somalia,Heegan (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Elman,2018-04-30,2,2,F,somalia,Gaadiidka (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Batroolka,Madbacadda,2018-05-01,1,4,F,somalia,Batroolka (Somalia),Madbacadda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Heegan,2018-05-02,1,1,F,somalia,Dekedda (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Waxool,Gaadiidka,2018-05-03,1,3,F,somalia,Waxool (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Jeenyo,2018-05-04,2,1,F,somalia,Elman (Somalia),Jeenyo (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Madbacadda,Dekedda,2018-05-05,0,5,F,somalia,Madbacadda (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Waxool,Horseed,2018-05-06,1,4,F,somalia,Waxool (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,Madbacadda,2018-05-08,4,1,F,somalia,Gaadiidka (Somalia),Madbacadda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Batroolka,Dekedda,2018-05-09,1,6,F,somalia,Batroolka (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Horseed,2018-05-10,2,3,F,somalia,Elman (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Waxool,Heegan,2018-05-11,0,7,F,somalia,Waxool (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Bs Club,Horseed,2019-02-26,1,2,F,somalia,Bs Club (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,M United,2019-02-27,3,0,F,somalia,Heegan (Somalia),M United (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Midnimo,Dekedda,2019-02-28,0,2,F,somalia,Midnimo (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Madbacadda,Elman,2019-03-01,1,0,F,somalia,Madbacadda (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,M United,2019-03-05,0,1,F,somalia,Gaadiidka (Somalia),M United (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+M United,Heegan,2019-03-06,1,0,F,somalia,M United (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Elman,2019-03-07,1,0,F,somalia,Dekedda (Somalia),Elman (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Midnimo,Horseed,2019-03-08,0,2,F,somalia,Midnimo (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Jeenyo,Heegan,2019-03-12,0,2,F,somalia,Jeenyo (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Gaadiidka,M United,2019-03-13,1,2,F,somalia,Gaadiidka (Somalia),M United (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Madbacadda,Bs Club,2019-03-19,2,5,F,somalia,Madbacadda (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Jeenyo,Gaadiidka,2019-03-20,2,4,F,somalia,Jeenyo (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,M United,2019-03-21,2,1,F,somalia,Dekedda (Somalia),M United (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Heegan,2019-03-22,0,1,F,somalia,Horseed (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Midnimo,Gaadiidka,2019-03-26,0,2,F,somalia,Midnimo (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Madbacadda,Jeenyo,2019-03-27,2,1,F,somalia,Madbacadda (Somalia),Jeenyo (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Dekedda,2019-03-28,1,1,F,somalia,Heegan (Somalia),Dekedda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+M United,Bs Club,2019-03-29,2,5,F,somalia,M United (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Jeenyo,2019-04-02,3,1,F,somalia,Elman (Somalia),Jeenyo (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Dekedda,Bs Club,2019-04-04,1,0,F,somalia,Dekedda (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Heegan,Gaadiidka,2019-04-05,4,0,F,somalia,Heegan (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,Madbacadda,2019-04-09,4,0,F,somalia,Horseed (Somalia),Madbacadda (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Midnimo,2019-04-10,1,2,F,somalia,Elman (Somalia),Midnimo (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Jeenyo,Bs Club,2019-04-23,0,4,F,somalia,Jeenyo (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Madbacadda,Heegan,2019-04-24,3,4,F,somalia,Madbacadda (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Midnimo,M United,2019-04-25,2,2,F,somalia,Midnimo (Somalia),M United (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Horseed,2019-04-26,2,1,F,somalia,Elman (Somalia),Horseed (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Madbacadda,Gaadiidka,2019-04-30,0,2,F,somalia,Madbacadda (Somalia),Gaadiidka (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Midnimo,Bs Club,2019-05-01,1,3,F,somalia,Midnimo (Somalia),Bs Club (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Elman,Heegan,2019-05-02,2,1,F,somalia,Elman (Somalia),Heegan (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national
+Horseed,M United,2019-05-03,3,1,F,somalia,Horseed (Somalia),M United (Somalia),somalia,somalia,SO,SO,Africa,Africa,Africa,national

@@ -1,0 +1,537 @@
+home,away,date,gh,ga,full_time,competition,home_ident,away_ident,home_country,away_country,home_code,away_code,home_continent,away_continent,continent,level
+Friends Development,Ha Attapeu,2013-03-16,0,4,F,laos,Friends Development (Laos),Ha Attapeu (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Yotha FC,Eastern Star,2013-03-16,7,2,F,laos,Yotha FC (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Shb Champasak,2013-03-17,1,1,F,laos,Ezra FC (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Lane Xang,Yotha FC,2013-03-23,2,2,F,laos,Lao Lane Xang (Laos),Yotha FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ha Attapeu,Ezra FC,2013-03-23,1,0,F,laos,Ha Attapeu (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Lao Police Club,2013-03-24,1,3,F,laos,Eastern Star (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Friends Development,2013-03-24,6,0,F,laos,Shb Champasak (Laos),Friends Development (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Shb Champasak,2013-03-30,1,3,F,laos,Lao Police Club (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Lao Lane Xang,2013-03-30,1,0,F,laos,Ezra FC (Laos),Lao Lane Xang (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Friends Development,Eastern Star,2013-03-31,1,5,F,laos,Friends Development (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Yotha FC,Ha Attapeu,2013-03-31,4,7,F,laos,Yotha FC (Laos),Ha Attapeu (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Lane Xang,Friends Development,2013-04-06,7,0,F,laos,Lao Lane Xang (Laos),Friends Development (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ha Attapeu,Lao Police Club,2013-04-06,0,1,F,laos,Ha Attapeu (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Ezra FC,2013-04-07,1,5,F,laos,Eastern Star (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Yotha FC,2013-04-07,2,1,F,laos,Shb Champasak (Laos),Yotha FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Ha Attapeu,2013-04-20,0,6,F,laos,Eastern Star (Laos),Ha Attapeu (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Yotha FC,Friends Development,2013-04-20,8,0,F,laos,Yotha FC (Laos),Friends Development (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Ezra FC,2013-04-20,1,3,F,laos,Lao Police Club (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Lane Xang,Shb Champasak,2013-04-21,1,2,F,laos,Lao Lane Xang (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ha Attapeu,Lao Lane Xang,2013-04-27,5,1,F,laos,Ha Attapeu (Laos),Lao Lane Xang (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Yotha FC,2013-04-27,1,0,F,laos,Ezra FC (Laos),Yotha FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Friends Development,Lao Police Club,2013-04-28,0,12,F,laos,Friends Development (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Eastern Star,2013-04-28,9,0,F,laos,Shb Champasak (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Lao Lane Xang,2013-04-30,7,1,F,laos,Lao Police Club (Laos),Lao Lane Xang (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Lane Xang,Eastern Star,2013-05-04,1,0,F,laos,Lao Lane Xang (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Friends Development,2013-05-04,4,1,F,laos,Ezra FC (Laos),Friends Development (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Yotha FC,2013-05-05,1,2,F,laos,Lao Police Club (Laos),Yotha FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Ha Attapeu,2013-05-05,1,0,F,laos,Shb Champasak (Laos),Ha Attapeu (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Lane Xang,Lao Police Club,2013-05-11,0,3,F,laos,Lao Lane Xang (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ha Attapeu,Friends Development,2013-05-11,14,0,F,laos,Ha Attapeu (Laos),Friends Development (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Ezra FC,2013-05-12,2,0,F,laos,Shb Champasak (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Yotha FC,2013-05-12,0,9,F,laos,Eastern Star (Laos),Yotha FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Yotha FC,Lao Lane Xang,2013-05-18,10,2,F,laos,Yotha FC (Laos),Lao Lane Xang (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Friends Development,Shb Champasak,2013-05-18,1,7,F,laos,Friends Development (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Eastern Star,2013-05-18,9,0,F,laos,Lao Police Club (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Ha Attapeu,2013-05-19,0,0,F,laos,Ezra FC (Laos),Ha Attapeu (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Lane Xang,Ezra FC,2013-05-25,1,1,F,laos,Lao Lane Xang (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ha Attapeu,Yotha FC,2013-05-25,0,0,F,laos,Ha Attapeu (Laos),Yotha FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Friends Development,2013-05-26,4,0,F,laos,Eastern Star (Laos),Friends Development (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Eastern Star,2013-06-01,4,1,F,laos,Ezra FC (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Yotha FC,Shb Champasak,2013-06-02,1,3,F,laos,Yotha FC (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Friends Development,Lao Lane Xang,2013-06-02,0,9,F,laos,Friends Development (Laos),Lao Lane Xang (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Ha Attapeu,2013-06-05,0,1,F,laos,Lao Police Club (Laos),Ha Attapeu (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Shb Champasak,2013-06-05,0,9,F,laos,Eastern Star (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Lao Lane Xang,2013-06-09,3,1,F,laos,Shb Champasak (Laos),Lao Lane Xang (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Friends Development,Yotha FC,2013-06-09,1,13,F,laos,Friends Development (Laos),Yotha FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Lao Police Club,2013-06-10,0,0,F,laos,Ezra FC (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ha Attapeu,Eastern Star,2013-06-12,5,2,F,laos,Ha Attapeu (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Friends Development,2013-06-12,19,3,F,laos,Lao Police Club (Laos),Friends Development (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Yotha FC,Ezra FC,2013-06-15,2,1,F,laos,Yotha FC (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Lao Police Club,2013-06-16,3,3,F,laos,Shb Champasak (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Lane Xang,Ha Attapeu,2013-06-16,1,1,F,laos,Lao Lane Xang (Laos),Ha Attapeu (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Lao Lane Xang,2013-06-22,0,5,F,laos,Eastern Star (Laos),Lao Lane Xang (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Yotha FC,Lao Police Club,2013-06-23,2,1,F,laos,Yotha FC (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Friends Development,Ezra FC,2013-06-23,1,3,F,laos,Friends Development (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ha Attapeu,Shb Champasak,2013-06-23,2,3,F,laos,Ha Attapeu (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Ezra FC,2014-02-22,1,2,F,laos,Eastern Star (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ha Attapeu,Lao Army FC,2014-02-22,1,0,F,laos,Ha Attapeu (Laos),Lao Army FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Yotha FC,Lanexang Intra,2014-02-23,0,3,F,laos,Yotha FC (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Lao Toyota,2014-02-23,3,0,F,laos,Lao Police Club (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Lao Army FC,2014-03-01,2,3,F,laos,Lao Toyota (Laos),Lao Army FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Lanexang Intra,2014-03-02,0,0,F,laos,Shb Champasak (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Lao Police Club,2014-03-02,1,4,F,laos,Ezra FC (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Ha Attapeu,2014-03-02,0,4,F,laos,Eastern Star (Laos),Ha Attapeu (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Army FC,Yotha FC,2014-03-08,3,0,F,laos,Lao Army FC (Laos),Yotha FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ha Attapeu,Lao Police Club,2014-03-08,3,3,F,laos,Ha Attapeu (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Eastern Star,2014-03-09,0,0,F,laos,Lanexang Intra (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Shb Champasak,2014-03-09,2,1,F,laos,Lao Toyota (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Lao Toyota,2014-03-15,0,2,F,laos,Eastern Star (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ha Attapeu,Yotha FC,2014-03-15,10,2,F,laos,Ha Attapeu (Laos),Yotha FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Army FC,Lao Police Club,2014-03-16,0,0,F,laos,Lao Army FC (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Ezra FC,2014-03-16,4,0,F,laos,Shb Champasak (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Ezra FC,2014-03-22,2,2,F,laos,Lao Toyota (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Yotha FC,Lao Police Club,2014-03-22,0,3,F,laos,Yotha FC (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Ha Attapeu,2014-03-23,0,2,F,laos,Savannakhet (Laos),Ha Attapeu (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Shb Champasak,2014-03-23,1,3,F,laos,Eastern Star (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Lao Army FC,2014-03-23,1,0,F,laos,Lanexang Intra (Laos),Lao Army FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ha Attapeu,Lao Toyota,2014-03-29,0,5,F,laos,Ha Attapeu (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Savannakhet,2014-03-29,2,1,F,laos,Lao Police Club (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Lanexang Intra,2014-03-30,4,1,F,laos,Ezra FC (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Lao Army FC,2014-03-30,3,0,F,laos,Shb Champasak (Laos),Lao Army FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Yotha FC,Eastern Star,2014-03-30,2,3,F,laos,Yotha FC (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Shb Champasak,2014-04-05,1,2,F,laos,Lao Police Club (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Ha Attapeu,2014-04-05,0,1,F,laos,Lanexang Intra (Laos),Ha Attapeu (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Army FC,Ezra FC,2014-04-06,0,3,F,laos,Lao Army FC (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Eastern Star,2014-04-06,1,0,F,laos,Savannakhet (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Yotha FC,2014-04-06,7,0,F,laos,Lao Toyota (Laos),Yotha FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Yotha FC,Savannakhet,2014-04-22,5,2,F,laos,Yotha FC (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Savannakhet,2014-04-24,1,0,F,laos,Lanexang Intra (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Lao Army FC,2014-04-26,2,2,F,laos,Eastern Star (Laos),Lao Army FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Yotha FC,2014-04-26,2,2,F,laos,Ezra FC (Laos),Yotha FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Lao Police Club,2014-04-27,3,4,F,laos,Lanexang Intra (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Lao Toyota,2014-04-27,1,3,F,laos,Savannakhet (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Yotha FC,Shb Champasak,2014-05-03,1,5,F,laos,Yotha FC (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ha Attapeu,Ezra FC,2014-05-03,2,1,F,laos,Ha Attapeu (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Eastern Star,2014-05-04,3,0,F,laos,Lao Police Club (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Army FC,Savannakhet,2014-05-04,3,0,F,laos,Lao Army FC (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Lanexang Intra,2014-05-04,4,0,F,laos,Lao Toyota (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Ha Attapeu,2014-05-08,0,3,F,laos,Shb Champasak (Laos),Ha Attapeu (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Savannakhet,2014-05-11,4,1,F,laos,Shb Champasak (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Yotha FC,2014-05-11,5,1,F,laos,Lanexang Intra (Laos),Yotha FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Savannakhet,2014-05-18,0,0,F,laos,Ezra FC (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Savannakhet,2014-05-25,0,1,F,laos,Shb Champasak (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Army FC,Ha Attapeu,2014-06-01,1,1,F,laos,Lao Army FC (Laos),Ha Attapeu (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Eastern Star,2014-06-01,4,1,F,laos,Ezra FC (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Lao Police Club,2014-06-01,2,0,F,laos,Lao Toyota (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ha Attapeu,Eastern Star,2014-06-07,5,2,F,laos,Ha Attapeu (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Army FC,Lao Toyota,2014-06-07,1,0,F,laos,Lao Army FC (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Ezra FC,2014-06-07,8,0,F,laos,Lao Police Club (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Yotha FC,2014-06-08,1,2,F,laos,Savannakhet (Laos),Yotha FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Shb Champasak,2014-06-08,2,1,F,laos,Lanexang Intra (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Savannakhet,2014-06-14,1,0,F,laos,Ezra FC (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Lanexang Intra,2014-06-14,2,2,F,laos,Eastern Star (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Yotha FC,Lao Army FC,2014-06-15,1,2,F,laos,Yotha FC (Laos),Lao Army FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Lao Toyota,2014-06-15,2,2,F,laos,Shb Champasak (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ha Attapeu,Lao Police Club,2014-06-15,2,1,F,laos,Ha Attapeu (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Yotha FC,Ha Attapeu,2014-06-21,1,8,F,laos,Yotha FC (Laos),Ha Attapeu (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Eastern Star,2014-06-21,6,0,F,laos,Lao Toyota (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Shb Champasak,2014-06-22,1,0,F,laos,Ezra FC (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Lanexang Intra,2014-06-22,0,2,F,laos,Savannakhet (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Lao Army FC,2014-06-22,3,3,F,laos,Lao Police Club (Laos),Lao Army FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Yotha FC,2014-06-28,6,3,F,laos,Lao Police Club (Laos),Yotha FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Army FC,Lanexang Intra,2014-06-28,0,2,F,laos,Lao Army FC (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ha Attapeu,Savannakhet,2014-06-29,12,4,F,laos,Ha Attapeu (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Eastern Star,2014-06-29,10,1,F,laos,Shb Champasak (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Lao Toyota,2014-06-29,0,1,F,laos,Ezra FC (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Ezra FC,2014-07-05,1,0,F,laos,Lanexang Intra (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Army FC,Shb Champasak,2014-07-05,0,1,F,laos,Lao Army FC (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Yotha FC,2014-07-05,1,8,F,laos,Eastern Star (Laos),Yotha FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Lao Police Club,2014-07-06,1,2,F,laos,Savannakhet (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Ha Attapeu,2014-07-06,4,0,F,laos,Lao Toyota (Laos),Ha Attapeu (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Savannakhet,2014-07-12,1,4,F,laos,Eastern Star (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ha Attapeu,Lanexang Intra,2014-07-12,3,0,F,laos,Ha Attapeu (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Lao Army FC,2014-07-13,2,1,F,laos,Ezra FC (Laos),Lao Army FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Lao Police Club,2014-07-13,2,1,F,laos,Shb Champasak (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Yotha FC,Lao Toyota,2014-07-13,0,5,F,laos,Yotha FC (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Lao Police Club,2014-07-19,0,1,F,laos,Eastern Star (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Ha Attapeu,2014-07-19,2,3,F,laos,Ezra FC (Laos),Ha Attapeu (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Yotha FC,2014-07-20,1,0,F,laos,Shb Champasak (Laos),Yotha FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Lao Toyota,2014-07-20,4,3,F,laos,Lanexang Intra (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Lao Army FC,2014-07-20,1,1,F,laos,Savannakhet (Laos),Lao Army FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Savannakhet,2014-07-26,6,2,F,laos,Lao Toyota (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Yotha FC,Ezra FC,2014-07-26,0,5,F,laos,Yotha FC (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ha Attapeu,Shb Champasak,2014-07-27,3,3,F,laos,Ha Attapeu (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Army FC,Eastern Star,2014-07-27,6,3,F,laos,Lao Army FC (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Lanexang Intra,2014-07-27,0,1,F,laos,Lao Police Club (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ha Attapeu,Tallinna CF,2015-02-28,3,0,F,laos,Ha Attapeu (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Ezra FC,2015-02-28,2,2,F,laos,Eastern Star (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Shb Champasak,2015-02-28,5,1,F,laos,Lanexang Intra (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Electricite Du Laos,2015-02-28,2,2,F,laos,Lao Police Club (Laos),Electricite Du Laos (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Shb Vientiane,2015-03-01,5,1,F,laos,Lao Toyota (Laos),Shb Vientiane (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ha Attapeu,Ezra FC,2015-03-07,6,0,F,laos,Ha Attapeu (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Lanexang Intra,2015-03-07,3,2,F,laos,Lao Police Club (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Tallinna CF,Eastern Star,2015-03-08,1,3,F,laos,Tallinna CF (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Electricite Du Laos,2015-03-08,0,1,F,laos,Shb Champasak (Laos),Electricite Du Laos (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Electricite Du Laos,2015-03-14,3,2,F,laos,Ezra FC (Laos),Electricite Du Laos (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Lao Police Club,2015-03-14,2,2,F,laos,Eastern Star (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Tallinna CF,Savannakhet,2015-03-15,1,0,F,laos,Tallinna CF (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Vientiane,Lanexang Intra,2015-03-15,1,1,F,laos,Shb Vientiane (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Electricite Du Laos,Tallinna CF,2015-03-21,0,0,F,laos,Electricite Du Laos (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Savannakhet,2015-03-21,6,0,F,laos,Lanexang Intra (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Vientiane,Eastern Star,2015-03-22,2,0,F,laos,Shb Vientiane (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Shb Champasak,2015-03-29,2,0,F,laos,Savannakhet (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Electricite Du Laos,Shb Vientiane,2015-04-04,0,2,F,laos,Electricite Du Laos (Laos),Shb Vientiane (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Savannakhet,2015-04-05,2,4,F,laos,Ezra FC (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Tallinna CF,2015-04-05,2,0,F,laos,Shb Champasak (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Ha Attapeu,2015-04-05,4,2,F,laos,Lanexang Intra (Laos),Ha Attapeu (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Ha Attapeu,2015-04-08,5,4,F,laos,Eastern Star (Laos),Ha Attapeu (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Electricite Du Laos,2015-04-10,1,1,F,laos,Lanexang Intra (Laos),Electricite Du Laos (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Lao Police Club,2015-04-11,1,5,F,laos,Shb Champasak (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Vientiane,Savannakhet,2015-04-12,3,1,F,laos,Shb Vientiane (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Vientiane,Ezra FC,2015-04-25,7,0,F,laos,Shb Vientiane (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ha Attapeu,Electricite Du Laos,2015-04-26,2,2,F,laos,Ha Attapeu (Laos),Electricite Du Laos (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Tallinna CF,Lao Police Club,2015-04-26,0,0,F,laos,Tallinna CF (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ha Attapeu,Lao Police Club,2015-04-29,3,2,F,laos,Ha Attapeu (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Tallinna CF,Ezra FC,2015-04-29,2,0,F,laos,Tallinna CF (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Savannakhet,2015-05-02,5,2,F,laos,Lao Police Club (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Ezra FC,2015-05-02,6,1,F,laos,Lanexang Intra (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Ha Attapeu,2015-05-03,0,0,F,laos,Lao Toyota (Laos),Ha Attapeu (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Eastern Star,2015-05-03,1,2,F,laos,Shb Champasak (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Vientiane,Tallinna CF,2015-05-03,2,2,F,laos,Shb Vientiane (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Shb Champasak,2015-05-09,1,4,F,laos,Ezra FC (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Electricite Du Laos,2015-05-10,2,3,F,laos,Savannakhet (Laos),Electricite Du Laos (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Electricite Du Laos,Eastern Star,2015-05-16,1,1,F,laos,Electricite Du Laos (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Vientiane,Shb Champasak,2015-05-16,1,0,F,laos,Shb Vientiane (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Eastern Star,2015-05-24,2,1,F,laos,Savannakhet (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Shb Champasak,2015-06-20,1,2,F,laos,Lao Toyota (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Tallinna CF,Lanexang Intra,2015-06-20,1,5,F,laos,Tallinna CF (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ha Attapeu,Savannakhet,2015-06-24,4,3,F,laos,Ha Attapeu (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Electricite Du Laos,2015-06-24,3,1,F,laos,Lao Toyota (Laos),Electricite Du Laos (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Lanexang Intra,2015-06-27,0,1,F,laos,Eastern Star (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Lao Toyota,2015-06-28,1,1,F,laos,Lao Police Club (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ha Attapeu,Shb Vientiane,2015-06-28,2,2,F,laos,Ha Attapeu (Laos),Shb Vientiane (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Lao Toyota,2015-07-01,0,4,F,laos,Ezra FC (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Lao Toyota,2015-07-01,0,3,F,laos,Eastern Star (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Vientiane,Lao Police Club,2015-07-01,3,0,F,laos,Shb Vientiane (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Tallinna CF,Lao Toyota,2015-07-04,2,3,F,laos,Tallinna CF (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Ezra FC,2015-07-05,2,1,F,laos,Lao Police Club (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Ha Attapeu,2015-07-05,0,2,F,laos,Shb Champasak (Laos),Ha Attapeu (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Lao Toyota,2015-07-08,0,0,F,laos,Lanexang Intra (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Savannakhet,2015-07-11,4,2,F,laos,Lao Toyota (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Vientiane,Lao Toyota,2015-07-25,3,1,F,laos,Shb Vientiane (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Electricite Du Laos,Lao Police Club,2015-07-25,1,1,F,laos,Electricite Du Laos (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Tallinna CF,Ha Attapeu,2015-07-26,1,1,F,laos,Tallinna CF (Laos),Ha Attapeu (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Lanexang Intra,2015-07-26,0,1,F,laos,Shb Champasak (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Eastern Star,2015-07-26,0,3,F,laos,Ezra FC (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Ha Attapeu,2015-08-01,2,3,F,laos,Ezra FC (Laos),Ha Attapeu (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Electricite Du Laos,Shb Champasak,2015-08-01,1,0,F,laos,Electricite Du Laos (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Tallinna CF,2015-08-02,1,0,F,laos,Eastern Star (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Lao Toyota,2015-08-02,1,4,F,laos,Savannakhet (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Lao Police Club,2015-08-02,2,1,F,laos,Lanexang Intra (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Shb Champasak,2015-08-08,0,1,F,laos,Lao Police Club (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Shb Vientiane,2015-08-08,0,2,F,laos,Eastern Star (Laos),Shb Vientiane (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ha Attapeu,Eastern Star,2015-08-08,4,2,F,laos,Ha Attapeu (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Tallinna CF,2015-08-09,0,4,F,laos,Ezra FC (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Shb Vientiane,2015-08-09,1,3,F,laos,Savannakhet (Laos),Shb Vientiane (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Electricite Du Laos,2015-08-09,11,0,F,laos,Lanexang Intra (Laos),Electricite Du Laos (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Lanexang Intra,2015-08-15,0,3,F,laos,Savannakhet (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Ezra FC,2015-09-12,5,1,F,laos,Lao Toyota (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Tallinna CF,Electricite Du Laos,2015-09-12,1,3,F,laos,Tallinna CF (Laos),Electricite Du Laos (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Ha Attapeu,2015-09-13,2,0,F,laos,Savannakhet (Laos),Ha Attapeu (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Shb Vientiane,2015-09-13,2,1,F,laos,Lanexang Intra (Laos),Shb Vientiane (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Electricite Du Laos,Ezra FC,2015-09-16,5,0,F,laos,Electricite Du Laos (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Tallinna CF,2015-09-16,9,1,F,laos,Lao Toyota (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Ha Attapeu,2015-09-17,4,1,F,laos,Lao Police Club (Laos),Ha Attapeu (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Eastern Star,2015-09-20,2,1,F,laos,Lao Toyota (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Electricite Du Laos,Ha Attapeu,2015-09-20,3,3,F,laos,Electricite Du Laos (Laos),Ha Attapeu (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Lanexang Intra,2015-09-23,3,1,F,laos,Lao Toyota (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Tallinna CF,2015-09-23,4,2,F,laos,Lao Police Club (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Shb Vientiane,2015-09-23,2,7,F,laos,Ezra FC (Laos),Shb Vientiane (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Savannakhet,2015-09-23,3,1,F,laos,Shb Champasak (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Lanexang Intra,2015-09-26,0,6,F,laos,Ezra FC (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Lao Police Club,2015-09-27,0,1,F,laos,Savannakhet (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ha Attapeu,Lao Toyota,2015-09-27,1,5,F,laos,Ha Attapeu (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Shb Champasak,2015-09-27,2,0,F,laos,Eastern Star (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Eastern Star,2015-10-01,4,4,F,laos,Lao Police Club (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Lao Toyota,2015-10-03,2,3,F,laos,Shb Champasak (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Vientiane,Ha Attapeu,2015-10-03,3,2,F,laos,Shb Vientiane (Laos),Ha Attapeu (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Electricite Du Laos,Savannakhet,2015-10-04,0,0,F,laos,Electricite Du Laos (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Eastern Star,2015-10-04,2,1,F,laos,Lanexang Intra (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Tallinna CF,2015-10-10,1,0,F,laos,Savannakhet (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Electricite Du Laos,2015-10-10,3,2,F,laos,Eastern Star (Laos),Electricite Du Laos (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Shb Vientiane,2015-10-10,2,2,F,laos,Shb Champasak (Laos),Shb Vientiane (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Shb Vientiane,2015-10-17,0,2,F,laos,Lao Police Club (Laos),Shb Vientiane (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Electricite Du Laos,Lao Toyota,2015-10-17,0,4,F,laos,Electricite Du Laos (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Ezra FC,2015-10-18,6,0,F,laos,Shb Champasak (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Savannakhet,2015-10-18,0,0,F,laos,Eastern Star (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Tallinna CF,2015-10-18,6,0,F,laos,Lanexang Intra (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Tallinna CF,Shb Vientiane,2015-10-21,0,1,F,laos,Tallinna CF (Laos),Shb Vientiane (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ha Attapeu,Shb Champasak,2015-10-21,1,5,F,laos,Ha Attapeu (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Lao Police Club,2015-10-22,0,1,F,laos,Ezra FC (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Tallinna CF,Shb Champasak,2015-10-24,0,2,F,laos,Tallinna CF (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ha Attapeu,Lanexang Intra,2015-10-25,0,2,F,laos,Ha Attapeu (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Lao Police Club,2015-10-25,3,1,F,laos,Lao Toyota (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Vientiane,Electricite Du Laos,2015-10-25,2,2,F,laos,Shb Vientiane (Laos),Electricite Du Laos (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Ezra FC,2015-10-25,6,0,F,laos,Savannakhet (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Shb Champasak,2016-03-26,0,0,F,laos,Eastern Star (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Army FC,Nuol,2016-03-26,1,1,F,laos,Lao Army FC (Laos),Nuol (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Lao Police Club,2016-03-26,1,0,F,laos,Lanexang Intra (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Tallinna CF,Xaythany City,2016-03-27,1,1,F,laos,Tallinna CF (Laos),Xaythany City (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Shb Vientiane,2016-03-27,2,0,F,laos,Lao Toyota (Laos),Shb Vientiane (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,CSC Champa,2016-03-27,2,2,F,laos,Ezra FC (Laos),CSC Champa (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Electricite Du Laos,Savannakhet,2016-03-27,1,1,F,laos,Electricite Du Laos (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Nuol,2016-04-02,1,3,F,laos,Eastern Star (Laos),Nuol (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Vientiane,CSC Champa,2016-04-02,3,2,F,laos,Shb Vientiane (Laos),CSC Champa (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Tallinna CF,2016-04-02,0,1,F,laos,Lao Police Club (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Savannakhet,2016-04-03,0,5,F,laos,Shb Champasak (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Army FC,Xaythany City,2016-04-03,5,2,F,laos,Lao Army FC (Laos),Xaythany City (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Electricite Du Laos,2016-04-03,4,0,F,laos,Lao Toyota (Laos),Electricite Du Laos (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Ezra FC,2016-04-03,9,1,F,laos,Lanexang Intra (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Electricite Du Laos,2016-04-09,0,7,F,laos,Eastern Star (Laos),Electricite Du Laos (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Army FC,Lanexang Intra,2016-04-09,1,2,F,laos,Lao Army FC (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Lao Toyota,2016-04-09,1,2,F,laos,Ezra FC (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Tallinna CF,Shb Vientiane,2016-04-09,0,0,F,laos,Tallinna CF (Laos),Shb Vientiane (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Xaythany City,Shb Champasak,2016-04-10,2,1,F,laos,Xaythany City (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+CSC Champa,Lao Police Club,2016-04-10,2,1,F,laos,CSC Champa (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Vientiane,Eastern Star,2016-04-23,2,3,F,laos,Shb Vientiane (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Xaythany City,Lao Toyota,2016-04-23,0,7,F,laos,Xaythany City (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Electricite Du Laos,Lao Army FC,2016-04-23,2,0,F,laos,Electricite Du Laos (Laos),Lao Army FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Nuol,CSC Champa,2016-04-24,5,1,F,laos,Nuol (Laos),CSC Champa (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Ezra FC,2016-04-24,0,3,F,laos,Shb Champasak (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Lao Police Club,2016-04-24,3,3,F,laos,Savannakhet (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Tallinna CF,2016-04-24,3,0,F,laos,Lanexang Intra (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Xaythany City,Savannakhet,2016-04-30,0,8,F,laos,Xaythany City (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Shb Vientiane,2016-04-30,0,3,F,laos,Ezra FC (Laos),Shb Vientiane (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Electricite Du Laos,2016-04-30,2,5,F,laos,Lao Police Club (Laos),Electricite Du Laos (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Army FC,CSC Champa,2016-05-01,1,1,F,laos,Lao Army FC (Laos),CSC Champa (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Tallinna CF,2016-05-01,0,0,F,laos,Shb Champasak (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Nuol,Lanexang Intra,2016-05-01,0,3,F,laos,Nuol (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Nuol,2016-05-04,1,0,F,laos,Savannakhet (Laos),Nuol (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Eastern Star,2016-05-04,2,0,F,laos,Lao Toyota (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Xaythany City,Lao Police Club,2016-05-07,2,8,F,laos,Xaythany City (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Vientiane,Lanexang Intra,2016-05-07,1,0,F,laos,Shb Vientiane (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Nuol,Shb Champasak,2016-05-07,0,0,F,laos,Nuol (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Lao Army FC,2016-05-07,1,2,F,laos,Eastern Star (Laos),Lao Army FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Ezra FC,2016-05-08,1,1,F,laos,Savannakhet (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,CSC Champa,2016-05-08,3,0,F,laos,Lao Toyota (Laos),CSC Champa (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Electricite Du Laos,Tallinna CF,2016-05-08,0,0,F,laos,Electricite Du Laos (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Xaythany City,Eastern Star,2016-05-14,3,4,F,laos,Xaythany City (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Vientiane,Shb Champasak,2016-05-14,2,0,F,laos,Shb Vientiane (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Lao Army FC,2016-05-14,0,1,F,laos,Lao Police Club (Laos),Lao Army FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Savannakhet,2016-05-14,1,1,F,laos,Lanexang Intra (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Tallinna CF,2016-05-15,1,0,F,laos,Ezra FC (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Nuol,Lao Toyota,2016-05-15,1,0,F,laos,Nuol (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+CSC Champa,Electricite Du Laos,2016-05-15,1,1,F,laos,CSC Champa (Laos),Electricite Du Laos (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Army FC,Shb Champasak,2016-05-21,0,0,F,laos,Lao Army FC (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Tallinna CF,Nuol,2016-05-21,0,2,F,laos,Tallinna CF (Laos),Nuol (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Electricite Du Laos,Ezra FC,2016-05-21,5,3,F,laos,Electricite Du Laos (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Xaythany City,Lanexang Intra,2016-05-22,0,7,F,laos,Xaythany City (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Vientiane,Savannakhet,2016-05-22,2,0,F,laos,Shb Vientiane (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+CSC Champa,Eastern Star,2016-05-22,3,0,F,laos,CSC Champa (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Lao Toyota,2016-05-22,0,4,F,laos,Lao Police Club (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Xaythany City,2016-05-28,4,3,F,laos,Ezra FC (Laos),Xaythany City (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+CSC Champa,Savannakhet,2016-05-28,0,0,F,laos,CSC Champa (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Army FC,Shb Vientiane,2016-05-29,2,3,F,laos,Lao Army FC (Laos),Shb Vientiane (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Ezra FC,2016-06-04,3,2,F,laos,Lao Police Club (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Electricite Du Laos,Shb Vientiane,2016-06-04,2,0,F,laos,Electricite Du Laos (Laos),Shb Vientiane (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,CSC Champa,2016-06-05,0,4,F,laos,Shb Champasak (Laos),CSC Champa (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Savannakhet,2016-06-11,0,4,F,laos,Eastern Star (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Electricite Du Laos,Xaythany City,2016-06-11,7,1,F,laos,Electricite Du Laos (Laos),Xaythany City (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Tallinna CF,CSC Champa,2016-06-11,1,1,F,laos,Tallinna CF (Laos),CSC Champa (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Army FC,Lao Toyota,2016-06-12,0,4,F,laos,Lao Army FC (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Nuol,2016-06-12,1,3,F,laos,Ezra FC (Laos),Nuol (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Vientiane,Lao Police Club,2016-06-12,4,0,F,laos,Shb Vientiane (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Shb Champasak,2016-06-12,3,2,F,laos,Lanexang Intra (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Vientiane,Xaythany City,2016-06-18,10,2,F,laos,Shb Vientiane (Laos),Xaythany City (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Shb Champasak,2016-06-18,2,1,F,laos,Lao Police Club (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Electricite Du Laos,Nuol,2016-06-18,4,1,F,laos,Electricite Du Laos (Laos),Nuol (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Army FC,Savannakhet,2016-06-19,2,1,F,laos,Lao Army FC (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Tallinna CF,2016-06-19,3,0,F,laos,Lao Toyota (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+CSC Champa,Lanexang Intra,2016-06-19,0,6,F,laos,CSC Champa (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Ezra FC,2016-06-22,1,2,F,laos,Eastern Star (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Tallinna CF,Lao Army FC,2016-06-22,1,1,F,laos,Tallinna CF (Laos),Lao Army FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Eastern Star,2016-06-25,7,1,F,laos,Lao Police Club (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Nuol,Shb Vientiane,2016-06-25,1,3,F,laos,Nuol (Laos),Shb Vientiane (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Tallinna CF,Savannakhet,2016-06-25,0,0,F,laos,Tallinna CF (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+CSC Champa,Xaythany City,2016-06-26,6,1,F,laos,CSC Champa (Laos),Xaythany City (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Electricite Du Laos,2016-06-26,1,6,F,laos,Shb Champasak (Laos),Electricite Du Laos (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Lanexang Intra,2016-06-26,0,1,F,laos,Lao Toyota (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Lao Army FC,2016-06-26,2,0,F,laos,Ezra FC (Laos),Lao Army FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Shb Champasak,2016-07-02,7,0,F,laos,Lao Toyota (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Tallinna CF,2016-07-02,2,1,F,laos,Eastern Star (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Nuol,Xaythany City,2016-07-02,2,1,F,laos,Nuol (Laos),Xaythany City (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Electricite Du Laos,2016-07-02,5,0,F,laos,Lanexang Intra (Laos),Electricite Du Laos (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Nuol,Lao Police Club,2016-07-06,1,2,F,laos,Nuol (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Savannakhet,2016-07-06,5,0,F,laos,Lao Toyota (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Eastern Star,2016-07-06,6,0,F,laos,Lanexang Intra (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Xaythany City,Lao Army FC,2016-07-23,2,2,F,laos,Xaythany City (Laos),Lao Army FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Electricite Du Laos,Lao Toyota,2016-07-23,0,6,F,laos,Electricite Du Laos (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Tallinna CF,2016-07-23,1,4,F,laos,Lao Police Club (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+CSC Champa,Shb Vientiane,2016-07-24,2,1,F,laos,CSC Champa (Laos),Shb Vientiane (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Shb Champasak,2016-07-24,3,0,F,laos,Savannakhet (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Nuol,Eastern Star,2016-07-24,2,0,F,laos,Nuol (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Lanexang Intra,2016-07-24,0,2,F,laos,Ezra FC (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Vientiane,Lao Toyota,2016-07-30,1,1,F,laos,Shb Vientiane (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Nuol,Lao Army FC,2016-07-30,4,2,F,laos,Nuol (Laos),Lao Army FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+CSC Champa,Ezra FC,2016-07-30,2,0,F,laos,CSC Champa (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Xaythany City,Tallinna CF,2016-07-31,0,0,F,laos,Xaythany City (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Eastern Star,2016-07-31,2,1,F,laos,Shb Champasak (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Electricite Du Laos,2016-07-31,2,1,F,laos,Savannakhet (Laos),Electricite Du Laos (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Lanexang Intra,2016-07-31,2,5,F,laos,Lao Police Club (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Lao Toyota,2016-08-03,0,4,F,laos,Shb Champasak (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Lanexang Intra,2016-08-03,1,3,F,laos,Eastern Star (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Shb Vientiane,2016-08-06,2,6,F,laos,Eastern Star (Laos),Shb Vientiane (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Shb Champasak,2016-08-06,1,1,F,laos,Ezra FC (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Tallinna CF,Lanexang Intra,2016-08-06,0,4,F,laos,Tallinna CF (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+CSC Champa,Nuol,2016-08-06,0,1,F,laos,CSC Champa (Laos),Nuol (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Army FC,Electricite Du Laos,2016-08-07,1,3,F,laos,Lao Army FC (Laos),Electricite Du Laos (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Xaythany City,2016-08-07,4,1,F,laos,Lao Toyota (Laos),Xaythany City (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Savannakhet,2016-08-07,1,4,F,laos,Lao Police Club (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Army FC,Lao Police Club,2016-08-13,0,3,F,laos,Lao Army FC (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Shb Vientiane,2016-08-13,0,0,F,laos,Shb Champasak (Laos),Shb Vientiane (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Nuol,2016-08-13,5,1,F,laos,Lao Toyota (Laos),Nuol (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Electricite Du Laos,CSC Champa,2016-08-13,3,3,F,laos,Electricite Du Laos (Laos),CSC Champa (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Tallinna CF,Ezra FC,2016-08-14,1,1,F,laos,Tallinna CF (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Lanexang Intra,2016-08-14,0,1,F,laos,Savannakhet (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Xaythany City,2016-08-14,1,4,F,laos,Eastern Star (Laos),Xaythany City (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Lanexang Intra,2016-08-20,0,1,F,laos,Shb Champasak (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Xaythany City,Electricite Du Laos,2016-08-20,1,6,F,laos,Xaythany City (Laos),Electricite Du Laos (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Lao Army FC,2016-08-20,1,0,F,laos,Lao Toyota (Laos),Lao Army FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Shb Vientiane,2016-08-21,0,2,F,laos,Lao Police Club (Laos),Shb Vientiane (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Eastern Star,2016-08-21,5,1,F,laos,Savannakhet (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Nuol,Ezra FC,2016-08-21,1,2,F,laos,Nuol (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+CSC Champa,Tallinna CF,2016-08-21,5,0,F,laos,CSC Champa (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Lao Police Club,2016-08-24,0,3,F,laos,Ezra FC (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Xaythany City,2016-08-27,2,1,F,laos,Lao Police Club (Laos),Xaythany City (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Army FC,Eastern Star,2016-08-28,7,1,F,laos,Lao Army FC (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Nuol,2016-08-28,1,2,F,laos,Shb Champasak (Laos),Nuol (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Lao Police Club,2016-09-03,2,2,F,laos,Shb Champasak (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Lao Army FC,2016-09-04,3,3,F,laos,Savannakhet (Laos),Lao Army FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Xaythany City,Nuol,2016-09-04,0,3,F,laos,Xaythany City (Laos),Nuol (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Electricite Du Laos,Lanexang Intra,2016-09-14,0,1,F,laos,Electricite Du Laos (Laos),Lanexang Intra (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Electricite Du Laos,Lao Police Club,2016-09-17,2,1,F,laos,Electricite Du Laos (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,CSC Champa,2016-09-17,1,5,F,laos,Eastern Star (Laos),CSC Champa (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Xaythany City,2016-09-17,4,0,F,laos,Lanexang Intra (Laos),Xaythany City (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Lao Army FC,2016-09-18,4,4,F,laos,Shb Champasak (Laos),Lao Army FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Shb Vientiane,2016-09-18,2,2,F,laos,Savannakhet (Laos),Shb Vientiane (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Vientiane,Lao Army FC,2016-09-21,2,1,F,laos,Shb Vientiane (Laos),Lao Army FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Lao Toyota,2016-09-21,0,1,F,laos,Savannakhet (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Army FC,Ezra FC,2016-10-01,1,3,F,laos,Lao Army FC (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Eastern Star,Lao Police Club,2016-10-01,1,0,F,laos,Eastern Star (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Vientiane,Tallinna CF,2016-10-01,0,0,F,laos,Shb Vientiane (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Xaythany City,CSC Champa,2016-10-01,1,2,F,laos,Xaythany City (Laos),CSC Champa (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Electricite Du Laos,Shb Champasak,2016-10-02,4,1,F,laos,Electricite Du Laos (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Lao Toyota,2016-10-02,3,1,F,laos,Lanexang Intra (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Tallinna CF,2016-10-04,1,0,F,laos,Savannakhet (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Ezra FC,2016-10-05,3,1,F,laos,Lao Toyota (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Nuol,Electricite Du Laos,2016-10-05,1,0,F,laos,Nuol (Laos),Electricite Du Laos (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lanexang Intra,Shb Vientiane,2016-10-05,3,2,F,laos,Lanexang Intra (Laos),Shb Vientiane (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Nuol,2016-10-08,1,3,F,laos,Lao Police Club (Laos),Nuol (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Tallinna CF,Electricite Du Laos,2016-10-08,2,8,F,laos,Tallinna CF (Laos),Electricite Du Laos (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,CSC Champa,2016-10-09,1,2,F,laos,Savannakhet (Laos),CSC Champa (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Xaythany City,Ezra FC,2016-10-09,2,1,F,laos,Xaythany City (Laos),Ezra FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Ezra FC,Savannakhet,2016-10-12,2,3,F,laos,Ezra FC (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Tallinna CF,Eastern Star,2016-10-15,2,2,F,laos,Tallinna CF (Laos),Eastern Star (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Xaythany City,Shb Vientiane,2016-10-15,2,2,F,laos,Xaythany City (Laos),Shb Vientiane (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Dk,Savannakhet,2017-04-01,0,1,F,laos,Dk (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Nuol,Lao Toyota,2017-04-01,2,0,F,laos,Nuol (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Shb Champasak,2017-04-02,7,1,F,laos,Lao Police Club (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Vientiane Capital,Laos Savannakhet FC,2017-04-06,2,3,F,laos,Vientiane Capital (Laos),Laos Savannakhet FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Shb Champasak,2017-04-08,1,1,F,laos,Savannakhet (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Lao Toyota,2017-04-08,0,2,F,laos,Lao Police Club (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Laos Savannakhet FC,Dk,2017-04-09,0,2,F,laos,Laos Savannakhet FC (Laos),Dk (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Vientiane Capital,Nuol,2017-04-09,1,2,F,laos,Vientiane Capital (Laos),Nuol (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Nuol,Lao Police Club,2017-04-22,2,3,F,laos,Nuol (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Savannakhet,2017-04-22,4,1,F,laos,Lao Toyota (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Laos Savannakhet FC,2017-04-23,2,3,F,laos,Shb Champasak (Laos),Laos Savannakhet FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Dk,Vientiane Capital,2017-04-23,2,1,F,laos,Dk (Laos),Vientiane Capital (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Vientiane Capital,2017-04-29,5,2,F,laos,Lao Toyota (Laos),Vientiane Capital (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Dk,2017-04-29,3,0,F,laos,Lao Police Club (Laos),Dk (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Laos Savannakhet FC,Savannakhet,2017-04-30,1,3,F,laos,Laos Savannakhet FC (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Nuol,Shb Champasak,2017-04-30,1,0,F,laos,Nuol (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Vientiane Capital,2017-05-05,2,2,F,laos,Lao Police Club (Laos),Vientiane Capital (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Nuol,2017-05-06,2,1,F,laos,Savannakhet (Laos),Nuol (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Laos Savannakhet FC,Lao Toyota,2017-05-07,0,1,F,laos,Laos Savannakhet FC (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Dk,Shb Champasak,2017-05-07,2,1,F,laos,Dk (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Vientiane Capital,Savannakhet,2017-05-13,2,1,F,laos,Vientiane Capital (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Lao Toyota,2017-05-14,1,6,F,laos,Shb Champasak (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Laos Savannakhet FC,Lao Police Club,2017-05-14,1,3,F,laos,Laos Savannakhet FC (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Dk,Nuol,2017-05-14,1,2,F,laos,Dk (Laos),Nuol (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Nuol,Laos Savannakhet FC,2017-05-20,0,2,F,laos,Nuol (Laos),Laos Savannakhet FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Vientiane Capital,2017-05-21,1,4,F,laos,Shb Champasak (Laos),Vientiane Capital (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Dk,2017-05-21,5,0,F,laos,Lao Toyota (Laos),Dk (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Savannakhet,2017-05-21,2,0,F,laos,Lao Police Club (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Lao Toyota,2017-06-03,1,2,F,laos,Savannakhet (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Nuol,2017-06-03,1,1,F,laos,Lao Police Club (Laos),Nuol (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Laos Savannakhet FC,Shb Champasak,2017-06-04,1,1,F,laos,Laos Savannakhet FC (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Vientiane Capital,Dk,2017-06-04,0,1,F,laos,Vientiane Capital (Laos),Dk (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Dk,2017-06-17,1,1,F,laos,Savannakhet (Laos),Dk (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Lao Police Club,2017-06-17,0,1,F,laos,Shb Champasak (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Nuol,2017-06-17,2,0,F,laos,Lao Toyota (Laos),Nuol (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Laos Savannakhet FC,Vientiane Capital,2017-06-18,3,2,F,laos,Laos Savannakhet FC (Laos),Vientiane Capital (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Nuol,Vientiane Capital,2017-06-21,1,0,F,laos,Nuol (Laos),Vientiane Capital (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Nuol,2017-06-24,0,1,F,laos,Shb Champasak (Laos),Nuol (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Vientiane Capital,Lao Toyota,2017-06-24,0,6,F,laos,Vientiane Capital (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Laos Savannakhet FC,Savannakhet,2017-06-25,2,1,F,laos,Laos Savannakhet FC (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Dk,Lao Police Club,2017-06-25,1,0,F,laos,Dk (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Dk,Laos Savannakhet FC,2017-06-28,2,1,F,laos,Dk (Laos),Laos Savannakhet FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Lao Police Club,2017-06-28,1,0,F,laos,Lao Toyota (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Shb Champasak,2017-07-01,5,0,F,laos,Lao Toyota (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Vientiane Capital,2017-07-02,6,0,F,laos,Savannakhet (Laos),Vientiane Capital (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Nuol,Dk,2017-07-02,3,2,F,laos,Nuol (Laos),Dk (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Savannakhet,2017-07-05,5,0,F,laos,Shb Champasak (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Vientiane Capital,Shb Champasak,2017-07-09,3,1,F,laos,Vientiane Capital (Laos),Shb Champasak (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Shb Champasak,Dk,2017-07-15,3,3,F,laos,Shb Champasak (Laos),Dk (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Vientiane Capital,Lao Police Club,2017-07-26,2,5,F,laos,Vientiane Capital (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Laos Savannakhet FC,2017-07-26,3,3,F,laos,Lao Toyota (Laos),Laos Savannakhet FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Lao Police Club,2017-07-29,1,3,F,laos,Savannakhet (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Laos Savannakhet FC,Nuol,2017-07-30,1,2,F,laos,Laos Savannakhet FC (Laos),Nuol (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Dk,2017-07-30,6,2,F,laos,Lao Toyota (Laos),Dk (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Laos Savannakhet FC,2017-08-02,3,2,F,laos,Lao Police Club (Laos),Laos Savannakhet FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Nuol,Savannakhet,2017-08-02,2,0,F,laos,Nuol (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Savannakhet,2018-02-24,2,0,F,laos,Lao Police Club (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Lao Army FC,2018-02-24,5,2,F,laos,Lao Toyota (Laos),Lao Army FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Tallinna CF,Master 7,2018-02-25,1,0,F,laos,Tallinna CF (Laos),Master 7 (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Dk,Luangprabang United,2018-02-25,1,1,F,laos,Dk (Laos),Luangprabang United (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Tallinna CF,Savannakhet,2018-03-03,3,1,F,laos,Tallinna CF (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Army FC,Luangprabang United,2018-03-03,0,2,F,laos,Lao Army FC (Laos),Luangprabang United (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Lao Toyota,2018-03-04,0,3,F,laos,Lao Police Club (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Dk,Master 7,2018-03-04,2,2,F,laos,Dk (Laos),Master 7 (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Dk,2018-03-10,3,0,F,laos,Lao Toyota (Laos),Dk (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Tallinna CF,Lao Army FC,2018-03-10,1,1,F,laos,Tallinna CF (Laos),Lao Army FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Master 7,Savannakhet,2018-03-11,1,1,F,laos,Master 7 (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Tallinna CF,Lao Toyota,2018-03-31,0,2,F,laos,Tallinna CF (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Master 7,Luangprabang United,2018-04-01,4,1,F,laos,Master 7 (Laos),Luangprabang United (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Dk,2018-04-01,1,2,F,laos,Savannakhet (Laos),Dk (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Master 7,Lao Army FC,2018-04-07,1,1,F,laos,Master 7 (Laos),Lao Army FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Luangprabang United,Tallinna CF,2018-04-08,0,0,F,laos,Luangprabang United (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Lao Toyota,2018-04-08,2,1,F,laos,Savannakhet (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Army FC,Savannakhet,2018-04-28,1,1,F,laos,Lao Army FC (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Luangprabang United,Lao Toyota,2018-04-29,1,1,F,laos,Luangprabang United (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Master 7,Lao Police Club,2018-04-29,1,3,F,laos,Master 7 (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Army FC,Dk,2018-05-05,1,1,F,laos,Lao Army FC (Laos),Dk (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Master 7,2018-05-05,5,1,F,laos,Lao Toyota (Laos),Master 7 (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Luangprabang United,2018-05-06,0,4,F,laos,Savannakhet (Laos),Luangprabang United (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Army FC,Lao Police Club,2018-05-09,3,2,F,laos,Lao Army FC (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Dk,Lao Police Club,2018-05-12,0,3,F,laos,Dk (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Tallinna CF,Dk,2018-05-16,3,1,F,laos,Tallinna CF (Laos),Dk (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Luangprabang United,Lao Police Club,2018-05-17,2,2,F,laos,Luangprabang United (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Tallinna CF,2018-05-20,1,0,F,laos,Lao Police Club (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Lao Army FC,2018-06-02,0,1,F,laos,Lao Police Club (Laos),Lao Army FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Dk,Savannakhet,2018-06-02,0,1,F,laos,Dk (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Tallinna CF,2018-06-02,3,1,F,laos,Lao Toyota (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Luangprabang United,Master 7,2018-06-03,1,2,F,laos,Luangprabang United (Laos),Master 7 (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Master 7,Lao Toyota,2018-06-09,2,1,F,laos,Master 7 (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Dk,Lao Army FC,2018-06-09,0,0,F,laos,Dk (Laos),Lao Army FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Luangprabang United,Savannakhet,2018-06-10,1,0,F,laos,Luangprabang United (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Tallinna CF,Lao Police Club,2018-06-10,1,2,F,laos,Tallinna CF (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Army FC,Tallinna CF,2018-06-16,1,2,F,laos,Lao Army FC (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Luangprabang United,2018-06-16,2,0,F,laos,Lao Police Club (Laos),Luangprabang United (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Master 7,2018-06-17,3,2,F,laos,Savannakhet (Laos),Master 7 (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Dk,Lao Toyota,2018-06-17,0,7,F,laos,Dk (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Army FC,Master 7,2018-06-24,0,6,F,laos,Lao Army FC (Laos),Master 7 (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Lao Army FC,2018-06-30,1,0,F,laos,Savannakhet (Laos),Lao Army FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Luangprabang United,2018-06-30,5,0,F,laos,Lao Toyota (Laos),Luangprabang United (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Army FC,Lao Toyota,2018-07-07,0,3,F,laos,Lao Army FC (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Luangprabang United,Lao Army FC,2018-07-14,3,1,F,laos,Luangprabang United (Laos),Lao Army FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Tallinna CF,2018-07-15,0,0,F,laos,Savannakhet (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Savannakhet,Lao Police Club,2018-07-21,2,1,F,laos,Savannakhet (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Luangprabang United,Dk,2018-07-21,1,0,F,laos,Luangprabang United (Laos),Dk (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Master 7,Tallinna CF,2018-07-21,1,0,F,laos,Master 7 (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Dk,2018-07-25,2,0,F,laos,Lao Police Club (Laos),Dk (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Tallinna CF,Luangprabang United,2018-07-25,0,1,F,laos,Tallinna CF (Laos),Luangprabang United (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Savannakhet,2018-07-28,5,1,F,laos,Lao Toyota (Laos),Savannakhet (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Dk,Tallinna CF,2018-07-29,3,2,F,laos,Dk (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Master 7,2018-07-29,3,0,F,laos,Lao Police Club (Laos),Master 7 (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Master 7,Dk,2018-08-04,3,2,F,laos,Master 7 (Laos),Dk (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Toyota,Lao Police Club,2018-08-04,3,1,F,laos,Lao Toyota (Laos),Lao Police Club (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Lao Army FC,2019-02-23,1,0,F,laos,Lao Police Club (Laos),Lao Army FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Master 7,Tallinna CF,2019-02-23,0,4,F,laos,Master 7 (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Evo United,2019-04-06,2,0,F,laos,Lao Police Club (Laos),Evo United (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Tallinna CF,Lao Army FC,2019-04-06,1,1,F,laos,Tallinna CF (Laos),Lao Army FC (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Master 7,Lao Toyota,2019-04-07,2,4,F,laos,Master 7 (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Master 7,Evo United,2019-05-11,5,3,F,laos,Master 7 (Laos),Evo United (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Police Club,Tallinna CF,2019-05-11,2,2,F,laos,Lao Police Club (Laos),Tallinna CF (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national
+Lao Army FC,Lao Toyota,2019-05-18,1,8,F,laos,Lao Army FC (Laos),Lao Toyota (Laos),laos,laos,LA,LA,Asia,Asia,Asia,national

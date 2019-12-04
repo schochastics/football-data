@@ -1,0 +1,766 @@
+home,away,date,gh,ga,full_time,competition,home_ident,away_ident,home_country,away_country,home_code,away_code,home_continent,away_continent,continent,level
+Khoromkhon Klub,Cowboys,2007-07-01,0,1,F,mongolia,Khoromkhon Klub (Mongolia),Cowboys (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaatar College,Erchim Klub,2007-07-01,1,0,F,mongolia,Ulaanbaatar College (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Mazaalai,Khasyn Khuleguud Klub,2007-07-01,1,1,F,mongolia,Mazaalai (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Kharaatsai,2007-07-01,4,1,F,mongolia,Khangarid Klub (Mongolia),Kharaatsai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Cowboys,Ulaanbaatar College,2007-07-03,3,3,F,mongolia,Cowboys (Mongolia),Ulaanbaatar College (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Mazaalai,2007-07-03,4,0,F,mongolia,Erchim Klub (Mongolia),Mazaalai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Kharaatsai,2007-07-03,5,2,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Kharaatsai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Ub United,2007-07-03,3,2,F,mongolia,Khangarid Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Khasyn Khuleguud Klub,2007-07-06,1,0,F,mongolia,Ub United (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Kharaatsai,2007-07-06,3,1,F,mongolia,Erchim Klub (Mongolia),Kharaatsai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Cowboys,Mazaalai,2007-07-06,4,0,F,mongolia,Cowboys (Mongolia),Mazaalai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Khoromkhon Klub,2007-07-06,4,1,F,mongolia,Khangarid Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Khasyn Khuleguud Klub,2007-07-16,2,1,F,mongolia,Khangarid Klub (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Ub United,2007-07-16,4,0,F,mongolia,Erchim Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Cowboys,Kharaatsai,2007-07-16,0,0,F,mongolia,Cowboys (Mongolia),Kharaatsai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Ulaanbaatar College,2007-07-16,1,1,F,mongolia,Khoromkhon Klub (Mongolia),Ulaanbaatar College (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khoromkhon Klub,2007-07-19,4,1,F,mongolia,Erchim Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Ulaanbaatar College,2007-07-19,2,0,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Ulaanbaatar College (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Mazaalai,2007-07-19,0,0,F,mongolia,Khangarid Klub (Mongolia),Mazaalai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Kharaatsai,Ub United,2007-07-19,8,0,F,mongolia,Kharaatsai (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Khoromkhon Klub,2007-07-21,1,2,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Ulaanbaatar College,2007-07-21,6,1,F,mongolia,Khangarid Klub (Mongolia),Ulaanbaatar College (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Mazaalai,Ub United,2007-07-21,3,2,F,mongolia,Mazaalai (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Cowboys,2007-07-21,2,1,F,mongolia,Erchim Klub (Mongolia),Cowboys (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Mazaalai,2007-07-23,2,0,F,mongolia,Khoromkhon Klub (Mongolia),Mazaalai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaatar College,Kharaatsai,2007-07-23,1,1,F,mongolia,Ulaanbaatar College (Mongolia),Kharaatsai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Cowboys,Ub United,2007-07-23,1,0,F,mongolia,Cowboys (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Erchim Klub,2007-07-23,2,0,F,mongolia,Khangarid Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Kharaatsai,Khoromkhon Klub,2007-07-25,2,3,F,mongolia,Kharaatsai (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaatar College,Mazaalai,2007-07-25,3,1,F,mongolia,Ulaanbaatar College (Mongolia),Mazaalai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Cowboys,2007-07-25,2,1,F,mongolia,Khangarid Klub (Mongolia),Cowboys (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Erchim Klub,2007-07-25,1,3,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Cowboys,2007-07-28,0,0,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Cowboys (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaatar College,Ub United,2007-07-28,6,1,F,mongolia,Ulaanbaatar College (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Mazaalai,Kharaatsai,2007-07-28,0,0,F,mongolia,Mazaalai (Mongolia),Kharaatsai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Ub United,2007-07-28,7,0,F,mongolia,Khoromkhon Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Cowboys,2007-07-30,1,2,F,mongolia,Khoromkhon Klub (Mongolia),Cowboys (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaatar College,Erchim Klub,2007-07-30,0,3,F,mongolia,Ulaanbaatar College (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Mazaalai,Khasyn Khuleguud Klub,2007-07-30,5,2,F,mongolia,Mazaalai (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Kharaatsai,2007-07-30,5,2,F,mongolia,Khangarid Klub (Mongolia),Kharaatsai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Cowboys,Ulaanbaatar College,2007-08-02,0,3,F,mongolia,Cowboys (Mongolia),Ulaanbaatar College (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Mazaalai,2007-08-02,2,2,F,mongolia,Erchim Klub (Mongolia),Mazaalai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Kharaatsai,2007-08-02,0,2,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Kharaatsai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Ub United,2007-08-02,11,1,F,mongolia,Khangarid Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Khasyn Khuleguud Klub,2007-08-05,0,14,F,mongolia,Ub United (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Kharaatsai,2007-08-05,1,1,F,mongolia,Erchim Klub (Mongolia),Kharaatsai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Cowboys,Mazaalai,2007-08-05,1,0,F,mongolia,Cowboys (Mongolia),Mazaalai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Khoromkhon Klub,2007-08-05,5,1,F,mongolia,Khangarid Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Khasyn Khuleguud Klub,2007-08-07,1,4,F,mongolia,Khangarid Klub (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Ub United,2007-08-07,15,1,F,mongolia,Erchim Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Cowboys,Kharaatsai,2007-08-07,3,4,F,mongolia,Cowboys (Mongolia),Kharaatsai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Ulaanbaatar College,2007-08-07,2,2,F,mongolia,Khoromkhon Klub (Mongolia),Ulaanbaatar College (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khoromkhon Klub,2007-08-09,0,2,F,mongolia,Erchim Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Ulaanbaatar College,2007-08-09,4,1,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Ulaanbaatar College (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Mazaalai,2007-08-09,8,3,F,mongolia,Khangarid Klub (Mongolia),Mazaalai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Kharaatsai,Ub United,2007-08-09,8,1,F,mongolia,Kharaatsai (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Khoromkhon Klub,2007-08-14,4,0,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Ulaanbaatar College,2007-08-14,2,2,F,mongolia,Khangarid Klub (Mongolia),Ulaanbaatar College (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Mazaalai,Ub United,2007-08-14,4,5,F,mongolia,Mazaalai (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Cowboys,2007-08-14,5,0,F,mongolia,Erchim Klub (Mongolia),Cowboys (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Mazaalai,2007-08-17,4,1,F,mongolia,Khoromkhon Klub (Mongolia),Mazaalai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaatar College,Kharaatsai,2007-08-17,1,5,F,mongolia,Ulaanbaatar College (Mongolia),Kharaatsai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Cowboys,Ub United,2007-08-17,7,1,F,mongolia,Cowboys (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Erchim Klub,2007-08-17,1,1,F,mongolia,Khangarid Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Kharaatsai,Khoromkhon Klub,2007-08-21,3,5,F,mongolia,Kharaatsai (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaatar College,Mazaalai,2007-08-21,3,1,F,mongolia,Ulaanbaatar College (Mongolia),Mazaalai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Cowboys,2007-08-21,1,2,F,mongolia,Khangarid Klub (Mongolia),Cowboys (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Erchim Klub,2007-08-21,0,1,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Cowboys,2007-08-24,3,0,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Cowboys (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaatar College,Ub United,2007-08-24,10,0,F,mongolia,Ulaanbaatar College (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Mazaalai,Kharaatsai,2007-08-24,4,2,F,mongolia,Mazaalai (Mongolia),Kharaatsai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Ub United,2007-08-24,6,1,F,mongolia,Khoromkhon Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khoromkhon Klub,2007-08-27,4,0,F,mongolia,Erchim Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Cowboys,2007-08-27,3,3,F,mongolia,Khangarid Klub (Mongolia),Cowboys (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Cowboys,Khangarid Klub,2007-08-29,2,8,F,mongolia,Cowboys (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Erchim Klub,2007-08-29,2,3,F,mongolia,Khoromkhon Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Cowboys,2007-09-01,1,0,F,mongolia,Khoromkhon Klub (Mongolia),Cowboys (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khangarid Klub,2007-09-01,1,0,F,mongolia,Erchim Klub (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaatar University,Erchim Klub,2008-06-14,1,3,F,mongolia,Ulaanbaatar University (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Mazaalai,2008-06-14,3,1,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Mazaalai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Kharaatsai,2008-06-15,2,1,F,mongolia,Khoromkhon Klub (Mongolia),Kharaatsai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Khangarid Klub,2008-06-15,1,2,F,mongolia,Selenge Press Club (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Khoromkhon Klub,2008-06-17,1,2,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Kharaatsai,Ulaanbaatar University,2008-06-17,3,10,F,mongolia,Kharaatsai (Mongolia),Ulaanbaatar University (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Selenge Press Club,2008-06-17,4,1,F,mongolia,Erchim Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Mazaalai,Khangarid Klub,2008-06-17,1,1,F,mongolia,Mazaalai (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Mazaalai,2008-06-20,1,0,F,mongolia,Khoromkhon Klub (Mongolia),Mazaalai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaatar University,Khasyn Khuleguud Klub,2008-06-20,1,2,F,mongolia,Ulaanbaatar University (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Kharaatsai,2008-06-20,5,0,F,mongolia,Selenge Press Club (Mongolia),Kharaatsai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Erchim Klub,2008-06-20,4,6,F,mongolia,Khangarid Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Ulaanbaatar University,2008-06-24,3,2,F,mongolia,Khoromkhon Klub (Mongolia),Ulaanbaatar University (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Selenge Press Club,2008-06-24,3,1,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Kharaatsai,Khangarid Klub,2008-06-24,1,0,F,mongolia,Kharaatsai (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Mazaalai,Erchim Klub,2008-06-24,0,1,F,mongolia,Mazaalai (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaatar University,Mazaalai,2008-06-27,4,4,F,mongolia,Ulaanbaatar University (Mongolia),Mazaalai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Khoromkhon Klub,2008-06-27,2,5,F,mongolia,Selenge Press Club (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Khasyn Khuleguud Klub,2008-06-27,2,3,F,mongolia,Khangarid Klub (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Kharaatsai,2008-06-27,5,2,F,mongolia,Erchim Klub (Mongolia),Kharaatsai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaatar University,Selenge Press Club,2008-07-15,3,7,F,mongolia,Ulaanbaatar University (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Khangarid Klub,2008-07-15,6,1,F,mongolia,Khoromkhon Klub (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Erchim Klub,2008-07-15,0,1,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Mazaalai,Kharaatsai,2008-07-15,2,1,F,mongolia,Mazaalai (Mongolia),Kharaatsai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Mazaalai,2008-07-18,1,0,F,mongolia,Selenge Press Club (Mongolia),Mazaalai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Ulaanbaatar University,2008-07-18,4,1,F,mongolia,Khangarid Klub (Mongolia),Ulaanbaatar University (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khoromkhon Klub,2008-07-18,1,2,F,mongolia,Erchim Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Kharaatsai,Khasyn Khuleguud Klub,2008-07-18,3,7,F,mongolia,Kharaatsai (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaatar University,Erchim Klub,2008-07-22,3,6,F,mongolia,Ulaanbaatar University (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Mazaalai,2008-07-22,1,0,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Mazaalai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Kharaatsai,2008-07-22,2,1,F,mongolia,Khoromkhon Klub (Mongolia),Kharaatsai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Khangarid Klub,2008-07-22,3,0,F,mongolia,Selenge Press Club (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Khoromkhon Klub,2008-07-25,5,1,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Kharaatsai,Ulaanbaatar University,2008-07-25,3,4,F,mongolia,Kharaatsai (Mongolia),Ulaanbaatar University (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Selenge Press Club,2008-07-25,4,3,F,mongolia,Erchim Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Mazaalai,Khangarid Klub,2008-07-25,0,0,F,mongolia,Mazaalai (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Mazaalai,2008-07-29,1,0,F,mongolia,Khoromkhon Klub (Mongolia),Mazaalai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaatar University,Khasyn Khuleguud Klub,2008-07-29,2,3,F,mongolia,Ulaanbaatar University (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Kharaatsai,2008-07-29,1,0,F,mongolia,Selenge Press Club (Mongolia),Kharaatsai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Erchim Klub,2008-07-29,0,4,F,mongolia,Khangarid Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Ulaanbaatar University,2008-08-01,2,1,F,mongolia,Khoromkhon Klub (Mongolia),Ulaanbaatar University (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Selenge Press Club,2008-08-01,2,7,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Kharaatsai,Khangarid Klub,2008-08-01,0,3,F,mongolia,Kharaatsai (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Mazaalai,Erchim Klub,2008-08-01,0,3,F,mongolia,Mazaalai (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaatar University,Mazaalai,2008-08-05,3,1,F,mongolia,Ulaanbaatar University (Mongolia),Mazaalai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Khoromkhon Klub,2008-08-05,3,1,F,mongolia,Selenge Press Club (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Khasyn Khuleguud Klub,2008-08-05,4,1,F,mongolia,Khangarid Klub (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Kharaatsai,2008-08-05,10,1,F,mongolia,Erchim Klub (Mongolia),Kharaatsai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaatar University,Selenge Press Club,2008-08-08,2,0,F,mongolia,Ulaanbaatar University (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Khangarid Klub,2008-08-08,3,3,F,mongolia,Khoromkhon Klub (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Erchim Klub,2008-08-08,1,3,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Mazaalai,Kharaatsai,2008-08-08,0,1,F,mongolia,Mazaalai (Mongolia),Kharaatsai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Mazaalai,2008-08-11,3,2,F,mongolia,Selenge Press Club (Mongolia),Mazaalai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Ulaanbaatar University,2008-08-11,10,3,F,mongolia,Khangarid Klub (Mongolia),Ulaanbaatar University (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khoromkhon Klub,2008-08-11,4,1,F,mongolia,Erchim Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Kharaatsai,Khasyn Khuleguud Klub,2008-08-11,3,6,F,mongolia,Kharaatsai (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaatar Ds,Erchim Klub,2009-07-18,0,1,F,mongolia,Ulaanbaatar Ds (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Khangarid Klub,2009-07-18,2,3,F,mongolia,Khoromkhon Klub (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Kharaatsai,Khasyn Khuleguud Klub,2009-07-19,2,4,F,mongolia,Kharaatsai (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Mazaalai,Selenge Press Club,2009-07-19,1,3,F,mongolia,Mazaalai (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaatar Ds,Khoromkhon Klub,2009-07-21,2,5,F,mongolia,Ulaanbaatar Ds (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Kharaatsai,2009-07-21,2,3,F,mongolia,Khangarid Klub (Mongolia),Kharaatsai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Mazaalai,2009-07-23,1,1,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Mazaalai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Selenge Press Club,2009-07-23,1,4,F,mongolia,Erchim Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Erchim Klub,2009-07-25,1,1,F,mongolia,Khoromkhon Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Kharaatsai,Ulaanbaatar Ds,2009-07-25,1,2,F,mongolia,Kharaatsai (Mongolia),Ulaanbaatar Ds (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Mazaalai,Khangarid Klub,2009-07-28,0,4,F,mongolia,Mazaalai (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Khasyn Khuleguud Klub,2009-07-28,1,1,F,mongolia,Selenge Press Club (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Kharaatsai,2009-07-30,4,2,F,mongolia,Khoromkhon Klub (Mongolia),Kharaatsai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaatar Ds,Mazaalai,2009-07-30,4,2,F,mongolia,Ulaanbaatar Ds (Mongolia),Mazaalai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Selenge Press Club,2009-08-01,2,5,F,mongolia,Khangarid Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khasyn Khuleguud Klub,2009-08-01,2,5,F,mongolia,Erchim Klub (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khangarid Klub,2009-08-01,2,3,F,mongolia,Erchim Klub (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Kharaatsai,Erchim Klub,2009-08-04,2,5,F,mongolia,Kharaatsai (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Mazaalai,Khoromkhon Klub,2009-08-04,0,2,F,mongolia,Mazaalai (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Ulaanbaatar Ds,2009-08-06,1,3,F,mongolia,Selenge Press Club (Mongolia),Ulaanbaatar Ds (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Khangarid Klub,2009-08-07,4,0,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Kharaatsai,Mazaalai,2009-08-08,2,1,F,mongolia,Kharaatsai (Mongolia),Mazaalai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Selenge Press Club,2009-08-09,2,1,F,mongolia,Khoromkhon Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaatar Ds,Khasyn Khuleguud Klub,2009-08-10,1,1,F,mongolia,Ulaanbaatar Ds (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Mazaalai,Erchim Klub,2009-08-13,0,4,F,mongolia,Mazaalai (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Kharaatsai,2009-08-13,3,1,F,mongolia,Selenge Press Club (Mongolia),Kharaatsai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Khoromkhon Klub,2009-08-15,2,1,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Ulaanbaatar Ds,2009-08-15,3,5,F,mongolia,Khangarid Klub (Mongolia),Ulaanbaatar Ds (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Erchim Klub,2009-08-18,0,1,F,mongolia,Khoromkhon Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaatar Ds,Khangarid Klub,2009-08-18,0,3,F,mongolia,Ulaanbaatar Ds (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khasyn Khuleguud Klub,2009-08-20,2,2,F,mongolia,Erchim Klub (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Selenge Press Club,2009-08-20,0,3,F,mongolia,Khangarid Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Khoromkhon Klub,2009-08-22,1,0,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Ulaanbaatar Ds,2009-08-22,1,4,F,mongolia,Selenge Press Club (Mongolia),Ulaanbaatar Ds (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Erchim Klub,2009-08-26,0,1,F,mongolia,Selenge Press Club (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Ulaanbaatar Ds,2009-08-26,0,2,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Ulaanbaatar Ds (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Khangarid Klub,2009-08-28,3,5,F,mongolia,Khoromkhon Klub (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Selenge Press Club,2009-08-29,3,1,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaatar Ds,Erchim Klub,2009-08-29,2,0,F,mongolia,Ulaanbaatar Ds (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Ulaanbaatar Ds,2010-07-30,3,2,F,mongolia,Selenge Press Club (Mongolia),Ulaanbaatar Ds (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khasyn Khuleguud Klub,2010-07-30,2,1,F,mongolia,Erchim Klub (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Khangarid Klub,2010-07-30,0,2,F,mongolia,Khoromkhon Klub (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaatar Ds,Mazaalai,2010-08-03,1,0,F,mongolia,Ulaanbaatar Ds (Mongolia),Mazaalai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Selenge Press Club,2010-08-04,4,5,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Erchim Klub,2010-08-05,1,1,F,mongolia,Khangarid Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Mazaalai,Khasyn Khuleguud Klub,2010-08-06,0,0,F,mongolia,Mazaalai (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Khangarid Klub,2010-08-09,0,3,F,mongolia,Selenge Press Club (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khoromkhon Klub,2010-08-10,1,1,F,mongolia,Erchim Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Ulaanbaatar Ds,2010-08-11,3,2,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Ulaanbaatar Ds (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Mazaalai,2010-08-12,0,1,F,mongolia,Khangarid Klub (Mongolia),Mazaalai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Selenge Press Club,2010-08-13,1,0,F,mongolia,Khoromkhon Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaatar Ds,Khangarid Klub,2010-08-16,2,5,F,mongolia,Ulaanbaatar Ds (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Mazaalai,Khoromkhon Klub,2010-08-17,3,1,F,mongolia,Mazaalai (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Erchim Klub,2010-08-18,0,3,F,mongolia,Selenge Press Club (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Khasyn Khuleguud Klub,2010-08-19,2,1,F,mongolia,Khangarid Klub (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Ulaanbaatar Ds,2010-08-20,0,2,F,mongolia,Khoromkhon Klub (Mongolia),Ulaanbaatar Ds (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Mazaalai,2010-08-23,1,3,F,mongolia,Erchim Klub (Mongolia),Mazaalai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Khoromkhon Klub,2010-08-24,2,3,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Mazaalai,Selenge Press Club,2010-08-26,5,4,F,mongolia,Mazaalai (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Ulaanbaatar Ds,2010-08-29,1,0,F,mongolia,Erchim Klub (Mongolia),Ulaanbaatar Ds (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Selenge Press Club,2010-08-29,2,5,F,mongolia,Khoromkhon Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaatar Ds,Khangarid Klub,2010-09-02,3,0,F,mongolia,Ulaanbaatar Ds (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Mazaalai,2010-09-02,2,1,F,mongolia,Selenge Press Club (Mongolia),Mazaalai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Erchim Klub,2010-09-05,2,0,F,mongolia,Khangarid Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Mazaalai,Khoromkhon Klub,2010-09-05,3,1,F,mongolia,Mazaalai (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaatar Ds,Mazaalai,2010-09-08,0,0,F,mongolia,Ulaanbaatar Ds (Mongolia),Mazaalai (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Khangarid Klub,2010-09-08,2,3,F,mongolia,Selenge Press Club (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaatar Ds,Selenge Press Club,2010-09-11,2,2,F,mongolia,Ulaanbaatar Ds (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Mazaalai,Khangarid Klub,2010-09-11,1,2,F,mongolia,Mazaalai (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaataryn Mazaalaynuud,Khangarid Klub,2011-05-01,1,1,F,mongolia,Ulaanbaataryn Mazaalaynuud (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Khoromkhon Klub,2011-05-02,3,4,F,mongolia,FC Ulaanbaatar (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Erchim Klub,2011-05-03,1,0,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Ub United,2011-05-04,2,4,F,mongolia,Selenge Press Club (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Ulaanbaataryn Mazaalaynuud,2011-05-05,3,2,F,mongolia,Khoromkhon Klub (Mongolia),Ulaanbaataryn Mazaalaynuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,FC Ulaanbaatar,2011-05-06,3,6,F,mongolia,Erchim Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Khasyn Khuleguud Klub,2011-05-07,4,3,F,mongolia,Ub United (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Selenge Press Club,2011-05-08,1,1,F,mongolia,Khangarid Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaataryn Mazaalaynuud,Erchim Klub,2011-05-09,0,0,F,mongolia,Ulaanbaataryn Mazaalaynuud (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Khangarid Klub,2011-05-10,1,0,F,mongolia,Khoromkhon Klub (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Ub United,2011-05-11,0,0,F,mongolia,FC Ulaanbaatar (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Selenge Press Club,2011-05-12,1,4,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Ulaanbaataryn Mazaalaynuud,2011-05-13,0,0,F,mongolia,Ub United (Mongolia),Ulaanbaataryn Mazaalaynuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khoromkhon Klub,2011-05-14,1,1,F,mongolia,Erchim Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,FC Ulaanbaatar,2011-05-15,3,2,F,mongolia,Selenge Press Club (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Khasyn Khuleguud Klub,2011-05-16,2,3,F,mongolia,Khangarid Klub (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Ub United,2011-05-17,1,0,F,mongolia,Khoromkhon Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaataryn Mazaalaynuud,Selenge Press Club,2011-05-18,2,1,F,mongolia,Ulaanbaataryn Mazaalaynuud (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khangarid Klub,2011-05-19,1,2,F,mongolia,Erchim Klub (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Khasyn Khuleguud Klub,2011-05-20,1,3,F,mongolia,FC Ulaanbaatar (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Khoromkhon Klub,2011-05-21,1,1,F,mongolia,Selenge Press Club (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Erchim Klub,2011-05-22,1,2,F,mongolia,Ub United (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Ulaanbaataryn Mazaalaynuud,2011-05-23,3,0,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Ulaanbaataryn Mazaalaynuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,FC Ulaanbaatar,2011-05-24,2,1,F,mongolia,Khangarid Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Selenge Press Club,2011-05-25,2,3,F,mongolia,Erchim Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Khasyn Khuleguud Klub,2011-05-26,1,1,F,mongolia,Khoromkhon Klub (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Khangarid Klub,2011-05-27,2,2,F,mongolia,Ub United (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaataryn Mazaalaynuud,FC Ulaanbaatar,2011-05-28,0,0,F,mongolia,Ulaanbaataryn Mazaalaynuud (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Ulaanbaataryn Mazaalaynuud,2011-07-30,1,1,F,mongolia,Khangarid Klub (Mongolia),Ulaanbaataryn Mazaalaynuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,FC Ulaanbaatar,2011-07-30,3,3,F,mongolia,Khoromkhon Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khasyn Khuleguud Klub,2011-07-31,3,1,F,mongolia,Erchim Klub (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Selenge Press Club,2011-08-01,3,1,F,mongolia,Ub United (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaataryn Mazaalaynuud,Khoromkhon Klub,2011-08-02,1,1,F,mongolia,Ulaanbaataryn Mazaalaynuud (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Erchim Klub,2011-08-03,3,0,F,mongolia,FC Ulaanbaatar (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Ub United,2011-08-04,1,0,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Khangarid Klub,2011-08-05,2,2,F,mongolia,Selenge Press Club (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Khoromkhon Klub,2011-08-08,4,0,F,mongolia,Khangarid Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Ulaanbaataryn Mazaalaynuud,2011-08-08,3,0,F,mongolia,Erchim Klub (Mongolia),Ulaanbaataryn Mazaalaynuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,FC Ulaanbaatar,2011-08-11,1,0,F,mongolia,Ub United (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Khasyn Khuleguud Klub,2011-08-12,3,1,F,mongolia,Selenge Press Club (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Erchim Klub,2011-08-15,0,0,F,mongolia,Khoromkhon Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaataryn Mazaalaynuud,Ub United,2011-08-16,0,4,F,mongolia,Ulaanbaataryn Mazaalaynuud (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Khangarid Klub,2011-08-17,3,1,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Selenge Press Club,2011-08-18,7,2,F,mongolia,FC Ulaanbaatar (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Khoromkhon Klub,2011-08-19,1,0,F,mongolia,Ub United (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Erchim Klub,2011-08-20,0,3,F,mongolia,Khangarid Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Ulaanbaataryn Mazaalaynuud,2011-08-22,1,2,F,mongolia,Selenge Press Club (Mongolia),Ulaanbaataryn Mazaalaynuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,FC Ulaanbaatar,2011-08-23,2,3,F,mongolia,Khasyn Khuleguud Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Ub United,2011-08-24,2,0,F,mongolia,Erchim Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Selenge Press Club,2011-08-25,2,4,F,mongolia,Khoromkhon Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Khangarid Klub,2011-08-26,4,1,F,mongolia,FC Ulaanbaatar (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Ub United,2011-08-29,1,3,F,mongolia,Khangarid Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaataryn Mazaalaynuud,Khasyn Khuleguud Klub,2011-08-29,0,3,F,mongolia,Ulaanbaataryn Mazaalaynuud (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Erchim Klub,2011-08-30,2,3,F,mongolia,Selenge Press Club (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Khoromkhon Klub,2011-08-31,1,2,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Ulaanbaataryn Mazaalaynuud,2011-09-01,2,0,F,mongolia,FC Ulaanbaatar (Mongolia),Ulaanbaataryn Mazaalaynuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Khoromkhon Klub,2011-09-08,2,3,F,mongolia,Ub United (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,FC Ulaanbaatar,2011-09-09,0,1,F,mongolia,Khasyn Khuleguud Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Ub United,2011-09-13,0,2,P,mongolia,Khoromkhon Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Khasyn Khuleguud Klub,2011-09-14,1,2,P,mongolia,FC Ulaanbaatar (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,FC Ulaanbaatar,2011-09-18,0,1,E,mongolia,Ub United (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Erchim Klub,2012-06-30,1,0,F,mongolia,Khoromkhon Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Khasyn Khuleguud Klub,2012-06-30,0,4,F,mongolia,FC Ulaanbaatar (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Ub United,2012-06-30,2,3,F,mongolia,Khangarid Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Erchim Klub,2012-07-01,0,3,F,mongolia,Selenge Press Club (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Khasyn Khuleguud Klub,2012-07-01,1,2,F,mongolia,Khangarid Klub (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Ub United,2012-07-01,2,3,F,mongolia,Khoromkhon Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Erchim Klub,2012-07-02,1,6,F,mongolia,FC Ulaanbaatar (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Khasyn Khuleguud Klub,2012-07-02,4,1,F,mongolia,Ub United (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Khoromkhon Klub,2012-07-02,0,3,F,mongolia,Selenge Press Club (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Khasyn Khuleguud Klub,2012-07-03,1,1,F,mongolia,Khoromkhon Klub (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Erchim Klub,2012-07-03,1,2,F,mongolia,Khangarid Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,FC Ulaanbaatar,2012-07-03,1,4,F,mongolia,Selenge Press Club (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Erchim Klub,2012-07-04,2,2,F,mongolia,Ub United (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Selenge Press Club,2012-07-04,4,2,F,mongolia,Khangarid Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Khoromkhon Klub,2012-07-04,1,3,F,mongolia,FC Ulaanbaatar (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Ub United,2012-07-05,4,1,F,mongolia,Selenge Press Club (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,FC Ulaanbaatar,2012-07-05,1,0,F,mongolia,Khangarid Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Erchim Klub,2012-07-05,0,2,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Khoromkhon Klub,2012-07-06,0,1,F,mongolia,Khangarid Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Selenge Press Club,2012-07-06,3,0,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,FC Ulaanbaatar,2012-07-06,4,0,F,mongolia,Ub United (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khoromkhon Klub,2012-08-11,1,1,F,mongolia,Erchim Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Khangarid Klub,2012-08-11,1,2,F,mongolia,Ub United (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Selenge Press Club,2012-08-11,3,2,F,mongolia,FC Ulaanbaatar (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Selenge Press Club,2012-08-12,7,1,F,mongolia,Erchim Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Khoromkhon Klub,2012-08-12,1,2,F,mongolia,Ub United (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,FC Ulaanbaatar,2012-08-13,3,1,F,mongolia,Erchim Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Ub United,2012-08-13,2,3,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Selenge Press Club,2012-08-13,5,2,F,mongolia,Khoromkhon Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,FC Ulaanbaatar,2012-08-14,1,2,F,mongolia,Khasyn Khuleguud Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Khoromkhon Klub,2012-08-15,1,3,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khangarid Klub,2012-08-15,4,0,F,mongolia,Erchim Klub (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Ub United,2012-08-16,3,3,F,mongolia,Erchim Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Khangarid Klub,2012-08-16,1,4,F,mongolia,Selenge Press Club (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,FC Ulaanbaatar,2012-08-16,0,1,F,mongolia,Khoromkhon Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Khangarid Klub,2012-08-17,4,2,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Khangarid Klub,2012-08-18,0,1,F,mongolia,FC Ulaanbaatar (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khasyn Khuleguud Klub,2012-08-18,2,0,F,mongolia,Erchim Klub (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Selenge Press Club,2012-08-18,7,1,F,mongolia,Ub United (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Khangarid Klub,2012-08-19,3,3,F,mongolia,Khoromkhon Klub (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Khasyn Khuleguud Klub,2012-08-19,4,10,F,mongolia,Selenge Press Club (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Ub United,2012-08-19,4,6,F,mongolia,FC Ulaanbaatar (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Khangarid Klub,2013-05-01,1,1,F,mongolia,Ub United (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,FC Ulaanbaatar,2013-05-02,2,3,F,mongolia,Selenge Press Club (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Khangarid Klub,2013-05-03,1,0,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,FC Ulaanbaatar,2013-05-06,0,0,F,mongolia,Khasyn Khuleguud Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Selenge Press Club,2013-05-08,7,4,F,mongolia,Khangarid Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Ub United,2013-05-08,2,4,F,mongolia,Khoromkhon Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Khoromkhon Klub,2013-05-12,6,3,F,mongolia,Selenge Press Club (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Khangarid Klub,2013-05-13,4,2,F,mongolia,FC Ulaanbaatar (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Khoromkhon Klub,2013-05-15,3,1,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Selenge Press Club,2013-05-16,2,0,F,mongolia,Ub United (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,FC Ulaanbaatar,2013-05-17,2,1,F,mongolia,Khoromkhon Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Khasyn Khuleguud Klub,2013-05-19,2,3,F,mongolia,Ub United (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,FC Ulaanbaatar,2013-05-20,3,0,F,mongolia,Erchim Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khangarid Klub,2013-05-22,2,1,F,mongolia,Erchim Klub (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Selenge Press Club,2013-05-22,1,2,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Ub United,2013-05-23,1,4,F,mongolia,FC Ulaanbaatar (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khoromkhon Klub,2013-05-24,0,0,F,mongolia,Erchim Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khasyn Khuleguud Klub,2013-05-27,1,1,F,mongolia,Erchim Klub (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Khoromkhon Klub,2013-05-30,2,2,F,mongolia,Khangarid Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Ub United,2013-05-30,3,1,F,mongolia,Erchim Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Selenge Press Club,2013-06-02,2,1,F,mongolia,Erchim Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Ub United,2013-08-05,1,1,F,mongolia,Khangarid Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,FC Ulaanbaatar,2013-08-05,3,1,F,mongolia,Selenge Press Club (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Erchim Klub,2013-08-06,1,3,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Ub United,2013-08-07,0,2,F,mongolia,Khoromkhon Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Khangarid Klub,2013-08-08,1,1,F,mongolia,Selenge Press Club (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Erchim Klub,2013-08-09,3,0,F,mongolia,FC Ulaanbaatar (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Khoromkhon Klub,2013-08-10,1,2,F,mongolia,Selenge Press Club (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,FC Ulaanbaatar,2013-08-12,1,2,F,mongolia,Khasyn Khuleguud Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Erchim Klub,2013-08-13,2,9,F,mongolia,Khoromkhon Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Khasyn Khuleguud Klub,2013-08-14,1,0,F,mongolia,Khangarid Klub (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Ub United,2013-08-14,3,1,F,mongolia,Selenge Press Club (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Erchim Klub,2013-08-16,0,4,F,mongolia,Ub United (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,FC Ulaanbaatar,2013-08-17,3,2,F,mongolia,Khangarid Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Khoromkhon Klub,2013-08-17,4,3,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Erchim Klub,2013-08-18,0,4,F,mongolia,Selenge Press Club (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Khasyn Khuleguud Klub,2013-08-19,1,1,F,mongolia,Ub United (Mongolia),Khasyn Khuleguud Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,FC Ulaanbaatar,2013-08-20,2,3,F,mongolia,Khoromkhon Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Erchim Klub,2013-08-21,1,0,F,mongolia,Khangarid Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khasyn Khuleguud Klub,Selenge Press Club,2013-08-21,1,2,F,mongolia,Khasyn Khuleguud Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Ub United,2013-08-22,1,1,F,mongolia,FC Ulaanbaatar (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Khangarid Klub,2013-08-23,4,6,F,mongolia,Khoromkhon Klub (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Khangarid Klub,2013-08-25,1,2,F,mongolia,FC Ulaanbaatar (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Erchim Klub,2013-08-27,0,2,F,mongolia,Ub United (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,FC Ulaanbaatar,2013-08-28,3,2,F,mongolia,Khangarid Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Ub United,2013-08-29,4,0,F,mongolia,Erchim Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Erchim Klub,2013-08-31,0,0,P,mongolia,Khangarid Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Ub United,2013-08-31,3,1,F,mongolia,FC Ulaanbaatar (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Erchim Klub,2014-06-25,1,3,F,mongolia,FC Ulaanbaatar (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaataryn Mazaalaynuud,Khangarid Klub,2014-06-25,1,4,F,mongolia,Ulaanbaataryn Mazaalaynuud (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Ub United,2014-06-26,1,3,F,mongolia,Selenge Press Club (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khangarid Klub,2014-06-27,7,1,F,mongolia,Erchim Klub (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaataryn Mazaalaynuud,Khoromkhon Klub,2014-06-28,0,3,F,mongolia,Ulaanbaataryn Mazaalaynuud (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,FC Ulaanbaatar,2014-06-28,2,1,F,mongolia,Ub United (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Erchim Klub,2014-06-29,2,2,F,mongolia,Khoromkhon Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Khangarid Klub,2014-06-29,3,0,F,mongolia,Ub United (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Selenge Press Club,2014-06-30,0,4,F,mongolia,FC Ulaanbaatar (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Ulaanbaataryn Mazaalaynuud,2014-07-01,2,0,F,mongolia,Erchim Klub (Mongolia),Ulaanbaataryn Mazaalaynuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Khoromkhon Klub,2014-07-01,1,1,F,mongolia,Ub United (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Khangarid Klub,2014-07-02,2,1,F,mongolia,Selenge Press Club (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaataryn Mazaalaynuud,Ub United,2014-07-03,0,2,F,mongolia,Ulaanbaataryn Mazaalaynuud (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Selenge Press Club,2014-07-04,3,2,F,mongolia,Khoromkhon Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Khangarid Klub,2014-07-05,0,3,F,mongolia,FC Ulaanbaatar (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Erchim Klub,2014-07-05,1,3,F,mongolia,Ub United (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Ulaanbaataryn Mazaalaynuud,2014-07-06,6,1,F,mongolia,Selenge Press Club (Mongolia),Ulaanbaataryn Mazaalaynuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Khoromkhon Klub,2014-07-06,1,2,F,mongolia,FC Ulaanbaatar (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Selenge Press Club,2014-07-07,3,0,F,mongolia,Erchim Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaataryn Mazaalaynuud,FC Ulaanbaatar,2014-07-08,1,6,F,mongolia,Ulaanbaataryn Mazaalaynuud (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Khangarid Klub,2014-07-08,3,0,F,mongolia,Khoromkhon Klub (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,FC Ulaanbaatar,2014-08-01,1,1,F,mongolia,Erchim Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Selenge Press Club,2014-08-02,1,0,F,mongolia,Ub United (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Ulaanbaataryn Mazaalaynuud,2014-08-02,2,1,F,mongolia,Khangarid Klub (Mongolia),Ulaanbaataryn Mazaalaynuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Erchim Klub,2014-08-03,1,1,F,mongolia,Khangarid Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Ulaanbaataryn Mazaalaynuud,2014-08-04,3,0,F,mongolia,Khoromkhon Klub (Mongolia),Ulaanbaataryn Mazaalaynuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Ub United,2014-08-05,1,2,F,mongolia,FC Ulaanbaatar (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khoromkhon Klub,2014-08-06,1,1,F,mongolia,Erchim Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,FC Ulaanbaatar,2014-08-07,0,2,F,mongolia,Selenge Press Club (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Ub United,2014-08-08,1,1,F,mongolia,Khoromkhon Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaataryn Mazaalaynuud,Erchim Klub,2014-08-11,0,7,F,mongolia,Ulaanbaataryn Mazaalaynuud (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Khoromkhon Klub,2014-08-12,1,3,F,mongolia,Selenge Press Club (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Ulaanbaataryn Mazaalaynuud,2014-08-13,7,0,F,mongolia,Ub United (Mongolia),Ulaanbaataryn Mazaalaynuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Ub United,2014-08-15,2,1,F,mongolia,Khangarid Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,FC Ulaanbaatar,2014-08-15,3,1,F,mongolia,Khoromkhon Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Selenge Press Club,2014-08-17,3,2,F,mongolia,Khangarid Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaataryn Mazaalaynuud,Selenge Press Club,2014-08-19,2,3,F,mongolia,Ulaanbaataryn Mazaalaynuud (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Khoromkhon Klub,2014-08-20,1,2,F,mongolia,Khangarid Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Ulaanbaataryn Mazaalaynuud,2014-08-21,7,1,F,mongolia,FC Ulaanbaatar (Mongolia),Ulaanbaataryn Mazaalaynuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Erchim Klub,2014-08-22,1,2,F,mongolia,Ub United (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,FC Ulaanbaatar,2014-08-24,0,4,F,mongolia,Khangarid Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Erchim Klub,2014-08-24,1,2,F,mongolia,Selenge Press Club (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khangarid Klub,2014-08-27,3,1,F,mongolia,Erchim Klub (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Ub United,2014-08-28,7,1,F,mongolia,Khoromkhon Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Ub United,2014-08-30,1,1,P,mongolia,Khangarid Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khoromkhon Klub,2014-08-30,0,1,F,mongolia,Erchim Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,FC Ulaanbaatar,2015-05-16,1,2,F,mongolia,Khoromkhon Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Ulaanbaataryn Mazaalaynuud,2015-05-16,4,1,F,mongolia,Selenge Press Club (Mongolia),Ulaanbaataryn Mazaalaynuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Soembyn Barsuud,Erchim Klub,2015-05-17,0,10,F,mongolia,Soembyn Barsuud (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Ub United,2015-05-17,2,1,F,mongolia,Khangarid Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Khoromkhon Klub,2015-05-23,0,4,F,mongolia,FC Deren (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Selenge Press Club,2015-05-23,1,2,F,mongolia,FC Ulaanbaatar (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaataryn Mazaalaynuud,Soembyn Barsuud,2015-05-24,4,1,F,mongolia,Ulaanbaataryn Mazaalaynuud (Mongolia),Soembyn Barsuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khangarid Klub,2015-05-24,3,1,F,mongolia,Erchim Klub (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Soembyn Barsuud,2015-05-30,10,0,F,mongolia,Ub United (Mongolia),Soembyn Barsuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Selenge Press Club,2015-05-30,0,0,F,mongolia,Erchim Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaataryn Mazaalaynuud,Khoromkhon Klub,2015-05-31,2,2,F,mongolia,Ulaanbaataryn Mazaalaynuud (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,FC Deren,2015-05-31,5,2,F,mongolia,FC Ulaanbaatar (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Selenge Press Club,2015-06-06,2,3,F,mongolia,Khoromkhon Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Soembyn Barsuud,2015-06-06,4,0,F,mongolia,FC Deren (Mongolia),Soembyn Barsuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Khangarid Klub,2015-06-07,3,2,F,mongolia,FC Ulaanbaatar (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaataryn Mazaalaynuud,Ub United,2015-06-07,1,4,F,mongolia,Ulaanbaataryn Mazaalaynuud (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Soembyn Barsuud,Khoromkhon Klub,2015-06-13,0,4,F,mongolia,Soembyn Barsuud (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,FC Deren,2015-06-13,6,3,F,mongolia,Khangarid Klub (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,FC Ulaanbaatar,2015-06-14,2,3,F,mongolia,Ub United (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Ulaanbaataryn Mazaalaynuud,2015-06-14,8,1,F,mongolia,Erchim Klub (Mongolia),Ulaanbaataryn Mazaalaynuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Khangarid Klub,2015-06-20,2,1,F,mongolia,Khoromkhon Klub (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Soembyn Barsuud,2015-06-20,5,0,F,mongolia,Selenge Press Club (Mongolia),Soembyn Barsuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Ub United,2015-06-21,1,2,F,mongolia,FC Deren (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Erchim Klub,2015-06-21,2,3,F,mongolia,FC Ulaanbaatar (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Selenge Press Club,2015-06-27,1,1,F,mongolia,Khangarid Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Khoromkhon Klub,2015-06-27,2,2,F,mongolia,Ub United (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaataryn Mazaalaynuud,FC Ulaanbaatar,2015-06-28,1,2,F,mongolia,Ulaanbaataryn Mazaalaynuud (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,FC Deren,2015-06-28,5,0,F,mongolia,Erchim Klub (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Soembyn Barsuud,Khangarid Klub,2015-07-04,0,7,F,mongolia,Soembyn Barsuud (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Ub United,2015-07-04,3,2,F,mongolia,Selenge Press Club (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Erchim Klub,2015-07-05,2,1,F,mongolia,Khoromkhon Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Ulaanbaataryn Mazaalaynuud,2015-07-05,2,2,F,mongolia,FC Deren (Mongolia),Ulaanbaataryn Mazaalaynuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,FC Deren,2015-07-18,2,1,F,mongolia,Selenge Press Club (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Soembyn Barsuud,FC Ulaanbaatar,2015-07-18,1,2,F,mongolia,Soembyn Barsuud (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Ulaanbaataryn Mazaalaynuud,2015-07-19,7,0,F,mongolia,Khangarid Klub (Mongolia),Ulaanbaataryn Mazaalaynuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Erchim Klub,2015-07-19,2,1,F,mongolia,Ub United (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaataryn Mazaalaynuud,Selenge Press Club,2015-08-01,0,3,F,mongolia,Ulaanbaataryn Mazaalaynuud (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Khoromkhon Klub,2015-08-01,3,0,F,mongolia,FC Ulaanbaatar (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Khangarid Klub,2015-08-02,2,1,F,mongolia,Ub United (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Soembyn Barsuud,2015-08-02,8,0,F,mongolia,Erchim Klub (Mongolia),Soembyn Barsuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Soembyn Barsuud,2015-08-08,2,0,F,mongolia,FC Ulaanbaatar (Mongolia),Soembyn Barsuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Selenge Press Club,2015-08-08,2,1,F,mongolia,FC Deren (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Ub United,2015-08-09,3,0,F,mongolia,Erchim Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaataryn Mazaalaynuud,Khangarid Klub,2015-08-09,1,3,F,mongolia,Ulaanbaataryn Mazaalaynuud (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Soembyn Barsuud,Ub United,2015-08-15,1,7,F,mongolia,Soembyn Barsuud (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,FC Ulaanbaatar,2015-08-15,2,4,F,mongolia,FC Deren (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Erchim Klub,2015-08-16,0,1,F,mongolia,Selenge Press Club (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Ulaanbaataryn Mazaalaynuud,2015-08-19,3,0,F,mongolia,Khoromkhon Klub (Mongolia),Ulaanbaataryn Mazaalaynuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Khoromkhon Klub,2015-08-22,2,3,F,mongolia,Selenge Press Club (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Soembyn Barsuud,FC Deren,2015-08-22,1,1,F,mongolia,Soembyn Barsuud (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Ulaanbaataryn Mazaalaynuud,2015-08-23,8,2,F,mongolia,Ub United (Mongolia),Ulaanbaataryn Mazaalaynuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,FC Ulaanbaatar,2015-08-23,0,2,F,mongolia,Khangarid Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Khangarid Klub,2015-08-29,2,6,F,mongolia,FC Deren (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Soembyn Barsuud,2015-08-29,8,0,F,mongolia,Khoromkhon Klub (Mongolia),Soembyn Barsuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaataryn Mazaalaynuud,Erchim Klub,2015-08-30,1,6,F,mongolia,Ulaanbaataryn Mazaalaynuud (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Ub United,2015-08-30,1,2,F,mongolia,FC Ulaanbaatar (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Khoromkhon Klub,2015-09-05,3,2,F,mongolia,Khangarid Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Soembyn Barsuud,Selenge Press Club,2015-09-05,1,8,F,mongolia,Soembyn Barsuud (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,FC Deren,2015-09-06,1,1,F,mongolia,Ub United (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,FC Ulaanbaatar,2015-09-06,2,1,F,mongolia,Erchim Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,FC Deren,2015-09-12,8,2,F,mongolia,Khoromkhon Klub (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Soembyn Barsuud,Ulaanbaataryn Mazaalaynuud,2015-09-12,1,0,F,mongolia,Soembyn Barsuud (Mongolia),Ulaanbaataryn Mazaalaynuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,FC Ulaanbaatar,2015-09-13,2,1,F,mongolia,Selenge Press Club (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Erchim Klub,2015-09-13,2,0,F,mongolia,Khangarid Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Soembyn Barsuud,2015-09-26,2,3,F,mongolia,Khangarid Klub (Mongolia),Soembyn Barsuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Selenge Press Club,2015-09-26,1,3,F,mongolia,Ub United (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaataryn Mazaalaynuud,FC Deren,2015-09-27,2,0,F,mongolia,Ulaanbaataryn Mazaalaynuud (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khoromkhon Klub,2015-09-27,4,2,F,mongolia,Erchim Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Ub United,2015-10-04,5,3,F,mongolia,Khoromkhon Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Erchim Klub,2015-10-04,1,7,F,mongolia,FC Deren (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Ulaanbaataryn Mazaalaynuud,2015-10-04,6,2,F,mongolia,FC Ulaanbaatar (Mongolia),Ulaanbaataryn Mazaalaynuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Khangarid Klub,2015-10-04,1,2,F,mongolia,Selenge Press Club (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Erchim Klub,2016-05-07,1,3,F,mongolia,Selenge Press Club (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaataryn Mazaalaynuud,Khangarid City,2016-05-07,1,6,F,mongolia,Ulaanbaataryn Mazaalaynuud (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,FC Deren,2016-05-07,0,4,F,mongolia,FC Ulaanbaatar (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Khangarid Klub,2016-05-08,2,1,F,mongolia,Ub United (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Bayngol,2016-05-08,7,1,F,mongolia,Khoromkhon Klub (Mongolia),Bayngol (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Bayngol,Ulaanbaataryn Mazaalaynuud,2016-05-14,1,1,F,mongolia,Bayngol (Mongolia),Ulaanbaataryn Mazaalaynuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid City,Selenge Press Club,2016-05-14,1,1,F,mongolia,Khangarid City (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,FC Deren,2016-05-14,2,1,F,mongolia,Erchim Klub (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Ub United,2016-05-15,1,2,F,mongolia,FC Ulaanbaatar (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Khoromkhon Klub,2016-05-15,2,0,F,mongolia,Khangarid Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Ulaanbaataryn Mazaalaynuud,2016-05-21,7,0,F,mongolia,Selenge Press Club (Mongolia),Ulaanbaataryn Mazaalaynuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Erchim Klub,2016-05-21,0,1,F,mongolia,Ub United (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Khangarid City,2016-05-21,1,0,F,mongolia,FC Deren (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,FC Ulaanbaatar,2016-05-22,1,1,F,mongolia,Khoromkhon Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Bayngol,2016-05-22,5,1,F,mongolia,Khangarid Klub (Mongolia),Bayngol (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Bayngol,Selenge Press Club,2016-05-28,2,3,F,mongolia,Bayngol (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaataryn Mazaalaynuud,FC Deren,2016-05-28,0,1,F,mongolia,Ulaanbaataryn Mazaalaynuud (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khoromkhon Klub,2016-05-28,0,2,F,mongolia,Erchim Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid City,Ub United,2016-05-29,1,0,F,mongolia,Khangarid City (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Khangarid Klub,2016-05-29,2,2,F,mongolia,FC Ulaanbaatar (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Selenge Press Club,2016-06-04,1,2,F,mongolia,FC Deren (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Bayngol,2016-06-04,4,1,F,mongolia,FC Ulaanbaatar (Mongolia),Bayngol (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Ulaanbaataryn Mazaalaynuud,2016-06-04,7,1,F,mongolia,Ub United (Mongolia),Ulaanbaataryn Mazaalaynuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Erchim Klub,2016-06-05,0,4,F,mongolia,Khangarid Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Khangarid City,2016-06-05,2,0,F,mongolia,Khoromkhon Klub (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Bayngol,FC Deren,2016-06-11,1,3,F,mongolia,Bayngol (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,FC Ulaanbaatar,2016-06-11,8,0,F,mongolia,Erchim Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaataryn Mazaalaynuud,Khoromkhon Klub,2016-06-11,1,6,F,mongolia,Ulaanbaataryn Mazaalaynuud (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid City,Khangarid Klub,2016-06-12,1,2,F,mongolia,Khangarid City (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Ub United,2016-06-12,2,5,F,mongolia,Selenge Press Club (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Selenge Press Club,2016-07-08,2,2,F,mongolia,FC Ulaanbaatar (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Ub United,2016-07-08,3,1,F,mongolia,Khoromkhon Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Ulaanbaataryn Mazaalaynuud,2016-07-08,8,0,F,mongolia,Erchim Klub (Mongolia),Ulaanbaataryn Mazaalaynuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,FC Deren,2016-07-09,2,0,F,mongolia,Khangarid Klub (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid City,Bayngol,2016-07-24,2,2,F,mongolia,Khangarid City (Mongolia),Bayngol (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid City,Ulaanbaataryn Mazaalaynuud,2016-07-30,7,1,F,mongolia,Khangarid City (Mongolia),Ulaanbaataryn Mazaalaynuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,FC Deren,2016-07-30,2,1,F,mongolia,FC Ulaanbaatar (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Selenge Press Club,2016-07-30,6,1,F,mongolia,Erchim Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Bayngol,Khoromkhon Klub,2016-07-31,1,5,F,mongolia,Bayngol (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Ub United,2016-07-31,6,2,F,mongolia,Khangarid Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaataryn Mazaalaynuud,Bayngol,2016-08-06,0,4,F,mongolia,Ulaanbaataryn Mazaalaynuud (Mongolia),Bayngol (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Khangarid City,2016-08-06,1,2,F,mongolia,Selenge Press Club (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Erchim Klub,2016-08-06,0,3,F,mongolia,FC Deren (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,FC Ulaanbaatar,2016-08-07,2,2,F,mongolia,Ub United (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Khangarid Klub,2016-08-07,2,3,F,mongolia,Khoromkhon Klub (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Ub United,2016-08-13,3,1,F,mongolia,Erchim Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaataryn Mazaalaynuud,Selenge Press Club,2016-08-13,0,8,F,mongolia,Ulaanbaataryn Mazaalaynuud (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid City,FC Deren,2016-08-14,1,4,F,mongolia,Khangarid City (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Khoromkhon Klub,2016-08-14,3,2,F,mongolia,FC Ulaanbaatar (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Bayngol,Khangarid Klub,2016-08-14,0,6,F,mongolia,Bayngol (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,FC Deren,2016-08-28,1,0,F,mongolia,Ub United (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Selenge Press Club,2016-08-28,0,0,F,mongolia,Khoromkhon Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Ulaanbaataryn Mazaalaynuud,2016-08-28,7,0,F,mongolia,Khangarid Klub (Mongolia),Ulaanbaataryn Mazaalaynuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Khangarid City,2016-08-28,1,1,F,mongolia,FC Ulaanbaatar (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Bayngol,2016-08-31,1,0,F,mongolia,Erchim Klub (Mongolia),Bayngol (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Ulaanbaataryn Mazaalaynuud,2016-09-03,4,0,F,mongolia,FC Deren (Mongolia),Ulaanbaataryn Mazaalaynuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Bayngol,2016-09-03,6,2,F,mongolia,Selenge Press Club (Mongolia),Bayngol (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,FC Ulaanbaatar,2016-09-04,2,0,F,mongolia,Khangarid Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Khangarid City,2016-09-04,0,2,F,mongolia,Ub United (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,FC Deren,2016-09-10,2,2,F,mongolia,Selenge Press Club (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Bayngol,FC Ulaanbaatar,2016-09-10,2,1,F,mongolia,Bayngol (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khangarid Klub,2016-09-11,5,1,F,mongolia,Erchim Klub (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid City,Khoromkhon Klub,2016-09-11,1,3,F,mongolia,Khangarid City (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaataryn Mazaalaynuud,Ub United,2016-09-11,1,6,F,mongolia,Ulaanbaataryn Mazaalaynuud (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Bayngol,Ub United,2016-09-14,1,1,F,mongolia,Bayngol (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Khoromkhon Klub,2016-09-15,0,2,F,mongolia,FC Deren (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Selenge Press Club,2016-09-17,2,1,F,mongolia,Ub United (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Khangarid City,2016-09-17,2,1,F,mongolia,Khangarid Klub (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Erchim Klub,2016-09-17,1,6,F,mongolia,FC Ulaanbaatar (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Bayngol,2016-09-18,2,1,F,mongolia,FC Deren (Mongolia),Bayngol (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Khangarid Klub,2016-09-22,0,0,F,mongolia,Selenge Press Club (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaataryn Mazaalaynuud,Khangarid Klub,2016-09-24,0,0,F,mongolia,Ulaanbaataryn Mazaalaynuud (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Ub United,2016-09-24,0,4,F,mongolia,FC Deren (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Bayngol,Erchim Klub,2016-09-25,1,5,F,mongolia,Bayngol (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid City,FC Ulaanbaatar,2016-09-25,1,2,F,mongolia,Khangarid City (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Khoromkhon Klub,2016-09-25,1,2,F,mongolia,Selenge Press Club (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid City,Erchim Klub,2016-09-28,1,2,F,mongolia,Khangarid City (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Bayngol,2016-10-01,2,1,F,mongolia,Ub United (Mongolia),Bayngol (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,FC Deren,2016-10-01,0,3,F,mongolia,Khoromkhon Klub (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khangarid City,2016-10-02,5,1,F,mongolia,Erchim Klub (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Selenge Press Club,2016-10-02,0,0,F,mongolia,Khangarid Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Ulaanbaataryn Mazaalaynuud,2016-10-02,5,0,F,mongolia,FC Ulaanbaatar (Mongolia),Ulaanbaataryn Mazaalaynuud (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Bayngol,Khangarid City,2016-10-08,2,3,F,mongolia,Bayngol (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,FC Ulaanbaatar,2016-10-09,3,2,F,mongolia,Selenge Press Club (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ulaanbaataryn Mazaalaynuud,Erchim Klub,2016-10-09,1,4,F,mongolia,Ulaanbaataryn Mazaalaynuud (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Khangarid Klub,2016-10-09,1,3,F,mongolia,FC Deren (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Khoromkhon Klub,2016-10-09,2,1,F,mongolia,Ub United (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Athletic 220,2017-04-29,1,4,F,mongolia,Ub United (Mongolia),Athletic 220 (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid City,FC Ulaanbaatar,2017-04-29,3,1,F,mongolia,Khangarid City (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Goyo,2017-04-29,3,2,F,mongolia,Khoromkhon Klub (Mongolia),Goyo (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,FC Deren,2017-04-30,0,0,F,mongolia,Khangarid Klub (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Erchim Klub,2017-04-30,0,0,F,mongolia,Selenge Press Club (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Khoromkhon Klub,2017-05-06,1,2,F,mongolia,FC Ulaanbaatar (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Goyo,Selenge Press Club,2017-05-06,1,0,F,mongolia,Goyo (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Athletic 220,Khangarid Klub,2017-05-07,1,0,F,mongolia,Athletic 220 (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Khangarid City,2017-05-07,0,3,F,mongolia,FC Deren (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Ub United,2017-05-09,3,1,F,mongolia,Erchim Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Goyo,2017-05-12,0,0,F,mongolia,Ub United (Mongolia),Goyo (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khangarid Klub,2017-05-13,1,0,F,mongolia,Erchim Klub (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,FC Ulaanbaatar,2017-05-13,1,0,F,mongolia,FC Deren (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Khoromkhon Klub,2017-05-14,2,1,F,mongolia,Selenge Press Club (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid City,Athletic 220,2017-05-14,1,2,F,mongolia,Khangarid City (Mongolia),Athletic 220 (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Selenge Press Club,2017-05-19,1,3,F,mongolia,FC Ulaanbaatar (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Goyo,Khangarid Klub,2017-05-20,0,1,F,mongolia,Goyo (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khangarid City,2017-05-21,1,0,F,mongolia,Erchim Klub (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Athletic 220,FC Deren,2017-05-21,1,0,F,mongolia,Athletic 220 (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Erchim Klub,2017-05-25,0,1,F,mongolia,FC Deren (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Khoromkhon Klub,2017-05-27,2,1,F,mongolia,Khangarid Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid City,Goyo,2017-05-27,2,0,F,mongolia,Khangarid City (Mongolia),Goyo (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Athletic 220,FC Ulaanbaatar,2017-05-28,0,3,F,mongolia,Athletic 220 (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Ub United,2017-05-31,0,1,F,mongolia,Khoromkhon Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Goyo,FC Deren,2017-06-02,1,0,F,mongolia,Goyo (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Khangarid Klub,2017-06-03,1,6,F,mongolia,Selenge Press Club (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Ub United,2017-06-04,1,0,F,mongolia,FC Ulaanbaatar (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Khangarid City,2017-06-04,0,3,F,mongolia,Khoromkhon Klub (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Athletic 220,Goyo,2017-06-16,0,0,F,mongolia,Athletic 220 (Mongolia),Goyo (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid City,Selenge Press Club,2017-06-17,2,1,F,mongolia,Khangarid City (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,FC Ulaanbaatar,2017-06-17,2,1,F,mongolia,Erchim Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Khoromkhon Klub,2017-06-18,2,0,F,mongolia,FC Deren (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Ub United,2017-06-18,2,0,F,mongolia,Khangarid Klub (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Selenge Press Club,2017-06-21,1,3,F,mongolia,Ub United (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Athletic 220,2017-06-21,3,2,F,mongolia,Erchim Klub (Mongolia),Athletic 220 (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Khangarid Klub,2017-06-23,2,4,F,mongolia,FC Ulaanbaatar (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Khangarid City,2017-06-24,1,4,F,mongolia,Ub United (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,FC Deren,2017-06-24,1,3,F,mongolia,Selenge Press Club (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Athletic 220,2017-06-25,0,0,F,mongolia,Khoromkhon Klub (Mongolia),Athletic 220 (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Goyo,Erchim Klub,2017-06-25,1,3,F,mongolia,Goyo (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Ub United,2017-06-30,2,0,F,mongolia,FC Deren (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Goyo,FC Ulaanbaatar,2017-07-01,4,3,F,mongolia,Goyo (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Athletic 220,Selenge Press Club,2017-07-01,4,2,F,mongolia,Athletic 220 (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khoromkhon Klub,2017-07-02,9,0,F,mongolia,Erchim Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid City,Khangarid Klub,2017-07-02,1,2,F,mongolia,Khangarid City (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Goyo,Khoromkhon Klub,2017-07-29,2,1,F,mongolia,Goyo (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Athletic 220,Ub United,2017-07-30,5,1,F,mongolia,Athletic 220 (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Selenge Press Club,2017-07-30,4,0,F,mongolia,Erchim Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Khangarid City,2017-07-30,0,3,F,mongolia,FC Ulaanbaatar (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Khangarid Klub,2017-08-02,1,1,F,mongolia,FC Deren (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,FC Ulaanbaatar,2017-08-05,1,1,F,mongolia,Khoromkhon Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid City,FC Deren,2017-08-05,2,0,F,mongolia,Khangarid City (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Erchim Klub,2017-08-06,1,3,F,mongolia,Ub United (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Athletic 220,2017-08-06,0,0,F,mongolia,Khangarid Klub (Mongolia),Athletic 220 (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Goyo,2017-08-06,0,1,F,mongolia,Selenge Press Club (Mongolia),Goyo (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Goyo,Ub United,2017-08-12,1,1,F,mongolia,Goyo (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Selenge Press Club,2017-08-12,2,0,F,mongolia,Khoromkhon Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Erchim Klub,2017-08-12,3,2,F,mongolia,Khangarid Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,FC Deren,2017-08-13,1,0,F,mongolia,FC Ulaanbaatar (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Athletic 220,Khangarid City,2017-08-13,2,0,F,mongolia,Athletic 220 (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,FC Ulaanbaatar,2017-08-19,2,2,F,mongolia,Selenge Press Club (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Goyo,2017-08-19,1,1,F,mongolia,Khangarid Klub (Mongolia),Goyo (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Athletic 220,2017-08-19,2,0,F,mongolia,FC Deren (Mongolia),Athletic 220 (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid City,Erchim Klub,2017-08-20,1,1,F,mongolia,Khangarid City (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Khoromkhon Klub,2017-08-20,2,2,F,mongolia,Ub United (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,FC Deren,2017-08-26,0,1,F,mongolia,Erchim Klub (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Goyo,Khangarid City,2017-08-26,1,1,F,mongolia,Goyo (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Khangarid Klub,2017-08-26,3,2,F,mongolia,Khoromkhon Klub (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Athletic 220,2017-08-27,1,3,F,mongolia,FC Ulaanbaatar (Mongolia),Athletic 220 (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Ub United,2017-08-27,1,0,F,mongolia,Selenge Press Club (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid City,Khoromkhon Klub,2017-09-09,2,1,F,mongolia,Khangarid City (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Selenge Press Club,2017-09-09,3,3,F,mongolia,Khangarid Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,FC Ulaanbaatar,2017-09-09,1,0,F,mongolia,Ub United (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Goyo,2017-09-10,3,1,F,mongolia,FC Deren (Mongolia),Goyo (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Athletic 220,Erchim Klub,2017-09-10,2,2,F,mongolia,Athletic 220 (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid City,Ub United,2017-09-12,2,0,F,mongolia,Khangarid City (Mongolia),Ub United (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,Khangarid Klub,2017-09-15,0,0,F,mongolia,Ub United (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Erchim Klub,2017-09-16,0,1,F,mongolia,FC Ulaanbaatar (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Khangarid City,2017-09-16,1,4,F,mongolia,Selenge Press Club (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Goyo,Athletic 220,2017-09-17,1,2,F,mongolia,Goyo (Mongolia),Athletic 220 (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,FC Deren,2017-09-17,1,2,F,mongolia,Khoromkhon Klub (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Goyo,2017-09-23,2,1,F,mongolia,Erchim Klub (Mongolia),Goyo (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Selenge Press Club,2017-09-23,0,2,F,mongolia,FC Deren (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Athletic 220,Khoromkhon Klub,2017-09-23,2,1,F,mongolia,Athletic 220 (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,FC Ulaanbaatar,2017-09-24,1,6,F,mongolia,Khangarid Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Khangarid City,2017-09-29,1,4,F,mongolia,Khangarid Klub (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Athletic 220,2017-09-29,3,2,F,mongolia,Selenge Press Club (Mongolia),Athletic 220 (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Goyo,2017-09-30,2,0,F,mongolia,FC Ulaanbaatar (Mongolia),Goyo (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Erchim Klub,2017-09-30,1,9,F,mongolia,Khoromkhon Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Ub United,FC Deren,2017-09-30,0,1,F,mongolia,Ub United (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Khangarid Klub,2018-04-28,1,1,F,mongolia,Selenge Press Club (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Goyo,FC Deren,2018-04-28,0,1,F,mongolia,Goyo (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Athletic 220,2018-04-28,1,1,F,mongolia,FC Ulaanbaatar (Mongolia),Athletic 220 (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Gepro,2018-04-29,6,0,F,mongolia,Erchim Klub (Mongolia),Gepro (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Arvis,Khangarid City,2018-04-29,1,1,F,mongolia,Arvis (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,FC Ulaanbaatar,2018-05-04,0,1,F,mongolia,FC Deren (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Athletic 220,Arvis,2018-05-05,3,0,F,mongolia,Athletic 220 (Mongolia),Arvis (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Gepro,Selenge Press Club,2018-05-05,0,3,F,mongolia,Gepro (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid City,Erchim Klub,2018-05-05,0,1,F,mongolia,Khangarid City (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Goyo,Khangarid Klub,2018-05-06,1,0,F,mongolia,Goyo (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,FC Ulaanbaatar,2018-05-08,1,4,F,mongolia,Selenge Press Club (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Goyo,Selenge Press Club,2018-05-12,2,1,F,mongolia,Goyo (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid City,Gepro,2018-05-12,2,0,F,mongolia,Khangarid City (Mongolia),Gepro (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Khangarid Klub,2018-05-12,1,0,F,mongolia,FC Ulaanbaatar (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Arvis,FC Deren,2018-05-13,0,8,F,mongolia,Arvis (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Athletic 220,2018-05-13,2,1,F,mongolia,Erchim Klub (Mongolia),Athletic 220 (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Erchim Klub,2018-05-19,1,5,F,mongolia,FC Deren (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Athletic 220,Khangarid City,2018-05-19,4,1,F,mongolia,Athletic 220 (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Arvis,Khangarid Klub,2018-05-20,0,8,F,mongolia,Arvis (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Gepro,Goyo,2018-05-20,0,3,F,mongolia,Gepro (Mongolia),Goyo (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid City,FC Deren,2018-05-26,0,0,F,mongolia,Khangarid City (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Goyo,2018-05-26,1,1,F,mongolia,FC Ulaanbaatar (Mongolia),Goyo (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Athletic 220,Gepro,2018-05-26,9,0,F,mongolia,Athletic 220 (Mongolia),Gepro (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khangarid Klub,2018-05-27,2,0,F,mongolia,Erchim Klub (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Arvis,Selenge Press Club,2018-05-27,0,5,F,mongolia,Arvis (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Gepro,FC Ulaanbaatar,2018-06-02,1,5,F,mongolia,Gepro (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Goyo,Arvis,2018-06-02,1,0,F,mongolia,Goyo (Mongolia),Arvis (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Erchim Klub,2018-06-02,0,2,F,mongolia,Selenge Press Club (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Khangarid City,2018-06-03,0,1,F,mongolia,Khangarid Klub (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Athletic 220,2018-06-03,1,1,F,mongolia,FC Deren (Mongolia),Athletic 220 (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Athletic 220,Khangarid Klub,2018-06-09,1,3,F,mongolia,Athletic 220 (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Arvis,FC Ulaanbaatar,2018-06-09,1,6,F,mongolia,Arvis (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid City,Selenge Press Club,2018-06-09,4,1,F,mongolia,Khangarid City (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Goyo,2018-06-10,1,1,F,mongolia,Erchim Klub (Mongolia),Goyo (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Gepro,2018-06-10,4,1,F,mongolia,FC Deren (Mongolia),Gepro (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Gepro,Arvis,2018-06-30,0,1,F,mongolia,Gepro (Mongolia),Arvis (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Goyo,Khangarid City,2018-06-30,2,1,F,mongolia,Goyo (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Erchim Klub,2018-06-30,3,3,F,mongolia,FC Ulaanbaatar (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,FC Deren,2018-07-01,0,0,F,mongolia,Khangarid Klub (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Athletic 220,2018-07-01,0,0,F,mongolia,Selenge Press Club (Mongolia),Athletic 220 (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,FC Deren,2018-07-06,0,4,F,mongolia,Selenge Press Club (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid City,FC Ulaanbaatar,2018-07-07,1,1,F,mongolia,Khangarid City (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Athletic 220,Goyo,2018-07-07,0,1,F,mongolia,Athletic 220 (Mongolia),Goyo (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Arvis,2018-07-08,4,2,F,mongolia,Erchim Klub (Mongolia),Arvis (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Gepro,2018-07-08,2,2,F,mongolia,Khangarid Klub (Mongolia),Gepro (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Goyo,2018-07-21,2,0,F,mongolia,FC Deren (Mongolia),Goyo (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Athletic 220,FC Ulaanbaatar,2018-07-21,1,1,F,mongolia,Athletic 220 (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid City,Arvis,2018-07-21,6,3,F,mongolia,Khangarid City (Mongolia),Arvis (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Selenge Press Club,2018-07-22,1,0,F,mongolia,Khangarid Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Gepro,Erchim Klub,2018-07-22,0,5,F,mongolia,Gepro (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Arvis,Athletic 220,2018-07-28,1,2,F,mongolia,Arvis (Mongolia),Athletic 220 (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Gepro,2018-07-28,1,0,F,mongolia,Selenge Press Club (Mongolia),Gepro (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,FC Deren,2018-07-28,1,3,F,mongolia,FC Ulaanbaatar (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Khangarid City,2018-07-29,1,1,F,mongolia,Erchim Klub (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Goyo,2018-07-29,2,2,F,mongolia,Khangarid Klub (Mongolia),Goyo (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Gepro,Khangarid City,2018-08-04,1,4,F,mongolia,Gepro (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Goyo,2018-08-04,2,4,F,mongolia,Selenge Press Club (Mongolia),Goyo (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Athletic 220,Erchim Klub,2018-08-04,2,0,F,mongolia,Athletic 220 (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,FC Ulaanbaatar,2018-08-05,1,1,F,mongolia,Khangarid Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Arvis,2018-08-05,1,1,F,mongolia,FC Deren (Mongolia),Arvis (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Goyo,Gepro,2018-08-11,5,0,F,mongolia,Goyo (Mongolia),Gepro (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid City,Athletic 220,2018-08-11,0,3,F,mongolia,Khangarid City (Mongolia),Athletic 220 (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Selenge Press Club,2018-08-11,2,1,F,mongolia,FC Ulaanbaatar (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Arvis,2018-08-12,0,0,F,mongolia,Khangarid Klub (Mongolia),Arvis (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,FC Deren,2018-08-12,2,1,F,mongolia,Erchim Klub (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Arvis,Goyo,2018-09-13,1,2,F,mongolia,Arvis (Mongolia),Goyo (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Erchim Klub,2018-09-15,1,2,F,mongolia,Khangarid Klub (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Gepro,Athletic 220,2018-09-16,0,2,F,mongolia,Gepro (Mongolia),Athletic 220 (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Khangarid City,2018-09-16,1,1,F,mongolia,FC Deren (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Arvis,2018-09-16,2,2,F,mongolia,Selenge Press Club (Mongolia),Arvis (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Goyo,FC Ulaanbaatar,2018-09-16,0,1,F,mongolia,Goyo (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Arvis,Gepro,2018-09-19,7,1,F,mongolia,Arvis (Mongolia),Gepro (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Khangarid Klub,2018-09-20,5,0,F,mongolia,FC Deren (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,FC Ulaanbaatar,2018-09-22,0,0,F,mongolia,Erchim Klub (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid City,Goyo,2018-09-22,2,3,F,mongolia,Khangarid City (Mongolia),Goyo (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Athletic 220,Selenge Press Club,2018-09-22,4,1,F,mongolia,Athletic 220 (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid City,Khangarid Klub,2018-09-25,3,0,F,mongolia,Khangarid City (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Selenge Press Club,2018-09-26,8,1,F,mongolia,Erchim Klub (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Gepro,2018-09-26,2,0,F,mongolia,FC Ulaanbaatar (Mongolia),Gepro (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Athletic 220,FC Deren,2018-09-27,1,1,F,mongolia,Athletic 220 (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Goyo,Erchim Klub,2018-09-29,1,1,F,mongolia,Goyo (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Arvis,2018-09-29,5,2,F,mongolia,FC Ulaanbaatar (Mongolia),Arvis (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Khangarid City,2018-09-29,1,2,F,mongolia,Selenge Press Club (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Athletic 220,2018-09-30,0,2,F,mongolia,Khangarid Klub (Mongolia),Athletic 220 (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Gepro,FC Deren,2018-09-30,0,7,F,mongolia,Gepro (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Selenge Press Club,2018-10-05,1,1,F,mongolia,FC Deren (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Gepro,Khangarid Klub,2018-10-05,2,5,F,mongolia,Gepro (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Khangarid City,2018-10-06,5,0,F,mongolia,FC Ulaanbaatar (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Arvis,Erchim Klub,2018-10-06,2,7,F,mongolia,Arvis (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Goyo,Athletic 220,2018-10-06,2,2,F,mongolia,Goyo (Mongolia),Athletic 220 (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Goyo,Khoromkhon Klub,2019-04-20,2,1,F,mongolia,Goyo (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khaan Khuns,Khangarid City,2019-04-20,0,4,F,mongolia,Khaan Khuns (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Athletic 220,Selenge Press Club,2019-04-20,2,0,F,mongolia,Athletic 220 (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Erchim Klub,2019-04-21,2,4,F,mongolia,FC Ulaanbaatar (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,FC Deren,2019-04-27,1,2,F,mongolia,Selenge Press Club (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Athletic 220,2019-04-27,0,4,F,mongolia,Khoromkhon Klub (Mongolia),Athletic 220 (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Khangarid City,2019-04-27,0,3,F,mongolia,Khangarid Klub (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,Goyo,2019-04-28,5,2,F,mongolia,Erchim Klub (Mongolia),Goyo (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Khaan Khuns,2019-04-28,4,2,F,mongolia,FC Ulaanbaatar (Mongolia),Khaan Khuns (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khaan Khuns,Khangarid Klub,2019-05-04,5,5,F,mongolia,Khaan Khuns (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Goyo,FC Ulaanbaatar,2019-05-04,2,1,F,mongolia,Goyo (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid City,Selenge Press Club,2019-05-04,3,2,F,mongolia,Khangarid City (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Khoromkhon Klub,2019-05-05,4,0,F,mongolia,FC Deren (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Athletic 220,Erchim Klub,2019-05-05,1,3,F,mongolia,Athletic 220 (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Athletic 220,2019-05-08,3,6,F,mongolia,Khangarid Klub (Mongolia),Athletic 220 (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Selenge Press Club,Khangarid Klub,2019-05-11,2,5,F,mongolia,Selenge Press Club (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Ulaanbaatar,Athletic 220,2019-05-11,3,3,F,mongolia,FC Ulaanbaatar (Mongolia),Athletic 220 (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khoromkhon Klub,Khangarid City,2019-05-11,0,3,F,mongolia,Khoromkhon Klub (Mongolia),Khangarid City (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Erchim Klub,FC Deren,2019-05-12,3,3,F,mongolia,Erchim Klub (Mongolia),FC Deren (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Goyo,Khaan Khuns,2019-05-12,4,2,F,mongolia,Goyo (Mongolia),Khaan Khuns (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,Khangarid Klub,2019-05-15,1,3,F,mongolia,FC Deren (Mongolia),Khangarid Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid Klub,Khoromkhon Klub,2019-05-18,5,1,F,mongolia,Khangarid Klub (Mongolia),Khoromkhon Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khangarid City,Erchim Klub,2019-05-18,3,0,F,mongolia,Khangarid City (Mongolia),Erchim Klub (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Athletic 220,Goyo,2019-05-18,2,1,F,mongolia,Athletic 220 (Mongolia),Goyo (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+FC Deren,FC Ulaanbaatar,2019-05-19,0,0,F,mongolia,FC Deren (Mongolia),FC Ulaanbaatar (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national
+Khaan Khuns,Selenge Press Club,2019-05-19,0,3,F,mongolia,Khaan Khuns (Mongolia),Selenge Press Club (Mongolia),mongolia,mongolia,MN,MN,Asia,Asia,Asia,national

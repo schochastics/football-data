@@ -1,0 +1,191 @@
+home,away,date,gh,ga,full_time,competition,home_ident,away_ident,home_country,away_country,home_code,away_code,home_continent,away_continent,continent,level
+Regar Tadaz Tursunzoda,Transport United FC,2005-05-04,6,1,F,AFC Pres. Cup,Regar Tadaz Tursunzoda (Tajikistan),Transport United FC (Bhutan),tajikistan,bhutan,TJ,BT,Asia,Asia,Asia,international
+Three Star Club,Taiwan Power Company,2005-05-04,1,1,F,AFC Pres. Cup,Three Star Club (Nepal),Taiwan Power Company (Chinese Taipei),nepal,chinese-taipei,NP,CHT,Asia,Asia,Asia,international
+FC Dordoi Dynamo,Phnom Penh Empire,2005-05-05,6,1,F,AFC Pres. Cup,FC Dordoi Dynamo (Kyrgyzstan),Phnom Penh Empire (Cambodia),kyrgyzstan,cambodia,KG,KH,Asia,Asia,Asia,international
+Wapda FC,Blue Star SC,2005-05-05,0,1,F,AFC Pres. Cup,Wapda FC (Pakistan),Blue Star SC (Sri Lanka),pakistan,sri-lanka,PK,LK,Asia,Asia,Asia,international
+Taiwan Power Company,Regar Tadaz Tursunzoda,2005-05-06,0,3,F,AFC Pres. Cup,Taiwan Power Company (Chinese Taipei),Regar Tadaz Tursunzoda (Tajikistan),chinese-taipei,tajikistan,CHT,TJ,Asia,Asia,Asia,international
+Transport United FC,Three Star Club,2005-05-06,1,2,F,AFC Pres. Cup,Transport United FC (Bhutan),Three Star Club (Nepal),bhutan,nepal,BT,NP,Asia,Asia,Asia,international
+Phnom Penh Empire,Wapda FC,2005-05-07,2,1,F,AFC Pres. Cup,Phnom Penh Empire (Cambodia),Wapda FC (Pakistan),cambodia,pakistan,KH,PK,Asia,Asia,Asia,international
+Blue Star SC,FC Dordoi Dynamo,2005-05-07,1,8,F,AFC Pres. Cup,Blue Star SC (Sri Lanka),FC Dordoi Dynamo (Kyrgyzstan),sri-lanka,kyrgyzstan,LK,KG,Asia,Asia,Asia,international
+Taiwan Power Company,Transport United FC,2005-05-08,1,0,F,AFC Pres. Cup,Taiwan Power Company (Chinese Taipei),Transport United FC (Bhutan),chinese-taipei,bhutan,CHT,BT,Asia,Asia,Asia,international
+Three Star Club,Regar Tadaz Tursunzoda,2005-05-08,0,0,F,AFC Pres. Cup,Three Star Club (Nepal),Regar Tadaz Tursunzoda (Tajikistan),nepal,tajikistan,NP,TJ,Asia,Asia,Asia,international
+Phnom Penh Empire,Blue Star SC,2005-05-09,2,3,F,AFC Pres. Cup,Phnom Penh Empire (Cambodia),Blue Star SC (Sri Lanka),cambodia,sri-lanka,KH,LK,Asia,Asia,Asia,international
+FC Dordoi Dynamo,Wapda FC,2005-05-09,0,1,F,AFC Pres. Cup,FC Dordoi Dynamo (Kyrgyzstan),Wapda FC (Pakistan),kyrgyzstan,pakistan,KG,PK,Asia,Asia,Asia,international
+Regar Tadaz Tursunzoda,Blue Star SC,2005-05-12,6,0,F,AFC Pres. Cup,Regar Tadaz Tursunzoda (Tajikistan),Blue Star SC (Sri Lanka),tajikistan,sri-lanka,TJ,LK,Asia,Asia,Asia,international
+FC Dordoi Dynamo,Three Star Club,2005-05-12,0,0,P,AFC Pres. Cup,FC Dordoi Dynamo (Kyrgyzstan),Three Star Club (Nepal),kyrgyzstan,nepal,KG,NP,Asia,Asia,Asia,international
+Regar Tadaz Tursunzoda,FC Dordoi Dynamo,2005-05-14,3,0,F,AFC Pres. Cup,Regar Tadaz Tursunzoda (Tajikistan),FC Dordoi Dynamo (Kyrgyzstan),tajikistan,kyrgyzstan,TJ,KG,Asia,Asia,Asia,international
+Pakistan Army,Tatung,2006-05-10,1,4,F,AFC Pres. Cup,Pakistan Army (Pakistan),Tatung (Chinese Taipei),pakistan,chinese-taipei,PK,CHT,Asia,Asia,Asia,international
+Khemara Keila FC,Transport United FC,2006-05-10,2,1,F,AFC Pres. Cup,Khemara Keila FC (Cambodia),Transport United FC (Bhutan),cambodia,bhutan,KH,BT,Asia,Asia,Asia,international
+Manang Marshyangdi Club,Ratnam Sports Club,2006-05-11,0,2,F,AFC Pres. Cup,Manang Marshyangdi Club (Nepal),Ratnam Sports Club (Sri Lanka),nepal,sri-lanka,NP,LK,Asia,Asia,Asia,international
+FC Dordoi Dynamo,FK Vakhsh Qurghonteppa,2006-05-11,0,3,F,AFC Pres. Cup,FC Dordoi Dynamo (Kyrgyzstan),FK Vakhsh Qurghonteppa (Tajikistan),kyrgyzstan,tajikistan,KG,TJ,Asia,Asia,Asia,international
+Transport United FC,Pakistan Army,2006-05-12,1,0,F,AFC Pres. Cup,Transport United FC (Bhutan),Pakistan Army (Pakistan),bhutan,pakistan,BT,PK,Asia,Asia,Asia,international
+Tatung,Khemara Keila FC,2006-05-13,1,5,F,AFC Pres. Cup,Tatung (Chinese Taipei),Khemara Keila FC (Cambodia),chinese-taipei,cambodia,CHT,KH,Asia,Asia,Asia,international
+Ratnam Sports Club,FC Dordoi Dynamo,2006-05-13,0,3,F,AFC Pres. Cup,Ratnam Sports Club (Sri Lanka),FC Dordoi Dynamo (Kyrgyzstan),sri-lanka,kyrgyzstan,LK,KG,Asia,Asia,Asia,international
+FK Vakhsh Qurghonteppa,Manang Marshyangdi Club,2006-05-13,1,3,F,AFC Pres. Cup,FK Vakhsh Qurghonteppa (Tajikistan),Manang Marshyangdi Club (Nepal),tajikistan,nepal,TJ,NP,Asia,Asia,Asia,international
+Pakistan Army,Khemara Keila FC,2006-05-14,1,1,F,AFC Pres. Cup,Pakistan Army (Pakistan),Khemara Keila FC (Cambodia),pakistan,cambodia,PK,KH,Asia,Asia,Asia,international
+Tatung,Transport United FC,2006-05-14,5,0,F,AFC Pres. Cup,Tatung (Chinese Taipei),Transport United FC (Bhutan),chinese-taipei,bhutan,CHT,BT,Asia,Asia,Asia,international
+Manang Marshyangdi Club,FC Dordoi Dynamo,2006-05-15,0,2,F,AFC Pres. Cup,Manang Marshyangdi Club (Nepal),FC Dordoi Dynamo (Kyrgyzstan),nepal,kyrgyzstan,NP,KG,Asia,Asia,Asia,international
+Ratnam Sports Club,FK Vakhsh Qurghonteppa,2006-05-15,1,2,F,AFC Pres. Cup,Ratnam Sports Club (Sri Lanka),FK Vakhsh Qurghonteppa (Tajikistan),sri-lanka,tajikistan,LK,TJ,Asia,Asia,Asia,international
+Khemara Keila FC,FC Dordoi Dynamo,2006-05-17,0,3,F,AFC Pres. Cup,Khemara Keila FC (Cambodia),FC Dordoi Dynamo (Kyrgyzstan),cambodia,kyrgyzstan,KH,KG,Asia,Asia,Asia,international
+FK Vakhsh Qurghonteppa,Tatung,2006-05-18,3,1,F,AFC Pres. Cup,FK Vakhsh Qurghonteppa (Tajikistan),Tatung (Chinese Taipei),tajikistan,chinese-taipei,TJ,CHT,Asia,Asia,Asia,international
+FC Dordoi Dynamo,FK Vakhsh Qurghonteppa,2006-05-21,2,1,E,AFC Pres. Cup,FC Dordoi Dynamo (Kyrgyzstan),FK Vakhsh Qurghonteppa (Tajikistan),kyrgyzstan,tajikistan,KG,TJ,Asia,Asia,Asia,international
+Pakistan Army,Ratnam Sports Club,2007-09-20,3,3,F,AFC Pres. Cup,Pakistan Army (Pakistan),Ratnam Sports Club (Sri Lanka),pakistan,sri-lanka,PK,LK,Asia,Asia,Asia,international
+Transport United FC,Regar Tadaz Tursunzoda,2007-09-20,0,13,F,AFC Pres. Cup,Transport United FC (Bhutan),Regar Tadaz Tursunzoda (Tajikistan),bhutan,tajikistan,BT,TJ,Asia,Asia,Asia,international
+Khemara Keila FC,FC Dordoi Dynamo,2007-09-21,0,4,F,AFC Pres. Cup,Khemara Keila FC (Cambodia),FC Dordoi Dynamo (Kyrgyzstan),cambodia,kyrgyzstan,KH,KG,Asia,Asia,Asia,international
+Mahendra Police Club,Tatung,2007-09-21,0,0,F,AFC Pres. Cup,Mahendra Police Club (Nepal),Tatung (Chinese Taipei),nepal,chinese-taipei,NP,CHT,Asia,Asia,Asia,international
+Regar Tadaz Tursunzoda,Pakistan Army,2007-09-22,2,1,F,AFC Pres. Cup,Regar Tadaz Tursunzoda (Tajikistan),Pakistan Army (Pakistan),tajikistan,pakistan,TJ,PK,Asia,Asia,Asia,international
+Ratnam Sports Club,Transport United FC,2007-09-22,6,1,F,AFC Pres. Cup,Ratnam Sports Club (Sri Lanka),Transport United FC (Bhutan),sri-lanka,bhutan,LK,BT,Asia,Asia,Asia,international
+Tatung,Khemara Keila FC,2007-09-23,0,1,F,AFC Pres. Cup,Tatung (Chinese Taipei),Khemara Keila FC (Cambodia),chinese-taipei,cambodia,CHT,KH,Asia,Asia,Asia,international
+FC Dordoi Dynamo,Mahendra Police Club,2007-09-23,3,0,F,AFC Pres. Cup,FC Dordoi Dynamo (Kyrgyzstan),Mahendra Police Club (Nepal),kyrgyzstan,nepal,KG,NP,Asia,Asia,Asia,international
+Transport United FC,Pakistan Army,2007-09-25,3,2,F,AFC Pres. Cup,Transport United FC (Bhutan),Pakistan Army (Pakistan),bhutan,pakistan,BT,PK,Asia,Asia,Asia,international
+Regar Tadaz Tursunzoda,Ratnam Sports Club,2007-09-25,1,0,F,AFC Pres. Cup,Regar Tadaz Tursunzoda (Tajikistan),Ratnam Sports Club (Sri Lanka),tajikistan,sri-lanka,TJ,LK,Asia,Asia,Asia,international
+Mahendra Police Club,Khemara Keila FC,2007-09-25,6,4,F,AFC Pres. Cup,Mahendra Police Club (Nepal),Khemara Keila FC (Cambodia),nepal,cambodia,NP,KH,Asia,Asia,Asia,international
+Tatung,FC Dordoi Dynamo,2007-09-25,0,5,F,AFC Pres. Cup,Tatung (Chinese Taipei),FC Dordoi Dynamo (Kyrgyzstan),chinese-taipei,kyrgyzstan,CHT,KG,Asia,Asia,Asia,international
+Regar Tadaz Tursunzoda,Mahendra Police Club,2007-09-27,1,2,F,AFC Pres. Cup,Regar Tadaz Tursunzoda (Tajikistan),Mahendra Police Club (Nepal),tajikistan,nepal,TJ,NP,Asia,Asia,Asia,international
+FC Dordoi Dynamo,Ratnam Sports Club,2007-09-28,1,1,P,AFC Pres. Cup,FC Dordoi Dynamo (Kyrgyzstan),Ratnam Sports Club (Sri Lanka),kyrgyzstan,sri-lanka,KG,LK,Asia,Asia,Asia,international
+Mahendra Police Club,FC Dordoi Dynamo,2007-09-30,1,2,F,AFC Pres. Cup,Mahendra Police Club (Nepal),FC Dordoi Dynamo (Kyrgyzstan),nepal,kyrgyzstan,NP,KG,Asia,Asia,Asia,international
+Nagacorp FC,Taiwan Power Company,2008-04-12,2,2,F,AFC Pres. Cup,Nagacorp FC (Cambodia),Taiwan Power Company (Chinese Taipei),cambodia,chinese-taipei,KH,CHT,Asia,Asia,Asia,international
+Taiwan Power Company,FC Dordoi Dynamo,2008-04-14,0,3,F,AFC Pres. Cup,Taiwan Power Company (Chinese Taipei),FC Dordoi Dynamo (Kyrgyzstan),chinese-taipei,kyrgyzstan,CHT,KG,Asia,Asia,Asia,international
+FC Dordoi Dynamo,Nagacorp FC,2008-04-16,2,0,F,AFC Pres. Cup,FC Dordoi Dynamo (Kyrgyzstan),Nagacorp FC (Cambodia),kyrgyzstan,cambodia,KG,KH,Asia,Asia,Asia,international
+Kopetdag Ashkhabad,Kan Baw Za,2008-04-23,0,1,F,AFC Pres. Cup,Kopetdag Ashkhabad (Turkmenistan),Kan Baw Za (Myanmar),turkmenistan,myanmar,TM,MYA,Asia,Asia,Asia,international
+Ratnam Sports Club,Transport United FC,2008-04-23,7,1,F,AFC Pres. Cup,Ratnam Sports Club (Sri Lanka),Transport United FC (Bhutan),sri-lanka,bhutan,LK,BT,Asia,Asia,Asia,international
+Transport United FC,Kopetdag Ashkhabad,2008-04-25,1,7,F,AFC Pres. Cup,Transport United FC (Bhutan),Kopetdag Ashkhabad (Turkmenistan),bhutan,turkmenistan,BT,TM,Asia,Asia,Asia,international
+Kan Baw Za,Ratnam Sports Club,2008-04-25,2,3,F,AFC Pres. Cup,Kan Baw Za (Myanmar),Ratnam Sports Club (Sri Lanka),myanmar,sri-lanka,MYA,LK,Asia,Asia,Asia,international
+Transport United FC,Kan Baw Za,2008-04-27,0,11,F,AFC Pres. Cup,Transport United FC (Bhutan),Kan Baw Za (Myanmar),bhutan,myanmar,BT,MYA,Asia,Asia,Asia,international
+Kopetdag Ashkhabad,Ratnam Sports Club,2008-04-27,2,0,F,AFC Pres. Cup,Kopetdag Ashkhabad (Turkmenistan),Ratnam Sports Club (Sri Lanka),turkmenistan,sri-lanka,TM,LK,Asia,Asia,Asia,international
+Mahendra Police Club,Abahani Ltd,2008-06-22,4,0,F,AFC Pres. Cup,Mahendra Police Club (Nepal),Abahani Ltd (Bangladesh),nepal,bangladesh,NP,BD,Asia,Asia,Asia,international
+Regar Tadaz Tursunzoda,Wapda FC,2008-06-22,2,1,F,AFC Pres. Cup,Regar Tadaz Tursunzoda (Tajikistan),Wapda FC (Pakistan),tajikistan,pakistan,TJ,PK,Asia,Asia,Asia,international
+Wapda FC,Mahendra Police Club,2008-06-24,1,1,F,AFC Pres. Cup,Wapda FC (Pakistan),Mahendra Police Club (Nepal),pakistan,nepal,PK,NP,Asia,Asia,Asia,international
+Abahani Ltd,Regar Tadaz Tursunzoda,2008-06-24,1,2,F,AFC Pres. Cup,Abahani Ltd (Bangladesh),Regar Tadaz Tursunzoda (Tajikistan),bangladesh,tajikistan,BD,TJ,Asia,Asia,Asia,international
+Wapda FC,Abahani Ltd,2008-06-26,0,1,F,AFC Pres. Cup,Wapda FC (Pakistan),Abahani Ltd (Bangladesh),pakistan,bangladesh,PK,BD,Asia,Asia,Asia,international
+Mahendra Police Club,Regar Tadaz Tursunzoda,2008-06-26,2,2,F,AFC Pres. Cup,Mahendra Police Club (Nepal),Regar Tadaz Tursunzoda (Tajikistan),nepal,tajikistan,NP,TJ,Asia,Asia,Asia,international
+Regar Tadaz Tursunzoda,Kopetdag Ashkhabad,2008-09-19,4,3,E,AFC Pres. Cup,Regar Tadaz Tursunzoda (Tajikistan),Kopetdag Ashkhabad (Turkmenistan),tajikistan,turkmenistan,TJ,TM,Asia,Asia,Asia,international
+FC Dordoi Dynamo,Mahendra Police Club,2008-09-19,3,1,F,AFC Pres. Cup,FC Dordoi Dynamo (Kyrgyzstan),Mahendra Police Club (Nepal),kyrgyzstan,nepal,KG,NP,Asia,Asia,Asia,international
+FC Dordoi Dynamo,Regar Tadaz Tursunzoda,2008-09-21,1,1,P,AFC Pres. Cup,FC Dordoi Dynamo (Kyrgyzstan),Regar Tadaz Tursunzoda (Tajikistan),kyrgyzstan,tajikistan,KG,TJ,Asia,Asia,Asia,international
+Sri Lanka Army SC,Abahani Ltd,2009-05-12,1,2,F,AFC Pres. Cup,Sri Lanka Army SC (Sri Lanka),Abahani Ltd (Bangladesh),sri-lanka,bangladesh,LK,BD,Asia,Asia,Asia,international
+Regar Tadaz Tursunzoda,Wapda FC,2009-05-14,0,0,F,AFC Pres. Cup,Regar Tadaz Tursunzoda (Tajikistan),Wapda FC (Pakistan),tajikistan,pakistan,TJ,PK,Asia,Asia,Asia,international
+Mahendra Police Club,Taiwan Power Company,2009-05-14,2,3,F,AFC Pres. Cup,Mahendra Police Club (Nepal),Taiwan Power Company (Chinese Taipei),nepal,chinese-taipei,NP,CHT,Asia,Asia,Asia,international
+Kopetdag Ashkhabad,Sri Lanka Army SC,2009-05-14,5,1,F,AFC Pres. Cup,Kopetdag Ashkhabad (Turkmenistan),Sri Lanka Army SC (Sri Lanka),turkmenistan,sri-lanka,TM,LK,Asia,Asia,Asia,international
+Wapda FC,Mahendra Police Club,2009-05-16,0,0,F,AFC Pres. Cup,Wapda FC (Pakistan),Mahendra Police Club (Nepal),pakistan,nepal,PK,NP,Asia,Asia,Asia,international
+Taiwan Power Company,Regar Tadaz Tursunzoda,2009-05-16,1,3,F,AFC Pres. Cup,Taiwan Power Company (Chinese Taipei),Regar Tadaz Tursunzoda (Tajikistan),chinese-taipei,tajikistan,CHT,TJ,Asia,Asia,Asia,international
+Abahani Ltd,Kopetdag Ashkhabad,2009-05-16,0,0,F,AFC Pres. Cup,Abahani Ltd (Bangladesh),Kopetdag Ashkhabad (Turkmenistan),bangladesh,turkmenistan,BD,TM,Asia,Asia,Asia,international
+Regar Tadaz Tursunzoda,Mahendra Police Club,2009-05-18,2,2,F,AFC Pres. Cup,Regar Tadaz Tursunzoda (Tajikistan),Mahendra Police Club (Nepal),tajikistan,nepal,TJ,NP,Asia,Asia,Asia,international
+Taiwan Power Company,Wapda FC,2009-05-18,1,3,F,AFC Pres. Cup,Taiwan Power Company (Chinese Taipei),Wapda FC (Pakistan),chinese-taipei,pakistan,CHT,PK,Asia,Asia,Asia,international
+Kan Baw Za,Phnom Penh Empire,2009-06-10,4,3,F,AFC Pres. Cup,Kan Baw Za (Myanmar),Phnom Penh Empire (Cambodia),myanmar,cambodia,MYA,KH,Asia,Asia,Asia,international
+FC Dordoi Dynamo,Yeedzin FC,2009-06-10,7,0,F,AFC Pres. Cup,FC Dordoi Dynamo (Kyrgyzstan),Yeedzin FC (Bhutan),kyrgyzstan,bhutan,KG,BT,Asia,Asia,Asia,international
+Yeedzin FC,Kan Baw Za,2009-06-12,2,4,F,AFC Pres. Cup,Yeedzin FC (Bhutan),Kan Baw Za (Myanmar),bhutan,myanmar,BT,MYA,Asia,Asia,Asia,international
+Phnom Penh Empire,FC Dordoi Dynamo,2009-06-12,1,3,F,AFC Pres. Cup,Phnom Penh Empire (Cambodia),FC Dordoi Dynamo (Kyrgyzstan),cambodia,kyrgyzstan,KH,KG,Asia,Asia,Asia,international
+Phnom Penh Empire,Yeedzin FC,2009-06-14,3,1,F,AFC Pres. Cup,Phnom Penh Empire (Cambodia),Yeedzin FC (Bhutan),cambodia,bhutan,KH,BT,Asia,Asia,Asia,international
+FC Dordoi Dynamo,Kan Baw Za,2009-06-14,2,1,F,AFC Pres. Cup,FC Dordoi Dynamo (Kyrgyzstan),Kan Baw Za (Myanmar),kyrgyzstan,myanmar,KG,MYA,Asia,Asia,Asia,international
+FC Dordoi Dynamo,Kopetdag Ashkhabad,2009-09-25,2,1,F,AFC Pres. Cup,FC Dordoi Dynamo (Kyrgyzstan),Kopetdag Ashkhabad (Turkmenistan),kyrgyzstan,turkmenistan,KG,TM,Asia,Asia,Asia,international
+Regar Tadaz Tursunzoda,Wapda FC,2009-09-25,4,3,E,AFC Pres. Cup,Regar Tadaz Tursunzoda (Tajikistan),Wapda FC (Pakistan),tajikistan,pakistan,TJ,PK,Asia,Asia,Asia,international
+Regar Tadaz Tursunzoda,FC Dordoi Dynamo,2009-09-27,2,0,F,AFC Pres. Cup,Regar Tadaz Tursunzoda (Tajikistan),FC Dordoi Dynamo (Kyrgyzstan),tajikistan,kyrgyzstan,TJ,KG,Asia,Asia,Asia,international
+Halkara Turkmen Turk Uniwersitedi,Druk Star FC,2010-05-09,8,0,F,AFC Pres. Cup,Halkara Turkmen Turk Uniwersitedi (Turkmenistan),Druk Star FC (Bhutan),turkmenistan,bhutan,TM,BT,Asia,Asia,Asia,international
+FK Vakhsh Qurghonteppa,Renown SC,2010-05-10,6,0,F,AFC Pres. Cup,FK Vakhsh Qurghonteppa (Tajikistan),Renown SC (Sri Lanka),tajikistan,sri-lanka,TJ,LK,Asia,Asia,Asia,international
+Nagacorp FC,Khan Research Laboratories,2010-05-10,1,2,F,AFC Pres. Cup,Nagacorp FC (Cambodia),Khan Research Laboratories (Pakistan),cambodia,pakistan,KH,PK,Asia,Asia,Asia,international
+Druk Star FC,Yadanarbon FC,2010-05-11,0,11,F,AFC Pres. Cup,Druk Star FC (Bhutan),Yadanarbon FC (Myanmar),bhutan,myanmar,BT,MYA,Asia,Asia,Asia,international
+Renown SC,Nagacorp FC,2010-05-12,2,4,F,AFC Pres. Cup,Renown SC (Sri Lanka),Nagacorp FC (Cambodia),sri-lanka,cambodia,LK,KH,Asia,Asia,Asia,international
+Khan Research Laboratories,FK Vakhsh Qurghonteppa,2010-05-12,0,1,F,AFC Pres. Cup,Khan Research Laboratories (Pakistan),FK Vakhsh Qurghonteppa (Tajikistan),pakistan,tajikistan,PK,TJ,Asia,Asia,Asia,international
+FC Dordoi Dynamo,Kaohsiung City Enterprise,2010-05-12,5,0,F,AFC Pres. Cup,FC Dordoi Dynamo (Kyrgyzstan),Kaohsiung City Enterprise (Chinese Taipei),kyrgyzstan,chinese-taipei,KG,CHT,Asia,Asia,Asia,international
+Abahani Ltd,New Road Team,2010-05-12,2,0,F,AFC Pres. Cup,Abahani Ltd (Bangladesh),New Road Team (Nepal),bangladesh,nepal,BD,NP,Asia,Asia,Asia,international
+Yadanarbon FC,Halkara Turkmen Turk Uniwersitedi,2010-05-13,0,0,F,AFC Pres. Cup,Yadanarbon FC (Myanmar),Halkara Turkmen Turk Uniwersitedi (Turkmenistan),myanmar,turkmenistan,MYA,TM,Asia,Asia,Asia,international
+FK Vakhsh Qurghonteppa,Nagacorp FC,2010-05-14,3,0,F,AFC Pres. Cup,FK Vakhsh Qurghonteppa (Tajikistan),Nagacorp FC (Cambodia),tajikistan,cambodia,TJ,KH,Asia,Asia,Asia,international
+Khan Research Laboratories,Renown SC,2010-05-14,1,2,F,AFC Pres. Cup,Khan Research Laboratories (Pakistan),Renown SC (Sri Lanka),pakistan,sri-lanka,PK,LK,Asia,Asia,Asia,international
+New Road Team,FC Dordoi Dynamo,2010-05-14,0,3,F,AFC Pres. Cup,New Road Team (Nepal),FC Dordoi Dynamo (Kyrgyzstan),nepal,kyrgyzstan,NP,KG,Asia,Asia,Asia,international
+Kaohsiung City Enterprise,Abahani Ltd,2010-05-14,0,0,F,AFC Pres. Cup,Kaohsiung City Enterprise (Chinese Taipei),Abahani Ltd (Bangladesh),chinese-taipei,bangladesh,CHT,BD,Asia,Asia,Asia,international
+Kaohsiung City Enterprise,New Road Team,2010-05-16,3,4,F,AFC Pres. Cup,Kaohsiung City Enterprise (Chinese Taipei),New Road Team (Nepal),chinese-taipei,nepal,CHT,NP,Asia,Asia,Asia,international
+Abahani Ltd,FC Dordoi Dynamo,2010-05-16,0,0,F,AFC Pres. Cup,Abahani Ltd (Bangladesh),FC Dordoi Dynamo (Kyrgyzstan),bangladesh,kyrgyzstan,BD,KG,Asia,Asia,Asia,international
+FK Vakhsh Qurghonteppa,Yadanarbon FC,2010-09-24,0,2,F,AFC Pres. Cup,FK Vakhsh Qurghonteppa (Tajikistan),Yadanarbon FC (Myanmar),tajikistan,myanmar,TJ,MYA,Asia,Asia,Asia,international
+FC Dordoi Dynamo,Halkara Turkmen Turk Uniwersitedi,2010-09-24,2,0,F,AFC Pres. Cup,FC Dordoi Dynamo (Kyrgyzstan),Halkara Turkmen Turk Uniwersitedi (Turkmenistan),kyrgyzstan,turkmenistan,KG,TM,Asia,Asia,Asia,international
+FC Dordoi Dynamo,Yadanarbon FC,2010-09-26,0,1,E,AFC Pres. Cup,FC Dordoi Dynamo (Kyrgyzstan),Yadanarbon FC (Myanmar),kyrgyzstan,myanmar,KG,MYA,Asia,Asia,Asia,international
+Mahendra Police Club,Wapda FC,2011-04-20,0,2,F,AFC Pres. Cup,Mahendra Police Club (Nepal),Wapda FC (Pakistan),nepal,pakistan,NP,PK,Asia,Asia,Asia,international
+Taiwan Power Company,Nebitchi FC,2011-04-20,1,1,F,AFC Pres. Cup,Taiwan Power Company (Chinese Taipei),Nebitchi FC (Turkmenistan),chinese-taipei,turkmenistan,CHT,TM,Asia,Asia,Asia,international
+Wapda FC,Taiwan Power Company,2011-04-22,0,3,F,AFC Pres. Cup,Wapda FC (Pakistan),Taiwan Power Company (Chinese Taipei),pakistan,chinese-taipei,PK,CHT,Asia,Asia,Asia,international
+Nebitchi FC,Mahendra Police Club,2011-04-22,2,0,F,AFC Pres. Cup,Nebitchi FC (Turkmenistan),Mahendra Police Club (Nepal),turkmenistan,nepal,TM,NP,Asia,Asia,Asia,international
+Mahendra Police Club,Taiwan Power Company,2011-04-24,0,1,F,AFC Pres. Cup,Mahendra Police Club (Nepal),Taiwan Power Company (Chinese Taipei),nepal,chinese-taipei,NP,CHT,Asia,Asia,Asia,international
+Nebitchi FC,Wapda FC,2011-04-24,1,0,F,AFC Pres. Cup,Nebitchi FC (Turkmenistan),Wapda FC (Pakistan),turkmenistan,pakistan,TM,PK,Asia,Asia,Asia,international
+Yadanarbon FC,Yeedzin FC,2011-05-13,6,0,F,AFC Pres. Cup,Yadanarbon FC (Myanmar),Yeedzin FC (Bhutan),myanmar,bhutan,MYA,BT,Asia,Asia,Asia,international
+Istiqlol Dushanbe,Jabal Al Mukaper,2011-05-13,2,0,F,AFC Pres. Cup,Istiqlol Dushanbe (Tajikistan),Jabal Al Mukaper (Palestine),tajikistan,palestine,TJ,PS,Asia,Asia,Asia,international
+Yeedzin FC,Istiqlol Dushanbe,2011-05-15,0,8,F,AFC Pres. Cup,Yeedzin FC (Bhutan),Istiqlol Dushanbe (Tajikistan),bhutan,tajikistan,BT,TJ,Asia,Asia,Asia,international
+Jabal Al Mukaper,Yadanarbon FC,2011-05-15,3,4,F,AFC Pres. Cup,Jabal Al Mukaper (Palestine),Yadanarbon FC (Myanmar),palestine,myanmar,PS,MYA,Asia,Asia,Asia,international
+Yadanarbon FC,Istiqlol Dushanbe,2011-05-17,1,1,F,AFC Pres. Cup,Yadanarbon FC (Myanmar),Istiqlol Dushanbe (Tajikistan),myanmar,tajikistan,MYA,TJ,Asia,Asia,Asia,international
+Jabal Al Mukaper,Yeedzin FC,2011-05-17,7,0,F,AFC Pres. Cup,Jabal Al Mukaper (Palestine),Yeedzin FC (Bhutan),palestine,bhutan,PS,BT,Asia,Asia,Asia,international
+FK Neftchi Kochkor Ata,Abahani Ltd,2011-05-21,2,0,F,AFC Pres. Cup,FK Neftchi Kochkor Ata (Kyrgyzstan),Abahani Ltd (Bangladesh),kyrgyzstan,bangladesh,KG,BD,Asia,Asia,Asia,international
+Phnom Penh Empire,Don Bosco SC,2011-05-21,3,0,F,AFC Pres. Cup,Phnom Penh Empire (Cambodia),Don Bosco SC (Sri Lanka),cambodia,sri-lanka,KH,LK,Asia,Asia,Asia,international
+Don Bosco SC,FK Neftchi Kochkor Ata,2011-05-23,0,2,F,AFC Pres. Cup,Don Bosco SC (Sri Lanka),FK Neftchi Kochkor Ata (Kyrgyzstan),sri-lanka,kyrgyzstan,LK,KG,Asia,Asia,Asia,international
+Abahani Ltd,Phnom Penh Empire,2011-05-23,0,1,F,AFC Pres. Cup,Abahani Ltd (Bangladesh),Phnom Penh Empire (Cambodia),bangladesh,cambodia,BD,KH,Asia,Asia,Asia,international
+Abahani Ltd,Don Bosco SC,2011-05-25,4,1,F,AFC Pres. Cup,Abahani Ltd (Bangladesh),Don Bosco SC (Sri Lanka),bangladesh,sri-lanka,BD,LK,Asia,Asia,Asia,international
+Phnom Penh Empire,FK Neftchi Kochkor Ata,2011-05-25,0,1,F,AFC Pres. Cup,Phnom Penh Empire (Cambodia),FK Neftchi Kochkor Ata (Kyrgyzstan),cambodia,kyrgyzstan,KH,KG,Asia,Asia,Asia,international
+Phnom Penh Empire,FK Neftchi Kochkor Ata,2011-09-19,2,1,F,AFC Pres. Cup,Phnom Penh Empire (Cambodia),FK Neftchi Kochkor Ata (Kyrgyzstan),cambodia,kyrgyzstan,KH,KG,Asia,Asia,Asia,international
+Istiqlol Dushanbe,Taiwan Power Company,2011-09-19,0,2,F,AFC Pres. Cup,Istiqlol Dushanbe (Tajikistan),Taiwan Power Company (Chinese Taipei),tajikistan,chinese-taipei,TJ,CHT,Asia,Asia,Asia,international
+Nebitchi FC,Istiqlol Dushanbe,2011-09-21,1,1,F,AFC Pres. Cup,Nebitchi FC (Turkmenistan),Istiqlol Dushanbe (Tajikistan),turkmenistan,tajikistan,TM,TJ,Asia,Asia,Asia,international
+Yadanarbon FC,Phnom Penh Empire,2011-09-21,0,4,F,AFC Pres. Cup,Yadanarbon FC (Myanmar),Phnom Penh Empire (Cambodia),myanmar,cambodia,MYA,KH,Asia,Asia,Asia,international
+FK Neftchi Kochkor Ata,Yadanarbon FC,2011-09-23,8,2,F,AFC Pres. Cup,FK Neftchi Kochkor Ata (Kyrgyzstan),Yadanarbon FC (Myanmar),kyrgyzstan,myanmar,KG,MYA,Asia,Asia,Asia,international
+Taiwan Power Company,Nebitchi FC,2011-09-23,4,3,F,AFC Pres. Cup,Taiwan Power Company (Chinese Taipei),Nebitchi FC (Turkmenistan),chinese-taipei,turkmenistan,CHT,TM,Asia,Asia,Asia,international
+Phnom Penh Empire,Taiwan Power Company,2011-09-25,2,3,F,AFC Pres. Cup,Phnom Penh Empire (Cambodia),Taiwan Power Company (Chinese Taipei),cambodia,chinese-taipei,KH,CHT,Asia,Asia,Asia,international
+Phnom Penh Empire,Yeedzin FC,2012-05-05,8,0,F,AFC Pres. Cup,Phnom Penh Empire (Cambodia),Yeedzin FC (Bhutan),cambodia,bhutan,KH,BT,Asia,Asia,Asia,international
+FC Dordoi Dynamo,Mahendra Police Club,2012-05-05,5,1,F,AFC Pres. Cup,FC Dordoi Dynamo (Kyrgyzstan),Mahendra Police Club (Nepal),kyrgyzstan,nepal,KG,NP,Asia,Asia,Asia,international
+Nebitchi FC,Shabab Al Amaari,2012-05-05,1,2,F,AFC Pres. Cup,Nebitchi FC (Turkmenistan),Shabab Al Amaari (Palestine),turkmenistan,palestine,TM,PS,Asia,Asia,Asia,international
+Yeedzin FC,FC Dordoi Dynamo,2012-05-07,2,11,F,AFC Pres. Cup,Yeedzin FC (Bhutan),FC Dordoi Dynamo (Kyrgyzstan),bhutan,kyrgyzstan,BT,KG,Asia,Asia,Asia,international
+Mahendra Police Club,Phnom Penh Empire,2012-05-07,0,1,F,AFC Pres. Cup,Mahendra Police Club (Nepal),Phnom Penh Empire (Cambodia),nepal,cambodia,NP,KH,Asia,Asia,Asia,international
+Shabab Al Amaari,Istiqlol Dushanbe,2012-05-07,0,1,F,AFC Pres. Cup,Shabab Al Amaari (Palestine),Istiqlol Dushanbe (Tajikistan),palestine,tajikistan,PS,TJ,Asia,Asia,Asia,international
+Khan Research Laboratories,Erchim Klub,2012-05-08,0,0,F,AFC Pres. Cup,Khan Research Laboratories (Pakistan),Erchim Klub (Mongolia),pakistan,mongolia,PK,MN,Asia,Asia,Asia,international
+Mahendra Police Club,Yeedzin FC,2012-05-09,4,0,F,AFC Pres. Cup,Mahendra Police Club (Nepal),Yeedzin FC (Bhutan),nepal,bhutan,NP,BT,Asia,Asia,Asia,international
+Phnom Penh Empire,FC Dordoi Dynamo,2012-05-09,0,1,F,AFC Pres. Cup,Phnom Penh Empire (Cambodia),FC Dordoi Dynamo (Kyrgyzstan),cambodia,kyrgyzstan,KH,KG,Asia,Asia,Asia,international
+Istiqlol Dushanbe,Nebitchi FC,2012-05-09,2,1,F,AFC Pres. Cup,Istiqlol Dushanbe (Tajikistan),Nebitchi FC (Turkmenistan),tajikistan,turkmenistan,TJ,TM,Asia,Asia,Asia,international
+Erchim Klub,Taiwan Power Company,2012-05-10,0,1,F,AFC Pres. Cup,Erchim Klub (Mongolia),Taiwan Power Company (Chinese Taipei),mongolia,chinese-taipei,MN,CHT,Asia,Asia,Asia,international
+Khan Research Laboratories,Taiwan Power Company,2012-05-12,0,0,F,AFC Pres. Cup,Khan Research Laboratories (Pakistan),Taiwan Power Company (Chinese Taipei),pakistan,chinese-taipei,PK,CHT,Asia,Asia,Asia,international
+FC Dordoi Dynamo,Istiqlol Dushanbe,2012-09-24,0,2,F,AFC Pres. Cup,FC Dordoi Dynamo (Kyrgyzstan),Istiqlol Dushanbe (Tajikistan),kyrgyzstan,tajikistan,KG,TJ,Asia,Asia,Asia,international
+Taiwan Power Company,Shabab Al Amaari,2012-09-24,1,1,F,AFC Pres. Cup,Taiwan Power Company (Chinese Taipei),Shabab Al Amaari (Palestine),chinese-taipei,palestine,CHT,PS,Asia,Asia,Asia,international
+Khan Research Laboratories,Taiwan Power Company,2012-09-26,1,3,F,AFC Pres. Cup,Khan Research Laboratories (Pakistan),Taiwan Power Company (Chinese Taipei),pakistan,chinese-taipei,PK,CHT,Asia,Asia,Asia,international
+Phnom Penh Empire,FC Dordoi Dynamo,2012-09-26,0,8,F,AFC Pres. Cup,Phnom Penh Empire (Cambodia),FC Dordoi Dynamo (Kyrgyzstan),cambodia,kyrgyzstan,KH,KG,Asia,Asia,Asia,international
+Shabab Al Amaari,Khan Research Laboratories,2012-09-28,5,1,F,AFC Pres. Cup,Shabab Al Amaari (Palestine),Khan Research Laboratories (Pakistan),palestine,pakistan,PS,PK,Asia,Asia,Asia,international
+Istiqlol Dushanbe,Phnom Penh Empire,2012-09-28,6,0,F,AFC Pres. Cup,Istiqlol Dushanbe (Tajikistan),Phnom Penh Empire (Cambodia),tajikistan,cambodia,TJ,KH,Asia,Asia,Asia,international
+Shabab Al Amaari,Istiqlol Dushanbe,2012-09-30,1,2,F,AFC Pres. Cup,Shabab Al Amaari (Palestine),Istiqlol Dushanbe (Tajikistan),palestine,tajikistan,PS,TJ,Asia,Asia,Asia,international
+Hilal Al Quds,Nebitchi FC,2013-05-06,2,3,F,AFC Pres. Cup,Hilal Al Quds (Palestine),Nebitchi FC (Turkmenistan),palestine,turkmenistan,PS,TM,Asia,Asia,Asia,international
+Boeung Ket Rubber Field FC,Sri Lanka Army SC,2013-05-06,6,0,F,AFC Pres. Cup,Boeung Ket Rubber Field FC (Cambodia),Sri Lanka Army SC (Sri Lanka),cambodia,sri-lanka,KH,LK,Asia,Asia,Asia,international
+Taiwan Power Company,Erchim Klub,2013-05-07,0,0,F,AFC Pres. Cup,Taiwan Power Company (Chinese Taipei),Erchim Klub (Mongolia),chinese-taipei,mongolia,CHT,MN,Asia,Asia,Asia,international
+Three Star Club,Abahani Ltd,2013-05-07,1,1,F,AFC Pres. Cup,Three Star Club (Nepal),Abahani Ltd (Bangladesh),nepal,bangladesh,NP,BD,Asia,Asia,Asia,international
+Sri Lanka Army SC,Hilal Al Quds,2013-05-08,0,10,F,AFC Pres. Cup,Sri Lanka Army SC (Sri Lanka),Hilal Al Quds (Palestine),sri-lanka,palestine,LK,PS,Asia,Asia,Asia,international
+FC Dordoi Dynamo,Khan Research Laboratories,2013-05-08,1,1,F,AFC Pres. Cup,FC Dordoi Dynamo (Kyrgyzstan),Khan Research Laboratories (Pakistan),kyrgyzstan,pakistan,KG,PK,Asia,Asia,Asia,international
+Nebitchi FC,Boeung Ket Rubber Field FC,2013-05-08,2,0,F,AFC Pres. Cup,Nebitchi FC (Turkmenistan),Boeung Ket Rubber Field FC (Cambodia),turkmenistan,cambodia,TM,KH,Asia,Asia,Asia,international
+Global Smartmatic FC,Yeedzin FC,2013-05-08,5,0,F,AFC Pres. Cup,Global Smartmatic FC (Philippines),Yeedzin FC (Bhutan),philippines,bhutan,PH,BT,Asia,Asia,Asia,international
+Abahani Ltd,Taiwan Power Company,2013-05-09,1,1,F,AFC Pres. Cup,Abahani Ltd (Bangladesh),Taiwan Power Company (Chinese Taipei),bangladesh,chinese-taipei,BD,CHT,Asia,Asia,Asia,international
+Erchim Klub,Three Star Club,2013-05-09,0,2,F,AFC Pres. Cup,Erchim Klub (Mongolia),Three Star Club (Nepal),mongolia,nepal,MN,NP,Asia,Asia,Asia,international
+Nebitchi FC,Sri Lanka Army SC,2013-05-10,5,0,F,AFC Pres. Cup,Nebitchi FC (Turkmenistan),Sri Lanka Army SC (Sri Lanka),turkmenistan,sri-lanka,TM,LK,Asia,Asia,Asia,international
+Yeedzin FC,FC Dordoi Dynamo,2013-05-10,0,9,F,AFC Pres. Cup,Yeedzin FC (Bhutan),FC Dordoi Dynamo (Kyrgyzstan),bhutan,kyrgyzstan,BT,KG,Asia,Asia,Asia,international
+Boeung Ket Rubber Field FC,Hilal Al Quds,2013-05-10,0,1,F,AFC Pres. Cup,Boeung Ket Rubber Field FC (Cambodia),Hilal Al Quds (Palestine),cambodia,palestine,KH,PS,Asia,Asia,Asia,international
+Khan Research Laboratories,Global Smartmatic FC,2013-05-10,2,0,F,AFC Pres. Cup,Khan Research Laboratories (Pakistan),Global Smartmatic FC (Philippines),pakistan,philippines,PK,PH,Asia,Asia,Asia,international
+Erchim Klub,Abahani Ltd,2013-05-11,1,0,F,AFC Pres. Cup,Erchim Klub (Mongolia),Abahani Ltd (Bangladesh),mongolia,bangladesh,MN,BD,Asia,Asia,Asia,international
+Three Star Club,Taiwan Power Company,2013-05-11,2,2,F,AFC Pres. Cup,Three Star Club (Nepal),Taiwan Power Company (Chinese Taipei),nepal,chinese-taipei,NP,CHT,Asia,Asia,Asia,international
+Khan Research Laboratories,Yeedzin FC,2013-05-12,8,0,F,AFC Pres. Cup,Khan Research Laboratories (Pakistan),Yeedzin FC (Bhutan),pakistan,bhutan,PK,BT,Asia,Asia,Asia,international
+Global Smartmatic FC,FC Dordoi Dynamo,2013-05-12,1,6,F,AFC Pres. Cup,Global Smartmatic FC (Philippines),FC Dordoi Dynamo (Kyrgyzstan),philippines,kyrgyzstan,PH,KG,Asia,Asia,Asia,international
+Three Star Club,Nebitchi FC,2013-09-23,0,6,F,AFC Pres. Cup,Three Star Club (Nepal),Nebitchi FC (Turkmenistan),nepal,turkmenistan,NP,TM,Asia,Asia,Asia,international
+FC Dordoi Dynamo,Khan Research Laboratories,2013-09-23,0,1,F,AFC Pres. Cup,FC Dordoi Dynamo (Kyrgyzstan),Khan Research Laboratories (Pakistan),kyrgyzstan,pakistan,KG,PK,Asia,Asia,Asia,international
+Hilal Al Quds,FC Dordoi Dynamo,2013-09-25,3,2,F,AFC Pres. Cup,Hilal Al Quds (Palestine),FC Dordoi Dynamo (Kyrgyzstan),palestine,kyrgyzstan,PS,KG,Asia,Asia,Asia,international
+Erchim Klub,Three Star Club,2013-09-25,1,1,F,AFC Pres. Cup,Erchim Klub (Mongolia),Three Star Club (Nepal),mongolia,nepal,MN,NP,Asia,Asia,Asia,international
+Khan Research Laboratories,Hilal Al Quds,2013-09-27,2,0,F,AFC Pres. Cup,Khan Research Laboratories (Pakistan),Hilal Al Quds (Palestine),pakistan,palestine,PK,PS,Asia,Asia,Asia,international
+Nebitchi FC,Erchim Klub,2013-09-27,4,0,F,AFC Pres. Cup,Nebitchi FC (Turkmenistan),Erchim Klub (Mongolia),turkmenistan,mongolia,TM,MN,Asia,Asia,Asia,international
+Nebitchi FC,Khan Research Laboratories,2013-09-29,1,0,F,AFC Pres. Cup,Nebitchi FC (Turkmenistan),Khan Research Laboratories (Pakistan),turkmenistan,pakistan,TM,PK,Asia,Asia,Asia,international
+Manang Marshyangdi Club,Royal Sword FC,2014-05-01,6,3,F,AFC Pres. Cup,Manang Marshyangdi Club (Nepal),Royal Sword FC (Cambodia),nepal,cambodia,NP,KH,Asia,Asia,Asia,international
+Royal Sword FC,Erchim Klub,2014-05-03,1,3,F,AFC Pres. Cup,Royal Sword FC (Cambodia),Erchim Klub (Mongolia),cambodia,mongolia,KH,MN,Asia,Asia,Asia,international
+Erchim Klub,Manang Marshyangdi Club,2014-05-05,0,0,F,AFC Pres. Cup,Erchim Klub (Mongolia),Manang Marshyangdi Club (Nepal),mongolia,nepal,MN,NP,Asia,Asia,Asia,international
+Ceres,Rimyongsu Sports Group,2014-05-06,2,2,F,AFC Pres. Cup,Ceres (Philippines),Rimyongsu Sports Group (Korea Dpr),philippines,korea-dpr,PH,NKOR,Asia,Asia,Asia,international
+Halkara Turkmen Turk Uniwersitedi,Tatung,2014-05-06,2,0,F,AFC Pres. Cup,Halkara Turkmen Turk Uniwersitedi (Turkmenistan),Tatung (Chinese Taipei),turkmenistan,chinese-taipei,TM,CHT,Asia,Asia,Asia,international
+Sri Lanka Air Force SC,Ugyen Academy FC,2014-05-07,1,0,F,AFC Pres. Cup,Sri Lanka Air Force SC (Sri Lanka),Ugyen Academy FC (Bhutan),sri-lanka,bhutan,LK,BT,Asia,Asia,Asia,international
+Khan Research Laboratories,Sheikh Russel Kc,2014-05-07,0,0,F,AFC Pres. Cup,Khan Research Laboratories (Pakistan),Sheikh Russel Kc (Bangladesh),pakistan,bangladesh,PK,BD,Asia,Asia,Asia,international
+Rimyongsu Sports Group,Halkara Turkmen Turk Uniwersitedi,2014-05-08,1,1,F,AFC Pres. Cup,Rimyongsu Sports Group (Korea Dpr),Halkara Turkmen Turk Uniwersitedi (Turkmenistan),korea-dpr,turkmenistan,NKOR,TM,Asia,Asia,Asia,international
+Tatung,Ceres,2014-05-08,0,2,F,AFC Pres. Cup,Tatung (Chinese Taipei),Ceres (Philippines),chinese-taipei,philippines,CHT,PH,Asia,Asia,Asia,international
+Ugyen Academy FC,Khan Research Laboratories,2014-05-09,0,3,F,AFC Pres. Cup,Ugyen Academy FC (Bhutan),Khan Research Laboratories (Pakistan),bhutan,pakistan,BT,PK,Asia,Asia,Asia,international
+Sheikh Russel Kc,Sri Lanka Air Force SC,2014-05-09,5,0,F,AFC Pres. Cup,Sheikh Russel Kc (Bangladesh),Sri Lanka Air Force SC (Sri Lanka),bangladesh,sri-lanka,BD,LK,Asia,Asia,Asia,international
+Ceres,Halkara Turkmen Turk Uniwersitedi,2014-05-10,1,2,F,AFC Pres. Cup,Ceres (Philippines),Halkara Turkmen Turk Uniwersitedi (Turkmenistan),philippines,turkmenistan,PH,TM,Asia,Asia,Asia,international
+Tatung,Rimyongsu Sports Group,2014-05-10,0,5,F,AFC Pres. Cup,Tatung (Chinese Taipei),Rimyongsu Sports Group (Korea Dpr),chinese-taipei,korea-dpr,CHT,NKOR,Asia,Asia,Asia,international
+Sheikh Russel Kc,Ugyen Academy FC,2014-05-11,4,0,F,AFC Pres. Cup,Sheikh Russel Kc (Bangladesh),Ugyen Academy FC (Bhutan),bangladesh,bhutan,BD,BT,Asia,Asia,Asia,international
+Sri Lanka Air Force SC,Khan Research Laboratories,2014-05-11,3,0,F,AFC Pres. Cup,Sri Lanka Air Force SC (Sri Lanka),Khan Research Laboratories (Pakistan),sri-lanka,pakistan,LK,PK,Asia,Asia,Asia,international
+Erchim Klub,Sheikh Russel Kc,2014-09-20,0,1,F,AFC Pres. Cup,Erchim Klub (Mongolia),Sheikh Russel Kc (Bangladesh),mongolia,bangladesh,MN,BD,Asia,Asia,Asia,international
+Manang Marshyangdi Club,Sri Lanka Air Force SC,2014-09-20,2,1,F,AFC Pres. Cup,Manang Marshyangdi Club (Nepal),Sri Lanka Air Force SC (Sri Lanka),nepal,sri-lanka,NP,LK,Asia,Asia,Asia,international
+Rimyongsu Sports Group,Erchim Klub,2014-09-22,5,0,F,AFC Pres. Cup,Rimyongsu Sports Group (Korea Dpr),Erchim Klub (Mongolia),korea-dpr,mongolia,NKOR,MN,Asia,Asia,Asia,international
+Halkara Turkmen Turk Uniwersitedi,Manang Marshyangdi Club,2014-09-22,3,1,F,AFC Pres. Cup,Halkara Turkmen Turk Uniwersitedi (Turkmenistan),Manang Marshyangdi Club (Nepal),turkmenistan,nepal,TM,NP,Asia,Asia,Asia,international
+Sheikh Russel Kc,Rimyongsu Sports Group,2014-09-24,0,4,F,AFC Pres. Cup,Sheikh Russel Kc (Bangladesh),Rimyongsu Sports Group (Korea Dpr),bangladesh,korea-dpr,BD,NKOR,Asia,Asia,Asia,international
+Sri Lanka Air Force SC,Halkara Turkmen Turk Uniwersitedi,2014-09-24,1,2,F,AFC Pres. Cup,Sri Lanka Air Force SC (Sri Lanka),Halkara Turkmen Turk Uniwersitedi (Turkmenistan),sri-lanka,turkmenistan,LK,TM,Asia,Asia,Asia,international
+Halkara Turkmen Turk Uniwersitedi,Rimyongsu Sports Group,2014-09-26,2,1,F,AFC Pres. Cup,Halkara Turkmen Turk Uniwersitedi (Turkmenistan),Rimyongsu Sports Group (Korea Dpr),turkmenistan,korea-dpr,TM,NKOR,Asia,Asia,Asia,international

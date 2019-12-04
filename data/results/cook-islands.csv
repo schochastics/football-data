@@ -1,0 +1,413 @@
+home,away,date,gh,ga,full_time,competition,home_ident,away_ident,home_country,away_country,home_code,away_code,home_continent,away_continent,continent,level
+Matavera FC,Tupapa Maraerenga,2008-08-23,0,6,F,cook-islands,Matavera FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Nikao Sokattak,2008-08-23,1,3,F,cook-islands,Avatiu FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Takuvaine FC,2008-08-23,0,6,F,cook-islands,Titikaveka FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Tupapa Maraerenga,2008-09-06,2,0,F,cook-islands,Nikao Sokattak (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Titikaveka FC,2008-09-06,4,5,F,cook-islands,Matavera FC (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Arorangi FC,2008-09-06,1,0,F,cook-islands,Avatiu FC (Cook Islands),Arorangi FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Arorangi FC,2008-09-13,7,0,F,cook-islands,Tupapa Maraerenga (Cook Islands),Arorangi FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Matavera FC,2008-09-13,3,2,F,cook-islands,Takuvaine FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Titikaveka FC,2008-09-13,6,1,F,cook-islands,Nikao Sokattak (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Takuvaine FC,2008-09-20,2,1,F,cook-islands,Nikao Sokattak (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Avatiu FC,2008-09-20,0,4,F,cook-islands,Titikaveka FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Arorangi FC,Matavera FC,2008-09-20,3,0,F,cook-islands,Arorangi FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Nikao Sokattak,2009-10-16,0,2,F,cook-islands,Matavera FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Takuvaine FC,2009-10-17,1,2,F,cook-islands,Titikaveka FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Arorangi FC,Avatiu FC,2009-10-17,0,4,F,cook-islands,Arorangi FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Avatiu FC,2009-10-24,2,2,F,cook-islands,Takuvaine FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Arorangi FC,2009-10-24,0,1,F,cook-islands,Titikaveka FC (Cook Islands),Arorangi FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Tupapa Maraerenga,2009-10-24,0,4,F,cook-islands,Matavera FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Titikaveka FC,2009-10-31,10,2,F,cook-islands,Tupapa Maraerenga (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Arorangi FC,2009-10-31,1,1,F,cook-islands,Takuvaine FC (Cook Islands),Arorangi FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Nikao Sokattak,2009-10-31,0,1,F,cook-islands,Avatiu FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Titikaveka FC,2009-11-04,7,0,F,cook-islands,Nikao Sokattak (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Takuvaine FC,2009-11-04,2,1,F,cook-islands,Matavera FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Avatiu FC,2009-11-04,1,0,F,cook-islands,Tupapa Maraerenga (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Matavera FC,2009-11-14,0,0,F,cook-islands,Titikaveka FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Arorangi FC,2009-11-14,6,1,F,cook-islands,Nikao Sokattak (Cook Islands),Arorangi FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Takuvaine FC,2009-11-14,3,1,F,cook-islands,Tupapa Maraerenga (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Titikaveka FC,2009-11-20,2,1,F,cook-islands,Avatiu FC (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Arorangi FC,Matavera FC,2009-11-21,2,1,F,cook-islands,Arorangi FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Tupapa Maraerenga,2009-11-21,1,0,F,cook-islands,Nikao Sokattak (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Arorangi FC,Tupapa Maraerenga,2009-11-28,2,8,F,cook-islands,Arorangi FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Matavera FC,2009-11-28,1,1,F,cook-islands,Avatiu FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Nikao Sokattak,2009-11-28,0,4,F,cook-islands,Takuvaine FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Tupapa Maraerenga,2010-08-27,1,5,F,cook-islands,Avatiu FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Arorangi FC,2010-08-28,12,0,F,cook-islands,Nikao Sokattak (Cook Islands),Arorangi FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Takuvaine FC,2010-08-28,2,2,F,cook-islands,Matavera FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Arorangi FC,Titikaveka FC,2010-09-03,1,2,F,cook-islands,Arorangi FC (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Avatiu FC,2010-09-04,2,2,F,cook-islands,Matavera FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Tupapa Maraerenga,2010-09-04,1,11,F,cook-islands,Takuvaine FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Takuvaine FC,2010-09-10,9,4,F,cook-islands,Titikaveka FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Nikao Sokattak,2010-09-11,2,4,F,cook-islands,Avatiu FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Arorangi FC,2010-09-11,3,0,F,cook-islands,Matavera FC (Cook Islands),Arorangi FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Tupapa Maraerenga,2010-09-17,0,5,F,cook-islands,Matavera FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Nikao Sokattak,2010-09-18,1,4,F,cook-islands,Titikaveka FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Arorangi FC,Avatiu FC,2010-09-18,1,8,F,cook-islands,Arorangi FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Avatiu FC,2010-09-24,1,1,F,cook-islands,Takuvaine FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Tupapa Maraerenga,2010-09-25,1,3,F,cook-islands,Nikao Sokattak (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Titikaveka FC,2010-09-25,1,1,F,cook-islands,Matavera FC (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Matavera FC,2010-10-01,4,1,F,cook-islands,Nikao Sokattak (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Arorangi FC,2010-10-02,3,1,F,cook-islands,Takuvaine FC (Cook Islands),Arorangi FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Tupapa Maraerenga,2010-10-02,1,6,F,cook-islands,Titikaveka FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Avatiu FC,2010-10-08,1,7,F,cook-islands,Titikaveka FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Takuvaine FC,2010-10-09,2,1,F,cook-islands,Nikao Sokattak (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Arorangi FC,2010-10-09,7,1,F,cook-islands,Tupapa Maraerenga (Cook Islands),Arorangi FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Arorangi FC,Nikao Sokattak,2010-10-15,0,12,F,cook-islands,Arorangi FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Matavera FC,2010-10-16,3,2,F,cook-islands,Takuvaine FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Avatiu FC,2010-10-16,0,1,F,cook-islands,Tupapa Maraerenga (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Arorangi FC,2010-10-22,1,1,F,cook-islands,Titikaveka FC (Cook Islands),Arorangi FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Takuvaine FC,2010-10-23,9,0,F,cook-islands,Tupapa Maraerenga (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Matavera FC,2010-10-23,2,2,F,cook-islands,Avatiu FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Avatiu FC,2010-10-29,4,1,F,cook-islands,Nikao Sokattak (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Titikaveka FC,2010-10-30,3,2,F,cook-islands,Takuvaine FC (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Arorangi FC,Matavera FC,2010-10-30,2,1,F,cook-islands,Arorangi FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Titikaveka FC,2010-11-02,7,0,F,cook-islands,Nikao Sokattak (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Arorangi FC,2010-11-05,1,7,F,cook-islands,Avatiu FC (Cook Islands),Arorangi FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Matavera FC,2010-11-06,6,0,F,cook-islands,Tupapa Maraerenga (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Takuvaine FC,2010-11-12,1,4,F,cook-islands,Avatiu FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Matavera FC,2010-11-13,2,2,F,cook-islands,Titikaveka FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Nikao Sokattak,2010-11-13,0,0,F,cook-islands,Tupapa Maraerenga (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Nikao Sokattak,2010-11-19,1,3,F,cook-islands,Matavera FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Titikaveka FC,2010-11-20,4,1,F,cook-islands,Tupapa Maraerenga (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Arorangi FC,Takuvaine FC,2010-11-20,1,3,F,cook-islands,Arorangi FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Nikao Sokattak,2010-11-27,2,3,F,cook-islands,Takuvaine FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Arorangi FC,Tupapa Maraerenga,2010-11-27,1,8,F,cook-islands,Arorangi FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Titikaveka FC,2010-11-27,4,0,F,cook-islands,Avatiu FC (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Tupapa Maraerenga,2011-09-17,1,4,F,cook-islands,Takuvaine FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Arorangi FC,2011-09-17,0,0,F,cook-islands,Avatiu FC (Cook Islands),Arorangi FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Avatiu FC,2011-09-23,5,1,F,cook-islands,Tupapa Maraerenga (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Nikao Sokattak,2011-09-24,0,5,F,cook-islands,Titikaveka FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Takuvaine FC,2011-09-24,0,1,F,cook-islands,Matavera FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Arorangi FC,2011-09-30,0,1,F,cook-islands,Matavera FC (Cook Islands),Arorangi FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Titikaveka FC,2011-10-01,2,3,F,cook-islands,Takuvaine FC (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Tupapa Maraerenga,2011-10-01,2,2,F,cook-islands,Nikao Sokattak (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Arorangi FC,Nikao Sokattak,2011-10-07,0,2,F,cook-islands,Arorangi FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Titikaveka FC,2011-10-08,1,2,F,cook-islands,Avatiu FC (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Matavera FC,2011-10-08,4,0,F,cook-islands,Tupapa Maraerenga (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Matavera FC,2011-10-11,1,1,F,cook-islands,Titikaveka FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Nikao Sokattak,2011-10-14,0,4,F,cook-islands,Takuvaine FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Arorangi FC,2011-10-15,2,0,F,cook-islands,Titikaveka FC (Cook Islands),Arorangi FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Avatiu FC,2011-10-15,3,0,F,cook-islands,Matavera FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Matavera FC,2011-10-21,2,0,F,cook-islands,Nikao Sokattak (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Arorangi FC,Tupapa Maraerenga,2011-10-22,0,3,F,cook-islands,Arorangi FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Takuvaine FC,2011-10-22,1,1,F,cook-islands,Avatiu FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Avatiu FC,2011-10-25,5,0,F,cook-islands,Nikao Sokattak (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Arorangi FC,Takuvaine FC,2011-10-25,3,1,F,cook-islands,Arorangi FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Tupapa Maraerenga,2011-10-25,0,9,F,cook-islands,Titikaveka FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Titikaveka FC,2011-10-28,0,1,F,cook-islands,Matavera FC (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Takuvaine FC,2011-10-29,7,0,F,cook-islands,Tupapa Maraerenga (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Arorangi FC,Avatiu FC,2011-10-29,1,3,F,cook-islands,Arorangi FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Titikaveka FC,2011-11-01,9,0,F,cook-islands,Nikao Sokattak (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Tupapa Maraerenga,2011-11-01,1,5,F,cook-islands,Avatiu FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Matavera FC,2011-11-01,1,0,F,cook-islands,Takuvaine FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Nikao Sokattak,2011-11-05,1,0,F,cook-islands,Tupapa Maraerenga (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Arorangi FC,Matavera FC,2011-11-05,2,1,F,cook-islands,Arorangi FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Takuvaine FC,2011-11-08,2,4,F,cook-islands,Titikaveka FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Arorangi FC,2011-11-11,5,2,F,cook-islands,Nikao Sokattak (Cook Islands),Arorangi FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Tupapa Maraerenga,2011-11-12,0,11,F,cook-islands,Matavera FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Avatiu FC,2011-11-12,2,2,F,cook-islands,Titikaveka FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Takuvaine FC,2011-11-15,2,1,F,cook-islands,Nikao Sokattak (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Matavera FC,2011-11-15,2,1,F,cook-islands,Avatiu FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Arorangi FC,Titikaveka FC,2011-11-15,3,2,F,cook-islands,Arorangi FC (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Nikao Sokattak,2011-11-18,1,2,F,cook-islands,Matavera FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Avatiu FC,2011-11-19,2,0,F,cook-islands,Takuvaine FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Arorangi FC,2011-11-19,1,1,F,cook-islands,Tupapa Maraerenga (Cook Islands),Arorangi FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Arorangi FC,2011-11-25,6,0,F,cook-islands,Takuvaine FC (Cook Islands),Arorangi FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Nikao Sokattak,2011-11-26,1,2,F,cook-islands,Avatiu FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Titikaveka FC,2011-11-29,3,0,F,cook-islands,Tupapa Maraerenga (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Arorangi FC,2012-08-25,2,1,F,cook-islands,Avatiu FC (Cook Islands),Arorangi FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Titikaveka FC,2012-08-25,2,2,F,cook-islands,Matavera FC (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Tupapa Maraerenga,2012-08-26,0,3,F,cook-islands,Takuvaine FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Tupapa Maraerenga,2012-09-01,1,6,F,cook-islands,Avatiu FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Titikaveka FC,2012-09-02,15,0,F,cook-islands,Nikao Sokattak (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Takuvaine FC,2012-09-02,0,1,F,cook-islands,Matavera FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Arorangi FC,2012-09-08,3,1,F,cook-islands,Matavera FC (Cook Islands),Arorangi FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Tupapa Maraerenga,2012-09-09,1,2,F,cook-islands,Nikao Sokattak (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Takuvaine FC,2012-09-09,1,1,F,cook-islands,Titikaveka FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Titikaveka FC,2012-09-15,0,0,F,cook-islands,Avatiu FC (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Arorangi FC,Nikao Sokattak,2012-09-16,3,0,F,cook-islands,Arorangi FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Matavera FC,2012-09-16,2,0,F,cook-islands,Tupapa Maraerenga (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Nikao Sokattak,2012-09-22,0,2,F,cook-islands,Takuvaine FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Avatiu FC,2012-09-23,1,0,F,cook-islands,Matavera FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Arorangi FC,2012-09-23,0,1,F,cook-islands,Titikaveka FC (Cook Islands),Arorangi FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Matavera FC,2012-09-29,4,0,F,cook-islands,Nikao Sokattak (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Takuvaine FC,2012-09-30,2,2,F,cook-islands,Avatiu FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Arorangi FC,2012-09-30,9,0,F,cook-islands,Tupapa Maraerenga (Cook Islands),Arorangi FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Arorangi FC,Takuvaine FC,2012-10-06,1,3,F,cook-islands,Arorangi FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Avatiu FC,2012-10-07,3,2,F,cook-islands,Nikao Sokattak (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Tupapa Maraerenga,2012-10-07,0,4,F,cook-islands,Titikaveka FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Matavera FC,2012-10-13,0,1,F,cook-islands,Titikaveka FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Arorangi FC,Avatiu FC,2012-10-14,2,1,F,cook-islands,Arorangi FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Takuvaine FC,2012-10-14,9,0,F,cook-islands,Tupapa Maraerenga (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Matavera FC,2012-10-20,1,3,F,cook-islands,Takuvaine FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Avatiu FC,2012-10-21,6,1,F,cook-islands,Tupapa Maraerenga (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Nikao Sokattak,2012-10-21,1,9,F,cook-islands,Titikaveka FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Titikaveka FC,2012-10-26,2,9,F,cook-islands,Takuvaine FC (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Arorangi FC,Matavera FC,2012-10-26,5,0,F,cook-islands,Arorangi FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Nikao Sokattak,2012-10-28,0,2,F,cook-islands,Tupapa Maraerenga (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Arorangi FC,2012-11-04,6,1,F,cook-islands,Nikao Sokattak (Cook Islands),Arorangi FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Tupapa Maraerenga,2012-11-04,0,9,F,cook-islands,Matavera FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Avatiu FC,2012-11-06,2,5,F,cook-islands,Titikaveka FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Takuvaine FC,2012-11-09,2,3,F,cook-islands,Nikao Sokattak (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Arorangi FC,Titikaveka FC,2012-11-10,5,1,F,cook-islands,Arorangi FC (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Matavera FC,2012-11-10,1,2,F,cook-islands,Avatiu FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Nikao Sokattak,2012-11-17,2,0,F,cook-islands,Matavera FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Arorangi FC,Tupapa Maraerenga,2012-11-18,1,1,F,cook-islands,Arorangi FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Avatiu FC,2012-11-18,1,1,F,cook-islands,Takuvaine FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Arorangi FC,2012-11-24,0,4,F,cook-islands,Takuvaine FC (Cook Islands),Arorangi FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Nikao Sokattak,2012-11-25,0,3,F,cook-islands,Avatiu FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Titikaveka FC,2012-11-25,3,1,F,cook-islands,Tupapa Maraerenga (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Tupapa Maraerenga,2013-08-23,0,3,F,cook-islands,Matavera FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Nikao Sokattak,2013-08-24,1,1,F,cook-islands,Puaikura (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Avatiu FC,2013-08-26,7,4,F,cook-islands,Takuvaine FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Titikaveka FC,2013-08-30,11,0,F,cook-islands,Puaikura (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Tupapa Maraerenga,2013-08-31,0,3,F,cook-islands,Takuvaine FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Avatiu FC,2013-09-02,4,0,F,cook-islands,Nikao Sokattak (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Tupapa Maraerenga,2013-09-06,0,1,F,cook-islands,Nikao Sokattak (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Titikaveka FC,2013-09-07,5,1,F,cook-islands,Avatiu FC (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Puaikura,2013-09-07,1,13,F,cook-islands,Matavera FC (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Nikao Sokattak,2013-09-13,1,2,F,cook-islands,Matavera FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Puaikura,2013-09-14,1,11,F,cook-islands,Avatiu FC (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Takuvaine FC,2013-09-16,11,5,F,cook-islands,Titikaveka FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Puaikura,2013-09-20,1,1,F,cook-islands,Tupapa Maraerenga (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Nikao Sokattak,2013-09-21,2,4,F,cook-islands,Titikaveka FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Takuvaine FC,2013-09-21,5,2,F,cook-islands,Matavera FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Matavera FC,2013-09-27,2,2,F,cook-islands,Avatiu FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Tupapa Maraerenga,2013-09-28,1,9,F,cook-islands,Titikaveka FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Takuvaine FC,2013-09-28,14,1,F,cook-islands,Puaikura (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Nikao Sokattak,2013-10-04,1,4,F,cook-islands,Takuvaine FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Tupapa Maraerenga,2013-10-05,2,5,F,cook-islands,Avatiu FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Titikaveka FC,2013-10-05,4,2,F,cook-islands,Matavera FC (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Puaikura,2013-10-11,1,2,F,cook-islands,Nikao Sokattak (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Takuvaine FC,2013-10-12,2,1,F,cook-islands,Avatiu FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Matavera FC,2013-10-12,8,1,F,cook-islands,Tupapa Maraerenga (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Puaikura,2013-10-18,2,10,F,cook-islands,Titikaveka FC (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Nikao Sokattak,2013-10-19,1,6,F,cook-islands,Avatiu FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Avatiu FC,2013-10-25,0,3,F,cook-islands,Titikaveka FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Matavera FC,2013-10-26,3,2,F,cook-islands,Puaikura (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Nikao Sokattak,2013-10-26,0,1,F,cook-islands,Tupapa Maraerenga (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Takuvaine FC,2013-10-29,3,0,F,cook-islands,Titikaveka FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Matavera FC,2013-11-02,4,4,F,cook-islands,Nikao Sokattak (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Avatiu FC,2013-11-02,5,0,F,cook-islands,Puaikura (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Matavera FC,2013-11-08,0,3,F,cook-islands,Takuvaine FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Titikaveka FC,2013-11-09,8,1,F,cook-islands,Nikao Sokattak (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Tupapa Maraerenga,2013-11-09,1,1,F,cook-islands,Puaikura (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Puaikura,2013-11-15,0,8,F,cook-islands,Takuvaine FC (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Avatiu FC,2013-11-16,1,1,F,cook-islands,Matavera FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Titikaveka FC,2013-11-16,8,0,F,cook-islands,Tupapa Maraerenga (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Takuvaine FC,2013-11-19,0,0,F,cook-islands,Tupapa Maraerenga (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Matavera FC,2013-11-22,1,1,F,cook-islands,Titikaveka FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Takuvaine FC,2013-11-23,3,2,F,cook-islands,Nikao Sokattak (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Avatiu FC,2013-11-23,6,2,F,cook-islands,Tupapa Maraerenga (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Nikao Sokattak,2013-12-07,2,1,F,cook-islands,Puaikura (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Matavera FC,2013-12-07,5,0,F,cook-islands,Tupapa Maraerenga (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Tupapa Maraerenga,2013-12-14,1,2,F,cook-islands,Puaikura (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Avatiu FC,2014-08-21,1,1,F,cook-islands,Tupapa Maraerenga (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Takuvaine FC,2014-08-23,3,0,F,cook-islands,Matavera FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Titikaveka FC,2014-08-23,2,0,F,cook-islands,Nikao Sokattak (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Matavera FC,2014-08-28,2,1,F,cook-islands,Nikao Sokattak (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Takuvaine FC,2014-08-30,3,0,F,cook-islands,Puaikura (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Titikaveka FC,2014-08-30,4,0,F,cook-islands,Avatiu FC (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Nikao Sokattak,2014-09-04,2,1,F,cook-islands,Takuvaine FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Puaikura,2014-09-06,1,1,F,cook-islands,Tupapa Maraerenga (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Matavera FC,2014-09-06,2,1,F,cook-islands,Avatiu FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Puaikura,2014-09-11,2,4,F,cook-islands,Matavera FC (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Takuvaine FC,2014-09-13,4,1,F,cook-islands,Avatiu FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Tupapa Maraerenga,2014-09-13,0,11,F,cook-islands,Titikaveka FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Takuvaine FC,2014-09-18,1,3,F,cook-islands,Titikaveka FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Puaikura,2014-09-20,1,4,F,cook-islands,Nikao Sokattak (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Tupapa Maraerenga,2014-09-20,4,5,F,cook-islands,Matavera FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Puaikura,2014-09-25,0,0,F,cook-islands,Avatiu FC (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Matavera FC,2014-09-27,1,1,F,cook-islands,Titikaveka FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Nikao Sokattak,2014-09-27,4,0,F,cook-islands,Tupapa Maraerenga (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Titikaveka FC,2014-09-29,10,0,F,cook-islands,Puaikura (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Nikao Sokattak,2014-10-04,2,0,F,cook-islands,Avatiu FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Takuvaine FC,2014-10-04,5,2,F,cook-islands,Tupapa Maraerenga (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Tupapa Maraerenga,2014-10-11,0,3,F,cook-islands,Avatiu FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Matavera FC,2014-10-12,5,0,F,cook-islands,Takuvaine FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Nikao Sokattak,2014-10-12,1,5,F,cook-islands,Titikaveka FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Nikao Sokattak,2014-10-16,4,1,F,cook-islands,Matavera FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Puaikura,2014-10-18,2,1,F,cook-islands,Takuvaine FC (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Avatiu FC,2014-10-18,2,4,F,cook-islands,Titikaveka FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Takuvaine FC,2014-10-23,1,5,F,cook-islands,Nikao Sokattak (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Tupapa Maraerenga,2014-10-25,2,1,F,cook-islands,Puaikura (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Avatiu FC,2014-10-25,3,0,F,cook-islands,Matavera FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Matavera FC,2014-10-30,4,0,F,cook-islands,Puaikura (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Avatiu FC,2014-11-01,2,2,F,cook-islands,Takuvaine FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Titikaveka FC,2014-11-01,10,0,F,cook-islands,Tupapa Maraerenga (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Titikaveka FC,2014-11-06,3,4,F,cook-islands,Takuvaine FC (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Nikao Sokattak,2014-11-08,6,1,F,cook-islands,Puaikura (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Matavera FC,2014-11-08,8,1,F,cook-islands,Tupapa Maraerenga (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Avatiu FC,2014-11-13,9,1,F,cook-islands,Puaikura (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Titikaveka FC,2014-11-15,4,2,F,cook-islands,Matavera FC (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Tupapa Maraerenga,2014-11-15,0,8,F,cook-islands,Nikao Sokattak (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Puaikura,2014-11-20,1,2,F,cook-islands,Titikaveka FC (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Avatiu FC,2014-11-22,0,7,F,cook-islands,Nikao Sokattak (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Tupapa Maraerenga,2014-11-22,1,2,F,cook-islands,Takuvaine FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Tupapa Maraerenga,2015-08-28,1,3,F,cook-islands,Avatiu FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Nikao Sokattak,2015-08-29,10,0,F,cook-islands,Puaikura (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Titikaveka FC,2015-08-29,3,0,F,cook-islands,Matavera FC (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Tupapa Maraerenga,2015-09-05,5,4,F,cook-islands,Titikaveka FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Avatiu FC,2015-09-05,3,2,F,cook-islands,Nikao Sokattak (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Matavera FC,2015-09-05,0,2,F,cook-islands,Takuvaine FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Takuvaine FC,2015-09-12,3,1,F,cook-islands,Tupapa Maraerenga (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Puaikura,2015-09-12,0,3,F,cook-islands,Matavera FC (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Titikaveka FC,2015-09-12,1,6,F,cook-islands,Avatiu FC (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Matavera FC,2015-09-19,1,0,F,cook-islands,Nikao Sokattak (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Tupapa Maraerenga,2015-09-19,1,3,F,cook-islands,Puaikura (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Takuvaine FC,2015-09-19,1,3,F,cook-islands,Titikaveka FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Puaikura,2015-09-26,3,0,F,cook-islands,Titikaveka FC (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Takuvaine FC,2015-09-26,0,4,F,cook-islands,Avatiu FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Nikao Sokattak,2015-09-26,3,1,F,cook-islands,Tupapa Maraerenga (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Puaikura,2015-10-03,0,2,F,cook-islands,Takuvaine FC (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Matavera FC,2015-10-03,4,3,F,cook-islands,Avatiu FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Nikao Sokattak,2015-10-03,2,1,F,cook-islands,Titikaveka FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Matavera FC,2015-10-10,2,1,F,cook-islands,Tupapa Maraerenga (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Puaikura,2015-10-10,1,2,F,cook-islands,Avatiu FC (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Takuvaine FC,2015-10-10,1,0,F,cook-islands,Nikao Sokattak (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Avatiu FC,2015-10-16,2,1,F,cook-islands,Tupapa Maraerenga (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Puaikura,2015-10-17,2,0,F,cook-islands,Nikao Sokattak (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Matavera FC,2015-10-17,0,3,F,cook-islands,Titikaveka FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Nikao Sokattak,2015-10-23,1,2,F,cook-islands,Avatiu FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Titikaveka FC,2015-10-24,3,1,F,cook-islands,Tupapa Maraerenga (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Takuvaine FC,2015-10-25,2,1,F,cook-islands,Matavera FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Matavera FC,2015-10-30,2,2,F,cook-islands,Puaikura (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Avatiu FC,2015-10-31,4,0,F,cook-islands,Titikaveka FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Tupapa Maraerenga,2015-10-31,0,6,F,cook-islands,Takuvaine FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Titikaveka FC,2015-11-06,0,3,F,cook-islands,Takuvaine FC (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Nikao Sokattak,2015-11-06,3,1,F,cook-islands,Matavera FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Puaikura,2015-11-07,1,1,F,cook-islands,Tupapa Maraerenga (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Avatiu FC,2015-11-14,4,1,F,cook-islands,Takuvaine FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Titikaveka FC,2015-11-15,1,0,F,cook-islands,Puaikura (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Tupapa Maraerenga,2015-11-15,2,1,F,cook-islands,Nikao Sokattak (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Titikaveka FC,2015-11-20,1,2,F,cook-islands,Nikao Sokattak (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Takuvaine FC,2015-11-21,0,5,F,cook-islands,Puaikura (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Avatiu FC,2015-11-21,1,1,F,cook-islands,Matavera FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Tupapa Maraerenga,2015-11-27,4,1,F,cook-islands,Matavera FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Avatiu FC,2015-11-28,5,0,F,cook-islands,Puaikura (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Nikao Sokattak,2015-11-28,2,1,F,cook-islands,Takuvaine FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Nikao Sokattak,2016-08-26,0,0,F,cook-islands,Puaikura (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Takuvaine FC,2016-08-26,3,2,F,cook-islands,Avatiu FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Tupapa Maraerenga,2016-08-26,1,2,F,cook-islands,Matavera FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Matavera FC,2016-09-02,4,1,F,cook-islands,Takuvaine FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Tupapa Maraerenga,2016-09-02,3,4,F,cook-islands,Titikaveka FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Nikao Sokattak,2016-09-03,0,7,F,cook-islands,Avatiu FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Takuvaine FC,2016-09-09,1,3,F,cook-islands,Tupapa Maraerenga (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Puaikura,2016-09-10,0,3,F,cook-islands,Matavera FC (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Titikaveka FC,2016-09-10,5,0,F,cook-islands,Nikao Sokattak (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Avatiu FC,2016-09-17,4,5,F,cook-islands,Titikaveka FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Tupapa Maraerenga,2016-09-17,5,2,F,cook-islands,Puaikura (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Takuvaine FC,2016-09-17,3,3,F,cook-islands,Nikao Sokattak (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Nikao Sokattak,2016-10-01,0,1,F,cook-islands,Matavera FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Puaikura,2016-10-03,0,4,F,cook-islands,Avatiu FC (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Avatiu FC,2016-10-07,1,1,F,cook-islands,Matavera FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Tupapa Maraerenga,2016-10-08,0,2,F,cook-islands,Nikao Sokattak (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Puaikura,2016-10-08,0,11,F,cook-islands,Titikaveka FC (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Puaikura,2016-10-14,0,3,F,cook-islands,Nikao Sokattak (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Avatiu FC,2016-10-15,6,2,F,cook-islands,Takuvaine FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Matavera FC,2016-10-15,8,0,F,cook-islands,Tupapa Maraerenga (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Takuvaine FC,2016-10-21,2,3,F,cook-islands,Matavera FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Avatiu FC,2016-10-22,1,1,F,cook-islands,Nikao Sokattak (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Titikaveka FC,2016-10-22,2,1,F,cook-islands,Tupapa Maraerenga (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Nikao Sokattak,2016-10-29,2,4,F,cook-islands,Titikaveka FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Matavera FC,2016-10-29,3,1,F,cook-islands,Puaikura (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Titikaveka FC,2016-11-03,2,1,F,cook-islands,Avatiu FC (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Puaikura,2016-11-07,1,2,F,cook-islands,Tupapa Maraerenga (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Takuvaine FC,2016-11-08,1,1,F,cook-islands,Nikao Sokattak (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Tupapa Maraerenga,2016-11-11,2,5,F,cook-islands,Avatiu FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Puaikura,2016-11-14,1,1,F,cook-islands,Takuvaine FC (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Matavera FC,2016-11-14,4,0,F,cook-islands,Titikaveka FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Takuvaine FC,2016-11-18,3,3,F,cook-islands,Titikaveka FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Avatiu FC,2016-11-19,4,0,F,cook-islands,Puaikura (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Matavera FC,2016-11-19,2,0,F,cook-islands,Nikao Sokattak (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Matavera FC,2016-11-24,2,0,F,cook-islands,Avatiu FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Nikao Sokattak,2016-11-26,1,1,F,cook-islands,Tupapa Maraerenga (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Titikaveka FC,2016-11-26,8,3,F,cook-islands,Puaikura (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Titikaveka FC,2017-08-25,6,2,F,cook-islands,Tupapa Maraerenga (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Avatiu FC,2017-08-26,3,0,F,cook-islands,Nikao Sokattak (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Matavera FC,2017-08-26,1,0,F,cook-islands,Takuvaine FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Tupapa Maraerenga,2017-09-01,2,2,F,cook-islands,Matavera FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Takuvaine FC,2017-09-02,1,1,F,cook-islands,Nikao Sokattak (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Puaikura,2017-09-02,1,3,F,cook-islands,Avatiu FC (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Titikaveka FC,2017-09-08,6,3,F,cook-islands,Takuvaine FC (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Puaikura,2017-09-09,1,1,F,cook-islands,Nikao Sokattak (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Avatiu FC,2017-09-09,0,0,F,cook-islands,Matavera FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Matavera FC,2017-09-15,3,1,F,cook-islands,Puaikura (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Titikaveka FC,2017-09-16,2,6,F,cook-islands,Avatiu FC (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Tupapa Maraerenga,2017-09-16,1,3,F,cook-islands,Takuvaine FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Takuvaine FC,2017-09-22,2,0,F,cook-islands,Puaikura (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Matavera FC,2017-09-23,2,1,F,cook-islands,Titikaveka FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Nikao Sokattak,2017-09-23,3,2,F,cook-islands,Tupapa Maraerenga (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Avatiu FC,2017-09-29,1,0,F,cook-islands,Takuvaine FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Tupapa Maraerenga,2017-09-30,0,1,F,cook-islands,Puaikura (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Nikao Sokattak,2017-09-30,3,4,F,cook-islands,Titikaveka FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Avatiu FC,2017-10-07,6,1,F,cook-islands,Tupapa Maraerenga (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Matavera FC,2017-10-07,2,2,F,cook-islands,Nikao Sokattak (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Puaikura,2017-10-07,3,3,F,cook-islands,Titikaveka FC (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Matavera FC,2017-10-14,3,0,F,cook-islands,Tupapa Maraerenga (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Nikao Sokattak,2017-10-14,1,2,F,cook-islands,Takuvaine FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Avatiu FC,2017-10-14,3,1,F,cook-islands,Puaikura (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Tupapa Maraerenga,2017-10-21,0,7,F,cook-islands,Titikaveka FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Nikao Sokattak,2017-10-21,2,2,F,cook-islands,Avatiu FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Takuvaine FC,2017-10-21,1,2,F,cook-islands,Matavera FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Takuvaine FC,2017-10-28,2,2,F,cook-islands,Titikaveka FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Matavera FC,2017-10-28,3,6,F,cook-islands,Avatiu FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Nikao Sokattak,2017-10-28,0,2,F,cook-islands,Puaikura (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Avatiu FC,2017-11-03,0,3,F,cook-islands,Titikaveka FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Takuvaine FC,2017-11-04,7,0,F,cook-islands,Tupapa Maraerenga (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Puaikura,2017-11-04,1,1,F,cook-islands,Matavera FC (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Tupapa Maraerenga,2017-11-10,0,6,F,cook-islands,Nikao Sokattak (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Takuvaine FC,Puaikura,2017-11-11,3,2,F,cook-islands,Takuvaine FC (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Titikaveka FC,2017-11-11,5,1,F,cook-islands,Matavera FC (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Puaikura,2017-11-18,4,5,F,cook-islands,Tupapa Maraerenga (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Titikaveka FC,2017-11-18,7,0,F,cook-islands,Nikao Sokattak (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Takuvaine FC,2017-11-18,0,3,F,cook-islands,Avatiu FC (Cook Islands),Takuvaine FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Tupapa Maraerenga,2017-11-25,1,6,F,cook-islands,Avatiu FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Nikao Sokattak,2017-11-25,0,3,F,cook-islands,Matavera FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Titikaveka FC,2017-11-25,8,3,F,cook-islands,Puaikura (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Tupapa Maraerenga,2018-08-18,0,1,F,cook-islands,Puaikura (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Avatiu FC,2018-08-18,2,4,F,cook-islands,Matavera FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Titikaveka FC,2018-08-18,4,1,F,cook-islands,Nikao Sokattak (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Matavera FC,2018-08-24,3,0,F,cook-islands,Tupapa Maraerenga (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Titikaveka FC,2018-08-25,1,1,F,cook-islands,Avatiu FC (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Puaikura,2018-08-25,0,3,F,cook-islands,Nikao Sokattak (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Matavera FC,2018-09-01,6,1,F,cook-islands,Nikao Sokattak (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Puaikura,2018-09-01,1,4,F,cook-islands,Titikaveka FC (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Tupapa Maraerenga,2018-09-01,2,2,F,cook-islands,Avatiu FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Titikaveka FC,2018-09-07,6,0,F,cook-islands,Tupapa Maraerenga (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Matavera FC,2018-09-07,0,2,F,cook-islands,Puaikura (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Nikao Sokattak,2018-09-07,1,2,F,cook-islands,Avatiu FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Matavera FC,2018-09-15,1,1,F,cook-islands,Titikaveka FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Tupapa Maraerenga,2018-09-15,4,2,F,cook-islands,Nikao Sokattak (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Puaikura,2018-09-15,0,4,F,cook-islands,Avatiu FC (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Matavera FC,2018-09-22,0,1,F,cook-islands,Avatiu FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Puaikura,2018-09-22,1,0,F,cook-islands,Tupapa Maraerenga (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Nikao Sokattak,2018-09-22,3,1,F,cook-islands,Titikaveka FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Nikao Sokattak,2018-09-29,1,1,F,cook-islands,Puaikura (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Avatiu FC,2018-09-29,2,0,F,cook-islands,Titikaveka FC (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Tupapa Maraerenga,2018-09-29,0,3,F,cook-islands,Matavera FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Nikao Sokattak,2018-10-06,0,6,F,cook-islands,Matavera FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Avatiu FC,2018-10-06,3,1,F,cook-islands,Tupapa Maraerenga (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Titikaveka FC,2018-10-06,5,1,F,cook-islands,Puaikura (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Avatiu FC,2018-10-11,5,3,F,cook-islands,Nikao Sokattak (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Tupapa Maraerenga,2018-10-13,2,3,F,cook-islands,Titikaveka FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Puaikura,2018-10-13,0,2,F,cook-islands,Matavera FC (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Avatiu FC,2018-10-19,4,2,F,cook-islands,Puaikura (Cook Islands),Avatiu FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Nikao Sokattak,2018-10-19,3,2,F,cook-islands,Tupapa Maraerenga (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Titikaveka FC,2018-10-19,1,1,F,cook-islands,Matavera FC (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Titikaveka FC,2018-10-26,3,0,F,cook-islands,Nikao Sokattak (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Matavera FC,2018-10-27,1,1,F,cook-islands,Avatiu FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Tupapa Maraerenga,2018-10-27,1,4,F,cook-islands,Puaikura (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Titikaveka FC,2018-11-02,6,2,F,cook-islands,Avatiu FC (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Nikao Sokattak,2018-11-03,0,3,F,cook-islands,Puaikura (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Matavera FC,2018-11-03,4,1,F,cook-islands,Tupapa Maraerenga (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Matavera FC,Nikao Sokattak,2018-11-10,0,1,F,cook-islands,Matavera FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Puaikura,2018-11-10,2,3,F,cook-islands,Titikaveka FC (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Tupapa Maraerenga,2018-11-10,1,2,F,cook-islands,Avatiu FC (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Tupapa Maraerenga,Titikaveka FC,2018-11-17,6,0,F,cook-islands,Tupapa Maraerenga (Cook Islands),Titikaveka FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Nikao Sokattak,2018-11-17,0,7,F,cook-islands,Avatiu FC (Cook Islands),Nikao Sokattak (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Puaikura,Matavera FC,2018-11-17,2,3,F,cook-islands,Puaikura (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Nikao Sokattak,Tupapa Maraerenga,2018-11-24,3,1,F,cook-islands,Nikao Sokattak (Cook Islands),Tupapa Maraerenga (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Avatiu FC,Puaikura,2018-11-24,2,1,F,cook-islands,Avatiu FC (Cook Islands),Puaikura (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national
+Titikaveka FC,Matavera FC,2018-11-24,0,3,F,cook-islands,Titikaveka FC (Cook Islands),Matavera FC (Cook Islands),cook-islands,cook-islands,CK,CK,Oceania,Oceania,Oceania,national

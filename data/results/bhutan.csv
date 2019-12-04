@@ -1,0 +1,392 @@
+home,away,date,gh,ga,full_time,competition,home_ident,away_ident,home_country,away_country,home_code,away_code,home_continent,away_continent,continent,level
+Rigzung,Yeedzin FC,2009-06-20,2,10,F,bhutan,Rigzung (Bhutan),Yeedzin FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Rba,Druk Pol FC,2009-06-21,0,2,F,bhutan,Rba (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Druk Athletic FC,2009-06-21,5,0,F,bhutan,Druk Star FC (Bhutan),Druk Athletic FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Choden FC,Transport United FC,2009-06-22,3,3,F,bhutan,Choden FC (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Druk Pol FC,2009-06-23,3,0,F,bhutan,Yeedzin FC (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Rigzung,Rba,2009-06-24,1,5,F,bhutan,Rigzung (Bhutan),Rba (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Choden FC,2009-06-25,1,1,F,bhutan,Druk Star FC (Bhutan),Choden FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Athletic FC,Transport United FC,2009-06-26,1,9,F,bhutan,Druk Athletic FC (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Rigzung,Druk Star FC,2009-06-27,0,11,F,bhutan,Rigzung (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Choden FC,2009-06-27,3,2,F,bhutan,Yeedzin FC (Bhutan),Choden FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Rba,Druk Athletic FC,2009-06-28,5,0,F,bhutan,Rba (Bhutan),Druk Athletic FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Pol FC,Transport United FC,2009-06-28,2,2,F,bhutan,Druk Pol FC (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Rigzung,Choden FC,2009-06-29,2,3,F,bhutan,Rigzung (Bhutan),Choden FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Druk Star FC,2009-06-30,1,2,F,bhutan,Yeedzin FC (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Pol FC,Druk Athletic FC,2009-07-01,10,1,F,bhutan,Druk Pol FC (Bhutan),Druk Athletic FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Rba,Transport United FC,2009-07-02,3,3,F,bhutan,Rba (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Rigzung,Druk Pol FC,2009-07-03,0,9,F,bhutan,Rigzung (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Rba,2009-07-04,1,2,F,bhutan,Yeedzin FC (Bhutan),Rba (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Transport United FC,2009-07-04,1,1,F,bhutan,Druk Star FC (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Rigzung,Druk Athletic FC,2009-07-05,6,0,F,bhutan,Rigzung (Bhutan),Druk Athletic FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Pol FC,Choden FC,2009-07-05,0,0,F,bhutan,Druk Pol FC (Bhutan),Choden FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Transport United FC,2009-07-06,3,1,F,bhutan,Yeedzin FC (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Rba,Druk Star FC,2009-07-07,1,7,F,bhutan,Rba (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Athletic FC,Choden FC,2009-07-08,2,7,F,bhutan,Druk Athletic FC (Bhutan),Choden FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Rigzung,Transport United FC,2009-07-09,2,5,F,bhutan,Rigzung (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Druk Athletic FC,2009-07-10,20,0,F,bhutan,Yeedzin FC (Bhutan),Druk Athletic FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Pol FC,Druk Star FC,2009-07-11,0,5,F,bhutan,Druk Pol FC (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Rigzung,Yeedzin FC,2009-07-14,2,9,F,bhutan,Rigzung (Bhutan),Yeedzin FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Druk Pol FC,2009-07-16,2,2,F,bhutan,Druk Star FC (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Rigzung,Druk Athletic FC,2009-07-17,1,3,F,bhutan,Rigzung (Bhutan),Druk Athletic FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Choden FC,2009-07-18,2,1,F,bhutan,Yeedzin FC (Bhutan),Choden FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Pol FC,Druk Athletic FC,2009-07-19,8,1,F,bhutan,Druk Pol FC (Bhutan),Druk Athletic FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Transport United FC,2009-07-20,7,2,F,bhutan,Druk Star FC (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Rigzung,Druk Pol FC,2009-07-21,0,6,F,bhutan,Rigzung (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Druk Athletic FC,2009-07-22,16,1,F,bhutan,Yeedzin FC (Bhutan),Druk Athletic FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Choden FC,2009-07-23,2,1,F,bhutan,Druk Star FC (Bhutan),Choden FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Pol FC,Transport United FC,2009-07-24,3,2,F,bhutan,Druk Pol FC (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Rigzung,Choden FC,2009-07-25,0,5,F,bhutan,Rigzung (Bhutan),Choden FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Druk Athletic FC,2009-07-26,13,1,F,bhutan,Druk Star FC (Bhutan),Druk Athletic FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Transport United FC,2009-07-27,10,1,F,bhutan,Yeedzin FC (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Pol FC,Choden FC,2009-07-28,1,1,F,bhutan,Druk Pol FC (Bhutan),Choden FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Athletic FC,Transport United FC,2009-07-29,2,2,F,bhutan,Druk Athletic FC (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Rigzung,Druk Star FC,2009-07-30,0,13,F,bhutan,Rigzung (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Athletic FC,Choden FC,2009-07-31,0,11,F,bhutan,Druk Athletic FC (Bhutan),Choden FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Druk Pol FC,2009-08-01,2,2,F,bhutan,Yeedzin FC (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Transport United FC,Rigzung,2009-08-02,3,2,F,bhutan,Transport United FC (Bhutan),Rigzung (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Druk Star FC,2009-08-03,2,3,F,bhutan,Yeedzin FC (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Choden FC,Transport United FC,2009-08-04,4,1,F,bhutan,Choden FC (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Choden FC,Yeedzin FC,2010-06-26,0,6,F,bhutan,Choden FC (Bhutan),Yeedzin FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Athletic FC,Transport United FC,2010-06-28,1,4,F,bhutan,Druk Athletic FC (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Choden FC,Druk Pol FC,2010-06-29,2,3,F,bhutan,Choden FC (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Nangpa FC,2010-06-30,9,1,F,bhutan,Yeedzin FC (Bhutan),Nangpa FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Druk Athletic FC,2010-07-01,12,1,F,bhutan,Druk Star FC (Bhutan),Druk Athletic FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Transport United FC,Druk Pol FC,2010-07-02,3,2,F,bhutan,Transport United FC (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Choden FC,Nangpa FC,2010-07-03,4,2,F,bhutan,Choden FC (Bhutan),Nangpa FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Druk Star FC,2010-07-04,3,1,F,bhutan,Yeedzin FC (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Nangpa FC,Druk Athletic FC,2010-07-05,1,1,F,bhutan,Nangpa FC (Bhutan),Druk Athletic FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Transport United FC,2010-07-06,0,0,F,bhutan,Druk Star FC (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Athletic FC,Druk Pol FC,2010-07-07,0,5,F,bhutan,Druk Athletic FC (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Choden FC,Druk Star FC,2010-07-08,1,5,F,bhutan,Choden FC (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Druk Athletic FC,2010-07-09,2,1,F,bhutan,Yeedzin FC (Bhutan),Druk Athletic FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Nangpa FC,Transport United FC,2010-07-10,0,2,F,bhutan,Nangpa FC (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Druk Pol FC,2010-07-11,2,1,F,bhutan,Druk Star FC (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Transport United FC,2010-07-12,1,0,F,bhutan,Yeedzin FC (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Choden FC,Druk Athletic FC,2010-07-13,1,2,F,bhutan,Choden FC (Bhutan),Druk Athletic FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Nangpa FC,Druk Star FC,2010-07-14,1,3,F,bhutan,Nangpa FC (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Nangpa FC,Druk Pol FC,2010-07-24,1,3,F,bhutan,Nangpa FC (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Choden FC,Transport United FC,2010-07-25,1,2,F,bhutan,Choden FC (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Druk Pol FC,2010-07-26,0,0,F,bhutan,Yeedzin FC (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Choden FC,Yeedzin FC,2010-07-28,1,2,F,bhutan,Choden FC (Bhutan),Yeedzin FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Nangpa FC,Druk Star FC,2010-07-29,0,2,F,bhutan,Nangpa FC (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Athletic FC,Transport United FC,2010-07-30,0,6,F,bhutan,Druk Athletic FC (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Choden FC,Druk Pol FC,2010-07-31,0,8,F,bhutan,Choden FC (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Nangpa FC,2010-08-01,9,2,F,bhutan,Yeedzin FC (Bhutan),Nangpa FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Druk Athletic FC,2010-08-02,8,1,F,bhutan,Druk Star FC (Bhutan),Druk Athletic FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Transport United FC,Choden FC,2010-08-03,3,1,F,bhutan,Transport United FC (Bhutan),Choden FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Pol FC,Druk Star FC,2010-08-04,2,0,F,bhutan,Druk Pol FC (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Druk Athletic FC,2010-08-05,4,1,F,bhutan,Yeedzin FC (Bhutan),Druk Athletic FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Nangpa FC,Transport United FC,2010-08-06,2,4,F,bhutan,Nangpa FC (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Choden FC,Druk Star FC,2010-08-07,0,2,F,bhutan,Choden FC (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Druk Pol FC,2010-08-08,3,2,F,bhutan,Yeedzin FC (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Nangpa FC,Druk Athletic FC,2010-08-09,2,3,F,bhutan,Nangpa FC (Bhutan),Druk Athletic FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Transport United FC,2010-08-10,4,2,F,bhutan,Yeedzin FC (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Choden FC,Druk Athletic FC,2010-08-11,4,3,F,bhutan,Choden FC (Bhutan),Druk Athletic FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Nangpa FC,Druk Pol FC,2010-08-12,1,9,F,bhutan,Nangpa FC (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Transport United FC,2010-08-13,3,5,F,bhutan,Druk Star FC (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Athletic FC,Druk Pol FC,2010-08-14,1,7,F,bhutan,Druk Athletic FC (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Choden FC,Nangpa FC,2010-08-15,2,1,F,bhutan,Choden FC (Bhutan),Nangpa FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Transport United FC,Druk Pol FC,2010-08-17,2,4,F,bhutan,Transport United FC (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Druk Star FC,2010-08-17,5,0,F,bhutan,Yeedzin FC (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Pol FC,Ugyen Academy FC,2012-12-15,2,1,F,bhutan,Druk Pol FC (Bhutan),Ugyen Academy FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Ugyen Academy FC,2012-12-23,0,1,F,bhutan,Zimdra (Bhutan),Ugyen Academy FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Phuentsholing FC,Yeedzin FC,2012-12-23,1,2,F,bhutan,Phuentsholing FC (Bhutan),Yeedzin FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Samtse FC,Druk Pol FC,2012-12-23,1,5,F,bhutan,Samtse FC (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Ugyen Academy FC,2012-12-30,1,1,F,bhutan,Yeedzin FC (Bhutan),Ugyen Academy FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Phuentsholing FC,Druk Pol FC,2012-12-30,1,2,F,bhutan,Phuentsholing FC (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Samtse FC,Zimdra,2012-12-30,0,3,F,bhutan,Samtse FC (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Yeedzin FC,2013-01-05,1,1,F,bhutan,Zimdra (Bhutan),Yeedzin FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Samtse FC,Phuentsholing FC,2013-01-05,0,1,F,bhutan,Samtse FC (Bhutan),Phuentsholing FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Pol FC,Yeedzin FC,2013-01-13,0,2,F,bhutan,Druk Pol FC (Bhutan),Yeedzin FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Phuentsholing FC,Zimdra,2013-01-13,3,2,F,bhutan,Phuentsholing FC (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Ugyen Academy FC,Samtse FC,2013-01-13,8,1,F,bhutan,Ugyen Academy FC (Bhutan),Samtse FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Ugyen Academy FC,Phuentsholing FC,2013-01-20,1,1,F,bhutan,Ugyen Academy FC (Bhutan),Phuentsholing FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Pol FC,Zimdra,2013-01-20,2,3,F,bhutan,Druk Pol FC (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Samtse FC,Yeedzin FC,2013-01-20,0,4,F,bhutan,Samtse FC (Bhutan),Yeedzin FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Phuentsholing FC,2013-01-26,2,0,F,bhutan,Yeedzin FC (Bhutan),Phuentsholing FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Pol FC,Samtse FC,2013-01-27,5,1,F,bhutan,Druk Pol FC (Bhutan),Samtse FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Ugyen Academy FC,Zimdra,2013-01-27,5,3,F,bhutan,Ugyen Academy FC (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Pol FC,Phuentsholing FC,2013-02-02,4,3,F,bhutan,Druk Pol FC (Bhutan),Phuentsholing FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Ugyen Academy FC,Yeedzin FC,2013-02-02,0,2,F,bhutan,Ugyen Academy FC (Bhutan),Yeedzin FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Samtse FC,2013-02-02,4,0,F,bhutan,Zimdra (Bhutan),Samtse FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Ugyen Academy FC,Druk Pol FC,2013-02-10,1,3,F,bhutan,Ugyen Academy FC (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Zimdra,2013-02-10,4,0,F,bhutan,Yeedzin FC (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Phuentsholing FC,Samtse FC,2013-02-10,2,1,F,bhutan,Phuentsholing FC (Bhutan),Samtse FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Samtse FC,2013-02-16,3,1,F,bhutan,Yeedzin FC (Bhutan),Samtse FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Phuentsholing FC,Ugyen Academy FC,2013-02-17,1,2,F,bhutan,Phuentsholing FC (Bhutan),Ugyen Academy FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Druk Pol FC,2013-02-19,5,1,F,bhutan,Zimdra (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Phuentsholing FC,2013-02-23,6,0,F,bhutan,Zimdra (Bhutan),Phuentsholing FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Samtse FC,Ugyen Academy FC,2013-02-23,1,2,F,bhutan,Samtse FC (Bhutan),Ugyen Academy FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Druk Pol FC,2013-02-24,2,1,F,bhutan,Yeedzin FC (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Yeedzin FC,2013-09-14,1,4,F,bhutan,Zimdra (Bhutan),Yeedzin FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Dzongric FC,Ugyen Academy FC,2013-09-15,1,5,F,bhutan,Dzongric FC (Bhutan),Ugyen Academy FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Ugyen Academy FC,Yeedzin FC,2013-09-18,3,3,F,bhutan,Ugyen Academy FC (Bhutan),Yeedzin FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Dzongric FC,Zimdra,2013-09-18,0,5,F,bhutan,Dzongric FC (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Phuentsholing FC,Druk Pol FC,2013-09-19,1,0,F,bhutan,Phuentsholing FC (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Pol FC,Zimdra,2013-09-28,2,2,F,bhutan,Druk Pol FC (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Phuentsholing FC,2013-09-29,0,0,F,bhutan,Yeedzin FC (Bhutan),Phuentsholing FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Pol FC,Dzongric FC,2013-10-02,3,2,F,bhutan,Druk Pol FC (Bhutan),Dzongric FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Dzongric FC,2013-10-05,4,3,F,bhutan,Yeedzin FC (Bhutan),Dzongric FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Ugyen Academy FC,2013-10-06,4,2,F,bhutan,Zimdra (Bhutan),Ugyen Academy FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Ugyen Academy FC,Phuentsholing FC,2013-10-09,4,2,F,bhutan,Ugyen Academy FC (Bhutan),Phuentsholing FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Phuentsholing FC,Dzongric FC,2013-10-12,1,2,F,bhutan,Phuentsholing FC (Bhutan),Dzongric FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Druk Pol FC,2013-10-12,2,1,F,bhutan,Yeedzin FC (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Phuentsholing FC,2013-10-16,5,2,F,bhutan,Zimdra (Bhutan),Phuentsholing FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Ugyen Academy FC,Druk Pol FC,2013-10-19,1,1,F,bhutan,Ugyen Academy FC (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Zimdra,2013-10-23,2,2,F,bhutan,Yeedzin FC (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Ugyen Academy FC,Dzongric FC,2013-10-26,3,0,F,bhutan,Ugyen Academy FC (Bhutan),Dzongric FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Pol FC,Phuentsholing FC,2013-10-26,15,1,F,bhutan,Druk Pol FC (Bhutan),Phuentsholing FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Dzongric FC,2013-10-30,3,0,F,bhutan,Zimdra (Bhutan),Dzongric FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Yeedzin FC,Ugyen Academy FC,2013-11-02,1,1,F,bhutan,Yeedzin FC (Bhutan),Ugyen Academy FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Druk Pol FC,2013-11-03,3,3,F,bhutan,Zimdra (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Phuentsholing FC,Yeedzin FC,2013-11-06,0,0,F,bhutan,Phuentsholing FC (Bhutan),Yeedzin FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Phuentsholing FC,Ugyen Academy FC,2013-11-09,1,3,F,bhutan,Phuentsholing FC (Bhutan),Ugyen Academy FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Dzongric FC,Druk Pol FC,2013-11-09,1,1,F,bhutan,Dzongric FC (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Dzongric FC,Yeedzin FC,2013-11-13,2,3,F,bhutan,Dzongric FC (Bhutan),Yeedzin FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Ugyen Academy FC,Zimdra,2013-11-16,5,3,F,bhutan,Ugyen Academy FC (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Dzongric FC,Phuentsholing FC,2013-11-16,7,3,F,bhutan,Dzongric FC (Bhutan),Phuentsholing FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Pol FC,Yeedzin FC,2013-11-17,1,1,F,bhutan,Druk Pol FC (Bhutan),Yeedzin FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Phuentsholing FC,Zimdra,2013-11-23,1,0,F,bhutan,Phuentsholing FC (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Pol FC,Ugyen Academy FC,2013-11-23,0,4,F,bhutan,Druk Pol FC (Bhutan),Ugyen Academy FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk United,Zimdra,2014-07-02,4,0,F,bhutan,Druk United (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Pol FC,Druk Star FC,2014-07-05,4,2,F,bhutan,Druk Pol FC (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Druk Star FC,2014-07-09,1,0,F,bhutan,Zimdra (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk United,Ugyen Academy FC,2014-07-12,2,2,F,bhutan,Druk United (Bhutan),Ugyen Academy FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Bhutan Clearing,2014-07-13,3,0,F,bhutan,Zimdra (Bhutan),Bhutan Clearing (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Pol FC,Ugyen Academy FC,2014-07-16,0,1,F,bhutan,Druk Pol FC (Bhutan),Ugyen Academy FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Bhutan Clearing,2014-07-19,2,2,F,bhutan,Druk Star FC (Bhutan),Bhutan Clearing (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Druk Pol FC,2014-07-26,1,0,F,bhutan,Zimdra (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk United,Druk Star FC,2014-07-27,5,0,F,bhutan,Druk United (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Pol FC,Bhutan Clearing,2014-07-30,6,1,F,bhutan,Druk Pol FC (Bhutan),Bhutan Clearing (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Ugyen Academy FC,2014-07-31,2,1,F,bhutan,Zimdra (Bhutan),Ugyen Academy FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Pol FC,Druk United,2014-08-02,2,1,F,bhutan,Druk Pol FC (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Ugyen Academy FC,Druk Star FC,2014-08-03,2,1,F,bhutan,Ugyen Academy FC (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk United,Bhutan Clearing,2014-08-06,4,0,F,bhutan,Druk United (Bhutan),Bhutan Clearing (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk United,Druk Pol FC,2014-08-09,1,0,F,bhutan,Druk United (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Ugyen Academy FC,Zimdra,2014-08-10,4,0,F,bhutan,Ugyen Academy FC (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Druk Pol FC,2014-08-16,0,4,F,bhutan,Druk Star FC (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Bhutan Clearing,Zimdra,2014-08-17,0,16,F,bhutan,Bhutan Clearing (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Bhutan Clearing,Druk United,2014-08-19,1,5,F,bhutan,Bhutan Clearing (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Ugyen Academy FC,2014-08-20,3,2,F,bhutan,Druk Star FC (Bhutan),Ugyen Academy FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Pol FC,Zimdra,2014-08-23,0,3,F,bhutan,Druk Pol FC (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Ugyen Academy FC,Bhutan Clearing,2014-08-24,4,1,F,bhutan,Ugyen Academy FC (Bhutan),Bhutan Clearing (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Bhutan Clearing,Ugyen Academy FC,2014-08-26,1,4,F,bhutan,Bhutan Clearing (Bhutan),Ugyen Academy FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Druk United,2014-08-27,4,6,F,bhutan,Druk Star FC (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Bhutan Clearing,Druk Pol FC,2014-08-30,0,6,F,bhutan,Bhutan Clearing (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Ugyen Academy FC,Druk United,2014-08-31,3,2,F,bhutan,Ugyen Academy FC (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Bhutan Clearing,Druk Star FC,2014-08-31,0,3,F,bhutan,Bhutan Clearing (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Zimdra,2014-09-03,3,5,F,bhutan,Druk Star FC (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Ugyen Academy FC,Druk Pol FC,2014-09-06,3,1,F,bhutan,Ugyen Academy FC (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Druk United,2014-09-07,2,3,F,bhutan,Zimdra (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tertons,Zimdra,2015-07-05,1,1,F,bhutan,Tertons (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Paro United,Thimphu FC,2015-07-08,0,2,F,bhutan,Paro United (Bhutan),Thimphu FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tertons,Ugyen Academy FC,2015-07-12,0,0,F,bhutan,Tertons (Bhutan),Ugyen Academy FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Thimphu FC,2015-07-12,1,3,F,bhutan,Zimdra (Bhutan),Thimphu FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Bhutan Clearing,Zimdra,2015-07-15,0,1,F,bhutan,Bhutan Clearing (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Paro United,Ugyen Academy FC,2015-07-18,0,5,F,bhutan,Paro United (Bhutan),Ugyen Academy FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Bhutan Clearing,Thimphu FC,2015-07-19,1,2,F,bhutan,Bhutan Clearing (Bhutan),Thimphu FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Paro United,2015-07-22,4,1,F,bhutan,Zimdra (Bhutan),Paro United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tertons,Thimphu FC,2015-07-23,1,0,F,bhutan,Tertons (Bhutan),Thimphu FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Bhutan Clearing,Paro United,2015-07-25,3,2,F,bhutan,Bhutan Clearing (Bhutan),Paro United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Ugyen Academy FC,Zimdra,2015-07-26,0,4,F,bhutan,Ugyen Academy FC (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Paro United,Tertons,2015-07-29,1,2,F,bhutan,Paro United (Bhutan),Tertons (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Ugyen Academy FC,Thimphu FC,2015-08-01,3,3,F,bhutan,Ugyen Academy FC (Bhutan),Thimphu FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tertons,Bhutan Clearing,2015-08-02,2,2,F,bhutan,Tertons (Bhutan),Bhutan Clearing (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Thimphu FC,Bhutan Clearing,2015-08-05,2,0,F,bhutan,Thimphu FC (Bhutan),Bhutan Clearing (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tertons,Paro United,2015-08-06,5,0,F,bhutan,Tertons (Bhutan),Paro United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Ugyen Academy FC,2015-08-08,3,0,F,bhutan,Zimdra (Bhutan),Ugyen Academy FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Bhutan Clearing,Ugyen Academy FC,2015-09-06,4,6,F,bhutan,Bhutan Clearing (Bhutan),Ugyen Academy FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Bhutan Clearing,Tertons,2015-09-09,0,7,F,bhutan,Bhutan Clearing (Bhutan),Tertons (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Ugyen Academy FC,Paro United,2015-09-10,2,0,F,bhutan,Ugyen Academy FC (Bhutan),Paro United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Bhutan Clearing,2015-09-12,5,0,F,bhutan,Zimdra (Bhutan),Bhutan Clearing (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Thimphu FC,Ugyen Academy FC,2015-09-13,1,0,F,bhutan,Thimphu FC (Bhutan),Ugyen Academy FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Paro United,Zimdra,2015-09-16,1,5,F,bhutan,Paro United (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Ugyen Academy FC,Bhutan Clearing,2015-09-16,8,0,F,bhutan,Ugyen Academy FC (Bhutan),Bhutan Clearing (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Thimphu FC,Tertons,2015-09-17,3,3,F,bhutan,Thimphu FC (Bhutan),Tertons (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Paro United,Bhutan Clearing,2015-09-19,3,1,F,bhutan,Paro United (Bhutan),Bhutan Clearing (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tertons,Ugyen Academy FC,2015-09-20,4,1,F,bhutan,Tertons (Bhutan),Ugyen Academy FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Thimphu FC,Zimdra,2015-09-20,1,1,F,bhutan,Thimphu FC (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tertons,Zimdra,2015-09-23,4,2,F,bhutan,Tertons (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Thimphu FC,Paro United,2015-09-23,5,0,F,bhutan,Thimphu FC (Bhutan),Paro United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk United,Druk Pol FC,2016-04-30,0,1,F,bhutan,Druk United (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Thimphu FC,Zimdra,2016-05-01,0,0,F,bhutan,Thimphu FC (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk United,Bhutan Bhutan Under 17,2016-05-03,5,0,F,bhutan,Druk United (Bhutan),Bhutan Bhutan Under 17 (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tertons,Druk Star FC,2016-05-04,2,3,F,bhutan,Tertons (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tensung,Druk Pol FC,2016-05-05,4,0,F,bhutan,Tensung (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk United,Zimdra,2016-05-07,1,3,F,bhutan,Druk United (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Thimphu FC,Druk Pol FC,2016-05-08,0,0,F,bhutan,Thimphu FC (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Bhutan Bhutan Under 17,Druk Star FC,2016-05-10,0,6,F,bhutan,Bhutan Bhutan Under 17 (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tertons,Tensung,2016-05-11,2,2,F,bhutan,Tertons (Bhutan),Tensung (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk United,Thimphu FC,2016-05-12,5,1,F,bhutan,Druk United (Bhutan),Thimphu FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tertons,Bhutan Bhutan Under 17,2016-05-14,3,0,F,bhutan,Tertons (Bhutan),Bhutan Bhutan Under 17 (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tensung,Druk Star FC,2016-05-15,1,7,F,bhutan,Tensung (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Druk Pol FC,2016-05-17,3,0,F,bhutan,Zimdra (Bhutan),Druk Pol FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Bhutan Bhutan Under 17,Thimphu FC,2016-05-18,0,9,F,bhutan,Bhutan Bhutan Under 17 (Bhutan),Thimphu FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tertons,Druk United,2016-05-19,0,1,F,bhutan,Tertons (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Pol FC,Druk Star FC,2016-05-21,0,1,F,bhutan,Druk Pol FC (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Tensung,2016-05-22,10,0,F,bhutan,Zimdra (Bhutan),Tensung (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tertons,Thimphu FC,2016-05-24,2,4,F,bhutan,Tertons (Bhutan),Thimphu FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tensung,Druk United,2016-05-25,1,2,F,bhutan,Tensung (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Pol FC,Bhutan Bhutan Under 17,2016-05-26,4,2,F,bhutan,Druk Pol FC (Bhutan),Bhutan Bhutan Under 17 (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Druk Star FC,2016-05-28,1,1,F,bhutan,Zimdra (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tensung,Thimphu FC,2016-05-29,0,2,F,bhutan,Tensung (Bhutan),Thimphu FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Druk United,2016-05-31,1,0,F,bhutan,Druk Star FC (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Bhutan Bhutan Under 17,2016-06-01,6,0,F,bhutan,Zimdra (Bhutan),Bhutan Bhutan Under 17 (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Pol FC,Tertons,2016-06-02,2,1,F,bhutan,Druk Pol FC (Bhutan),Tertons (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Thimphu FC,2016-06-04,0,1,F,bhutan,Druk Star FC (Bhutan),Thimphu FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tensung,Bhutan Bhutan Under 17,2016-06-05,3,3,F,bhutan,Tensung (Bhutan),Bhutan Bhutan Under 17 (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Tertons,2016-06-07,3,1,F,bhutan,Zimdra (Bhutan),Tertons (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Pol FC,Druk United,2016-06-08,1,1,F,bhutan,Druk Pol FC (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Thimphu FC,2016-06-09,2,1,F,bhutan,Zimdra (Bhutan),Thimphu FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Bhutan Bhutan Under 17,Druk United,2016-06-11,0,4,F,bhutan,Bhutan Bhutan Under 17 (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Tertons,2016-06-12,0,4,F,bhutan,Druk Star FC (Bhutan),Tertons (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Pol FC,Tensung,2016-06-14,1,2,F,bhutan,Druk Pol FC (Bhutan),Tensung (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Druk United,2016-06-15,0,2,F,bhutan,Zimdra (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Pol FC,Thimphu FC,2016-06-16,5,1,F,bhutan,Druk Pol FC (Bhutan),Thimphu FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Bhutan Bhutan Under 17,2016-06-18,6,0,F,bhutan,Druk Star FC (Bhutan),Bhutan Bhutan Under 17 (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tensung,Tertons,2016-06-19,0,3,F,bhutan,Tensung (Bhutan),Tertons (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Thimphu FC,Druk Star FC,2017-02-04,3,2,F,bhutan,Thimphu FC (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Transport United FC,Tertons,2017-02-05,6,1,F,bhutan,Transport United FC (Bhutan),Tertons (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Bhutan U19,Druk United,2017-02-05,3,0,F,bhutan,Bhutan U19 (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+High Quality United,Druk United,2017-02-09,3,1,F,bhutan,High Quality United (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Bhutan U19,2017-02-11,4,2,F,bhutan,Druk Star FC (Bhutan),Bhutan U19 (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tertons,Zimdra,2017-02-12,1,7,F,bhutan,Tertons (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Transport United FC,Druk United,2017-02-12,5,0,F,bhutan,Transport United FC (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+High Quality United,Thimphu FC,2017-02-14,1,2,F,bhutan,High Quality United (Bhutan),Thimphu FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Bhutan U19,Zimdra,2017-02-16,0,5,F,bhutan,Bhutan U19 (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tertons,Bhutan U19,2017-02-25,0,6,F,bhutan,Tertons (Bhutan),Bhutan U19 (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+High Quality United,Druk Star FC,2017-02-26,3,4,F,bhutan,High Quality United (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Thimphu FC,Transport United FC,2017-02-26,1,1,F,bhutan,Thimphu FC (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Transport United FC,Bhutan U19,2017-03-04,3,0,F,bhutan,Transport United FC (Bhutan),Bhutan U19 (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Druk United,2017-03-04,3,2,F,bhutan,Zimdra (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+High Quality United,Tertons,2017-03-05,8,2,F,bhutan,High Quality United (Bhutan),Tertons (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Thimphu FC,Bhutan U19,2017-04-01,2,1,F,bhutan,Thimphu FC (Bhutan),Bhutan U19 (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Zimdra,2017-04-01,1,3,F,bhutan,Druk Star FC (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tertons,Druk United,2017-04-02,1,6,F,bhutan,Tertons (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+High Quality United,Transport United FC,2017-04-02,3,1,F,bhutan,High Quality United (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+High Quality United,Zimdra,2017-04-08,2,6,F,bhutan,High Quality United (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Thimphu FC,Druk United,2017-04-09,7,0,F,bhutan,Thimphu FC (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Tertons,2017-04-09,7,1,F,bhutan,Druk Star FC (Bhutan),Tertons (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Thimphu FC,Tertons,2017-04-15,5,1,F,bhutan,Thimphu FC (Bhutan),Tertons (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+High Quality United,Bhutan U19,2017-04-15,2,1,F,bhutan,High Quality United (Bhutan),Bhutan U19 (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Druk United,2017-04-16,2,2,F,bhutan,Druk Star FC (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Thimphu FC,Zimdra,2017-04-19,1,5,F,bhutan,Thimphu FC (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Bhutan U19,2017-04-22,4,0,F,bhutan,Zimdra (Bhutan),Bhutan U19 (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Thimphu FC,2017-04-23,1,2,F,bhutan,Druk Star FC (Bhutan),Thimphu FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk United,High Quality United,2017-04-23,2,1,F,bhutan,Druk United (Bhutan),High Quality United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tertons,Transport United FC,2017-04-26,0,7,F,bhutan,Tertons (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Transport United FC,2017-04-29,1,2,F,bhutan,Druk Star FC (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Tertons,2017-04-30,12,0,F,bhutan,Zimdra (Bhutan),Tertons (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk United,Thimphu FC,2017-04-30,0,2,F,bhutan,Druk United (Bhutan),Thimphu FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Transport United FC,Druk Star FC,2017-05-03,6,0,F,bhutan,Transport United FC (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Transport United FC,2017-05-06,0,0,F,bhutan,Zimdra (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk United,Bhutan U19,2017-05-06,2,2,F,bhutan,Druk United (Bhutan),Bhutan U19 (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Thimphu FC,High Quality United,2017-05-07,2,3,F,bhutan,Thimphu FC (Bhutan),High Quality United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Thimphu FC,2017-05-13,2,0,F,bhutan,Zimdra (Bhutan),Thimphu FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Bhutan U19,Tertons,2017-05-13,11,2,F,bhutan,Bhutan U19 (Bhutan),Tertons (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+High Quality United,Druk Star FC,2017-05-14,1,3,F,bhutan,High Quality United (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Bhutan U19,Transport United FC,2017-05-20,0,1,F,bhutan,Bhutan U19 (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk United,Zimdra,2017-05-21,2,7,F,bhutan,Druk United (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tertons,High Quality United,2017-05-21,1,7,F,bhutan,Tertons (Bhutan),High Quality United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Transport United FC,High Quality United,2017-06-20,4,2,F,bhutan,Transport United FC (Bhutan),High Quality United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk United,Druk Star FC,2017-06-21,1,3,F,bhutan,Druk United (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tertons,Thimphu FC,2017-06-22,0,9,F,bhutan,Tertons (Bhutan),Thimphu FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Bhutan U19,High Quality United,2017-06-24,0,0,F,bhutan,Bhutan U19 (Bhutan),High Quality United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Druk Star FC,2017-06-25,6,0,F,bhutan,Zimdra (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk United,Tertons,2017-06-25,2,1,F,bhutan,Druk United (Bhutan),Tertons (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Bhutan U19,Thimphu FC,2017-06-27,2,2,F,bhutan,Bhutan U19 (Bhutan),Thimphu FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk United,Transport United FC,2017-06-28,1,4,F,bhutan,Druk United (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tertons,Druk Star FC,2017-07-01,2,3,F,bhutan,Tertons (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Transport United FC,Thimphu FC,2017-07-01,3,0,F,bhutan,Transport United FC (Bhutan),Thimphu FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+High Quality United,Zimdra,2017-07-02,1,7,F,bhutan,High Quality United (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Bhutan U19,Druk Star FC,2017-07-06,0,1,F,bhutan,Bhutan U19 (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Transport United FC,Zimdra,2017-07-08,0,3,F,bhutan,Transport United FC (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Druk United,2018-04-21,2,1,F,bhutan,Zimdra (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,High Quality United,2018-04-22,2,1,F,bhutan,Druk Star FC (Bhutan),High Quality United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Thimphu FC,Transport United FC,2018-04-24,0,3,F,bhutan,Thimphu FC (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tensung,Phuensum,2018-04-26,1,1,F,bhutan,Tensung (Bhutan),Phuensum (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Druk Star FC,2018-04-28,1,0,F,bhutan,Zimdra (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk United,High Quality United,2018-04-29,1,3,F,bhutan,Druk United (Bhutan),High Quality United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Thimphu FC,Tensung,2018-05-01,2,0,F,bhutan,Thimphu FC (Bhutan),Tensung (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Transport United FC,Phuensum,2018-05-02,1,1,F,bhutan,Transport United FC (Bhutan),Phuensum (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,High Quality United,2018-05-03,5,4,F,bhutan,Zimdra (Bhutan),High Quality United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk United,Transport United FC,2018-05-05,0,0,F,bhutan,Druk United (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Tensung,2018-05-06,5,3,F,bhutan,Druk Star FC (Bhutan),Tensung (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Thimphu FC,Phuensum,2018-05-08,1,0,F,bhutan,Thimphu FC (Bhutan),Phuensum (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Transport United FC,2018-05-09,1,3,F,bhutan,Zimdra (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk United,Thimphu FC,2018-05-10,0,1,F,bhutan,Druk United (Bhutan),Thimphu FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Phuensum,2018-05-12,2,1,F,bhutan,Druk Star FC (Bhutan),Phuensum (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+High Quality United,Tensung,2018-05-13,3,1,F,bhutan,High Quality United (Bhutan),Tensung (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Thimphu FC,2018-05-15,2,0,F,bhutan,Zimdra (Bhutan),Thimphu FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Transport United FC,2018-05-16,0,1,F,bhutan,Druk Star FC (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+High Quality United,Phuensum,2018-05-17,2,2,F,bhutan,High Quality United (Bhutan),Phuensum (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk United,Tensung,2018-05-19,2,1,F,bhutan,Druk United (Bhutan),Tensung (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Phuensum,2018-05-20,1,0,F,bhutan,Zimdra (Bhutan),Phuensum (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk United,Druk Star FC,2018-05-22,4,1,F,bhutan,Druk United (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+High Quality United,Thimphu FC,2018-05-23,1,3,F,bhutan,High Quality United (Bhutan),Thimphu FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Transport United FC,Tensung,2018-05-24,5,0,F,bhutan,Transport United FC (Bhutan),Tensung (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk United,Phuensum,2018-05-26,2,0,F,bhutan,Druk United (Bhutan),Phuensum (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Zimdra,Tensung,2018-05-27,10,1,F,bhutan,Zimdra (Bhutan),Tensung (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Thimphu FC,2018-05-30,2,4,F,bhutan,Druk Star FC (Bhutan),Thimphu FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+High Quality United,Transport United FC,2018-05-31,0,2,F,bhutan,High Quality United (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk United,Zimdra,2018-06-02,0,8,F,bhutan,Druk United (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+High Quality United,Druk Star FC,2018-06-05,1,1,F,bhutan,High Quality United (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Transport United FC,Thimphu FC,2018-06-06,0,3,F,bhutan,Transport United FC (Bhutan),Thimphu FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Phuensum,Tensung,2018-06-07,0,1,F,bhutan,Phuensum (Bhutan),Tensung (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Zimdra,2018-06-09,1,1,F,bhutan,Druk Star FC (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+High Quality United,Druk United,2018-06-10,4,3,F,bhutan,High Quality United (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tensung,Thimphu FC,2018-06-12,1,4,F,bhutan,Tensung (Bhutan),Thimphu FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Phuensum,Transport United FC,2018-06-13,1,8,F,bhutan,Phuensum (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+High Quality United,Zimdra,2018-06-14,1,8,F,bhutan,High Quality United (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Transport United FC,Druk United,2018-06-16,4,0,F,bhutan,Transport United FC (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tensung,Druk Star FC,2018-06-17,3,1,F,bhutan,Tensung (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Phuensum,Thimphu FC,2018-06-19,0,4,F,bhutan,Phuensum (Bhutan),Thimphu FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Transport United FC,High Quality United,2018-06-20,3,2,F,bhutan,Transport United FC (Bhutan),High Quality United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Thimphu FC,Druk Star FC,2018-06-21,2,0,F,bhutan,Thimphu FC (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Phuensum,Druk United,2018-06-23,0,2,F,bhutan,Phuensum (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Thimphu FC,Zimdra,2018-06-26,0,5,F,bhutan,Thimphu FC (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tensung,Zimdra,2018-06-26,1,4,F,bhutan,Tensung (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Transport United FC,Druk Star FC,2018-06-27,5,0,F,bhutan,Transport United FC (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Phuensum,High Quality United,2018-06-28,2,4,F,bhutan,Phuensum (Bhutan),High Quality United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tensung,Druk United,2018-06-30,3,3,F,bhutan,Tensung (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Phuensum,Zimdra,2018-07-01,1,4,F,bhutan,Phuensum (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Druk United,2018-07-03,1,2,F,bhutan,Druk Star FC (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Thimphu FC,High Quality United,2018-07-04,1,5,F,bhutan,Thimphu FC (Bhutan),High Quality United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tensung,Transport United FC,2018-07-05,1,6,F,bhutan,Tensung (Bhutan),Transport United FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tensung,High Quality United,2018-07-07,3,5,F,bhutan,Tensung (Bhutan),High Quality United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Phuensum,Druk Star FC,2018-07-07,1,0,F,bhutan,Phuensum (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Thimphu FC,Druk United,2018-07-08,4,5,F,bhutan,Thimphu FC (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Transport United FC,Zimdra,2018-07-08,1,0,F,bhutan,Transport United FC (Bhutan),Zimdra (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,High Quality United,2019-04-06,3,2,F,bhutan,Druk Star FC (Bhutan),High Quality United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Bhutan U19,Phuentsholing FC,2019-04-07,2,0,F,bhutan,Bhutan U19 (Bhutan),Phuentsholing FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk United,Takin,2019-04-09,2,0,F,bhutan,Druk United (Bhutan),Takin (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tertons,Bhutan U16,2019-04-10,1,2,F,bhutan,Tertons (Bhutan),Bhutan U16 (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+High Quality United,Bhutan U19,2019-04-11,3,0,F,bhutan,High Quality United (Bhutan),Bhutan U19 (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Takin,Paro United,2019-04-13,0,4,F,bhutan,Takin (Bhutan),Paro United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Phuentsholing FC,Druk United,2019-04-14,2,4,F,bhutan,Phuentsholing FC (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Bhutan U16,Druk Star FC,2019-04-16,1,5,F,bhutan,Bhutan U16 (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tertons,Phuentsholing FC,2019-04-17,1,2,F,bhutan,Tertons (Bhutan),Phuentsholing FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Bhutan U16,High Quality United,2019-04-18,2,7,F,bhutan,Bhutan U16 (Bhutan),High Quality United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Paro United,Druk United,2019-04-18,3,3,F,bhutan,Paro United (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Takin,2019-04-21,2,0,F,bhutan,Druk Star FC (Bhutan),Takin (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+High Quality United,Tertons,2019-04-23,2,0,F,bhutan,High Quality United (Bhutan),Tertons (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Bhutan U19,Paro United,2019-04-24,3,1,F,bhutan,Bhutan U19 (Bhutan),Paro United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Phuentsholing FC,Druk Star FC,2019-04-25,0,2,F,bhutan,Phuentsholing FC (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Bhutan U16,Takin,2019-04-30,0,2,F,bhutan,Bhutan U16 (Bhutan),Takin (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Druk United,2019-05-01,2,1,F,bhutan,Druk Star FC (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+High Quality United,Phuentsholing FC,2019-05-02,0,0,F,bhutan,High Quality United (Bhutan),Phuentsholing FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Paro United,Druk Star FC,2019-05-07,0,3,F,bhutan,Paro United (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Phuentsholing FC,Bhutan U16,2019-05-07,3,5,F,bhutan,Phuentsholing FC (Bhutan),Bhutan U16 (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Tertons,Bhutan U19,2019-05-08,1,1,F,bhutan,Tertons (Bhutan),Bhutan U19 (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+High Quality United,Paro United,2019-05-11,7,0,F,bhutan,High Quality United (Bhutan),Paro United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Bhutan U16,Druk United,2019-05-11,2,3,F,bhutan,Bhutan U16 (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Takin,Paro United,2019-05-14,0,6,F,bhutan,Takin (Bhutan),Paro United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Bhutan U19,Druk Star FC,2019-05-14,2,3,F,bhutan,Bhutan U19 (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Tertons,2019-05-21,1,2,F,bhutan,Druk Star FC (Bhutan),Tertons (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Bhutan U19,Bhutan U16,2019-05-22,3,1,F,bhutan,Bhutan U19 (Bhutan),Bhutan U16 (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Paro United,Phuentsholing FC,2019-05-23,1,4,F,bhutan,Paro United (Bhutan),Phuentsholing FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk United,High Quality United,2019-05-25,3,4,F,bhutan,Druk United (Bhutan),High Quality United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+High Quality United,Druk Star FC,2019-05-28,3,2,F,bhutan,High Quality United (Bhutan),Druk Star FC (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Bhutan U19,Druk United,2019-05-29,2,1,F,bhutan,Bhutan U19 (Bhutan),Druk United (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national
+Druk Star FC,Bhutan U19,2019-05-31,1,0,F,bhutan,Druk Star FC (Bhutan),Bhutan U19 (Bhutan),bhutan,bhutan,BT,BT,Asia,Asia,Asia,national

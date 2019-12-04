@@ -1,0 +1,65 @@
+home,away,date,gh,ga,full_time,competition,home_ident,away_ident,home_country,away_country,home_code,away_code,home_continent,away_continent,continent,level
+CA Penarol,Real Madrid,1960-07-03,0,0,F,FIFA WC,CA Penarol (Uruguay),Real Madrid (Spain),uruguay,spain,UY,ES,South America,Europe,world,international
+Real Madrid,CA Penarol,1960-09-04,5,1,F,FIFA WC,Real Madrid (Spain),CA Penarol (Uruguay),spain,uruguay,ES,UY,Europe,South America,world,international
+Sl Benfica,CA Penarol,1961-09-04,1,0,F,FIFA WC,Sl Benfica (Portugal),CA Penarol (Uruguay),portugal,uruguay,PT,UY,Europe,South America,world,international
+CA Penarol,Sl Benfica,1961-09-17,5,0,F,FIFA WC,CA Penarol (Uruguay),Sl Benfica (Portugal),uruguay,portugal,UY,PT,South America,Europe,world,international
+CA Penarol,Sl Benfica,1961-09-19,2,1,F,FIFA WC,CA Penarol (Uruguay),Sl Benfica (Portugal),uruguay,portugal,UY,PT,South America,Europe,world,international
+Santos FC,Sl Benfica,1962-09-19,3,2,F,FIFA WC,Santos FC (Brazil),Sl Benfica (Portugal),brazil,portugal,BR,PT,South America,Europe,world,international
+Sl Benfica,Santos FC,1962-10-11,2,5,F,FIFA WC,Sl Benfica (Portugal),Santos FC (Brazil),portugal,brazil,PT,BR,Europe,South America,world,international
+AC Milan,Santos FC,1963-10-16,4,2,F,FIFA WC,AC Milan (Italy),Santos FC (Brazil),italy,brazil,IT,BR,Europe,South America,world,international
+Santos FC,AC Milan,1963-11-14,4,2,F,FIFA WC,Santos FC (Brazil),AC Milan (Italy),brazil,italy,BR,IT,South America,Europe,world,international
+Santos FC,AC Milan,1963-11-16,1,0,F,FIFA WC,Santos FC (Brazil),AC Milan (Italy),brazil,italy,BR,IT,South America,Europe,world,international
+Independiente,Inter,1964-09-09,1,0,F,FIFA WC,Independiente (Argentina),Inter (Italy),argentina,italy,AR,IT,South America,Europe,world,international
+Inter,Independiente,1964-09-23,2,0,F,FIFA WC,Inter (Italy),Independiente (Argentina),italy,argentina,IT,AR,Europe,South America,world,international
+Inter,Independiente,1964-09-26,1,0,F,FIFA WC,Inter (Italy),Independiente (Argentina),italy,argentina,IT,AR,Europe,South America,world,international
+Inter,Independiente,1965-09-08,3,0,F,FIFA WC,Inter (Italy),Independiente (Argentina),italy,argentina,IT,AR,Europe,South America,world,international
+Independiente,Inter,1965-09-15,0,0,F,FIFA WC,Independiente (Argentina),Inter (Italy),argentina,italy,AR,IT,South America,Europe,world,international
+CA Penarol,Real Madrid,1966-10-12,2,0,F,FIFA WC,CA Penarol (Uruguay),Real Madrid (Spain),uruguay,spain,UY,ES,South America,Europe,world,international
+Real Madrid,CA Penarol,1966-10-26,0,2,F,FIFA WC,Real Madrid (Spain),CA Penarol (Uruguay),spain,uruguay,ES,UY,Europe,South America,world,international
+Celtic FC,Racing Club,1967-10-18,1,0,F,FIFA WC,Celtic FC (Scotland),Racing Club (Argentina),scotland,argentina,SCO,AR,Europe,South America,world,international
+Racing Club,Celtic FC,1967-11-01,2,1,F,FIFA WC,Racing Club (Argentina),Celtic FC (Scotland),argentina,scotland,AR,SCO,South America,Europe,world,international
+Racing Club,Celtic FC,1967-11-04,1,0,F,FIFA WC,Racing Club (Argentina),Celtic FC (Scotland),argentina,scotland,AR,SCO,South America,Europe,world,international
+Estudiantes,Manchester United,1968-09-25,1,0,F,FIFA WC,Estudiantes (Argentina),Manchester United (England),argentina,england,AR,ENG,South America,Europe,world,international
+Manchester United,Estudiantes,1968-10-16,1,1,F,FIFA WC,Manchester United (England),Estudiantes (Argentina),england,argentina,ENG,AR,Europe,South America,world,international
+AC Milan,Estudiantes,1969-10-08,3,0,F,FIFA WC,AC Milan (Italy),Estudiantes (Argentina),italy,argentina,IT,AR,Europe,South America,world,international
+Estudiantes,AC Milan,1969-10-22,2,1,F,FIFA WC,Estudiantes (Argentina),AC Milan (Italy),argentina,italy,AR,IT,South America,Europe,world,international
+Estudiantes,Feyenoord,1970-08-26,2,2,F,FIFA WC,Estudiantes (Argentina),Feyenoord (Netherlands),argentina,netherlands,AR,NL,South America,Europe,world,international
+Feyenoord,Estudiantes,1970-09-09,1,0,F,FIFA WC,Feyenoord (Netherlands),Estudiantes (Argentina),netherlands,argentina,NL,AR,Europe,South America,world,international
+Panathinaikos,Nacional,1971-12-15,1,1,F,FIFA WC,Panathinaikos (Greece),Nacional (Uruguay),greece,uruguay,GR,UY,Europe,South America,world,international
+Nacional,Panathinaikos,1971-12-29,2,1,F,FIFA WC,Nacional (Uruguay),Panathinaikos (Greece),uruguay,greece,UY,GR,South America,Europe,world,international
+Independiente,AFC Ajax,1972-09-06,1,1,F,FIFA WC,Independiente (Argentina),AFC Ajax (Netherlands),argentina,netherlands,AR,NL,South America,Europe,world,international
+AFC Ajax,Independiente,1972-09-28,3,0,F,FIFA WC,AFC Ajax (Netherlands),Independiente (Argentina),netherlands,argentina,NL,AR,Europe,South America,world,international
+Independiente,Juventus,1973-11-28,1,0,F,FIFA WC,Independiente (Argentina),Juventus (Italy),argentina,italy,AR,IT,South America,Europe,world,international
+Independiente,Atletico Madrid,1975-03-12,1,0,F,FIFA WC,Independiente (Argentina),Atletico Madrid (Spain),argentina,spain,AR,ES,South America,Europe,world,international
+Atletico Madrid,Independiente,1975-04-10,2,0,F,FIFA WC,Atletico Madrid (Spain),Independiente (Argentina),spain,argentina,ES,AR,Europe,South America,world,international
+Bayern Muenchen,Cruzeiro EC,1976-11-23,2,0,F,FIFA WC,Bayern Muenchen (Germany),Cruzeiro EC (Brazil),germany,brazil,DE,BR,Europe,South America,world,international
+Cruzeiro EC,Bayern Muenchen,1976-12-21,0,0,F,FIFA WC,Cruzeiro EC (Brazil),Bayern Muenchen (Germany),brazil,germany,BR,DE,South America,Europe,world,international
+Boca Juniors,Bor Moenchengladbach,1978-03-21,2,2,F,FIFA WC,Boca Juniors (Argentina),Bor Moenchengladbach (Germany),argentina,germany,AR,DE,South America,Europe,world,international
+Bor Moenchengladbach,Boca Juniors,1978-08-01,0,3,F,FIFA WC,Bor Moenchengladbach (Germany),Boca Juniors (Argentina),germany,argentina,DE,AR,Europe,South America,world,international
+Malmoe Ff,Club Olimpia,1979-11-18,0,1,F,FIFA WC,Malmoe Ff (Sweden),Club Olimpia (Paraguay),sweden,paraguay,SE,PY,Europe,South America,world,international
+Club Olimpia,Malmoe Ff,1980-03-03,2,1,F,FIFA WC,Club Olimpia (Paraguay),Malmoe Ff (Sweden),paraguay,sweden,PY,SE,South America,Europe,world,international
+Nacional,Nottingham Forest,1981-02-11,1,0,F,FIFA WC,Nacional (Uruguay),Nottingham Forest (England),uruguay,england,UY,ENG,South America,Europe,world,international
+Flamengo RJ,Liverpool FC,1981-12-13,3,0,F,FIFA WC,Flamengo RJ (Brazil),Liverpool FC (England),brazil,england,BR,ENG,South America,Europe,world,international
+CA Penarol,Aston Villa,1982-12-12,2,0,F,FIFA WC,CA Penarol (Uruguay),Aston Villa (England),uruguay,england,UY,ENG,South America,Europe,world,international
+Gremio Porto Alegre,Hamburger SV,1983-12-11,2,1,F,FIFA WC,Gremio Porto Alegre (Brazil),Hamburger SV (Germany),brazil,germany,BR,DE,South America,Europe,world,international
+Independiente,Liverpool FC,1984-12-09,1,0,F,FIFA WC,Independiente (Argentina),Liverpool FC (England),argentina,england,AR,ENG,South America,Europe,world,international
+Juventus,Argentinos Juniors,1985-12-08,6,4,F,FIFA WC,Juventus (Italy),Argentinos Juniors (Argentina),italy,argentina,IT,AR,Europe,South America,world,international
+River Plate,Steaua Bucuresti,1986-12-14,1,0,F,FIFA WC,River Plate (Argentina),Steaua Bucuresti (Romania),argentina,romania,AR,RO,South America,Europe,world,international
+FC Porto,CA Penarol,1987-12-13,2,1,F,FIFA WC,FC Porto (Portugal),CA Penarol (Uruguay),portugal,uruguay,PT,UY,Europe,South America,world,international
+Nacional,PSV Eindhoven,1988-12-11,7,6,F,FIFA WC,Nacional (Uruguay),PSV Eindhoven (Netherlands),uruguay,netherlands,UY,NL,South America,Europe,world,international
+AC Milan,Atletico Nacional,1989-12-18,1,0,F,FIFA WC,AC Milan (Italy),Atletico Nacional (Colombia),italy,colombia,IT,CO,Europe,South America,world,international
+AC Milan,Club Olimpia,1990-12-10,3,0,F,FIFA WC,AC Milan (Italy),Club Olimpia (Paraguay),italy,paraguay,IT,PY,Europe,South America,world,international
+Red Star Belgrade,Colo Colo,1991-12-08,3,0,F,FIFA WC,Red Star Belgrade (Serbia),Colo Colo (Chile),serbia,chile,RS,CL,Europe,South America,world,international
+Sao Paulo FC,FC Barcelona,1992-12-13,2,1,F,FIFA WC,Sao Paulo FC (Brazil),FC Barcelona (Spain),brazil,spain,BR,ES,South America,Europe,world,international
+Sao Paulo FC,AC Milan,1993-12-13,3,2,F,FIFA WC,Sao Paulo FC (Brazil),AC Milan (Italy),brazil,italy,BR,IT,South America,Europe,world,international
+Velez Sarsfield,AC Milan,1994-12-12,2,0,F,FIFA WC,Velez Sarsfield (Argentina),AC Milan (Italy),argentina,italy,AR,IT,South America,Europe,world,international
+AFC Ajax,Gremio Porto Alegre,1995-11-28,4,3,F,FIFA WC,AFC Ajax (Netherlands),Gremio Porto Alegre (Brazil),netherlands,brazil,NL,BR,Europe,South America,world,international
+Juventus,River Plate,1996-11-26,1,0,F,FIFA WC,Juventus (Italy),River Plate (Argentina),italy,argentina,IT,AR,Europe,South America,world,international
+Borussia Dortmund,Cruzeiro EC,1997-12-02,2,0,F,FIFA WC,Borussia Dortmund (Germany),Cruzeiro EC (Brazil),germany,brazil,DE,BR,Europe,South America,world,international
+Real Madrid,Vasco Da Gama,1998-12-01,2,1,F,FIFA WC,Real Madrid (Spain),Vasco Da Gama (Brazil),spain,brazil,ES,BR,Europe,South America,world,international
+Manchester United,Se Palmeiras,1999-11-30,1,0,F,FIFA WC,Manchester United (England),Se Palmeiras (Brazil),england,brazil,ENG,BR,Europe,South America,world,international
+Boca Juniors,Real Madrid,2000-11-28,2,1,F,FIFA WC,Boca Juniors (Argentina),Real Madrid (Spain),argentina,spain,AR,ES,South America,Europe,world,international
+Bayern Muenchen,Boca Juniors,2001-11-27,1,0,F,FIFA WC,Bayern Muenchen (Germany),Boca Juniors (Argentina),germany,argentina,DE,AR,Europe,South America,world,international
+Real Madrid,Club Olimpia,2002-12-03,2,0,F,FIFA WC,Real Madrid (Spain),Club Olimpia (Paraguay),spain,paraguay,ES,PY,Europe,South America,world,international
+Boca Juniors,AC Milan,2003-12-14,3,1,F,FIFA WC,Boca Juniors (Argentina),AC Milan (Italy),argentina,italy,AR,IT,South America,Europe,world,international
+FC Porto,Once Caldas,2004-12-12,8,7,F,FIFA WC,FC Porto (Portugal),Once Caldas (Colombia),portugal,colombia,PT,CO,Europe,South America,world,international

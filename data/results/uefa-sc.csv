@@ -1,0 +1,65 @@
+home,away,date,gh,ga,full_time,competition,home_ident,away_ident,home_country,away_country,home_code,away_code,home_continent,away_continent,continent,level
+Rangers FC,AFC Ajax,1973-01-16,1,3,F,UEFA SC,Rangers FC (Scotland),AFC Ajax (Netherlands),scotland,netherlands,SCO,NL,Europe,Europe,Europe,international
+AFC Ajax,Rangers FC,1973-01-24,3,2,F,UEFA SC,AFC Ajax (Netherlands),Rangers FC (Scotland),netherlands,scotland,NL,SCO,Europe,Europe,Europe,international
+AC Milan,AFC Ajax,1974-01-09,1,0,F,UEFA SC,AC Milan (Italy),AFC Ajax (Netherlands),italy,netherlands,IT,NL,Europe,Europe,Europe,international
+AFC Ajax,AC Milan,1974-01-16,6,0,F,UEFA SC,AFC Ajax (Netherlands),AC Milan (Italy),netherlands,italy,NL,IT,Europe,Europe,Europe,international
+Bayern Muenchen,Dinamo Kiev,1975-09-09,0,1,F,UEFA SC,Bayern Muenchen (Germany),Dinamo Kiev (Ukraine),germany,ukraine,DE,UA,Europe,Europe,Europe,international
+Dinamo Kiev,Bayern Muenchen,1975-10-06,2,0,F,UEFA SC,Dinamo Kiev (Ukraine),Bayern Muenchen (Germany),ukraine,germany,UA,DE,Europe,Europe,Europe,international
+Bayern Muenchen,RSC Anderlecht,1976-08-17,2,1,F,UEFA SC,Bayern Muenchen (Germany),RSC Anderlecht (Belgium),germany,belgium,DE,BE,Europe,Europe,Europe,international
+RSC Anderlecht,Bayern Muenchen,1976-08-30,4,1,F,UEFA SC,RSC Anderlecht (Belgium),Bayern Muenchen (Germany),belgium,germany,BE,DE,Europe,Europe,Europe,international
+Hamburger SV,Liverpool FC,1977-11-22,1,1,F,UEFA SC,Hamburger SV (Germany),Liverpool FC (England),germany,england,DE,ENG,Europe,Europe,Europe,international
+Liverpool FC,Hamburger SV,1977-12-06,6,0,F,UEFA SC,Liverpool FC (England),Hamburger SV (Germany),england,germany,ENG,DE,Europe,Europe,Europe,international
+RSC Anderlecht,Liverpool FC,1978-12-04,3,1,F,UEFA SC,RSC Anderlecht (Belgium),Liverpool FC (England),belgium,england,BE,ENG,Europe,Europe,Europe,international
+Liverpool FC,RSC Anderlecht,1978-12-19,2,1,F,UEFA SC,Liverpool FC (England),RSC Anderlecht (Belgium),england,belgium,ENG,BE,Europe,Europe,Europe,international
+Nottingham Forest,FC Barcelona,1980-01-30,1,0,F,UEFA SC,Nottingham Forest (England),FC Barcelona (Spain),england,spain,ENG,ES,Europe,Europe,Europe,international
+FC Barcelona,Nottingham Forest,1980-02-05,1,1,F,UEFA SC,FC Barcelona (Spain),Nottingham Forest (England),spain,england,ES,ENG,Europe,Europe,Europe,international
+Nottingham Forest,Valencia CF,1980-11-25,2,1,F,UEFA SC,Nottingham Forest (England),Valencia CF (Spain),england,spain,ENG,ES,Europe,Europe,Europe,international
+Valencia CF,Nottingham Forest,1980-12-17,1,0,F,UEFA SC,Valencia CF (Spain),Nottingham Forest (England),spain,england,ES,ENG,Europe,Europe,Europe,international
+FC Barcelona,Aston Villa,1983-01-19,1,0,F,UEFA SC,FC Barcelona (Spain),Aston Villa (England),spain,england,ES,ENG,Europe,Europe,Europe,international
+Aston Villa,FC Barcelona,1983-01-26,3,0,F,UEFA SC,Aston Villa (England),FC Barcelona (Spain),england,spain,ENG,ES,Europe,Europe,Europe,international
+Hamburger SV,Aberdeen FC,1983-11-22,0,0,F,UEFA SC,Hamburger SV (Germany),Aberdeen FC (Scotland),germany,scotland,DE,SCO,Europe,Europe,Europe,international
+Aberdeen FC,Hamburger SV,1983-12-20,2,0,F,UEFA SC,Aberdeen FC (Scotland),Hamburger SV (Germany),scotland,germany,SCO,DE,Europe,Europe,Europe,international
+Juventus,Liverpool FC,1985-01-16,2,0,F,UEFA SC,Juventus (Italy),Liverpool FC (England),italy,england,IT,ENG,Europe,Europe,Europe,international
+Steaua Bucuresti,Dinamo Kiev,1987-02-24,1,0,F,UEFA SC,Steaua Bucuresti (Romania),Dinamo Kiev (Ukraine),romania,ukraine,RO,UA,Europe,Europe,Europe,international
+AFC Ajax,FC Porto,1987-11-24,0,1,F,UEFA SC,AFC Ajax (Netherlands),FC Porto (Portugal),netherlands,portugal,NL,PT,Europe,Europe,Europe,international
+FC Porto,AFC Ajax,1988-01-13,1,0,F,UEFA SC,FC Porto (Portugal),AFC Ajax (Netherlands),portugal,netherlands,PT,NL,Europe,Europe,Europe,international
+KV Mechelen,PSV Eindhoven,1989-02-01,3,0,F,UEFA SC,KV Mechelen (Belgium),PSV Eindhoven (Netherlands),belgium,netherlands,BE,NL,Europe,Europe,Europe,international
+PSV Eindhoven,KV Mechelen,1989-02-08,1,0,F,UEFA SC,PSV Eindhoven (Netherlands),KV Mechelen (Belgium),netherlands,belgium,NL,BE,Europe,Europe,Europe,international
+FC Barcelona,AC Milan,1989-11-23,1,1,F,UEFA SC,FC Barcelona (Spain),AC Milan (Italy),spain,italy,ES,IT,Europe,Europe,Europe,international
+AC Milan,FC Barcelona,1989-12-07,1,0,F,UEFA SC,AC Milan (Italy),FC Barcelona (Spain),italy,spain,IT,ES,Europe,Europe,Europe,international
+Sampdoria,AC Milan,1990-10-10,1,1,F,UEFA SC,Sampdoria (Italy),AC Milan (Italy),italy,italy,IT,IT,Europe,Europe,Europe,international
+AC Milan,Sampdoria,1990-11-29,2,0,F,UEFA SC,AC Milan (Italy),Sampdoria (Italy),italy,italy,IT,IT,Europe,Europe,Europe,international
+Manchester United,Red Star Belgrade,1991-11-19,1,0,F,UEFA SC,Manchester United (England),Red Star Belgrade (Serbia),england,serbia,ENG,RS,Europe,Europe,Europe,international
+Werder Bremen,FC Barcelona,1993-02-10,1,1,F,UEFA SC,Werder Bremen (Germany),FC Barcelona (Spain),germany,spain,DE,ES,Europe,Europe,Europe,international
+FC Barcelona,Werder Bremen,1993-03-10,2,1,F,UEFA SC,FC Barcelona (Spain),Werder Bremen (Germany),spain,germany,ES,DE,Europe,Europe,Europe,international
+Parma FC,AC Milan,1994-01-12,0,1,F,UEFA SC,Parma FC (Italy),AC Milan (Italy),italy,italy,IT,IT,Europe,Europe,Europe,international
+AC Milan,Parma FC,1994-02-02,0,2,F,UEFA SC,AC Milan (Italy),Parma FC (Italy),italy,italy,IT,IT,Europe,Europe,Europe,international
+Arsenal FC,AC Milan,1995-02-01,0,0,F,UEFA SC,Arsenal FC (England),AC Milan (Italy),england,italy,ENG,IT,Europe,Europe,Europe,international
+AC Milan,Arsenal FC,1995-02-08,2,0,F,UEFA SC,AC Milan (Italy),Arsenal FC (England),italy,england,IT,ENG,Europe,Europe,Europe,international
+Real Zaragoza,AFC Ajax,1996-02-06,1,1,F,UEFA SC,Real Zaragoza (Spain),AFC Ajax (Netherlands),spain,netherlands,ES,NL,Europe,Europe,Europe,international
+AFC Ajax,Real Zaragoza,1996-02-28,4,0,F,UEFA SC,AFC Ajax (Netherlands),Real Zaragoza (Spain),netherlands,spain,NL,ES,Europe,Europe,Europe,international
+Paris Saint Germain,Juventus,1997-01-15,1,6,F,UEFA SC,Paris Saint Germain (France),Juventus (Italy),france,italy,FR,IT,Europe,Europe,Europe,international
+Juventus,Paris Saint Germain,1997-02-05,3,1,F,UEFA SC,Juventus (Italy),Paris Saint Germain (France),italy,france,IT,FR,Europe,Europe,Europe,international
+FC Barcelona,Borussia Dortmund,1998-01-08,2,0,F,UEFA SC,FC Barcelona (Spain),Borussia Dortmund (Germany),spain,germany,ES,DE,Europe,Europe,Europe,international
+Borussia Dortmund,FC Barcelona,1998-03-11,1,1,F,UEFA SC,Borussia Dortmund (Germany),FC Barcelona (Spain),germany,spain,DE,ES,Europe,Europe,Europe,international
+Real Madrid,Chelsea FC,1998-08-28,0,1,F,UEFA SC,Real Madrid (Spain),Chelsea FC (England),spain,england,ES,ENG,Europe,Europe,Europe,international
+Manchester United,Lazio Roma,1999-08-27,0,1,F,UEFA SC,Manchester United (England),Lazio Roma (Italy),england,italy,ENG,IT,Europe,Europe,Europe,international
+Real Madrid,Galatasaray,2000-08-25,1,2,E,UEFA SC,Real Madrid (Spain),Galatasaray (Turkey),spain,turkey,ES,TR,Europe,Europe,Europe,international
+Bayern Muenchen,Liverpool FC,2001-08-24,2,3,F,UEFA SC,Bayern Muenchen (Germany),Liverpool FC (England),germany,england,DE,ENG,Europe,Europe,Europe,international
+Real Madrid,Feyenoord,2002-08-30,3,1,F,UEFA SC,Real Madrid (Spain),Feyenoord (Netherlands),spain,netherlands,ES,NL,Europe,Europe,Europe,international
+AC Milan,FC Porto,2003-08-29,1,0,F,UEFA SC,AC Milan (Italy),FC Porto (Portugal),italy,portugal,IT,PT,Europe,Europe,Europe,international
+FC Porto,Valencia CF,2004-08-27,1,2,F,UEFA SC,FC Porto (Portugal),Valencia CF (Spain),portugal,spain,PT,ES,Europe,Europe,Europe,international
+Liverpool FC,CSka Moskva,2005-08-26,3,1,E,UEFA SC,Liverpool FC (England),CSka Moskva (Russia),england,russia,ENG,RU,Europe,Europe,Europe,international
+FC Barcelona,Sevilla FC,2006-08-25,0,3,F,UEFA SC,FC Barcelona (Spain),Sevilla FC (Spain),spain,spain,ES,ES,Europe,Europe,Europe,international
+AC Milan,Sevilla FC,2007-08-31,3,1,F,UEFA SC,AC Milan (Italy),Sevilla FC (Spain),italy,spain,IT,ES,Europe,Europe,Europe,international
+Manchester United,Zenit St Petersburg,2008-08-29,1,2,F,UEFA SC,Manchester United (England),Zenit St Petersburg (Russia),england,russia,ENG,RU,Europe,Europe,Europe,international
+FC Barcelona,Shakhtar Donetsk,2009-08-28,1,0,E,UEFA SC,FC Barcelona (Spain),Shakhtar Donetsk (Ukraine),spain,ukraine,ES,UA,Europe,Europe,Europe,international
+Inter,Atletico Madrid,2010-08-27,0,2,F,UEFA SC,Inter (Italy),Atletico Madrid (Spain),italy,spain,IT,ES,Europe,Europe,Europe,international
+FC Barcelona,FC Porto,2011-08-26,2,0,F,UEFA SC,FC Barcelona (Spain),FC Porto (Portugal),spain,portugal,ES,PT,Europe,Europe,Europe,international
+Chelsea FC,Atletico Madrid,2012-08-31,1,4,F,UEFA SC,Chelsea FC (England),Atletico Madrid (Spain),england,spain,ENG,ES,Europe,Europe,Europe,international
+Bayern Muenchen,Chelsea FC,2013-08-30,2,2,P,UEFA SC,Bayern Muenchen (Germany),Chelsea FC (England),germany,england,DE,ENG,Europe,Europe,Europe,international
+Real Madrid,Sevilla FC,2014-08-12,2,0,F,UEFA SC,Real Madrid (Spain),Sevilla FC (Spain),spain,spain,ES,ES,Europe,Europe,Europe,international
+FC Barcelona,Sevilla FC,2015-08-11,5,4,E,UEFA SC,FC Barcelona (Spain),Sevilla FC (Spain),spain,spain,ES,ES,Europe,Europe,Europe,international
+Real Madrid,Sevilla FC,2016-08-09,3,2,E,UEFA SC,Real Madrid (Spain),Sevilla FC (Spain),spain,spain,ES,ES,Europe,Europe,Europe,international
+Real Madrid,Manchester United,2017-08-08,2,1,F,UEFA SC,Real Madrid (Spain),Manchester United (England),spain,england,ES,ENG,Europe,Europe,Europe,international
+Real Madrid,Atletico Madrid,2018-08-15,2,4,E,UEFA SC,Real Madrid (Spain),Atletico Madrid (Spain),spain,spain,ES,ES,Europe,Europe,Europe,international

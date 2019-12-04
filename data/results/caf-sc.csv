@@ -1,0 +1,27 @@
+home,away,date,gh,ga,full_time,competition,home_ident,away_ident,home_country,away_country,home_code,away_code,home_continent,away_continent,continent,level
+Africa Sports,Wydad AC,1993-01-10,5,3,F,CAF SC,Africa Sports (Ivory Coast),Wydad AC (Morocco),cote-divoire,morocco,IVR,MA,Africa,Africa,Africa,international
+Zamalek,Al Ahly,1994-01-16,1,0,F,CAF SC,Zamalek (Egypt),Al Ahly (Egypt),egypt,egypt,EG,EG,Africa,Africa,Africa,international
+Esperance Tunis,Dc Motema Pembe,1995-01-20,3,0,F,CAF SC,Esperance Tunis (Tunisia),Dc Motema Pembe (Congo Dr),tunisia,congo-dr,TN,CDR,Africa,Africa,Africa,international
+Orlando Pirates,JS Kabylie,1996-03-02,1,0,F,CAF SC,Orlando Pirates (Namibia),JS Kabylie (Algeria),namibia,algeria,NA,DZ,Africa,Africa,Africa,international
+Raja Casablanca,ES Sahel,1998-03-15,2,4,F,CAF SC,Raja Casablanca (Morocco),ES Sahel (Tunisia),morocco,tunisia,MA,TN,Africa,Africa,Africa,international
+Asec Mimosas,Esperance Tunis,1999-02-07,3,1,F,CAF SC,Asec Mimosas (Ivory Coast),Esperance Tunis (Tunisia),cote-divoire,tunisia,IVR,TN,Africa,Africa,Africa,international
+Raja Casablanca,Africa Sports,2000-03-05,2,0,F,CAF SC,Raja Casablanca (Morocco),Africa Sports (Ivory Coast),morocco,cote-divoire,MA,IVR,Africa,Africa,Africa,international
+Hearts Of Oak,Zamalek,2001-02-11,2,0,F,CAF SC,Hearts Of Oak (Ghana),Zamalek (Egypt),ghana,egypt,GH,EG,Africa,Africa,Africa,international
+Al Ahly,Kaizer Chiefs,2002-03-15,4,1,F,CAF SC,Al Ahly (Egypt),Kaizer Chiefs (South Africa),egypt,south-africa,EG,ZA,Africa,Africa,Africa,international
+Zamalek,Wydad AC,2003-02-07,3,1,F,CAF SC,Zamalek (Egypt),Wydad AC (Morocco),egypt,morocco,EG,MA,Africa,Africa,Africa,international
+Enyimba Aba,Hearts Of Oak,2005-02-20,2,0,F,CAF SC,Enyimba Aba (Nigeria),Hearts Of Oak (Ghana),nigeria,ghana,NG,GH,Africa,Africa,Africa,international
+Enyimba Aba,ES Sahel,2005-02-22,1,0,F,CAF SC,Enyimba Aba (Nigeria),ES Sahel (Tunisia),nigeria,tunisia,NG,TN,Africa,Africa,Africa,international
+Al Ahly,FAR de Rabat,2006-02-24,4,2,F,CAF SC,Al Ahly (Egypt),FAR de Rabat (Morocco),egypt,morocco,EG,MA,Africa,Africa,Africa,international
+Al Ahly,ES Sahel,2007-02-18,5,4,F,CAF SC,Al Ahly (Egypt),ES Sahel (Tunisia),egypt,tunisia,EG,TN,Africa,Africa,Africa,international
+ES Sahel,Club Sportif Sfaxien,2008-02-23,2,1,F,CAF SC,ES Sahel (Tunisia),Club Sportif Sfaxien (Tunisia),tunisia,tunisia,TN,TN,Africa,Africa,Africa,international
+Al Ahly,Club Sportif Sfaxien,2009-02-06,2,1,F,CAF SC,Al Ahly (Egypt),Club Sportif Sfaxien (Tunisia),egypt,tunisia,EG,TN,Africa,Africa,Africa,international
+Tp Mazembe,Stade Malien De Bamako,2010-02-21,2,0,F,CAF SC,Tp Mazembe (Congo Dr),Stade Malien De Bamako (Mali),congo-dr,mali,CDR,ML,Africa,Africa,Africa,international
+Tp Mazembe,FUS de Rabat,2011-01-29,0,0,P,CAF SC,Tp Mazembe (Congo Dr),FUS de Rabat (Morocco),congo-dr,morocco,CDR,MA,Africa,Africa,Africa,international
+Esperance Tunis,Maghrib Athletic Sportive,2012-02-25,1,1,P,CAF SC,Esperance Tunis (Tunisia),Maghrib Athletic Sportive (Morocco),tunisia,morocco,TN,MA,Africa,Africa,Africa,international
+Al Ahly,AC Leopards,2013-02-23,2,1,F,CAF SC,Al Ahly (Egypt),AC Leopards (Congo),egypt,congo,EG,CON,Africa,Africa,Africa,international
+Al Ahly,Club Sportif Sfaxien,2014-02-20,3,2,F,CAF SC,Al Ahly (Egypt),Club Sportif Sfaxien (Tunisia),egypt,tunisia,EG,TN,Africa,Africa,Africa,international
+ES Setif,Al Ahly,2015-02-21,1,1,P,CAF SC,ES Setif (Algeria),Al Ahly (Egypt),algeria,egypt,DZ,EG,Africa,Africa,Africa,international
+Tp Mazembe,ES Sahel,2016-02-20,2,1,F,CAF SC,Tp Mazembe (Congo Dr),ES Sahel (Tunisia),congo-dr,tunisia,CDR,TN,Africa,Africa,Africa,international
+Mamelodi Sundowns,Tp Mazembe,2017-02-18,1,0,F,CAF SC,Mamelodi Sundowns (South Africa),Tp Mazembe (Congo Dr),south-africa,congo-dr,ZA,CDR,Africa,Africa,Africa,international
+Wydad AC,Tp Mazembe,2018-02-24,1,0,F,CAF SC,Wydad AC (Morocco),Tp Mazembe (Congo Dr),morocco,congo-dr,MA,CDR,Africa,Africa,Africa,international
+Esperance Tunis,Raja Casablanca,2019-03-29,1,2,F,CAF SC,Esperance Tunis (Tunisia),Raja Casablanca (Morocco),tunisia,morocco,TN,MA,Africa,Africa,Africa,international

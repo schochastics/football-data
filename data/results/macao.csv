@@ -1,0 +1,1107 @@
+home,away,date,gh,ga,full_time,competition,home_ident,away_ident,home_country,away_country,home_code,away_code,home_continent,away_continent,continent,level
+Cd Alfandega,Va Luen,2005-01-04,2,2,F,macao,Cd Alfandega (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Heng Tai,2005-01-04,4,2,F,macao,Monte Carlo (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Policia De Seguranca Publica,2005-01-07,0,3,F,macao,Kuan Tai (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Kei Lun,2005-01-07,2,0,F,macao,Lam Pak (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Va Luen,2005-01-11,1,2,F,macao,Monte Carlo (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Cd Alfandega,2005-01-11,1,2,F,macao,Kuan Tai (Macao),Cd Alfandega (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Policia De Seguranca Publica,2005-01-14,0,7,F,macao,Kei Lun (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Heng Tai,2005-01-14,2,0,F,macao,Lam Pak (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Monte Carlo,2005-01-18,2,2,F,macao,Lam Pak (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Cd Alfandega,2005-01-18,0,3,F,macao,Kei Lun (Macao),Cd Alfandega (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Va Luen,2005-01-21,2,2,F,macao,Kuan Tai (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Heng Tai,2005-01-21,8,1,F,macao,Policia De Seguranca Publica (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Kuan Tai,2005-01-25,2,0,F,macao,Kei Lun (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Monte Carlo,2005-01-25,1,1,F,macao,Policia De Seguranca Publica (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Heng Tai,Cd Alfandega,2005-01-28,2,3,F,macao,Heng Tai (Macao),Cd Alfandega (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Va Luen,2005-01-28,0,1,F,macao,Lam Pak (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Lam Pak,2005-02-01,2,0,F,macao,Policia De Seguranca Publica (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Kei Lun,2005-02-01,1,1,F,macao,Va Luen (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Cd Alfandega,Monte Carlo,2005-02-04,1,1,F,macao,Cd Alfandega (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Heng Tai,2005-02-04,2,2,F,macao,Kuan Tai (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Heng Tai,Kei Lun,2005-02-22,2,1,F,macao,Heng Tai (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Va Luen,2005-02-22,3,1,F,macao,Policia De Seguranca Publica (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Cd Alfandega,Lam Pak,2005-02-25,1,0,F,macao,Cd Alfandega (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Kuan Tai,2005-02-25,2,2,F,macao,Monte Carlo (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Cd Alfandega,Policia De Seguranca Publica,2005-03-01,1,1,F,macao,Cd Alfandega (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Kei Lun,2005-03-01,2,0,F,macao,Monte Carlo (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Heng Tai,Va Luen,2005-03-04,0,2,F,macao,Heng Tai (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Lam Pak,2005-03-04,0,7,F,macao,Kuan Tai (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Kuan Tai,2005-03-08,3,0,F,macao,Policia De Seguranca Publica (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Heng Tai,Monte Carlo,2005-03-08,7,4,F,macao,Heng Tai (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Cd Alfandega,2005-03-11,1,0,F,macao,Va Luen (Macao),Cd Alfandega (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Lam Pak,2005-03-11,0,6,F,macao,Kei Lun (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Kei Lun,2005-03-15,3,0,F,macao,Policia De Seguranca Publica (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Cd Alfandega,Kuan Tai,2005-03-15,1,2,F,macao,Cd Alfandega (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Heng Tai,Lam Pak,2005-03-18,2,5,F,macao,Heng Tai (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Monte Carlo,2005-03-18,0,2,F,macao,Va Luen (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Heng Tai,Policia De Seguranca Publica,2005-03-22,0,1,F,macao,Heng Tai (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Kuan Tai,2005-03-25,1,1,F,macao,Va Luen (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Policia De Seguranca Publica,2005-03-29,2,4,F,macao,Monte Carlo (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Cd Alfandega,Heng Tai,2005-04-01,5,4,F,macao,Cd Alfandega (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Lam Pak,2005-04-01,1,4,F,macao,Va Luen (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Policia De Seguranca Publica,2005-04-05,2,0,F,macao,Lam Pak (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Kei Lun,2005-04-05,6,2,F,macao,Va Luen (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Cd Alfandega,2005-04-08,3,2,F,macao,Monte Carlo (Macao),Cd Alfandega (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Heng Tai,2005-04-08,2,2,F,macao,Kuan Tai (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Heng Tai,2005-04-12,1,3,F,macao,Kei Lun (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Policia De Seguranca Publica,2005-04-12,3,1,F,macao,Va Luen (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Cd Alfandega,2005-04-15,2,1,F,macao,Lam Pak (Macao),Cd Alfandega (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Monte Carlo,2005-04-15,0,6,F,macao,Kuan Tai (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Cd Alfandega,2005-04-19,4,1,F,macao,Policia De Seguranca Publica (Macao),Cd Alfandega (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Monte Carlo,2005-04-19,1,2,F,macao,Kei Lun (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Heng Tai,2005-04-22,0,2,F,macao,Va Luen (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Kuan Tai,2005-04-22,5,3,F,macao,Lam Pak (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Lam Pak,2005-04-26,0,0,F,macao,Monte Carlo (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Cd Alfandega,Kei Lun,2005-04-26,1,0,F,macao,Cd Alfandega (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Kei Lun,2005-04-29,2,5,F,macao,Kuan Tai (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Monte Carlo,2006-02-03,1,0,F,macao,Lam Pak (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Policia De Seguranca Publica,2006-02-03,1,0,F,macao,Kuan Tai (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Heng Tai,Va Luen,2006-02-03,1,1,F,macao,Heng Tai (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Cd Alfandega,2006-02-03,0,1,F,macao,Hoi Fan (Macao),Cd Alfandega (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kin Chong,Lam Pak,2006-02-08,0,1,F,macao,Kin Chong (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Heng Tai,2006-02-08,7,3,F,macao,Monte Carlo (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Hoi Fan,2006-02-08,0,0,F,macao,Va Luen (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Cd Alfandega,Kuan Tai,2006-02-09,0,2,F,macao,Cd Alfandega (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Va Luen,2006-02-15,2,2,F,macao,Kuan Tai (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Heng Tai,Kin Chong,2006-02-15,3,2,F,macao,Heng Tai (Macao),Kin Chong (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Monte Carlo,2006-02-15,1,4,F,macao,Hoi Fan (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Cd Alfandega,Policia De Seguranca Publica,2006-02-15,0,3,F,macao,Cd Alfandega (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kin Chong,Hoi Fan,2006-02-23,2,2,F,macao,Kin Chong (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Kuan Tai,2006-02-23,5,0,F,macao,Monte Carlo (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Cd Alfandega,2006-02-23,2,2,F,macao,Va Luen (Macao),Cd Alfandega (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Kin Chong,2006-03-03,0,4,F,macao,Kuan Tai (Macao),Kin Chong (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Policia De Seguranca Publica,2006-03-03,4,2,F,macao,Va Luen (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Cd Alfandega,Monte Carlo,2006-03-03,1,7,F,macao,Cd Alfandega (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Heng Tai,Lam Pak,2006-03-03,0,6,F,macao,Heng Tai (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Heng Tai,2006-03-10,0,0,F,macao,Policia De Seguranca Publica (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Va Luen,2006-03-10,2,2,F,macao,Monte Carlo (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Hoi Fan,2006-03-10,2,1,F,macao,Lam Pak (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kin Chong,Cd Alfandega,2006-03-10,2,0,F,macao,Kin Chong (Macao),Cd Alfandega (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Policia De Seguranca Publica,2006-03-17,2,0,F,macao,Monte Carlo (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Kin Chong,2006-03-17,1,0,F,macao,Va Luen (Macao),Kin Chong (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Heng Tai,2006-03-17,4,2,F,macao,Hoi Fan (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Cd Alfandega,Lam Pak,2006-03-25,1,4,F,macao,Cd Alfandega (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Kin Chong,2006-03-25,3,1,F,macao,Monte Carlo (Macao),Kin Chong (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Hoi Fan,2006-03-25,1,0,F,macao,Policia De Seguranca Publica (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Heng Tai,2006-03-25,1,1,F,macao,Kuan Tai (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Lam Pak,2006-04-14,1,1,F,macao,Va Luen (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Hoi Fan,2006-04-14,1,3,F,macao,Kuan Tai (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kin Chong,Policia De Seguranca Publica,2006-04-14,4,1,F,macao,Kin Chong (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Cd Alfandega,Heng Tai,2006-04-14,1,6,F,macao,Cd Alfandega (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Lam Pak,2006-04-24,0,7,F,macao,Kuan Tai (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Lam Pak,2006-04-29,0,2,F,macao,Policia De Seguranca Publica (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Heng Tai,2006-05-05,6,2,F,macao,Va Luen (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Cd Alfandega,Hoi Fan,2006-05-05,4,3,F,macao,Cd Alfandega (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Kuan Tai,2006-05-06,1,3,F,macao,Policia De Seguranca Publica (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Lam Pak,2006-05-06,2,2,F,macao,Monte Carlo (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Heng Tai,Monte Carlo,2006-05-12,0,6,F,macao,Heng Tai (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Va Luen,2006-05-12,1,1,F,macao,Hoi Fan (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Cd Alfandega,2006-05-13,2,2,F,macao,Kuan Tai (Macao),Cd Alfandega (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Kin Chong,2006-05-13,2,0,F,macao,Lam Pak (Macao),Kin Chong (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Hoi Fan,2006-05-19,4,1,F,macao,Monte Carlo (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Kuan Tai,2006-05-19,2,1,F,macao,Va Luen (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Cd Alfandega,2006-05-20,2,2,F,macao,Policia De Seguranca Publica (Macao),Cd Alfandega (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kin Chong,Heng Tai,2006-05-20,3,2,F,macao,Kin Chong (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Kin Chong,2006-05-28,2,1,F,macao,Hoi Fan (Macao),Kin Chong (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Monte Carlo,2006-05-28,3,1,F,macao,Kuan Tai (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Cd Alfandega,Va Luen,2006-05-28,2,2,F,macao,Cd Alfandega (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Policia De Seguranca Publica,2006-05-28,4,0,F,macao,Lam Pak (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Va Luen,2006-06-07,0,4,F,macao,Policia De Seguranca Publica (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kin Chong,Kuan Tai,2006-06-07,2,1,F,macao,Kin Chong (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Cd Alfandega,2006-06-08,5,1,F,macao,Monte Carlo (Macao),Cd Alfandega (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Heng Tai,2006-06-08,3,0,F,macao,Lam Pak (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Heng Tai,Policia De Seguranca Publica,2006-06-11,5,3,F,macao,Heng Tai (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Monte Carlo,2006-06-11,1,2,F,macao,Va Luen (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Lam Pak,2006-06-11,1,6,F,macao,Hoi Fan (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Cd Alfandega,Kin Chong,2006-06-11,1,2,F,macao,Cd Alfandega (Macao),Kin Chong (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Kuan Tai,2006-06-14,8,0,F,macao,Lam Pak (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Monte Carlo,2006-06-14,2,2,F,macao,Policia De Seguranca Publica (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Heng Tai,Hoi Fan,2006-06-14,1,4,F,macao,Heng Tai (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Policia De Seguranca Publica,2006-06-17,1,3,F,macao,Hoi Fan (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kin Chong,Monte Carlo,2006-06-17,1,3,F,macao,Kin Chong (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Cd Alfandega,2006-06-17,3,0,F,macao,Lam Pak (Macao),Cd Alfandega (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Va Luen,2006-06-21,8,0,F,macao,Lam Pak (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Kuan Tai,2006-06-21,0,6,F,macao,Hoi Fan (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Kin Chong,2006-06-21,1,0,F,macao,Policia De Seguranca Publica (Macao),Kin Chong (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Heng Tai,Cd Alfandega,2006-06-21,5,5,F,macao,Heng Tai (Macao),Cd Alfandega (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Kin Chong,2007-01-27,3,0,F,macao,Lam Pak (Macao),Kin Chong (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Heng Tai,Policia De Seguranca Publica,2007-01-27,0,0,F,macao,Heng Tai (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Vong Chiu,Kuan Tai,2007-01-27,5,0,F,macao,Vong Chiu (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Keong Sai,Va Luen,2007-01-27,1,8,F,macao,Keong Sai (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Monte Carlo,2007-01-31,1,3,F,macao,Va Luen (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Vong Chiu,2007-01-31,0,3,F,macao,Policia De Seguranca Publica (Macao),Vong Chiu (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Keong Sai,2007-01-31,8,1,F,macao,Kuan Tai (Macao),Keong Sai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kin Chong,Heng Tai,2007-01-31,2,0,F,macao,Kin Chong (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Heng Tai,Lam Pak,2007-02-03,0,3,F,macao,Heng Tai (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Kuan Tai,2007-02-03,6,1,F,macao,Monte Carlo (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Vong Chiu,Kin Chong,2007-02-03,12,5,F,macao,Vong Chiu (Macao),Kin Chong (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Keong Sai,Policia De Seguranca Publica,2007-02-03,0,10,F,macao,Keong Sai (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Vong Chiu,2007-02-07,0,1,F,macao,Lam Pak (Macao),Vong Chiu (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Monte Carlo,2007-02-07,0,1,F,macao,Policia De Seguranca Publica (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kin Chong,Keong Sai,2007-02-07,9,0,F,macao,Kin Chong (Macao),Keong Sai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Va Luen,2007-02-07,1,5,F,macao,Kuan Tai (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Vong Chiu,Heng Tai,2007-02-10,5,0,F,macao,Vong Chiu (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Kin Chong,2007-02-10,6,2,F,macao,Monte Carlo (Macao),Kin Chong (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Keong Sai,Lam Pak,2007-02-10,0,10,F,macao,Keong Sai (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Policia De Seguranca Publica,2007-02-10,3,1,F,macao,Va Luen (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Monte Carlo,2007-02-14,2,2,F,macao,Lam Pak (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Heng Tai,Keong Sai,2007-02-14,3,2,F,macao,Heng Tai (Macao),Keong Sai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kin Chong,Va Luen,2007-02-14,2,4,F,macao,Kin Chong (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Kuan Tai,2007-02-14,1,1,F,macao,Policia De Seguranca Publica (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Keong Sai,Vong Chiu,2007-02-24,0,10,F,macao,Keong Sai (Macao),Vong Chiu (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Heng Tai,2007-02-24,4,1,F,macao,Monte Carlo (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Kin Chong,2007-02-24,2,3,F,macao,Kuan Tai (Macao),Kin Chong (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Kin Chong,2007-02-28,1,1,F,macao,Policia De Seguranca Publica (Macao),Kin Chong (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Vong Chiu,2007-02-28,1,1,F,macao,Monte Carlo (Macao),Vong Chiu (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Heng Tai,2007-02-28,3,0,F,macao,Va Luen (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Lam Pak,2007-02-28,1,6,F,macao,Kuan Tai (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Vong Chiu,2007-03-03,2,1,F,macao,Va Luen (Macao),Vong Chiu (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Heng Tai,2007-03-03,5,2,F,macao,Kuan Tai (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Lam Pak,2007-03-03,1,2,F,macao,Policia De Seguranca Publica (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Lam Pak,2007-03-07,2,3,F,macao,Va Luen (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kin Chong,Lam Pak,2007-03-10,1,2,F,macao,Kin Chong (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Vong Chiu,2007-03-10,0,4,F,macao,Kuan Tai (Macao),Vong Chiu (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Heng Tai,2007-03-10,1,3,F,macao,Policia De Seguranca Publica (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Heng Tai,Kin Chong,2007-03-14,2,0,F,macao,Heng Tai (Macao),Kin Chong (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Vong Chiu,Policia De Seguranca Publica,2007-03-14,3,0,F,macao,Vong Chiu (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Va Luen,2007-03-14,1,3,F,macao,Monte Carlo (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Heng Tai,2007-03-17,2,0,F,macao,Lam Pak (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Monte Carlo,2007-03-17,0,8,F,macao,Kuan Tai (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kin Chong,Vong Chiu,2007-03-21,2,18,F,macao,Kin Chong (Macao),Vong Chiu (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Vong Chiu,Lam Pak,2007-03-28,1,0,F,macao,Vong Chiu (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Policia De Seguranca Publica,2007-03-28,5,0,F,macao,Monte Carlo (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Kuan Tai,2007-03-28,1,0,F,macao,Va Luen (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Heng Tai,Vong Chiu,2007-03-31,1,1,F,macao,Heng Tai (Macao),Vong Chiu (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kin Chong,Monte Carlo,2007-03-31,1,0,F,macao,Kin Chong (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Va Luen,2007-03-31,0,0,F,macao,Policia De Seguranca Publica (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Lam Pak,2007-04-11,1,3,F,macao,Monte Carlo (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Kin Chong,2007-04-11,3,1,F,macao,Va Luen (Macao),Kin Chong (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Policia De Seguranca Publica,2007-04-11,0,2,F,macao,Kuan Tai (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Heng Tai,Monte Carlo,2007-04-14,3,2,F,macao,Heng Tai (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kin Chong,Kuan Tai,2007-04-14,7,0,F,macao,Kin Chong (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Va Luen,2007-04-14,2,0,F,macao,Lam Pak (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Vong Chiu,Monte Carlo,2007-04-18,4,4,F,macao,Vong Chiu (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Heng Tai,Va Luen,2007-04-18,0,1,F,macao,Heng Tai (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Kuan Tai,2007-04-18,12,0,F,macao,Lam Pak (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kin Chong,Policia De Seguranca Publica,2007-04-18,0,2,F,macao,Kin Chong (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Vong Chiu,Va Luen,2007-04-21,4,1,F,macao,Vong Chiu (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Heng Tai,Kuan Tai,2007-04-21,5,1,F,macao,Heng Tai (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Policia De Seguranca Publica,2007-04-21,2,0,F,macao,Lam Pak (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U21,Policia De Seguranca Publica,2007-12-01,0,1,F,macao,Macao U21 (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Hoi Fan,2007-12-01,1,1,F,macao,Lam Pak (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Heng Tai,Monte Carlo,2007-12-02,0,1,F,macao,Heng Tai (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Vong Chiu,Va Luen,2007-12-02,2,2,F,macao,Vong Chiu (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Macao U21,2007-12-06,3,2,F,macao,Monte Carlo (Macao),Macao U21 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Heng Tai,2007-12-06,3,0,F,macao,Hoi Fan (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Lam Pak,2007-12-07,0,6,F,macao,Va Luen (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Vong Chiu,2007-12-07,2,3,F,macao,Policia De Seguranca Publica (Macao),Vong Chiu (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Vong Chiu,2007-12-22,5,2,F,macao,Lam Pak (Macao),Vong Chiu (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Heng Tai,Va Luen,2007-12-22,0,1,F,macao,Heng Tai (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U21,Hoi Fan,2007-12-23,1,2,F,macao,Macao U21 (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Policia De Seguranca Publica,2007-12-23,2,1,F,macao,Monte Carlo (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Lam Pak,2007-12-29,1,5,F,macao,Policia De Seguranca Publica (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Vong Chiu,Heng Tai,2007-12-29,1,0,F,macao,Vong Chiu (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Macao U21,2007-12-30,2,3,F,macao,Va Luen (Macao),Macao U21 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Monte Carlo,2007-12-30,0,4,F,macao,Hoi Fan (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Heng Tai,Lam Pak,2008-01-05,0,7,F,macao,Heng Tai (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U21,Vong Chiu,2008-01-05,1,4,F,macao,Macao U21 (Macao),Vong Chiu (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Va Luen,2008-01-06,6,0,F,macao,Monte Carlo (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Policia De Seguranca Publica,2008-01-06,1,0,F,macao,Hoi Fan (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Macao U21,2008-01-06,5,0,F,macao,Lam Pak (Macao),Macao U21 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Heng Tai,2008-01-12,1,0,F,macao,Policia De Seguranca Publica (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Vong Chiu,Monte Carlo,2008-01-13,4,3,F,macao,Vong Chiu (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Hoi Fan,2008-01-13,0,4,F,macao,Va Luen (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U21,Heng Tai,2008-01-19,1,1,F,macao,Macao U21 (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Lam Pak,2008-01-19,5,1,F,macao,Monte Carlo (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Vong Chiu,2008-01-20,1,0,F,macao,Hoi Fan (Macao),Vong Chiu (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Policia De Seguranca Publica,2008-01-20,2,0,F,macao,Va Luen (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Vong Chiu,2008-03-08,0,1,F,macao,Va Luen (Macao),Vong Chiu (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Lam Pak,2008-03-08,0,2,F,macao,Hoi Fan (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Heng Tai,2008-03-09,7,2,F,macao,Monte Carlo (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Macao U21,2008-03-09,2,0,F,macao,Policia De Seguranca Publica (Macao),Macao U21 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Vong Chiu,Policia De Seguranca Publica,2008-03-15,1,0,F,macao,Vong Chiu (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Va Luen,2008-03-15,1,0,F,macao,Lam Pak (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Heng Tai,Hoi Fan,2008-03-16,1,2,F,macao,Heng Tai (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U21,Monte Carlo,2008-03-16,0,3,F,macao,Macao U21 (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Vong Chiu,Lam Pak,2008-03-22,1,5,F,macao,Vong Chiu (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Heng Tai,2008-03-22,1,0,F,macao,Va Luen (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Macao U21,2008-03-23,2,4,F,macao,Hoi Fan (Macao),Macao U21 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Monte Carlo,2008-03-23,0,3,F,macao,Policia De Seguranca Publica (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Policia De Seguranca Publica,2008-04-05,2,0,F,macao,Lam Pak (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Heng Tai,Vong Chiu,2008-04-05,0,4,F,macao,Heng Tai (Macao),Vong Chiu (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U21,Va Luen,2008-04-06,1,5,F,macao,Macao U21 (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Hoi Fan,2008-04-06,5,0,F,macao,Monte Carlo (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Heng Tai,2008-04-12,6,1,F,macao,Lam Pak (Macao),Heng Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Vong Chiu,Macao U21,2008-04-12,2,3,F,macao,Vong Chiu (Macao),Macao U21 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Monte Carlo,2008-04-13,0,3,F,macao,Va Luen (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Hoi Fan,2008-04-13,1,2,F,macao,Policia De Seguranca Publica (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Vong Chiu,2008-04-20,4,0,F,macao,Monte Carlo (Macao),Vong Chiu (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Va Luen,2008-04-20,0,0,F,macao,Hoi Fan (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Heng Tai,Macao U21,2008-04-26,1,3,F,macao,Heng Tai (Macao),Macao U21 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Va Luen,2008-04-26,1,1,F,macao,Policia De Seguranca Publica (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Monte Carlo,2008-04-27,2,2,F,macao,Lam Pak (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Vong Chiu,Hoi Fan,2008-04-27,2,2,F,macao,Vong Chiu (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Heng Tai,Policia De Seguranca Publica,2008-05-07,1,3,F,macao,Heng Tai (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U21,Lam Pak,2008-05-07,1,2,F,macao,Macao U21 (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Artilheiros,2009-01-10,2,0,F,macao,Macao U23 (Macao),Artilheiros (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Vong Chiu,Lam Pak,2009-01-11,1,6,F,macao,Vong Chiu (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hogn Lok,Hoi Fan,2009-01-11,1,3,F,macao,Hogn Lok (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Policia De Seguranca Publica,2009-01-17,1,0,F,macao,Lam Pak (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Artilheiros,Vong Chiu,2009-01-17,0,0,F,macao,Artilheiros (Macao),Vong Chiu (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Macao U23,2009-01-18,2,0,F,macao,Hoi Fan (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Hogn Lok,2009-01-18,5,1,F,macao,Windsor Arch Ka I (Macao),Hogn Lok (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Windsor Arch Ka I,2009-01-24,0,1,F,macao,Policia De Seguranca Publica (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Hogn Lok,2009-02-07,2,1,F,macao,Macao U23 (Macao),Hogn Lok (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Vong Chiu,Hoi Fan,2009-02-07,0,0,F,macao,Vong Chiu (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Artilheiros,2009-02-08,2,0,F,macao,Policia De Seguranca Publica (Macao),Artilheiros (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Windsor Arch Ka I,2009-02-08,1,0,F,macao,Lam Pak (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Macao U23,2009-02-14,1,1,F,macao,Windsor Arch Ka I (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Artilheiros,Lam Pak,2009-02-14,0,6,F,macao,Artilheiros (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Policia De Seguranca Publica,2009-02-15,4,3,F,macao,Hoi Fan (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hogn Lok,Vong Chiu,2009-02-15,0,1,F,macao,Hogn Lok (Macao),Vong Chiu (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Vong Chiu,Macao U23,2009-02-21,0,3,F,macao,Vong Chiu (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Hogn Lok,2009-02-21,1,0,F,macao,Policia De Seguranca Publica (Macao),Hogn Lok (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Artilheiros,Windsor Arch Ka I,2009-02-22,1,3,F,macao,Artilheiros (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Hoi Fan,2009-02-22,2,0,F,macao,Lam Pak (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Vong Chiu,2009-02-28,2,1,F,macao,Windsor Arch Ka I (Macao),Vong Chiu (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Policia De Seguranca Publica,2009-02-28,1,0,F,macao,Macao U23 (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hogn Lok,Lam Pak,2009-03-01,0,10,F,macao,Hogn Lok (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Artilheiros,2009-03-01,3,1,F,macao,Hoi Fan (Macao),Artilheiros (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Vong Chiu,2009-03-21,1,0,F,macao,Policia De Seguranca Publica (Macao),Vong Chiu (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Macao U23,2009-03-21,3,1,F,macao,Lam Pak (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Artilheiros,Hogn Lok,2009-03-22,3,0,F,macao,Artilheiros (Macao),Hogn Lok (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Windsor Arch Ka I,2009-03-22,2,4,F,macao,Hoi Fan (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Hogn Lok,2009-03-28,3,1,F,macao,Hoi Fan (Macao),Hogn Lok (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Artilheiros,Macao U23,2009-03-28,1,1,F,macao,Artilheiros (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Vong Chiu,2009-03-29,3,1,F,macao,Lam Pak (Macao),Vong Chiu (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Policia De Seguranca Publica,2009-03-29,3,0,F,macao,Windsor Arch Ka I (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hogn Lok,Windsor Arch Ka I,2009-04-18,0,4,F,macao,Hogn Lok (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Hoi Fan,2009-04-18,3,1,F,macao,Macao U23 (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Vong Chiu,Artilheiros,2009-04-19,2,6,F,macao,Vong Chiu (Macao),Artilheiros (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Lam Pak,2009-04-19,1,2,F,macao,Policia De Seguranca Publica (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hogn Lok,Macao U23,2009-05-09,0,1,F,macao,Hogn Lok (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Vong Chiu,2009-05-09,4,3,F,macao,Hoi Fan (Macao),Vong Chiu (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Artilheiros,Policia De Seguranca Publica,2009-05-10,3,2,F,macao,Artilheiros (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Lam Pak,2009-05-10,2,1,F,macao,Windsor Arch Ka I (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Hoi Fan,2009-05-16,4,1,F,macao,Policia De Seguranca Publica (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Vong Chiu,Hogn Lok,2009-05-16,6,1,F,macao,Vong Chiu (Macao),Hogn Lok (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Windsor Arch Ka I,2009-05-17,1,2,F,macao,Macao U23 (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Artilheiros,2009-05-17,7,1,F,macao,Lam Pak (Macao),Artilheiros (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Vong Chiu,Windsor Arch Ka I,2009-05-30,0,3,F,macao,Vong Chiu (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Macao U23,2009-05-30,1,1,F,macao,Policia De Seguranca Publica (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Hogn Lok,2009-05-31,8,1,F,macao,Lam Pak (Macao),Hogn Lok (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Artilheiros,Hoi Fan,2009-05-31,2,0,F,macao,Artilheiros (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Vong Chiu,2009-06-06,3,2,F,macao,Macao U23 (Macao),Vong Chiu (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hogn Lok,Policia De Seguranca Publica,2009-06-06,1,1,F,macao,Hogn Lok (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Lam Pak,2009-06-07,0,3,F,macao,Hoi Fan (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Artilheiros,2009-06-07,5,0,F,macao,Windsor Arch Ka I (Macao),Artilheiros (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Vong Chiu,Policia De Seguranca Publica,2009-06-13,5,4,F,macao,Vong Chiu (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hogn Lok,Artilheiros,2009-06-13,1,6,F,macao,Hogn Lok (Macao),Artilheiros (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Hoi Fan,2009-06-14,6,1,F,macao,Windsor Arch Ka I (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Lam Pak,2009-06-14,0,4,F,macao,Macao U23 (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+FC Porto,Artilheiros,2010-04-09,2,0,F,macao,FC Porto (Macao),Artilheiros (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Hoi Fan,2010-04-10,1,1,F,macao,Policia De Seguranca Publica (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Kuan Tai,2010-04-10,3,0,F,macao,Windsor Arch Ka I (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Va Luen,2010-04-11,2,0,F,macao,Monte Carlo (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Lam Pak,2010-04-11,0,1,F,macao,Macao U23 (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Macao U23,2010-04-16,1,5,F,macao,Va Luen (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Windsor Arch Ka I,2010-04-17,1,4,F,macao,Hoi Fan (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Artilheiros,Policia De Seguranca Publica,2010-04-17,0,2,F,macao,Artilheiros (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,FC Porto,2010-04-18,2,3,F,macao,Lam Pak (Macao),FC Porto (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Monte Carlo,2010-04-18,1,2,F,macao,Kuan Tai (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Policia De Seguranca Publica,2010-04-30,1,0,F,macao,Lam Pak (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+FC Porto,Windsor Arch Ka I,2010-05-01,0,5,F,macao,FC Porto (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Artilheiros,Monte Carlo,2010-05-01,2,2,F,macao,Artilheiros (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Macao U23,2010-05-02,2,3,F,macao,Hoi Fan (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Va Luen,2010-05-02,4,4,F,macao,Kuan Tai (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,FC Porto,2010-05-07,0,2,F,macao,Policia De Seguranca Publica (Macao),FC Porto (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Kuan Tai,2010-05-09,1,1,F,macao,Macao U23 (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Lam Pak,2010-05-09,0,5,F,macao,Va Luen (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,FC Porto,2010-05-13,1,1,F,macao,Monte Carlo (Macao),FC Porto (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Lam Pak,2010-05-14,2,4,F,macao,Kuan Tai (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Artilheiros,2010-05-14,0,1,F,macao,Macao U23 (Macao),Artilheiros (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Hoi Fan,2010-05-15,0,4,F,macao,Va Luen (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Policia De Seguranca Publica,2010-05-15,1,0,F,macao,Windsor Arch Ka I (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Artilheiros,2010-05-22,2,0,F,macao,Windsor Arch Ka I (Macao),Artilheiros (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Hoi Fan,2010-05-22,4,1,F,macao,Monte Carlo (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Windsor Arch Ka I,2010-05-28,1,2,F,macao,Lam Pak (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Monte Carlo,2010-05-29,0,2,F,macao,Policia De Seguranca Publica (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+FC Porto,Macao U23,2010-05-29,4,3,F,macao,FC Porto (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Kuan Tai,2010-05-30,3,3,F,macao,Hoi Fan (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Windsor Arch Ka I,2010-06-04,3,3,F,macao,Monte Carlo (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Policia De Seguranca Publica,2010-06-05,0,1,F,macao,Macao U23 (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,FC Porto,2010-06-05,0,4,F,macao,Va Luen (Macao),FC Porto (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Artilheiros,2010-06-06,0,2,F,macao,Kuan Tai (Macao),Artilheiros (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Lam Pak,2010-06-06,3,4,F,macao,Hoi Fan (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Artilheiros,Va Luen,2010-06-16,2,1,F,macao,Artilheiros (Macao),Va Luen (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Monte Carlo,2010-06-25,1,1,F,macao,Lam Pak (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Windsor Arch Ka I,2010-06-26,3,5,F,macao,Macao U23 (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Policia De Seguranca Publica,2010-06-26,0,4,F,macao,Va Luen (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,FC Porto,2010-06-27,0,0,F,macao,Kuan Tai (Macao),FC Porto (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Artilheiros,2010-06-27,6,4,F,macao,Hoi Fan (Macao),Artilheiros (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Va Luen,Windsor Arch Ka I,2010-07-02,0,3,F,macao,Va Luen (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Monte Carlo,2010-07-02,6,1,F,macao,Macao U23 (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,FC Porto,2010-07-03,2,7,F,macao,Hoi Fan (Macao),FC Porto (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Policia De Seguranca Publica,2010-07-03,0,9,F,macao,Kuan Tai (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Artilheiros,Lam Pak,2010-07-04,1,2,F,macao,Artilheiros (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+FC Porto,Monte Carlo,2011-01-14,1,1,F,macao,FC Porto (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Lam Ieng,2011-01-15,1,0,F,macao,Policia De Seguranca Publica (Macao),Lam Ieng (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hong Ngai,Lam Pak,2011-01-15,1,6,F,macao,Hong Ngai (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Artilheiros,2011-01-16,4,0,F,macao,Macao U23 (Macao),Artilheiros (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Windsor Arch Ka I,2011-01-16,1,8,F,macao,Hoi Fan (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Monte Carlo,2011-01-21,0,0,F,macao,Policia De Seguranca Publica (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Hoi Fan,2011-01-22,2,1,F,macao,Macao U23 (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+FC Porto,Artilheiros,2011-01-22,3,3,F,macao,FC Porto (Macao),Artilheiros (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Ieng,Lam Pak,2011-01-23,1,4,F,macao,Lam Ieng (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hong Ngai,Windsor Arch Ka I,2011-01-23,2,6,F,macao,Hong Ngai (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hong Ngai,Macao U23,2011-01-28,2,2,F,macao,Hong Ngai (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Ieng,Windsor Arch Ka I,2011-01-29,0,4,F,macao,Lam Ieng (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+FC Porto,Hoi Fan,2011-01-29,3,0,F,macao,FC Porto (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Lam Pak,2011-01-30,1,2,F,macao,Policia De Seguranca Publica (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Artilheiros,2011-01-30,5,0,F,macao,Monte Carlo (Macao),Artilheiros (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Windsor Arch Ka I,2011-02-25,1,2,F,macao,Lam Pak (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Hoi Fan,2011-02-26,5,1,F,macao,Monte Carlo (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+FC Porto,Hong Ngai,2011-02-26,3,0,F,macao,FC Porto (Macao),Hong Ngai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Artilheiros,2011-02-27,2,1,F,macao,Policia De Seguranca Publica (Macao),Artilheiros (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Ieng,Macao U23,2011-02-27,0,2,F,macao,Lam Ieng (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Artilheiros,Hoi Fan,2011-03-04,2,3,F,macao,Artilheiros (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Windsor Arch Ka I,2011-03-05,0,3,F,macao,Policia De Seguranca Publica (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Macao U23,2011-03-05,0,1,F,macao,Lam Pak (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Hong Ngai,2011-03-06,7,0,F,macao,Monte Carlo (Macao),Hong Ngai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Ieng,FC Porto,2011-03-06,3,4,F,macao,Lam Ieng (Macao),FC Porto (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Artilheiros,Hong Ngai,2011-03-18,2,9,F,macao,Artilheiros (Macao),Hong Ngai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Hoi Fan,2011-03-19,1,0,F,macao,Policia De Seguranca Publica (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Lam Ieng,2011-03-19,3,0,F,macao,Monte Carlo (Macao),Lam Ieng (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Macao U23,2011-03-20,0,3,F,macao,Windsor Arch Ka I (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,FC Porto,2011-03-20,1,3,F,macao,Lam Pak (Macao),FC Porto (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Macao U23,2011-03-25,1,5,F,macao,Policia De Seguranca Publica (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Hong Ngai,2011-03-26,2,7,F,macao,Hoi Fan (Macao),Hong Ngai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,FC Porto,2011-03-26,5,2,F,macao,Windsor Arch Ka I (Macao),FC Porto (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Artilheiros,Lam Ieng,2011-03-27,3,3,F,macao,Artilheiros (Macao),Lam Ieng (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Monte Carlo,2011-03-27,0,2,F,macao,Lam Pak (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,FC Porto,2011-04-01,0,0,F,macao,Macao U23 (Macao),FC Porto (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Lam Ieng,2011-04-02,2,4,F,macao,Hoi Fan (Macao),Lam Ieng (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Monte Carlo,2011-04-02,4,2,F,macao,Windsor Arch Ka I (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Hong Ngai,2011-04-03,2,1,F,macao,Policia De Seguranca Publica (Macao),Hong Ngai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Artilheiros,Lam Pak,2011-04-03,0,6,F,macao,Artilheiros (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,FC Porto,2011-04-08,0,3,F,macao,Policia De Seguranca Publica (Macao),FC Porto (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hong Ngai,Lam Ieng,2011-04-09,3,0,F,macao,Hong Ngai (Macao),Lam Ieng (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Monte Carlo,2011-04-09,0,2,F,macao,Macao U23 (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Lam Pak,2011-04-10,1,4,F,macao,Hoi Fan (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Artilheiros,2011-04-10,12,0,F,macao,Windsor Arch Ka I (Macao),Artilheiros (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Ieng,Policia De Seguranca Publica,2011-04-15,1,1,F,macao,Lam Ieng (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,FC Porto,2011-04-16,3,1,F,macao,Monte Carlo (Macao),FC Porto (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Hong Ngai,2011-04-16,2,1,F,macao,Lam Pak (Macao),Hong Ngai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Artilheiros,Macao U23,2011-04-17,1,4,F,macao,Artilheiros (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Hoi Fan,2011-04-17,7,0,F,macao,Windsor Arch Ka I (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Artilheiros,FC Porto,2011-04-29,2,6,F,macao,Artilheiros (Macao),FC Porto (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Lam Ieng,2011-04-30,5,2,F,macao,Lam Pak (Macao),Lam Ieng (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Policia De Seguranca Publica,2011-04-30,5,1,F,macao,Monte Carlo (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Hong Ngai,2011-05-02,7,1,F,macao,Windsor Arch Ka I (Macao),Hong Ngai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Macao U23,2011-05-02,3,3,F,macao,Hoi Fan (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Policia De Seguranca Publica,2011-05-06,3,1,F,macao,Lam Pak (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Artilheiros,Monte Carlo,2011-05-07,0,12,F,macao,Artilheiros (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Lam Ieng,2011-05-07,5,1,F,macao,Windsor Arch Ka I (Macao),Lam Ieng (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,FC Porto,2011-05-08,3,3,F,macao,Hoi Fan (Macao),FC Porto (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Hong Ngai,2011-05-08,2,0,F,macao,Macao U23 (Macao),Hong Ngai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hong Ngai,FC Porto,2011-05-20,1,3,F,macao,Hong Ngai (Macao),FC Porto (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Monte Carlo,2011-05-21,1,6,F,macao,Hoi Fan (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Lam Ieng,2011-05-21,1,0,F,macao,Macao U23 (Macao),Lam Ieng (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Artilheiros,Policia De Seguranca Publica,2011-05-22,1,2,F,macao,Artilheiros (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Lam Pak,2011-05-22,4,2,F,macao,Windsor Arch Ka I (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Policia De Seguranca Publica,2011-05-27,2,1,F,macao,Windsor Arch Ka I (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Artilheiros,2011-05-28,3,3,F,macao,Hoi Fan (Macao),Artilheiros (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Lam Pak,2011-05-28,1,1,F,macao,Macao U23 (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hong Ngai,Monte Carlo,2011-05-29,0,8,F,macao,Hong Ngai (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+FC Porto,Lam Ieng,2011-05-29,0,1,F,macao,FC Porto (Macao),Lam Ieng (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hong Ngai,Artilheiros,2011-06-03,6,1,F,macao,Hong Ngai (Macao),Artilheiros (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Windsor Arch Ka I,2011-06-05,0,2,F,macao,Macao U23 (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hoi Fan,Policia De Seguranca Publica,2011-06-05,3,2,F,macao,Hoi Fan (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+FC Porto,Lam Pak,2011-06-05,1,0,F,macao,FC Porto (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Ieng,Monte Carlo,2011-06-05,2,10,F,macao,Lam Ieng (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+FC Porto,Windsor Arch Ka I,2011-06-09,5,2,F,macao,FC Porto (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Policia De Seguranca Publica,2011-06-09,0,0,F,macao,Macao U23 (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Lam Pak,2011-06-09,5,1,F,macao,Monte Carlo (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hong Ngai,Hoi Fan,2011-06-09,2,1,F,macao,Hong Ngai (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Ieng,Artilheiros,2011-06-10,5,2,F,macao,Lam Ieng (Macao),Artilheiros (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hong Ngai,Policia De Seguranca Publica,2011-06-17,1,2,F,macao,Hong Ngai (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+FC Porto,Macao U23,2011-06-18,2,2,F,macao,FC Porto (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Windsor Arch Ka I,2011-06-18,3,2,F,macao,Monte Carlo (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Ieng,Hoi Fan,2011-06-19,5,1,F,macao,Lam Ieng (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Artilheiros,2011-06-19,6,1,F,macao,Lam Pak (Macao),Artilheiros (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Ieng,Hong Ngai,2011-06-24,1,4,F,macao,Lam Ieng (Macao),Hong Ngai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Macao U23,2011-06-25,1,2,F,macao,Monte Carlo (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Hoi Fan,2011-06-25,2,2,F,macao,Lam Pak (Macao),Hoi Fan (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+FC Porto,Policia De Seguranca Publica,2011-06-26,2,3,F,macao,FC Porto (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Artilheiros,Windsor Arch Ka I,2011-06-26,0,13,F,macao,Artilheiros (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Lam Pak,2012-01-06,2,0,F,macao,Windsor Arch Ka I (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+FC Porto,Casa Do Sport Lisboa E Benfica,2012-01-07,0,3,F,macao,FC Porto (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Ieng,Hong Ngai,2012-01-07,4,1,F,macao,Lam Ieng (Macao),Hong Ngai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Kuan Tai,2012-01-08,2,1,F,macao,Policia De Seguranca Publica (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Macao U23,2012-01-08,3,0,F,macao,Monte Carlo (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Monte Carlo,2012-01-13,0,3,F,macao,Kuan Tai (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,FC Porto,2012-01-14,2,1,F,macao,Macao U23 (Macao),FC Porto (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Lam Ieng,2012-01-14,0,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Lam Ieng (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hong Ngai,Windsor Arch Ka I,2012-01-15,0,10,F,macao,Hong Ngai (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Policia De Seguranca Publica,2012-01-15,2,0,F,macao,Lam Pak (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+FC Porto,Monte Carlo,2012-01-19,2,1,F,macao,FC Porto (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Ieng,Macao U23,2012-01-20,2,1,F,macao,Lam Ieng (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Casa Do Sport Lisboa E Benfica,2012-01-20,2,1,F,macao,Windsor Arch Ka I (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Hong Ngai,2012-01-21,2,0,F,macao,Policia De Seguranca Publica (Macao),Hong Ngai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Kuan Tai,2012-01-21,1,2,F,macao,Lam Pak (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,FC Porto,2012-02-03,2,0,F,macao,Kuan Tai (Macao),FC Porto (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Lam Ieng,2012-02-04,4,3,F,macao,Monte Carlo (Macao),Lam Ieng (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Windsor Arch Ka I,2012-02-04,0,6,F,macao,Macao U23 (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Policia De Seguranca Publica,2012-02-05,3,1,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hong Ngai,Lam Pak,2012-02-05,1,4,F,macao,Hong Ngai (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Casa Do Sport Lisboa E Benfica,2012-02-10,1,0,F,macao,Lam Pak (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Ieng,FC Porto,2012-02-11,0,0,F,macao,Lam Ieng (Macao),FC Porto (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Monte Carlo,2012-02-11,0,0,F,macao,Windsor Arch Ka I (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Macao U23,2012-02-12,3,0,F,macao,Policia De Seguranca Publica (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hong Ngai,Kuan Tai,2012-02-12,0,4,F,macao,Hong Ngai (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Hong Ngai,2012-02-17,5,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Hong Ngai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+FC Porto,Windsor Arch Ka I,2012-02-18,1,2,F,macao,FC Porto (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Policia De Seguranca Publica,2012-02-18,2,2,F,macao,Monte Carlo (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Lam Pak,2012-02-19,2,2,F,macao,Macao U23 (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Lam Ieng,2012-02-19,1,0,F,macao,Kuan Tai (Macao),Lam Ieng (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Lam Ieng,2012-02-24,3,0,F,macao,Windsor Arch Ka I (Macao),Lam Ieng (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,FC Porto,2012-02-25,0,1,F,macao,Policia De Seguranca Publica (Macao),FC Porto (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Monte Carlo,2012-02-25,1,1,F,macao,Lam Pak (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hong Ngai,Macao U23,2012-02-26,0,5,F,macao,Hong Ngai (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Kuan Tai,2012-02-26,2,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Windsor Arch Ka I,2012-03-03,1,1,F,macao,Kuan Tai (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,FC Porto,2012-03-03,3,3,F,macao,Lam Pak (Macao),FC Porto (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hong Ngai,Monte Carlo,2012-03-04,0,8,F,macao,Hong Ngai (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Macao U23,2012-03-04,2,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Lam Ieng,2012-03-09,1,0,F,macao,Policia De Seguranca Publica (Macao),Lam Ieng (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Windsor Arch Ka I,2012-03-16,1,6,F,macao,Policia De Seguranca Publica (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Lam Ieng,2012-03-17,3,1,F,macao,Lam Pak (Macao),Lam Ieng (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hong Ngai,FC Porto,2012-03-17,0,11,F,macao,Hong Ngai (Macao),FC Porto (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Monte Carlo,2012-03-18,1,3,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Kuan Tai,2012-03-18,3,3,F,macao,Macao U23 (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Monte Carlo,2012-03-23,1,2,F,macao,Macao U23 (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,FC Porto,2012-03-24,2,1,F,macao,Casa Do Sport Lisboa E Benfica (Macao),FC Porto (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hong Ngai,Lam Ieng,2012-03-24,0,2,F,macao,Hong Ngai (Macao),Lam Ieng (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Windsor Arch Ka I,2012-03-25,0,1,F,macao,Lam Pak (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Policia De Seguranca Publica,2012-03-25,2,0,F,macao,Kuan Tai (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Ieng,Casa Do Sport Lisboa E Benfica,2012-03-31,0,3,F,macao,Lam Ieng (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Hong Ngai,2012-04-01,6,0,F,macao,Windsor Arch Ka I (Macao),Hong Ngai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Lam Pak,2012-04-01,0,3,F,macao,Policia De Seguranca Publica (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Kuan Tai,2012-04-11,3,1,F,macao,Monte Carlo (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+FC Porto,Macao U23,2012-04-11,3,0,F,macao,FC Porto (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Lam Ieng,2012-04-21,2,3,F,macao,Macao U23 (Macao),Lam Ieng (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Windsor Arch Ka I,2012-04-21,1,3,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hong Ngai,Policia De Seguranca Publica,2012-04-22,0,2,F,macao,Hong Ngai (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Lam Pak,2012-04-22,2,3,F,macao,Kuan Tai (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+FC Porto,Kuan Tai,2012-04-27,1,0,F,macao,FC Porto (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Ieng,Monte Carlo,2012-04-28,1,4,F,macao,Lam Ieng (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Macao U23,2012-04-28,4,1,F,macao,Windsor Arch Ka I (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Casa Do Sport Lisboa E Benfica,2012-04-29,0,1,F,macao,Policia De Seguranca Publica (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Hong Ngai,2012-04-29,6,0,F,macao,Lam Pak (Macao),Hong Ngai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Lam Pak,2012-05-04,3,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+FC Porto,Lam Ieng,2012-05-05,2,1,F,macao,FC Porto (Macao),Lam Ieng (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Windsor Arch Ka I,2012-05-05,1,0,F,macao,Monte Carlo (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Policia De Seguranca Publica,2012-05-06,1,0,F,macao,Macao U23 (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Hong Ngai,2012-05-06,4,1,F,macao,Kuan Tai (Macao),Hong Ngai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hong Ngai,Casa Do Sport Lisboa E Benfica,2012-05-10,0,3,F,macao,Hong Ngai (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,FC Porto,2012-05-10,2,2,F,macao,Windsor Arch Ka I (Macao),FC Porto (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Monte Carlo,2012-05-11,0,1,F,macao,Policia De Seguranca Publica (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Macao U23,2012-05-11,2,1,F,macao,Lam Pak (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Ieng,Kuan Tai,2012-05-12,1,2,F,macao,Lam Ieng (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Ieng,Windsor Arch Ka I,2012-05-18,1,3,F,macao,Lam Ieng (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+FC Porto,Policia De Seguranca Publica,2012-05-19,2,0,F,macao,FC Porto (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Lam Pak,2012-05-19,3,3,F,macao,Monte Carlo (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Hong Ngai,2012-05-20,4,0,F,macao,Macao U23 (Macao),Hong Ngai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Casa Do Sport Lisboa E Benfica,2012-05-20,2,4,F,macao,Kuan Tai (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,FC Porto,2012-05-27,2,1,F,macao,Monte Carlo (Macao),FC Porto (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Casa Do Sport Lisboa E Benfica,2012-06-01,0,0,F,macao,Macao U23 (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Kuan Tai,2012-06-02,5,1,F,macao,Windsor Arch Ka I (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Ieng,Policia De Seguranca Publica,2012-06-02,2,2,F,macao,Lam Ieng (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+FC Porto,Lam Pak,2012-06-03,1,0,F,macao,FC Porto (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Hong Ngai,2012-06-03,2,1,F,macao,Monte Carlo (Macao),Hong Ngai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Ieng,Lam Pak,2012-06-08,9,7,F,macao,Lam Ieng (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Macao U23,2012-06-09,4,2,F,macao,Kuan Tai (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+FC Porto,Hong Ngai,2012-06-09,4,1,F,macao,FC Porto (Macao),Hong Ngai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Policia De Seguranca Publica,2012-06-10,3,1,F,macao,Windsor Arch Ka I (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Casa Do Sport Lisboa E Benfica,2012-06-10,2,1,F,macao,Monte Carlo (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Ieng,Casa Do Sport Lisboa E Benfica,2013-01-11,0,5,F,macao,Lam Ieng (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Chao Pak Kei,2013-01-12,3,0,F,macao,Policia De Seguranca Publica (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Macao U23,2013-01-12,2,0,F,macao,Windsor Arch Ka I (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Kuan Tai,2013-01-13,1,0,F,macao,Lam Pak (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Kei Lun,2013-01-13,1,0,F,macao,Monte Carlo (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Monte Carlo,2013-01-18,1,5,F,macao,Kuan Tai (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Lam Ieng,2013-01-19,1,4,F,macao,Kei Lun (Macao),Lam Ieng (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Policia De Seguranca Publica,2013-01-19,1,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Windsor Arch Ka I,2013-01-20,0,5,F,macao,Chao Pak Kei (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Lam Pak,2013-01-20,0,4,F,macao,Macao U23 (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Chao Pak Kei,2013-01-25,4,0,F,macao,Lam Pak (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Macao U23,2013-01-26,1,0,F,macao,Monte Carlo (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Kei Lun,2013-01-26,3,1,F,macao,Kuan Tai (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Casa Do Sport Lisboa E Benfica,2013-01-27,1,0,F,macao,Windsor Arch Ka I (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Lam Ieng,2013-01-27,0,0,F,macao,Policia De Seguranca Publica (Macao),Lam Ieng (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Policia De Seguranca Publica,2013-02-01,1,3,F,macao,Kei Lun (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Ieng,Windsor Arch Ka I,2013-02-02,0,7,F,macao,Lam Ieng (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Lam Pak,2013-02-02,1,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Monte Carlo,2013-02-03,0,5,F,macao,Chao Pak Kei (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Kuan Tai,2013-02-03,0,1,F,macao,Macao U23 (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Lam Ieng,2013-02-15,5,0,F,macao,Lam Pak (Macao),Lam Ieng (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Policia De Seguranca Publica,2013-02-15,5,2,F,macao,Windsor Arch Ka I (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Kei Lun,2013-02-16,1,2,F,macao,Macao U23 (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Casa Do Sport Lisboa E Benfica,2013-02-16,2,0,F,macao,Monte Carlo (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Chao Pak Kei,2013-02-17,1,0,F,macao,Kuan Tai (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Macao U23,2013-02-22,5,2,F,macao,Chao Pak Kei (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Lam Pak,2013-02-23,0,2,F,macao,Policia De Seguranca Publica (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Ieng,Monte Carlo,2013-02-23,0,7,F,macao,Lam Ieng (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Kuan Tai,2013-02-24,1,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Windsor Arch Ka I,2013-02-24,0,8,F,macao,Kei Lun (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Casa Do Sport Lisboa E Benfica,2013-03-01,0,5,F,macao,Macao U23 (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Kei Lun,2013-03-02,3,1,F,macao,Chao Pak Kei (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Lam Ieng,2013-03-02,0,1,F,macao,Kuan Tai (Macao),Lam Ieng (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Policia De Seguranca Publica,2013-03-03,2,1,F,macao,Monte Carlo (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Windsor Arch Ka I,2013-03-03,2,3,F,macao,Lam Pak (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Windsor Arch Ka I,2013-03-08,3,2,F,macao,Monte Carlo (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Lam Pak,2013-03-09,1,6,F,macao,Kei Lun (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Policia De Seguranca Publica,2013-03-09,2,0,F,macao,Kuan Tai (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Lam Ieng,2013-03-10,1,4,F,macao,Macao U23 (Macao),Lam Ieng (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Casa Do Sport Lisboa E Benfica,2013-03-10,0,4,F,macao,Chao Pak Kei (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Windsor Arch Ka I,2013-03-29,0,1,F,macao,Kuan Tai (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Kei Lun,2013-03-30,11,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Lam Pak,2013-03-30,5,1,F,macao,Monte Carlo (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Policia De Seguranca Publica,2013-03-31,0,3,F,macao,Macao U23 (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Lam Ieng,2013-03-31,3,1,F,macao,Chao Pak Kei (Macao),Lam Ieng (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Lam Ieng,2013-04-12,3,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Lam Ieng (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Policia De Seguranca Publica,2013-04-13,1,4,F,macao,Chao Pak Kei (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Windsor Arch Ka I,2013-04-13,0,3,F,macao,Macao U23 (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Lam Pak,2013-04-14,0,3,F,macao,Kuan Tai (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Monte Carlo,2013-04-14,0,5,F,macao,Kei Lun (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Ieng,Kei Lun,2013-04-19,4,3,F,macao,Lam Ieng (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Casa Do Sport Lisboa E Benfica,2013-04-20,0,7,F,macao,Policia De Seguranca Publica (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Chao Pak Kei,2013-04-20,5,1,F,macao,Windsor Arch Ka I (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Macao U23,2013-04-21,7,0,F,macao,Lam Pak (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Kuan Tai,2013-04-21,6,0,F,macao,Monte Carlo (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Ieng,Policia De Seguranca Publica,2013-04-26,0,1,F,macao,Lam Ieng (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Windsor Arch Ka I,2013-04-27,3,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Monte Carlo,2013-04-27,0,3,F,macao,Macao U23 (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Lam Pak,2013-04-28,1,4,F,macao,Chao Pak Kei (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Kuan Tai,2013-04-28,0,2,F,macao,Kei Lun (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Kei Lun,2013-05-03,2,2,F,macao,Policia De Seguranca Publica (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Lam Ieng,2013-05-04,4,0,F,macao,Windsor Arch Ka I (Macao),Lam Ieng (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Casa Do Sport Lisboa E Benfica,2013-05-04,1,2,F,macao,Lam Pak (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Chao Pak Kei,2013-05-05,4,0,F,macao,Monte Carlo (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Macao U23,2013-05-05,4,2,F,macao,Kuan Tai (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Ieng,Lam Pak,2013-05-17,1,5,F,macao,Lam Ieng (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Policia De Seguranca Publica,2013-05-18,1,0,F,macao,Windsor Arch Ka I (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Macao U23,2013-05-18,3,1,F,macao,Kei Lun (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Monte Carlo,2013-05-19,2,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Kuan Tai,2013-05-19,4,3,F,macao,Chao Pak Kei (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Chao Pak Kei,2013-05-24,1,4,F,macao,Macao U23 (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Policia De Seguranca Publica,2013-05-25,5,1,F,macao,Lam Pak (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Lam Ieng,2013-05-25,3,0,F,macao,Monte Carlo (Macao),Lam Ieng (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kuan Tai,Casa Do Sport Lisboa E Benfica,2013-05-26,0,1,F,macao,Kuan Tai (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Kei Lun,2013-05-26,6,0,F,macao,Windsor Arch Ka I (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Macao U23,2013-05-31,8,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Chao Pak Kei,2013-05-31,0,4,F,macao,Kei Lun (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Lam Pak,2013-06-01,4,0,F,macao,Windsor Arch Ka I (Macao),Lam Pak (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Monte Carlo,2013-06-02,0,2,F,macao,Policia De Seguranca Publica (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Ieng,Kuan Tai,2013-06-02,3,2,F,macao,Lam Ieng (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Kuan Tai,2013-06-07,3,2,F,macao,Policia De Seguranca Publica (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Ieng,Macao U23,2013-06-07,8,0,F,macao,Lam Ieng (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Chao Pak Kei,2013-06-08,3,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Monte Carlo,2013-06-09,1,1,F,macao,Windsor Arch Ka I (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Kei Lun,2013-06-09,4,1,F,macao,Lam Pak (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Casa Do Sport Lisboa E Benfica,2013-06-21,0,12,F,macao,Kei Lun (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Pak,Monte Carlo,2013-06-21,1,2,F,macao,Lam Pak (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Kuan Tai,2013-06-22,3,1,F,macao,Windsor Arch Ka I (Macao),Kuan Tai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Macao U23,2013-06-23,1,0,F,macao,Policia De Seguranca Publica (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lam Ieng,Chao Pak Kei,2013-06-23,3,2,F,macao,Lam Ieng (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Casa Do Sport Lisboa E Benfica,2014-02-08,0,1,F,macao,Policia De Seguranca Publica (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Lai Chi,2014-02-08,0,4,F,macao,Kei Lun (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Monte Carlo,2014-02-09,2,0,F,macao,Sporting Macau (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Chao Pak Kei,2014-02-09,0,4,F,macao,Macao U23 (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Macao U23,2014-02-15,2,0,F,macao,Sporting Macau (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Casa Do Sport Lisboa E Benfica,2014-02-15,0,0,F,macao,Windsor Arch Ka I (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Chao Pak Kei,2014-02-16,2,7,F,macao,Kei Lun (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Monte Carlo,2014-02-16,1,1,F,macao,Policia De Seguranca Publica (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Lai Chi,2014-02-22,5,1,F,macao,Windsor Arch Ka I (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Macao U23,2014-02-22,0,1,F,macao,Policia De Seguranca Publica (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Monte Carlo,2014-02-23,1,2,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Sporting Macau,2014-02-23,0,3,F,macao,Kei Lun (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Kei Lun,2014-03-01,2,1,F,macao,Policia De Seguranca Publica (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Chao Pak Kei,2014-03-01,1,4,F,macao,Lai Chi (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Monte Carlo,2014-03-02,1,2,F,macao,Windsor Arch Ka I (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Macao U23,2014-03-02,3,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Chao Pak Kei,2014-03-15,1,0,F,macao,Windsor Arch Ka I (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Macao U23,2014-03-15,10,0,F,macao,Monte Carlo (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Sporting Macau,2014-03-16,1,4,F,macao,Lai Chi (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Kei Lun,2014-03-16,11,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Kei Lun,2014-03-22,6,1,F,macao,Monte Carlo (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Sporting Macau,2014-03-22,0,0,F,macao,Chao Pak Kei (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Macao U23,2014-03-23,10,0,F,macao,Windsor Arch Ka I (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Policia De Seguranca Publica,2014-03-23,1,2,F,macao,Lai Chi (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Casa Do Sport Lisboa E Benfica,2014-03-29,0,9,F,macao,Lai Chi (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Kei Lun,2014-03-29,4,3,F,macao,Macao U23 (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Policia De Seguranca Publica,2014-03-30,1,1,F,macao,Chao Pak Kei (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Sporting Macau,2014-03-30,1,1,F,macao,Windsor Arch Ka I (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Policia De Seguranca Publica,2014-04-05,1,0,F,macao,Sporting Macau (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Casa Do Sport Lisboa E Benfica,2014-04-05,0,3,F,macao,Chao Pak Kei (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Lai Chi,2014-04-06,2,0,F,macao,Monte Carlo (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Kei Lun,2014-04-06,4,1,F,macao,Windsor Arch Ka I (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Monte Carlo,2014-04-12,0,1,F,macao,Chao Pak Kei (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Lai Chi,2014-04-12,0,2,F,macao,Macao U23 (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Casa Do Sport Lisboa E Benfica,2014-04-13,0,3,F,macao,Sporting Macau (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Policia De Seguranca Publica,2014-04-13,1,1,F,macao,Windsor Arch Ka I (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Policia De Seguranca Publica,2014-04-19,3,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Kei Lun,2014-04-19,5,0,F,macao,Lai Chi (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Sporting Macau,2014-04-20,2,5,F,macao,Monte Carlo (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Macao U23,2014-04-20,4,0,F,macao,Chao Pak Kei (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Windsor Arch Ka I,2014-05-03,1,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Policia De Seguranca Publica,2014-05-03,4,0,F,macao,Monte Carlo (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Kei Lun,2014-05-04,0,0,F,macao,Chao Pak Kei (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Sporting Macau,2014-05-04,0,1,F,macao,Macao U23 (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Windsor Arch Ka I,2014-05-10,3,4,F,macao,Lai Chi (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Casa Do Sport Lisboa E Benfica,2014-05-10,1,1,F,macao,Monte Carlo (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Windsor Arch Ka I,2014-05-17,2,2,F,macao,Monte Carlo (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Lai Chi,2014-05-17,1,1,F,macao,Chao Pak Kei (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Casa Do Sport Lisboa E Benfica,2014-05-18,0,6,F,macao,Macao U23 (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Policia De Seguranca Publica,2014-05-18,0,6,F,macao,Kei Lun (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Windsor Arch Ka I,2014-05-24,1,4,F,macao,Chao Pak Kei (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Monte Carlo,2014-05-24,1,3,F,macao,Macao U23 (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Lai Chi,2014-05-25,4,1,F,macao,Sporting Macau (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Casa Do Sport Lisboa E Benfica,2014-05-25,0,8,F,macao,Kei Lun (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Windsor Arch Ka I,2014-05-31,1,4,F,macao,Macao U23 (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Chao Pak Kei,2014-05-31,4,0,F,macao,Sporting Macau (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Monte Carlo,2014-06-01,1,8,F,macao,Kei Lun (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Lai Chi,2014-06-01,4,0,F,macao,Policia De Seguranca Publica (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Policia De Seguranca Publica,2014-06-04,0,5,F,macao,Macao U23 (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Kei Lun,2014-06-04,6,0,F,macao,Sporting Macau (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Chao Pak Kei,2014-06-07,1,1,F,macao,Policia De Seguranca Publica (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Lai Chi,2014-06-07,9,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Windsor Arch Ka I,2014-06-08,2,1,F,macao,Sporting Macau (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Macao U23,2014-06-08,1,2,F,macao,Kei Lun (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Windsor Arch Ka I,2014-06-13,0,6,F,macao,Kei Lun (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Chao Pak Kei,2014-06-13,2,1,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Sporting Macau,2014-06-15,0,5,F,macao,Policia De Seguranca Publica (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Monte Carlo,2014-06-15,1,3,F,macao,Lai Chi (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Windsor Arch Ka I,2014-06-21,1,3,F,macao,Policia De Seguranca Publica (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Macao U23,2014-06-21,5,1,F,macao,Lai Chi (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Sporting Macau,2014-06-22,2,1,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Chao Pak Kei,2014-06-22,9,2,F,macao,Monte Carlo (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa De Portugal,Monte Carlo,2015-01-16,0,3,F,macao,Casa De Portugal (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Lai Chi,2015-01-17,1,1,F,macao,Macao U23 (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Sporting Macau,2015-01-17,0,0,F,macao,Policia De Seguranca Publica (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Windsor Arch Ka I,2015-01-18,2,1,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chuac Lun,Chao Pak Kei,2015-01-18,0,6,F,macao,Chuac Lun (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Chuac Lun,2015-01-23,6,1,F,macao,Windsor Arch Ka I (Macao),Chuac Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Casa De Portugal,2015-01-24,5,1,F,macao,Chao Pak Kei (Macao),Casa De Portugal (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Macao U23,2015-01-24,2,1,F,macao,Monte Carlo (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Policia De Seguranca Publica,2015-01-25,1,0,F,macao,Lai Chi (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Casa Do Sport Lisboa E Benfica,2015-01-25,1,1,F,macao,Sporting Macau (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Lai Chi,2015-01-30,2,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chuac Lun,Sporting Macau,2015-01-31,1,8,F,macao,Chuac Lun (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Chao Pak Kei,2015-01-31,2,1,F,macao,Windsor Arch Ka I (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Monte Carlo,2015-02-01,0,1,F,macao,Policia De Seguranca Publica (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Casa De Portugal,2015-02-01,0,1,F,macao,Macao U23 (Macao),Casa De Portugal (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Macao U23,2015-02-06,4,1,F,macao,Chao Pak Kei (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa De Portugal,Policia De Seguranca Publica,2015-02-07,2,3,F,macao,Casa De Portugal (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Casa Do Sport Lisboa E Benfica,2015-02-07,0,2,F,macao,Monte Carlo (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Chuac Lun,2015-02-08,2,2,F,macao,Lai Chi (Macao),Chuac Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Windsor Arch Ka I,2015-02-08,0,1,F,macao,Sporting Macau (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Macao U23,2015-02-13,2,0,F,macao,Policia De Seguranca Publica (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Lai Chi,2015-02-14,5,0,F,macao,Windsor Arch Ka I (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Chao Pak Kei,2015-02-14,1,1,F,macao,Sporting Macau (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Casa De Portugal,2015-02-15,8,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Casa De Portugal (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chuac Lun,Monte Carlo,2015-02-15,0,3,F,macao,Chuac Lun (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Sporting Macau,2015-02-27,3,3,F,macao,Lai Chi (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Casa Do Sport Lisboa E Benfica,2015-02-28,0,4,F,macao,Macao U23 (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa De Portugal,Chuac Lun,2015-02-28,3,4,F,macao,Casa De Portugal (Macao),Chuac Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Windsor Arch Ka I,2015-03-01,0,0,F,macao,Monte Carlo (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Policia De Seguranca Publica,2015-03-01,3,3,F,macao,Chao Pak Kei (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chuac Lun,Macao U23,2015-03-20,3,0,F,macao,Chuac Lun (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Chao Pak Kei,2015-03-21,3,6,F,macao,Lai Chi (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Casa De Portugal,2015-03-21,11,0,F,macao,Windsor Arch Ka I (Macao),Casa De Portugal (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Monte Carlo,2015-03-22,2,1,F,macao,Sporting Macau (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Policia De Seguranca Publica,2015-03-22,6,1,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chuac Lun,Policia De Seguranca Publica,2015-04-03,2,0,F,macao,Chuac Lun (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Casa Do Sport Lisboa E Benfica,2015-04-04,0,4,F,macao,Chao Pak Kei (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Macao U23,2015-04-04,6,1,F,macao,Windsor Arch Ka I (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Casa De Portugal,2015-04-05,4,3,F,macao,Sporting Macau (Macao),Casa De Portugal (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Monte Carlo,2015-04-05,0,6,F,macao,Lai Chi (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Policia De Seguranca Publica,2015-04-10,4,1,F,macao,Windsor Arch Ka I (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Chao Pak Kei,2015-04-11,2,1,F,macao,Monte Carlo (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chuac Lun,Casa Do Sport Lisboa E Benfica,2015-04-11,1,12,F,macao,Chuac Lun (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Macao U23,2015-04-12,3,1,F,macao,Sporting Macau (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Casa De Portugal,2015-04-12,2,3,F,macao,Lai Chi (Macao),Casa De Portugal (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Casa De Portugal,2015-04-17,1,1,F,macao,Monte Carlo (Macao),Casa De Portugal (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Macao U23,2015-04-18,4,0,F,macao,Lai Chi (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Policia De Seguranca Publica,2015-04-18,2,0,F,macao,Sporting Macau (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Casa Do Sport Lisboa E Benfica,2015-04-19,3,2,F,macao,Windsor Arch Ka I (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Chuac Lun,2015-04-19,2,0,F,macao,Chao Pak Kei (Macao),Chuac Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chuac Lun,Windsor Arch Ka I,2015-04-24,0,10,F,macao,Chuac Lun (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa De Portugal,Chao Pak Kei,2015-04-25,0,2,F,macao,Casa De Portugal (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Monte Carlo,2015-04-25,0,5,F,macao,Macao U23 (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Lai Chi,2015-04-26,1,2,F,macao,Policia De Seguranca Publica (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Sporting Macau,2015-04-26,1,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Casa Do Sport Lisboa E Benfica,2015-05-01,1,1,F,macao,Lai Chi (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Chuac Lun,2015-05-02,3,1,F,macao,Sporting Macau (Macao),Chuac Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Windsor Arch Ka I,2015-05-02,2,3,F,macao,Chao Pak Kei (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Policia De Seguranca Publica,2015-05-03,1,0,F,macao,Monte Carlo (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa De Portugal,Macao U23,2015-05-03,4,2,F,macao,Casa De Portugal (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Chao Pak Kei,2015-05-08,0,1,F,macao,Macao U23 (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Casa De Portugal,2015-05-09,1,1,F,macao,Policia De Seguranca Publica (Macao),Casa De Portugal (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Monte Carlo,2015-05-09,2,1,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chuac Lun,Lai Chi,2015-05-10,0,4,F,macao,Chuac Lun (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Sporting Macau,2015-05-10,1,3,F,macao,Windsor Arch Ka I (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa De Portugal,Casa Do Sport Lisboa E Benfica,2015-05-15,0,8,F,macao,Casa De Portugal (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Policia De Seguranca Publica,2015-05-16,1,3,F,macao,Macao U23 (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Sporting Macau,2015-05-16,4,2,F,macao,Chao Pak Kei (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Chuac Lun,2015-05-17,3,0,F,macao,Monte Carlo (Macao),Chuac Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Windsor Arch Ka I,2015-05-17,0,2,F,macao,Lai Chi (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Macao U23,2015-05-29,4,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Lai Chi,2015-05-30,2,0,F,macao,Sporting Macau (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chuac Lun,Casa De Portugal,2015-05-30,0,0,F,macao,Chuac Lun (Macao),Casa De Portugal (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Monte Carlo,2015-05-31,1,0,F,macao,Windsor Arch Ka I (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Chao Pak Kei,2015-05-31,0,6,F,macao,Policia De Seguranca Publica (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Sporting Macau,2015-06-05,5,1,F,macao,Monte Carlo (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Casa Do Sport Lisboa E Benfica,2015-06-05,0,5,F,macao,Policia De Seguranca Publica (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa De Portugal,Windsor Arch Ka I,2015-06-06,2,5,F,macao,Casa De Portugal (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Chuac Lun,2015-06-07,0,2,F,macao,Macao U23 (Macao),Chuac Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Lai Chi,2015-06-07,3,0,F,macao,Chao Pak Kei (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Chuac Lun,2015-06-12,1,0,F,macao,Policia De Seguranca Publica (Macao),Chuac Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Chao Pak Kei,2015-06-13,5,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Windsor Arch Ka I,2015-06-13,0,7,F,macao,Macao U23 (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa De Portugal,Sporting Macau,2015-06-14,0,4,F,macao,Casa De Portugal (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Lai Chi,2015-06-14,4,0,F,macao,Monte Carlo (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Windsor Arch Ka I,2015-06-19,1,3,F,macao,Policia De Seguranca Publica (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Monte Carlo,2015-06-20,3,1,F,macao,Chao Pak Kei (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Sporting Macau,2015-06-20,0,2,F,macao,Macao U23 (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Chuac Lun,2015-06-21,7,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Chuac Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa De Portugal,Lai Chi,2015-06-21,1,3,F,macao,Casa De Portugal (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Casa Do Sport Lisboa E Benfica,2016-01-15,0,5,F,macao,Policia De Seguranca Publica (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chuac Lun,Casa De Portugal,2016-01-16,3,3,F,macao,Chuac Lun (Macao),Casa De Portugal (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Windsor Arch Ka I,2016-01-16,0,5,F,macao,Kei Lun (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Chao Pak Kei,2016-01-17,2,3,F,macao,Monte Carlo (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Sporting Macau,2016-01-17,1,4,F,macao,Lai Chi (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa De Portugal,Lai Chi,2016-01-22,2,6,F,macao,Casa De Portugal (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Policia De Seguranca Publica,2016-01-23,2,0,F,macao,Sporting Macau (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Monte Carlo,2016-01-23,1,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Kei Lun,2016-01-24,5,0,F,macao,Chao Pak Kei (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Chuac Lun,2016-01-24,1,1,F,macao,Windsor Arch Ka I (Macao),Chuac Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chuac Lun,Chao Pak Kei,2016-01-29,0,6,F,macao,Chuac Lun (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Windsor Arch Ka I,2016-01-30,0,2,F,macao,Lai Chi (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa De Portugal,Sporting Macau,2016-01-30,0,8,F,macao,Casa De Portugal (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Casa Do Sport Lisboa E Benfica,2016-01-31,0,7,F,macao,Kei Lun (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Policia De Seguranca Publica,2016-01-31,8,0,F,macao,Monte Carlo (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Monte Carlo,2016-02-03,0,0,F,macao,Sporting Macau (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Kei Lun,2016-02-03,3,1,F,macao,Policia De Seguranca Publica (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Chuac Lun,2016-02-04,7,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Chuac Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Lai Chi,2016-02-04,1,1,F,macao,Chao Pak Kei (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Casa De Portugal,2016-02-05,3,0,F,macao,Windsor Arch Ka I (Macao),Casa De Portugal (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Monte Carlo,2016-02-19,0,5,F,macao,Kei Lun (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa De Portugal,Chao Pak Kei,2016-02-20,0,7,F,macao,Casa De Portugal (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Sporting Macau,2016-02-20,1,1,F,macao,Windsor Arch Ka I (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chuac Lun,Policia De Seguranca Publica,2016-02-21,0,0,F,macao,Chuac Lun (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Casa Do Sport Lisboa E Benfica,2016-02-21,0,5,F,macao,Lai Chi (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Chuac Lun,2016-02-27,4,0,F,macao,Monte Carlo (Macao),Chuac Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Lai Chi,2016-02-27,2,4,F,macao,Policia De Seguranca Publica (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Casa De Portugal,2016-02-28,14,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Casa De Portugal (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Kei Lun,2016-02-28,7,0,F,macao,Sporting Macau (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Windsor Arch Ka I,2016-03-02,1,0,F,macao,Chao Pak Kei (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chuac Lun,Kei Lun,2016-03-04,0,1,F,macao,Chuac Lun (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Monte Carlo,2016-03-05,0,5,F,macao,Lai Chi (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa De Portugal,Policia De Seguranca Publica,2016-03-05,3,1,F,macao,Casa De Portugal (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Casa Do Sport Lisboa E Benfica,2016-03-06,0,3,F,macao,Windsor Arch Ka I (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Sporting Macau,2016-03-06,0,1,F,macao,Chao Pak Kei (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Kei Lun,2016-03-11,1,1,F,macao,Lai Chi (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Chuac Lun,2016-03-12,6,0,F,macao,Sporting Macau (Macao),Chuac Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa De Portugal,Monte Carlo,2016-03-12,0,16,F,macao,Casa De Portugal (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Policia De Seguranca Publica,2016-03-13,4,0,F,macao,Windsor Arch Ka I (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Casa Do Sport Lisboa E Benfica,2016-03-13,0,2,F,macao,Chao Pak Kei (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa De Portugal,Kei Lun,2016-03-18,1,2,F,macao,Casa De Portugal (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Sporting Macau,2016-03-19,2,1,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Chuac Lun,2016-03-19,4,0,F,macao,Lai Chi (Macao),Chuac Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Monte Carlo,2016-03-20,2,1,F,macao,Windsor Arch Ka I (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Policia De Seguranca Publica,2016-03-20,3,1,F,macao,Chao Pak Kei (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Monte Carlo,2016-03-25,0,5,F,macao,Chao Pak Kei (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Policia De Seguranca Publica,2016-03-26,1,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Lai Chi,2016-03-26,4,2,F,macao,Sporting Macau (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Kei Lun,2016-03-27,4,1,F,macao,Windsor Arch Ka I (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa De Portugal,Chuac Lun,2016-03-27,2,2,F,macao,Casa De Portugal (Macao),Chuac Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Sporting Macau,2016-04-08,1,6,F,macao,Policia De Seguranca Publica (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Chao Pak Kei,2016-04-09,0,1,F,macao,Kei Lun (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Casa Do Sport Lisboa E Benfica,2016-04-09,0,4,F,macao,Monte Carlo (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Casa De Portugal,2016-04-10,2,3,F,macao,Lai Chi (Macao),Casa De Portugal (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chuac Lun,Windsor Arch Ka I,2016-04-10,1,4,F,macao,Chuac Lun (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Chuac Lun,2016-04-15,8,0,F,macao,Chao Pak Kei (Macao),Chuac Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Lai Chi,2016-04-16,2,0,F,macao,Windsor Arch Ka I (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Casa De Portugal,2016-04-16,1,0,F,macao,Sporting Macau (Macao),Casa De Portugal (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Kei Lun,2016-04-17,2,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Monte Carlo,2016-04-17,0,5,F,macao,Policia De Seguranca Publica (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Sporting Macau,2016-04-22,1,1,F,macao,Monte Carlo (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Policia De Seguranca Publica,2016-04-23,0,3,F,macao,Kei Lun (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chuac Lun,Casa Do Sport Lisboa E Benfica,2016-04-23,0,9,F,macao,Chuac Lun (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Chao Pak Kei,2016-04-24,1,1,F,macao,Lai Chi (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa De Portugal,Windsor Arch Ka I,2016-04-24,0,4,F,macao,Casa De Portugal (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Chuac Lun,2016-04-29,3,0,F,macao,Policia De Seguranca Publica (Macao),Chuac Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Kei Lun,2016-04-30,5,0,F,macao,Monte Carlo (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Windsor Arch Ka I,2016-04-30,0,1,F,macao,Sporting Macau (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Lai Chi,2016-05-01,4,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Casa De Portugal,2016-05-01,4,1,F,macao,Chao Pak Kei (Macao),Casa De Portugal (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Policia De Seguranca Publica,2016-05-06,4,0,F,macao,Lai Chi (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Chao Pak Kei,2016-05-07,1,0,F,macao,Windsor Arch Ka I (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chuac Lun,Monte Carlo,2016-05-07,1,7,F,macao,Chuac Lun (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa De Portugal,Casa Do Sport Lisboa E Benfica,2016-05-08,0,6,F,macao,Casa De Portugal (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Sporting Macau,2016-05-08,1,3,F,macao,Kei Lun (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Chuac Lun,2016-05-19,3,1,F,macao,Kei Lun (Macao),Chuac Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Lai Chi,2016-05-19,4,3,F,macao,Monte Carlo (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Chao Pak Kei,2016-05-20,0,2,F,macao,Sporting Macau (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Windsor Arch Ka I,2016-05-20,1,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chuac Lun,Sporting Macau,2016-05-27,0,2,F,macao,Chuac Lun (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Lai Chi,2016-05-28,5,5,F,macao,Kei Lun (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Casa De Portugal,2016-05-28,10,1,F,macao,Monte Carlo (Macao),Casa De Portugal (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Windsor Arch Ka I,2016-05-29,1,9,F,macao,Policia De Seguranca Publica (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Chao Pak Kei,2016-05-29,2,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Casa De Portugal,2016-06-01,2,2,F,macao,Policia De Seguranca Publica (Macao),Casa De Portugal (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chuac Lun,Lai Chi,2016-06-10,1,5,F,macao,Chuac Lun (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Chao Pak Kei,2016-06-11,0,0,F,macao,Policia De Seguranca Publica (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Casa De Portugal,2016-06-11,1,1,F,macao,Kei Lun (Macao),Casa De Portugal (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Windsor Arch Ka I,2016-06-12,1,3,F,macao,Monte Carlo (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Casa Do Sport Lisboa E Benfica,2016-06-12,3,3,F,macao,Sporting Macau (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Casa Do Sport Lisboa E Benfica,2017-01-13,0,3,F,macao,Policia De Seguranca Publica (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Ching Fung,Kei Lun,2017-01-14,3,3,F,macao,Ching Fung (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Monte Carlo,2017-01-14,1,4,F,macao,Macao U23 (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Chao Pak Kei,2017-01-18,0,5,F,macao,Lai Chi (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Sporting Macau,2017-01-18,1,0,F,macao,Windsor Arch Ka I (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Ching Fung,2017-01-21,1,1,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Ching Fung (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Policia De Seguranca Publica,2017-01-22,2,1,F,macao,Sporting Macau (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Windsor Arch Ka I,2017-01-22,5,2,F,macao,Monte Carlo (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Lai Chi,2017-01-25,5,0,F,macao,Kei Lun (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Macao U23,2017-01-25,5,1,F,macao,Chao Pak Kei (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Sporting Macau,2017-02-10,4,1,F,macao,Monte Carlo (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Chao Pak Kei,2017-02-11,0,3,F,macao,Windsor Arch Ka I (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Kei Lun,2017-02-11,3,5,F,macao,Macao U23 (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Casa Do Sport Lisboa E Benfica,2017-02-12,0,8,F,macao,Lai Chi (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Ching Fung,Policia De Seguranca Publica,2017-02-12,0,1,F,macao,Ching Fung (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Windsor Arch Ka I,2017-02-17,3,1,F,macao,Kei Lun (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Lai Chi,2017-02-18,2,0,F,macao,Policia De Seguranca Publica (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Ching Fung,2017-02-18,1,2,F,macao,Sporting Macau (Macao),Ching Fung (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Monte Carlo,2017-02-19,0,2,F,macao,Chao Pak Kei (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Macao U23,2017-02-19,9,1,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Kei Lun,2017-02-24,2,0,F,macao,Monte Carlo (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Policia De Seguranca Publica,2017-02-25,0,0,F,macao,Macao U23 (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Ching Fung,2017-02-25,2,2,F,macao,Lai Chi (Macao),Ching Fung (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Casa Do Sport Lisboa E Benfica,2017-02-26,0,5,F,macao,Windsor Arch Ka I (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Sporting Macau,2017-02-26,2,0,F,macao,Chao Pak Kei (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Chao Pak Kei,2017-03-03,1,3,F,macao,Kei Lun (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Lai Chi,2017-03-04,0,3,F,macao,Sporting Macau (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Monte Carlo,2017-03-04,6,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Ching Fung,Macao U23,2017-03-05,3,1,F,macao,Ching Fung (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Windsor Arch Ka I,2017-03-05,0,4,F,macao,Policia De Seguranca Publica (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Ching Fung,2017-03-09,1,1,F,macao,Windsor Arch Ka I (Macao),Ching Fung (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Sporting Macau,2017-03-09,5,1,F,macao,Kei Lun (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Lai Chi,2017-03-10,1,0,F,macao,Macao U23 (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Casa Do Sport Lisboa E Benfica,2017-03-12,0,4,F,macao,Chao Pak Kei (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Policia De Seguranca Publica,2017-03-12,5,1,F,macao,Monte Carlo (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Macao U23,2017-03-17,1,0,F,macao,Sporting Macau (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Lai Chi,2017-03-18,2,1,F,macao,Windsor Arch Ka I (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Policia De Seguranca Publica,2017-03-18,2,0,F,macao,Chao Pak Kei (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Casa Do Sport Lisboa E Benfica,2017-03-19,0,4,F,macao,Kei Lun (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Ching Fung,2017-03-19,7,2,F,macao,Monte Carlo (Macao),Ching Fung (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Policia De Seguranca Publica,2017-04-07,5,2,F,macao,Kei Lun (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Sporting Macau,2017-04-08,9,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Ching Fung,2017-04-08,3,1,F,macao,Chao Pak Kei (Macao),Ching Fung (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Lai Chi,2017-04-09,9,2,F,macao,Monte Carlo (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Macao U23,2017-04-09,4,1,F,macao,Windsor Arch Ka I (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Windsor Arch Ka I,2017-04-14,4,3,F,macao,Sporting Macau (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Lai Chi,2017-04-15,7,0,F,macao,Chao Pak Kei (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Policia De Seguranca Publica,2017-04-16,3,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Ching Fung,2017-04-16,2,3,F,macao,Kei Lun (Macao),Ching Fung (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Monte Carlo,2017-04-21,0,3,F,macao,Windsor Arch Ka I (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Sporting Macau,2017-04-22,0,0,F,macao,Policia De Seguranca Publica (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Kei Lun,2017-04-22,1,4,F,macao,Lai Chi (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Ching Fung,Casa Do Sport Lisboa E Benfica,2017-04-23,1,1,F,macao,Ching Fung (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Macao U23,2017-04-28,4,0,F,macao,Kei Lun (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Windsor Arch Ka I,2017-04-29,4,1,F,macao,Chao Pak Kei (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Monte Carlo,2017-04-29,0,5,F,macao,Sporting Macau (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Lai Chi,2017-04-30,7,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Ching Fung,2017-04-30,0,4,F,macao,Policia De Seguranca Publica (Macao),Ching Fung (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Kei Lun,2017-05-05,1,0,F,macao,Windsor Arch Ka I (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Policia De Seguranca Publica,2017-05-06,1,1,F,macao,Lai Chi (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Ching Fung,Sporting Macau,2017-05-06,0,0,F,macao,Ching Fung (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Chao Pak Kei,2017-05-07,0,1,F,macao,Monte Carlo (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Casa Do Sport Lisboa E Benfica,2017-05-07,0,4,F,macao,Macao U23 (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Kei Lun,Monte Carlo,2017-05-12,2,2,F,macao,Kei Lun (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Macao U23,2017-05-13,0,2,F,macao,Policia De Seguranca Publica (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Chao Pak Kei,2017-05-13,0,3,F,macao,Sporting Macau (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Windsor Arch Ka I,2017-05-14,4,1,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Ching Fung,Lai Chi,2017-05-14,2,1,F,macao,Ching Fung (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Macao U23,2017-05-19,5,0,F,macao,Monte Carlo (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Kei Lun,2017-05-26,2,1,F,macao,Chao Pak Kei (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Policia De Seguranca Publica,2017-05-27,1,1,F,macao,Windsor Arch Ka I (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Casa Do Sport Lisboa E Benfica,2017-05-27,2,1,F,macao,Monte Carlo (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Ching Fung,2017-05-28,3,3,F,macao,Macao U23 (Macao),Ching Fung (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Sporting Macau,2017-05-28,1,1,F,macao,Lai Chi (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Chao Pak Kei,2017-06-04,1,5,F,macao,Macao U23 (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Kei Lun,2017-06-16,2,2,F,macao,Sporting Macau (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Macao U23,2017-06-17,3,0,F,macao,Lai Chi (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Chao Pak Kei,2017-06-17,2,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Monte Carlo,2017-06-18,1,5,F,macao,Policia De Seguranca Publica (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Ching Fung,Windsor Arch Ka I,2017-06-18,3,3,F,macao,Ching Fung (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Sporting Macau,2017-06-23,1,2,F,macao,Macao U23 (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Kei Lun,2017-06-24,2,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Windsor Arch Ka I,2017-06-24,1,3,F,macao,Lai Chi (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Ching Fung,Monte Carlo,2017-06-25,2,3,F,macao,Ching Fung (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Chao Pak Kei,2017-06-25,1,1,F,macao,Policia De Seguranca Publica (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Windsor Arch Ka I,2017-07-01,3,3,F,macao,Macao U23 (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Casa Do Sport Lisboa E Benfica,2017-07-02,1,7,F,macao,Sporting Macau (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Monte Carlo,2017-07-02,1,9,F,macao,Lai Chi (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Kei Lun,2017-07-02,0,4,F,macao,Policia De Seguranca Publica (Macao),Kei Lun (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Ching Fung,Chao Pak Kei,2017-07-02,1,9,F,macao,Ching Fung (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Hang Sai,2018-01-19,0,1,F,macao,Monte Carlo (Macao),Hang Sai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Lai Chi,2018-01-20,12,0,F,macao,Chao Pak Kei (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Windsor Arch Ka I,2018-01-20,2,1,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Ching Fung,Sporting Macau,2018-01-21,1,0,F,macao,Ching Fung (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Alfandega,Policia De Seguranca Publica,2018-01-21,0,4,F,macao,Alfandega (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Casa Do Sport Lisboa E Benfica,2018-01-25,0,5,F,macao,Lai Chi (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Monte Carlo,2018-01-25,1,2,F,macao,Policia De Seguranca Publica (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hang Sai,Chao Pak Kei,2018-01-26,0,14,F,macao,Hang Sai (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Ching Fung,2018-01-27,0,0,F,macao,Windsor Arch Ka I (Macao),Ching Fung (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Alfandega,2018-01-27,5,0,F,macao,Sporting Macau (Macao),Alfandega (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Hang Sai,2018-02-02,3,2,F,macao,Policia De Seguranca Publica (Macao),Hang Sai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Ching Fung,Lai Chi,2018-02-03,6,1,F,macao,Ching Fung (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Alfandega,Windsor Arch Ka I,2018-02-03,0,9,F,macao,Alfandega (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Sporting Macau,2018-02-04,1,1,F,macao,Monte Carlo (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Chao Pak Kei,2018-02-04,4,1,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Monte Carlo,2018-02-08,2,0,F,macao,Windsor Arch Ka I (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Alfandega,2018-02-08,0,3,F,macao,Lai Chi (Macao),Alfandega (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Ching Fung,2018-02-09,1,1,F,macao,Chao Pak Kei (Macao),Ching Fung (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Policia De Seguranca Publica,2018-02-11,5,0,F,macao,Sporting Macau (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hang Sai,Casa Do Sport Lisboa E Benfica,2018-02-11,1,5,F,macao,Hang Sai (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Windsor Arch Ka I,2018-02-23,0,2,F,macao,Policia De Seguranca Publica (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Ching Fung,Casa Do Sport Lisboa E Benfica,2018-02-24,0,7,F,macao,Ching Fung (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Hang Sai,2018-02-24,6,0,F,macao,Sporting Macau (Macao),Hang Sai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Alfandega,Chao Pak Kei,2018-02-25,0,9,F,macao,Alfandega (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Lai Chi,2018-02-25,4,0,F,macao,Monte Carlo (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Alfandega,2018-03-02,9,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Alfandega (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Monte Carlo,2018-03-03,4,2,F,macao,Chao Pak Kei (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hang Sai,Ching Fung,2018-03-03,0,1,F,macao,Hang Sai (Macao),Ching Fung (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Policia De Seguranca Publica,2018-03-04,2,3,F,macao,Lai Chi (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Sporting Macau,2018-03-04,2,3,F,macao,Windsor Arch Ka I (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Alfandega,Ching Fung,2018-03-16,0,3,F,macao,Alfandega (Macao),Ching Fung (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Chao Pak Kei,2018-03-17,0,7,F,macao,Policia De Seguranca Publica (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Hang Sai,2018-03-17,7,1,F,macao,Windsor Arch Ka I (Macao),Hang Sai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Lai Chi,2018-03-18,6,0,F,macao,Sporting Macau (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Casa Do Sport Lisboa E Benfica,2018-03-18,0,2,F,macao,Monte Carlo (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Casa Do Sport Lisboa E Benfica,2018-04-06,0,2,F,macao,Policia De Seguranca Publica (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hang Sai,Alfandega,2018-04-07,2,1,F,macao,Hang Sai (Macao),Alfandega (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Chao Pak Kei,2018-04-07,1,2,F,macao,Sporting Macau (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Lai Chi,2018-04-08,11,1,F,macao,Windsor Arch Ka I (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Ching Fung,2018-04-08,0,1,F,macao,Monte Carlo (Macao),Ching Fung (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Chao Pak Kei,2018-04-13,1,1,F,macao,Windsor Arch Ka I (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Alfandega,2018-04-14,5,0,F,macao,Monte Carlo (Macao),Alfandega (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Hang Sai,2018-04-14,1,1,F,macao,Lai Chi (Macao),Hang Sai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Ching Fung,2018-04-15,0,3,F,macao,Policia De Seguranca Publica (Macao),Ching Fung (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Casa Do Sport Lisboa E Benfica,2018-04-15,1,5,F,macao,Sporting Macau (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Alfandega,2018-04-27,1,0,F,macao,Policia De Seguranca Publica (Macao),Alfandega (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Ching Fung,2018-04-28,1,0,F,macao,Sporting Macau (Macao),Ching Fung (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hang Sai,Monte Carlo,2018-04-28,2,3,F,macao,Hang Sai (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Chao Pak Kei,2018-04-29,0,14,F,macao,Lai Chi (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Casa Do Sport Lisboa E Benfica,2018-04-29,2,8,F,macao,Windsor Arch Ka I (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Alfandega,Sporting Macau,2018-05-04,0,2,F,macao,Alfandega (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Ching Fung,Windsor Arch Ka I,2018-05-05,2,2,F,macao,Ching Fung (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Hang Sai,2018-05-05,10,0,F,macao,Chao Pak Kei (Macao),Hang Sai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Policia De Seguranca Publica,2018-05-06,1,0,F,macao,Monte Carlo (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Lai Chi,2018-05-06,8,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Casa Do Sport Lisboa E Benfica,2018-05-11,2,2,F,macao,Chao Pak Kei (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Ching Fung,2018-05-12,0,9,F,macao,Lai Chi (Macao),Ching Fung (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Alfandega,2018-05-12,5,0,F,macao,Windsor Arch Ka I (Macao),Alfandega (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Monte Carlo,2018-05-13,3,0,F,macao,Sporting Macau (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hang Sai,Policia De Seguranca Publica,2018-05-13,2,2,F,macao,Hang Sai (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Sporting Macau,2018-05-25,0,6,F,macao,Policia De Seguranca Publica (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Alfandega,Lai Chi,2018-05-26,1,5,F,macao,Alfandega (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Windsor Arch Ka I,2018-05-26,6,5,F,macao,Monte Carlo (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Hang Sai,2018-05-27,13,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Hang Sai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Ching Fung,Chao Pak Kei,2018-05-27,0,2,F,macao,Ching Fung (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Monte Carlo,2018-06-01,0,6,F,macao,Lai Chi (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Ching Fung,2018-06-02,5,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Ching Fung (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Policia De Seguranca Publica,2018-06-02,2,1,F,macao,Windsor Arch Ka I (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Alfandega,2018-06-03,15,0,F,macao,Chao Pak Kei (Macao),Alfandega (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hang Sai,Sporting Macau,2018-06-03,1,6,F,macao,Hang Sai (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Alfandega,Casa Do Sport Lisboa E Benfica,2018-06-08,0,5,F,macao,Alfandega (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Chao Pak Kei,2018-06-09,0,5,F,macao,Monte Carlo (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Ching Fung,Hang Sai,2018-06-09,4,1,F,macao,Ching Fung (Macao),Hang Sai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Lai Chi,2018-06-10,2,5,F,macao,Policia De Seguranca Publica (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Windsor Arch Ka I,2018-06-10,3,2,F,macao,Sporting Macau (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Ching Fung,Alfandega,2018-06-15,1,0,F,macao,Ching Fung (Macao),Alfandega (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Sporting Macau,2018-06-16,0,5,F,macao,Lai Chi (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hang Sai,Windsor Arch Ka I,2018-06-16,1,12,F,macao,Hang Sai (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Policia De Seguranca Publica,2018-06-17,6,1,F,macao,Chao Pak Kei (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Monte Carlo,2018-06-17,1,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Lai Chi,Windsor Arch Ka I,2018-06-22,0,7,F,macao,Lai Chi (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Alfandega,Hang Sai,2018-06-23,0,3,F,macao,Alfandega (Macao),Hang Sai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Sporting Macau,2018-06-23,1,1,F,macao,Chao Pak Kei (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Policia De Seguranca Publica,2018-06-24,4,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Ching Fung,Monte Carlo,2018-06-24,2,1,F,macao,Ching Fung (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Ching Fung,Policia De Seguranca Publica,2018-06-29,4,0,F,macao,Ching Fung (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Alfandega,Monte Carlo,2018-06-30,3,4,F,macao,Alfandega (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hang Sai,Lai Chi,2018-06-30,2,1,F,macao,Hang Sai (Macao),Lai Chi (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Windsor Arch Ka I,2018-07-01,5,1,F,macao,Chao Pak Kei (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Sporting Macau,2018-07-01,2,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Policia De Seguranca Publica,2019-01-25,1,1,F,macao,Monte Carlo (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hang Sai,Chao Pak Kei,2019-01-30,1,2,F,macao,Hang Sai (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Ching Fung,Monte Carlo,2019-01-31,0,3,F,macao,Ching Fung (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Tim Iec,Windsor Arch Ka I,2019-02-13,2,2,F,macao,Tim Iec (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Ching Fung,Hang Sai,2019-02-13,4,0,F,macao,Ching Fung (Macao),Hang Sai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Chao Pak Kei,2019-02-14,0,6,F,macao,Policia De Seguranca Publica (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Sporting Macau,2019-02-14,3,2,F,macao,Macao U23 (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Monte Carlo,2019-02-15,3,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Casa Do Sport Lisboa E Benfica,2019-02-20,2,1,F,macao,Chao Pak Kei (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Ching Fung,2019-02-20,0,2,F,macao,Sporting Macau (Macao),Ching Fung (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Macao U23,2019-02-21,4,1,F,macao,Windsor Arch Ka I (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Tim Iec,2019-02-21,4,0,F,macao,Monte Carlo (Macao),Tim Iec (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hang Sai,Policia De Seguranca Publica,2019-02-22,0,1,F,macao,Hang Sai (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Hang Sai,2019-02-27,4,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Hang Sai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Tim Iec,Chao Pak Kei,2019-02-27,0,6,F,macao,Tim Iec (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Monte Carlo,2019-02-28,1,3,F,macao,Macao U23 (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Sporting Macau,2019-02-28,2,1,F,macao,Windsor Arch Ka I (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Windsor Arch Ka I,2019-03-06,1,3,F,macao,Monte Carlo (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Ching Fung,Casa Do Sport Lisboa E Benfica,2019-03-06,3,1,F,macao,Ching Fung (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Macao U23,2019-03-07,14,0,F,macao,Chao Pak Kei (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Policia De Seguranca Publica,2019-03-07,4,0,F,macao,Sporting Macau (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Sporting Macau,2019-03-13,1,1,F,macao,Monte Carlo (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Hang Sai,2019-03-13,1,3,F,macao,Macao U23 (Macao),Hang Sai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Tim Iec,Ching Fung,2019-03-14,3,2,F,macao,Tim Iec (Macao),Ching Fung (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Chao Pak Kei,2019-03-14,1,5,F,macao,Windsor Arch Ka I (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Hang Sai,2019-04-03,0,2,F,macao,Windsor Arch Ka I (Macao),Hang Sai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Chao Pak Kei,2019-04-03,4,1,F,macao,Monte Carlo (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Ching Fung,2019-04-04,1,4,F,macao,Macao U23 (Macao),Ching Fung (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Casa Do Sport Lisboa E Benfica,2019-04-04,3,2,F,macao,Sporting Macau (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Tim Iec,Policia De Seguranca Publica,2019-04-05,1,3,F,macao,Tim Iec (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Sporting Macau,2019-04-10,5,1,F,macao,Chao Pak Kei (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Tim Iec,Casa Do Sport Lisboa E Benfica,2019-04-10,1,5,F,macao,Tim Iec (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Ching Fung,2019-04-11,1,2,F,macao,Windsor Arch Ka I (Macao),Ching Fung (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Hang Sai,2019-04-11,3,2,F,macao,Monte Carlo (Macao),Hang Sai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Windsor Arch Ka I,2019-04-17,4,0,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Ching Fung,Chao Pak Kei,2019-04-17,2,2,F,macao,Ching Fung (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hang Sai,Sporting Macau,2019-04-19,3,5,F,macao,Hang Sai (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Casa Do Sport Lisboa E Benfica,2019-04-24,0,1,F,macao,Macao U23 (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Hang Sai,2019-04-24,3,1,F,macao,Chao Pak Kei (Macao),Hang Sai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Policia De Seguranca Publica,2019-04-25,2,1,F,macao,Windsor Arch Ka I (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Ching Fung,2019-04-25,1,2,F,macao,Monte Carlo (Macao),Ching Fung (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Tim Iec,2019-04-26,1,1,F,macao,Sporting Macau (Macao),Tim Iec (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Casa Do Sport Lisboa E Benfica,2019-05-01,2,0,F,macao,Monte Carlo (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hang Sai,Ching Fung,2019-05-02,1,3,F,macao,Hang Sai (Macao),Ching Fung (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Windsor Arch Ka I,Tim Iec,2019-05-02,4,2,F,macao,Windsor Arch Ka I (Macao),Tim Iec (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Policia De Seguranca Publica,2019-05-03,3,0,F,macao,Chao Pak Kei (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Tim Iec,Monte Carlo,2019-05-08,0,0,F,macao,Tim Iec (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Ching Fung,Sporting Macau,2019-05-08,4,2,F,macao,Ching Fung (Macao),Sporting Macau (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Hang Sai,2019-05-09,1,3,F,macao,Policia De Seguranca Publica (Macao),Hang Sai (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Casa Do Sport Lisboa E Benfica,Chao Pak Kei,2019-05-09,1,1,F,macao,Casa Do Sport Lisboa E Benfica (Macao),Chao Pak Kei (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Macao U23,Windsor Arch Ka I,2019-05-10,3,6,F,macao,Macao U23 (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Policia De Seguranca Publica,Monte Carlo,2019-05-15,0,3,F,macao,Policia De Seguranca Publica (Macao),Monte Carlo (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Tim Iec,Macao U23,2019-05-15,2,1,F,macao,Tim Iec (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Chao Pak Kei,Tim Iec,2019-05-22,7,0,F,macao,Chao Pak Kei (Macao),Tim Iec (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Monte Carlo,Macao U23,2019-05-22,5,1,F,macao,Monte Carlo (Macao),Macao U23 (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Ching Fung,Policia De Seguranca Publica,2019-05-23,4,2,F,macao,Ching Fung (Macao),Policia De Seguranca Publica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Hang Sai,Casa Do Sport Lisboa E Benfica,2019-05-23,3,0,F,macao,Hang Sai (Macao),Casa Do Sport Lisboa E Benfica (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national
+Sporting Macau,Windsor Arch Ka I,2019-05-24,1,1,F,macao,Sporting Macau (Macao),Windsor Arch Ka I (Macao),macao,macao,MO,MO,Asia,Asia,Asia,national

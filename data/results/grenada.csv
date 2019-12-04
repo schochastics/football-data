@@ -1,0 +1,980 @@
+home,away,date,gh,ga,full_time,competition,home_ident,away_ident,home_country,away_country,home_code,away_code,home_continent,away_continent,continent,level
+Carib Hurricane,Chantimelle,2007-06-17,4,0,F,grenada,Carib Hurricane (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Queens Park Rangers,2007-06-24,1,1,F,grenada,Fontenoy United (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,South Stars,2007-06-24,5,5,F,grenada,Eagles Super Strikers (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Police,2007-06-24,2,0,F,grenada,Grenada Boys Secondary School (Grenada),Police (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Asoms Paradise,2007-06-24,0,2,F,grenada,Hard Rock (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Eagles Super Strikers,2007-06-27,2,1,F,grenada,Asoms Paradise (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Police,Hard Rock,2007-06-27,2,3,F,grenada,Police (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Grenada Boys Secondary School,2007-06-27,0,0,F,grenada,Queens Park Rangers (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Carib Hurricane,2007-06-28,0,3,F,grenada,South Stars (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Carib Hurricane,2007-07-01,0,0,F,grenada,Fontenoy United (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,South Stars,2007-07-01,3,2,F,grenada,Asoms Paradise (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Chantimelle,2007-07-01,1,1,F,grenada,Grenada Boys Secondary School (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Police,2007-07-01,0,3,F,grenada,Eagles Super Strikers (Grenada),Police (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Queens Park Rangers,2007-07-01,3,5,F,grenada,Hard Rock (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Grenada Boys Secondary School,2007-07-04,3,0,F,grenada,Carib Hurricane (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Hard Rock,2007-07-04,2,2,F,grenada,Chantimelle (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Police,Asoms Paradise,2007-07-04,3,3,F,grenada,Police (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Fontenoy United,2007-07-05,2,1,F,grenada,South Stars (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Eagles Super Strikers,2007-07-05,3,1,F,grenada,Queens Park Rangers (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Chantimelle,2007-07-08,1,1,F,grenada,Eagles Super Strikers (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Fontenoy United,2007-07-08,0,0,F,grenada,Grenada Boys Secondary School (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Carib Hurricane,2007-07-08,1,2,F,grenada,Hard Rock (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Queens Park Rangers,2007-07-08,1,0,F,grenada,Asoms Paradise (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Police,South Stars,2007-07-08,0,2,F,grenada,Police (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Asoms Paradise,2007-07-11,1,2,F,grenada,Chantimelle (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Hard Rock,2007-07-11,3,1,F,grenada,Fontenoy United (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Eagles Super Strikers,2007-07-11,2,0,F,grenada,Carib Hurricane (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Grenada Boys Secondary School,2007-07-11,1,3,F,grenada,South Stars (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Police,2007-07-12,2,1,F,grenada,Queens Park Rangers (Grenada),Police (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Fontenoy United,2007-07-15,2,0,F,grenada,Eagles Super Strikers (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Grenada Boys Secondary School,2007-07-15,2,2,F,grenada,Hard Rock (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Carib Hurricane,2007-07-15,1,0,F,grenada,Asoms Paradise (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,South Stars,2007-07-15,1,2,F,grenada,Queens Park Rangers (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Queens Park Rangers,2007-07-22,3,1,F,grenada,Chantimelle (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Asoms Paradise,2007-07-22,2,3,F,grenada,Fontenoy United (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Eagles Super Strikers,2007-07-22,0,0,F,grenada,Grenada Boys Secondary School (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Police,2007-07-22,5,1,F,grenada,Carib Hurricane (Grenada),Police (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Hard Rock,2007-07-22,1,0,F,grenada,South Stars (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Police,Chantimelle,2007-07-25,0,0,F,grenada,Police (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Hard Rock,2007-07-29,1,1,F,grenada,Eagles Super Strikers (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Grenada Boys Secondary School,2007-07-29,5,1,F,grenada,Asoms Paradise (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Police,Fontenoy United,2007-07-29,0,0,F,grenada,Police (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Carib Hurricane,2007-07-29,1,0,F,grenada,Queens Park Rangers (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Chantimelle,2007-07-29,1,0,F,grenada,South Stars (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Fontenoy United,2007-08-05,2,0,F,grenada,Chantimelle (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Police,2007-08-25,2,1,F,grenada,Fontenoy United (Grenada),Police (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Asoms Paradise,2007-08-25,1,1,F,grenada,Grenada Boys Secondary School (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,South Stars,2007-08-26,1,1,F,grenada,Chantimelle (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Queens Park Rangers,2007-08-26,5,2,F,grenada,Carib Hurricane (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Chantimelle,2007-09-08,1,3,F,grenada,Fontenoy United (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Police,2007-09-08,3,1,F,grenada,Hard Rock (Grenada),Police (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Asoms Paradise,2007-09-09,0,4,F,grenada,Eagles Super Strikers (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Queens Park Rangers,2007-09-09,1,4,F,grenada,Grenada Boys Secondary School (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,South Stars,2007-09-09,1,1,F,grenada,Carib Hurricane (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Carib Hurricane,2007-09-12,0,2,F,grenada,Chantimelle (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Hard Rock,2007-09-12,5,3,F,grenada,Asoms Paradise (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Fontenoy United,2007-09-12,3,2,F,grenada,Queens Park Rangers (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Eagles Super Strikers,2007-09-12,1,0,F,grenada,South Stars (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Police,Grenada Boys Secondary School,2007-09-13,0,0,F,grenada,Police (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Grenada Boys Secondary School,2007-09-16,0,1,F,grenada,Chantimelle (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Fontenoy United,2007-09-16,2,1,F,grenada,Carib Hurricane (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Hard Rock,2007-09-16,4,2,F,grenada,Queens Park Rangers (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Asoms Paradise,2007-09-16,0,2,F,grenada,South Stars (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Queens Park Rangers,2007-09-19,3,2,F,grenada,Eagles Super Strikers (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,South Stars,2007-09-19,1,1,F,grenada,Fontenoy United (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Carib Hurricane,2007-09-19,1,0,F,grenada,Grenada Boys Secondary School (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Chantimelle,2007-09-19,3,2,F,grenada,Hard Rock (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Police,2007-09-19,2,0,F,grenada,Asoms Paradise (Grenada),Police (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Eagles Super Strikers,2007-09-23,0,2,F,grenada,Chantimelle (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Grenada Boys Secondary School,2007-09-23,5,2,F,grenada,Fontenoy United (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Hard Rock,2007-09-23,3,1,F,grenada,Carib Hurricane (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Asoms Paradise,2007-09-23,2,1,F,grenada,Queens Park Rangers (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Police,2007-09-23,3,0,F,grenada,South Stars (Grenada),Police (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Eagles Super Strikers,2007-09-26,2,3,F,grenada,Hard Rock (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Carib Hurricane,2007-09-30,2,2,F,grenada,Eagles Super Strikers (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,South Stars,2007-09-30,3,0,F,grenada,Grenada Boys Secondary School (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Fontenoy United,2007-09-30,0,3,F,grenada,Hard Rock (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Chantimelle,2007-09-30,2,1,F,grenada,Asoms Paradise (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Police,Queens Park Rangers,2007-09-30,1,1,F,grenada,Police (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Police,Eagles Super Strikers,2007-10-03,1,1,F,grenada,Police (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Eagles Super Strikers,2007-10-14,2,2,F,grenada,Fontenoy United (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Hard Rock,2007-10-14,1,1,F,grenada,Grenada Boys Secondary School (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Asoms Paradise,2007-10-14,1,2,F,grenada,Carib Hurricane (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Queens Park Rangers,2007-10-14,2,3,F,grenada,South Stars (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Police,2007-10-18,5,2,F,grenada,Chantimelle (Grenada),Police (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Grenada Boys Secondary School,2007-10-21,0,2,F,grenada,Eagles Super Strikers (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,South Stars,2007-10-21,2,0,F,grenada,Hard Rock (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Fontenoy United,2007-10-21,1,0,F,grenada,Asoms Paradise (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Police,Carib Hurricane,2007-10-21,0,3,F,grenada,Police (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Chantimelle,2007-10-21,3,2,F,grenada,Queens Park Rangers (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Willis Youths,2008-07-26,2,1,F,grenada,Asoms Paradise (Grenada),Willis Youths (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Carib Hurricane,2008-08-17,0,1,F,grenada,Chantimelle (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Eagles Super Strikers,2008-08-17,3,0,F,grenada,Fontenoy United (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Ball Dogs,2008-08-18,1,0,F,grenada,Grenada Boys Secondary School (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,South Stars,2008-08-20,0,1,F,grenada,Queens Park Rangers (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Carib Hurricane,2008-08-24,0,2,F,grenada,Ball Dogs (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Eagles Super Strikers,2008-08-24,0,4,F,grenada,Chantimelle (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Willis Youths,2008-08-24,3,1,F,grenada,Fontenoy United (Grenada),Willis Youths (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,South Stars,2008-08-24,3,0,F,grenada,Asoms Paradise (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Grenada Boys Secondary School,2008-08-24,1,1,F,grenada,Queens Park Rangers (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Ball Dogs,2008-08-27,2,1,F,grenada,Eagles Super Strikers (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Grenada Boys Secondary School,2008-08-27,0,0,F,grenada,Carib Hurricane (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Queens Park Rangers,2008-08-27,5,1,F,grenada,Asoms Paradise (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Fontenoy United,2008-08-27,2,0,F,grenada,South Stars (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Willis Youths,Chantimelle,2008-08-27,1,0,F,grenada,Willis Youths (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Willis Youths,2008-08-31,2,0,F,grenada,Ball Dogs (Grenada),Willis Youths (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,South Stars,2008-08-31,3,1,F,grenada,Chantimelle (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Asoms Paradise,2008-08-31,1,0,F,grenada,Fontenoy United (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Eagles Super Strikers,2008-08-31,0,0,F,grenada,Grenada Boys Secondary School (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Carib Hurricane,2008-08-31,0,0,F,grenada,Queens Park Rangers (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Carib Hurricane,2008-09-03,3,1,F,grenada,Eagles Super Strikers (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Queens Park Rangers,2008-09-03,0,0,F,grenada,Fontenoy United (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Chantimelle,2008-09-03,3,2,F,grenada,Asoms Paradise (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Ball Dogs,2008-09-03,5,1,F,grenada,South Stars (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Willis Youths,Grenada Boys Secondary School,2008-09-03,1,2,F,grenada,Willis Youths (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Asoms Paradise,2008-09-07,0,3,F,grenada,Ball Dogs (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Fontenoy United,2008-09-07,1,2,F,grenada,Chantimelle (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,South Stars,2008-09-07,1,2,F,grenada,Grenada Boys Secondary School (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Willis Youths,2008-09-07,1,0,F,grenada,Carib Hurricane (Grenada),Willis Youths (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Eagles Super Strikers,2008-09-07,0,1,F,grenada,Queens Park Rangers (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Queens Park Rangers,2008-09-10,1,5,F,grenada,Chantimelle (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Ball Dogs,2008-09-10,0,2,F,grenada,Fontenoy United (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Grenada Boys Secondary School,2008-09-10,2,3,F,grenada,Asoms Paradise (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Carib Hurricane,2008-09-10,5,1,F,grenada,South Stars (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Willis Youths,Eagles Super Strikers,2008-09-10,0,2,F,grenada,Willis Youths (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Chantimelle,2008-09-14,0,1,F,grenada,Ball Dogs (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,South Stars,2008-09-14,2,1,F,grenada,Eagles Super Strikers (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Fontenoy United,2008-09-14,1,1,F,grenada,Grenada Boys Secondary School (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Asoms Paradise,2008-09-14,3,2,F,grenada,Carib Hurricane (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Willis Youths,2008-09-14,2,1,F,grenada,Queens Park Rangers (Grenada),Willis Youths (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Grenada Boys Secondary School,2008-09-21,2,0,F,grenada,Chantimelle (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Carib Hurricane,2008-09-21,3,0,F,grenada,Fontenoy United (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Eagles Super Strikers,2008-09-21,2,3,F,grenada,Asoms Paradise (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Ball Dogs,2008-09-21,4,1,F,grenada,Queens Park Rangers (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Willis Youths,2008-09-21,1,0,F,grenada,South Stars (Grenada),Willis Youths (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Queens Park Rangers,2008-09-28,0,2,F,grenada,Ball Dogs (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Asoms Paradise,2008-09-28,0,1,F,grenada,Eagles Super Strikers (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Chantimelle,2008-09-28,1,1,F,grenada,Grenada Boys Secondary School (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Fontenoy United,2008-09-28,2,0,F,grenada,Carib Hurricane (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Willis Youths,South Stars,2008-09-28,1,1,F,grenada,Willis Youths (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Chantimelle,2008-10-05,1,0,F,grenada,Eagles Super Strikers (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Queens Park Rangers,2008-10-05,2,1,F,grenada,Grenada Boys Secondary School (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Ball Dogs,2008-10-05,2,1,F,grenada,Carib Hurricane (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Asoms Paradise,2008-10-05,3,3,F,grenada,South Stars (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Willis Youths,Fontenoy United,2008-10-05,0,2,F,grenada,Willis Youths (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Grenada Boys Secondary School,2008-10-19,1,1,F,grenada,Ball Dogs (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Fontenoy United,2008-10-19,1,2,F,grenada,Eagles Super Strikers (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Chantimelle,2008-10-19,2,0,F,grenada,Carib Hurricane (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Queens Park Rangers,2008-10-19,0,2,F,grenada,South Stars (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Willis Youths,Asoms Paradise,2008-10-19,0,2,F,grenada,Willis Youths (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Eagles Super Strikers,2008-10-22,1,2,F,grenada,Ball Dogs (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Willis Youths,2008-10-22,4,0,F,grenada,Chantimelle (Grenada),Willis Youths (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Carib Hurricane,2008-10-22,1,2,F,grenada,Grenada Boys Secondary School (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,South Stars,2008-10-23,0,0,F,grenada,Fontenoy United (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Queens Park Rangers,2008-10-28,1,1,F,grenada,Carib Hurricane (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Chantimelle,2008-10-28,2,0,F,grenada,South Stars (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,South Stars,2008-10-29,1,1,F,grenada,Ball Dogs (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Asoms Paradise,2008-10-29,2,1,F,grenada,Chantimelle (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Eagles Super Strikers,2008-10-29,2,0,F,grenada,Carib Hurricane (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Fontenoy United,2008-10-29,0,0,F,grenada,Queens Park Rangers (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Queens Park Rangers,2008-11-02,1,1,F,grenada,Eagles Super Strikers (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Chantimelle,2008-11-02,3,1,F,grenada,Fontenoy United (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Ball Dogs,2008-11-02,1,2,F,grenada,Asoms Paradise (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Grenada Boys Secondary School,2008-11-02,1,3,F,grenada,South Stars (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Willis Youths,Carib Hurricane,2008-11-02,0,0,F,grenada,Willis Youths (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Grenada Boys Secondary School,2008-11-09,1,1,F,grenada,Eagles Super Strikers (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Fontenoy United,2008-11-09,0,0,F,grenada,Asoms Paradise (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Willis Youths,Ball Dogs,2008-11-09,1,3,F,grenada,Willis Youths (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Willis Youths,2008-11-16,0,2,F,grenada,Grenada Boys Secondary School (Grenada),Willis Youths (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Asoms Paradise,2008-11-19,4,1,F,grenada,Queens Park Rangers (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Fontenoy United,2008-11-23,1,1,F,grenada,Ball Dogs (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Willis Youths,2008-11-23,2,0,F,grenada,Eagles Super Strikers (Grenada),Willis Youths (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Asoms Paradise,2008-11-23,1,0,F,grenada,Grenada Boys Secondary School (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,South Stars,2008-11-23,5,2,F,grenada,Carib Hurricane (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Chantimelle,2008-11-23,0,0,F,grenada,Queens Park Rangers (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Ball Dogs,2008-11-30,0,1,F,grenada,Chantimelle (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Grenada Boys Secondary School,2008-11-30,1,1,F,grenada,Fontenoy United (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Carib Hurricane,2008-11-30,0,1,F,grenada,Asoms Paradise (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Eagles Super Strikers,2008-11-30,4,4,F,grenada,South Stars (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Willis Youths,Queens Park Rangers,2008-11-30,0,3,F,grenada,Willis Youths (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Carib Hurricane,2010-06-27,1,1,F,grenada,Grenada Boys Secondary School (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Hard Rock,2010-06-28,3,1,F,grenada,Asoms Paradise (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Chantimelle,2010-06-30,3,2,F,grenada,Fontenoy United (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,South Stars,2010-07-01,2,2,F,grenada,Ball Dogs (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Queens Park Rangers,2010-07-01,3,1,F,grenada,Eagles Super Strikers (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Carib Hurricane,2010-07-03,2,2,F,grenada,Chantimelle (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Ball Dogs,2010-07-03,2,3,F,grenada,Grenada Boys Secondary School (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Eagles Super Strikers,2010-07-04,3,2,F,grenada,Asoms Paradise (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Hard Rock,2010-07-04,2,0,F,grenada,South Stars (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Fontenoy United,2010-07-05,0,1,F,grenada,Queens Park Rangers (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Chantimelle,2010-07-10,1,1,F,grenada,Ball Dogs (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Asoms Paradise,2010-07-11,2,1,F,grenada,Fontenoy United (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,South Stars,2010-07-11,2,3,F,grenada,Grenada Boys Secondary School (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Queens Park Rangers,2010-07-11,4,1,F,grenada,Carib Hurricane (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Hard Rock,2010-07-13,1,1,F,grenada,Eagles Super Strikers (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Grenada Boys Secondary School,2010-07-17,1,3,F,grenada,Chantimelle (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Fontenoy United,2010-07-18,3,4,F,grenada,Hard Rock (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Carib Hurricane,2010-07-18,2,0,F,grenada,Asoms Paradise (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Eagles Super Strikers,2010-07-18,1,0,F,grenada,South Stars (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Ball Dogs,2010-07-19,0,0,F,grenada,Queens Park Rangers (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Eagles Super Strikers,2010-07-24,0,3,F,grenada,Fontenoy United (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Asoms Paradise,2010-07-24,0,4,F,grenada,Ball Dogs (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Queens Park Rangers,2010-07-25,3,1,F,grenada,Grenada Boys Secondary School (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,South Stars,2010-07-25,5,1,F,grenada,Chantimelle (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Hard Rock,2010-07-25,2,1,F,grenada,Carib Hurricane (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Eagles Super Strikers,2010-08-22,3,1,F,grenada,Ball Dogs (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Fontenoy United,2010-08-22,3,0,F,grenada,Carib Hurricane (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Grenada Boys Secondary School,2010-08-28,3,1,F,grenada,Eagles Super Strikers (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Queens Park Rangers,2010-08-28,1,1,F,grenada,Asoms Paradise (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Chantimelle,2010-08-29,2,0,F,grenada,Hard Rock (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Carib Hurricane,2010-08-29,0,2,F,grenada,South Stars (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Ball Dogs,2010-08-30,1,0,F,grenada,Fontenoy United (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Carib Hurricane,2010-09-04,1,1,F,grenada,Ball Dogs (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Fontenoy United,2010-09-04,2,1,F,grenada,Grenada Boys Secondary School (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Eagles Super Strikers,2010-09-05,2,0,F,grenada,Chantimelle (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Asoms Paradise,2010-09-05,1,3,F,grenada,South Stars (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Hard Rock,2010-09-06,1,0,F,grenada,Queens Park Rangers (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Grenada Boys Secondary School,2010-09-11,1,2,F,grenada,Asoms Paradise (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Chantimelle,2010-09-11,0,1,F,grenada,Queens Park Rangers (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Fontenoy United,2010-09-12,0,4,F,grenada,South Stars (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Ball Dogs,2010-09-12,3,1,F,grenada,Hard Rock (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Carib Hurricane,2010-09-12,0,1,F,grenada,Eagles Super Strikers (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Asoms Paradise,2010-09-14,0,1,F,grenada,Chantimelle (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,South Stars,2010-09-14,3,0,F,grenada,Queens Park Rangers (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Hard Rock,2010-09-16,0,1,F,grenada,Grenada Boys Secondary School (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Queens Park Rangers,2010-09-21,1,1,F,grenada,Hard Rock (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Ball Dogs,2010-09-23,2,1,F,grenada,Carib Hurricane (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,South Stars,2010-09-23,3,2,F,grenada,Asoms Paradise (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Grenada Boys Secondary School,2010-09-25,2,0,F,grenada,Ball Dogs (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,South Stars,2010-09-25,1,1,F,grenada,Hard Rock (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Asoms Paradise,2010-09-26,0,2,F,grenada,Eagles Super Strikers (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Queens Park Rangers,2010-09-26,0,0,F,grenada,Fontenoy United (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Chantimelle,2010-09-26,2,0,F,grenada,Carib Hurricane (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,South Stars,2010-10-09,0,3,F,grenada,Eagles Super Strikers (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Chantimelle,2010-10-09,0,0,F,grenada,Grenada Boys Secondary School (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Asoms Paradise,2010-10-10,0,0,F,grenada,Carib Hurricane (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Queens Park Rangers,2010-10-11,1,2,F,grenada,Ball Dogs (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Ball Dogs,2010-11-02,1,1,F,grenada,South Stars (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Hard Rock,2010-11-06,3,0,F,grenada,Asoms Paradise (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Fontenoy United,2010-11-07,2,2,F,grenada,Chantimelle (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Eagles Super Strikers,2010-11-08,1,1,F,grenada,Queens Park Rangers (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Carib Hurricane,2010-11-08,0,2,F,grenada,Grenada Boys Secondary School (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Chantimelle,2010-11-10,3,0,F,grenada,Eagles Super Strikers (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Fontenoy United,2010-11-13,1,2,F,grenada,Asoms Paradise (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Ball Dogs,2010-11-14,2,2,F,grenada,Chantimelle (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Hard Rock,2010-11-15,1,2,F,grenada,Fontenoy United (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Grenada Boys Secondary School,2010-12-09,3,0,F,grenada,Hard Rock (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Chantimelle,2010-12-09,4,1,F,grenada,Asoms Paradise (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Ball Dogs,2010-12-09,3,0,F,grenada,Eagles Super Strikers (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Carib Hurricane,2010-12-09,1,2,F,grenada,Fontenoy United (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Fontenoy United,2010-12-12,2,3,F,grenada,Ball Dogs (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Hard Rock,2010-12-12,0,3,F,grenada,Chantimelle (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Eagles Super Strikers,2010-12-12,3,0,F,grenada,Grenada Boys Secondary School (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,South Stars,2010-12-12,3,0,F,grenada,Carib Hurricane (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Fontenoy United,2010-12-15,3,0,F,grenada,Eagles Super Strikers (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Ball Dogs,2010-12-15,3,0,F,grenada,Asoms Paradise (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Carib Hurricane,2010-12-15,1,1,F,grenada,Hard Rock (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Eagles Super Strikers,2010-12-18,3,0,F,grenada,Carib Hurricane (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Asoms Paradise,2010-12-18,0,3,F,grenada,Grenada Boys Secondary School (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,South Stars,2010-12-19,3,0,F,grenada,Fontenoy United (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Hard Rock,2010-12-19,1,1,F,grenada,Ball Dogs (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Queens Park Rangers,2010-12-19,3,0,F,grenada,Chantimelle (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Asoms Paradise,2011-01-22,0,3,F,grenada,Queens Park Rangers (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Eagles Super Strikers,2011-01-23,4,0,F,grenada,Hard Rock (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Ball Dogs,2011-06-04,2,1,F,grenada,Chantimelle (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Asoms Paradise,2011-06-05,1,2,F,grenada,Fontenoy United (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,South Stars,2011-06-05,3,0,F,grenada,Hard Rock (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Queens Park Rangers,2011-06-05,2,0,F,grenada,Eagles Super Strikers (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Carib Hurricane,2011-06-05,0,1,F,grenada,Grenada Boys Secondary School (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Queens Park Rangers,2011-06-11,1,0,F,grenada,Grenada Boys Secondary School (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Ball Dogs,2011-06-12,2,0,F,grenada,Fontenoy United (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Chantimelle,2011-06-12,4,3,F,grenada,Eagles Super Strikers (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Asoms Paradise,2011-06-12,3,1,F,grenada,Hard Rock (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,South Stars,2011-06-13,1,3,F,grenada,Carib Hurricane (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Grenada Boys Secondary School,2011-06-18,1,1,F,grenada,Ball Dogs (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Eagles Super Strikers,2011-06-18,2,2,F,grenada,South Stars (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Fontenoy United,2011-06-19,1,0,F,grenada,Chantimelle (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Carib Hurricane,2011-06-19,1,2,F,grenada,Asoms Paradise (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Chantimelle,2011-06-25,0,3,F,grenada,South Stars (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Fontenoy United,2011-06-26,1,1,F,grenada,Queens Park Rangers (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Eagles Super Strikers,2011-06-26,2,0,F,grenada,Ball Dogs (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Hard Rock,2011-06-27,2,5,F,grenada,Carib Hurricane (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Asoms Paradise,2011-06-27,1,2,F,grenada,Grenada Boys Secondary School (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Chantimelle,2011-07-02,1,2,F,grenada,Grenada Boys Secondary School (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Eagles Super Strikers,2011-07-03,4,1,F,grenada,Fontenoy United (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Ball Dogs,2011-07-03,3,0,F,grenada,Hard Rock (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,South Stars,2011-07-03,5,1,F,grenada,Asoms Paradise (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Queens Park Rangers,2011-07-04,0,1,F,grenada,Carib Hurricane (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Hard Rock,2011-07-09,2,0,F,grenada,Chantimelle (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Fontenoy United,2011-07-09,3,3,F,grenada,South Stars (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Asoms Paradise,2011-07-10,1,3,F,grenada,Queens Park Rangers (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Carib Hurricane,2011-07-10,0,0,F,grenada,Ball Dogs (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Grenada Boys Secondary School,2011-07-10,5,2,F,grenada,Eagles Super Strikers (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Hard Rock,2011-07-13,0,1,F,grenada,Queens Park Rangers (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Ball Dogs,2011-07-16,3,1,F,grenada,Asoms Paradise (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,South Stars,2011-07-16,4,0,F,grenada,Queens Park Rangers (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Fontenoy United,2011-07-17,3,0,F,grenada,Grenada Boys Secondary School (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Eagles Super Strikers,2011-07-17,1,0,F,grenada,Hard Rock (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Chantimelle,2011-07-18,2,0,F,grenada,Carib Hurricane (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Queens Park Rangers,2011-07-23,1,2,F,grenada,Ball Dogs (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Hard Rock,2011-07-23,0,1,F,grenada,Fontenoy United (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Asoms Paradise,2011-07-26,1,2,F,grenada,Chantimelle (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Carib Hurricane,2011-07-27,4,1,F,grenada,Eagles Super Strikers (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Grenada Boys Secondary School,2011-07-27,1,1,F,grenada,South Stars (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Eagles Super Strikers,2011-07-30,1,3,F,grenada,Asoms Paradise (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Ball Dogs,2011-07-30,0,3,F,grenada,South Stars (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Grenada Boys Secondary School,2011-07-31,0,0,F,grenada,Hard Rock (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Fontenoy United,2011-08-01,2,0,F,grenada,Carib Hurricane (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Carib Hurricane,2011-08-13,0,3,F,grenada,Fontenoy United (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Hard Rock,2011-08-14,1,0,F,grenada,Grenada Boys Secondary School (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,South Stars,2011-08-14,5,0,F,grenada,Ball Dogs (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Chantimelle,2011-08-15,1,2,F,grenada,Queens Park Rangers (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Asoms Paradise,2011-08-21,0,2,F,grenada,Eagles Super Strikers (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Grenada Boys Secondary School,2011-08-22,1,3,F,grenada,Carib Hurricane (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Eagles Super Strikers,2011-08-27,2,0,F,grenada,Queens Park Rangers (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Chantimelle,2011-08-28,2,1,F,grenada,Ball Dogs (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Fontenoy United,2011-08-28,4,1,F,grenada,Asoms Paradise (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Queens Park Rangers,2011-09-02,0,3,F,grenada,South Stars (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Grenada Boys Secondary School,2011-09-03,0,2,F,grenada,Asoms Paradise (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Ball Dogs,2011-09-04,3,0,F,grenada,Eagles Super Strikers (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Carib Hurricane,2011-09-04,2,1,F,grenada,Hard Rock (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Hard Rock,2011-09-10,1,1,F,grenada,Asoms Paradise (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Carib Hurricane,2011-09-10,1,2,F,grenada,South Stars (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Grenada Boys Secondary School,2011-09-11,0,0,F,grenada,Queens Park Rangers (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Fontenoy United,2011-09-11,1,2,F,grenada,Ball Dogs (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Eagles Super Strikers,2011-09-11,0,3,F,grenada,Chantimelle (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,South Stars,2011-09-18,6,0,F,grenada,Chantimelle (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Queens Park Rangers,2011-09-18,0,3,F,grenada,Fontenoy United (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Chantimelle,2011-09-24,1,1,F,grenada,Fontenoy United (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Ball Dogs,2011-09-25,1,0,F,grenada,Grenada Boys Secondary School (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,South Stars,2011-09-25,3,2,F,grenada,Eagles Super Strikers (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Queens Park Rangers,2011-09-25,3,1,F,grenada,Hard Rock (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Asoms Paradise,2011-09-26,1,3,F,grenada,Carib Hurricane (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Fontenoy United,2011-10-01,1,2,F,grenada,Eagles Super Strikers (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Carib Hurricane,2011-10-01,2,1,F,grenada,Queens Park Rangers (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Asoms Paradise,2011-10-01,0,13,F,grenada,South Stars (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Hard Rock,2011-10-02,1,4,F,grenada,Ball Dogs (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Grenada Boys Secondary School,2011-10-02,0,3,F,grenada,Chantimelle (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Queens Park Rangers,2011-10-08,1,1,F,grenada,Asoms Paradise (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Eagles Super Strikers,2011-10-09,1,0,F,grenada,Grenada Boys Secondary School (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,South Stars,2011-10-09,3,0,F,grenada,Fontenoy United (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Hard Rock,2011-10-09,0,1,F,grenada,Chantimelle (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Ball Dogs,2011-10-10,6,2,F,grenada,Carib Hurricane (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Queens Park Rangers,2011-10-16,2,2,F,grenada,Chantimelle (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+South Stars,Hard Rock,2011-10-16,0,3,F,grenada,South Stars (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Carib Hurricane,2011-10-22,1,2,F,grenada,Chantimelle (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Asoms Paradise,2011-10-23,1,2,F,grenada,Ball Dogs (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Hard Rock,2011-10-23,2,2,F,grenada,Eagles Super Strikers (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Grenada Boys Secondary School,2011-10-23,0,1,F,grenada,Fontenoy United (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,South Stars,2011-10-30,3,0,F,grenada,Grenada Boys Secondary School (Grenada),South Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Fontenoy United,2011-10-30,0,1,F,grenada,Hard Rock (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Eagles Super Strikers,2011-10-30,1,1,F,grenada,Carib Hurricane (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Chantimelle,2011-10-30,3,0,F,grenada,Asoms Paradise (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Ball Dogs,2011-10-30,1,0,F,grenada,Queens Park Rangers (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Boca Juniors St Patrick FC,2012-06-09,1,0,F,grenada,Hard Rock (Grenada),Boca Juniors St Patrick FC (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Chantimelle,2012-06-10,4,0,F,grenada,Grenada Boys Secondary School (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Carib Hurricane,2012-06-10,1,1,F,grenada,Fontenoy United (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Police,Eagles Super Strikers,2012-06-13,0,2,F,grenada,Police (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Boca Juniors St Patrick FC,Carib Hurricane,2012-06-16,1,1,F,grenada,Boca Juniors St Patrick FC (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Police,Fontenoy United,2012-06-16,3,4,F,grenada,Police (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Hard Rock,2012-06-17,3,1,F,grenada,Eagles Super Strikers (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Grenada Boys Secondary School,2012-06-17,4,0,F,grenada,Asoms Paradise (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Chantimelle,2012-06-17,1,1,F,grenada,Queens Park Rangers (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Police,2012-06-23,3,0,F,grenada,Grenada Boys Secondary School (Grenada),Police (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Asoms Paradise,2012-06-23,3,1,F,grenada,Hard Rock (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Queens Park Rangers,2012-06-24,0,1,F,grenada,Eagles Super Strikers (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Chantimelle,2012-06-24,0,0,F,grenada,Carib Hurricane (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Boca Juniors St Patrick FC,2012-06-24,1,0,F,grenada,Fontenoy United (Grenada),Boca Juniors St Patrick FC (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Queens Park Rangers,2012-06-27,0,1,F,grenada,Asoms Paradise (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Boca Juniors St Patrick FC,Grenada Boys Secondary School,2012-06-30,1,5,F,grenada,Boca Juniors St Patrick FC (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Police,Hard Rock,2012-06-30,0,3,F,grenada,Police (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Fontenoy United,2012-07-01,0,2,F,grenada,Chantimelle (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Eagles Super Strikers,2012-07-01,3,0,F,grenada,Asoms Paradise (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Carib Hurricane,2012-07-01,3,0,F,grenada,Queens Park Rangers (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Eagles Super Strikers,2012-07-07,1,1,F,grenada,Grenada Boys Secondary School (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Queens Park Rangers,2012-07-07,2,2,F,grenada,Hard Rock (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Boca Juniors St Patrick FC,2012-07-08,3,3,F,grenada,Chantimelle (Grenada),Boca Juniors St Patrick FC (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Police,2012-07-08,1,0,F,grenada,Carib Hurricane (Grenada),Police (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Boca Juniors St Patrick FC,Eagles Super Strikers,2012-07-14,2,4,F,grenada,Boca Juniors St Patrick FC (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Police,Asoms Paradise,2012-07-14,0,2,F,grenada,Police (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Grenada Boys Secondary School,2012-07-15,2,3,F,grenada,Carib Hurricane (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Fontenoy United,2012-07-15,2,0,F,grenada,Queens Park Rangers (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Hard Rock,2012-07-18,1,2,F,grenada,Chantimelle (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Fontenoy United,2012-07-21,4,1,F,grenada,Grenada Boys Secondary School (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Carib Hurricane,2012-07-21,1,1,F,grenada,Hard Rock (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Boca Juniors St Patrick FC,2012-07-22,1,0,F,grenada,Asoms Paradise (Grenada),Boca Juniors St Patrick FC (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Police,Queens Park Rangers,2012-07-22,0,0,F,grenada,Police (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Asoms Paradise,2012-07-25,0,2,F,grenada,Fontenoy United (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Boca Juniors St Patrick FC,Police,2012-07-28,1,2,F,grenada,Boca Juniors St Patrick FC (Grenada),Police (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Hard Rock,2012-07-28,1,3,F,grenada,Fontenoy United (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Asoms Paradise,2012-07-29,0,3,F,grenada,Chantimelle (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Grenada Boys Secondary School,2012-07-29,3,2,F,grenada,Queens Park Rangers (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Fontenoy United,2012-08-04,1,0,F,grenada,Eagles Super Strikers (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Police,Chantimelle,2012-08-04,1,1,F,grenada,Police (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Grenada Boys Secondary School,2012-08-05,1,2,F,grenada,Hard Rock (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Carib Hurricane,2012-08-05,0,2,F,grenada,Asoms Paradise (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Boca Juniors St Patrick FC,2012-08-05,3,1,F,grenada,Queens Park Rangers (Grenada),Boca Juniors St Patrick FC (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Asoms Paradise,2012-09-02,3,1,F,grenada,Grenada Boys Secondary School (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Police,2012-09-02,0,0,F,grenada,Fontenoy United (Grenada),Police (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Eagles Super Strikers,2012-09-02,2,0,F,grenada,Hard Rock (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Boca Juniors St Patrick FC,2012-09-02,1,0,F,grenada,Carib Hurricane (Grenada),Boca Juniors St Patrick FC (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Boca Juniors St Patrick FC,Fontenoy United,2012-09-08,0,1,F,grenada,Boca Juniors St Patrick FC (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Police,Grenada Boys Secondary School,2012-09-08,1,4,F,grenada,Police (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Carib Hurricane,2012-09-09,1,3,F,grenada,Chantimelle (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Hard Rock,2012-09-09,2,1,F,grenada,Asoms Paradise (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Eagles Super Strikers,2012-09-09,2,2,F,grenada,Queens Park Rangers (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Asoms Paradise,2012-09-15,1,3,F,grenada,Eagles Super Strikers (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Boca Juniors St Patrick FC,2012-09-15,5,0,F,grenada,Grenada Boys Secondary School (Grenada),Boca Juniors St Patrick FC (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Police,2012-09-16,5,0,F,grenada,Hard Rock (Grenada),Police (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Chantimelle,2012-09-16,0,0,F,grenada,Fontenoy United (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Queens Park Rangers,2012-09-16,2,1,F,grenada,Carib Hurricane (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Boca Juniors St Patrick FC,Hard Rock,2012-09-22,1,0,F,grenada,Boca Juniors St Patrick FC (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Police,2012-09-22,1,0,F,grenada,Eagles Super Strikers (Grenada),Police (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Grenada Boys Secondary School,2012-09-23,5,0,F,grenada,Chantimelle (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Fontenoy United,2012-09-23,3,0,F,grenada,Carib Hurricane (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Asoms Paradise,2012-09-23,2,1,F,grenada,Queens Park Rangers (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Carib Hurricane,2012-09-29,1,1,F,grenada,Grenada Boys Secondary School (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Chantimelle,2012-09-29,4,1,F,grenada,Hard Rock (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Boca Juniors St Patrick FC,2012-09-30,6,1,F,grenada,Eagles Super Strikers (Grenada),Boca Juniors St Patrick FC (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Queens Park Rangers,2012-09-30,0,0,F,grenada,Fontenoy United (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Police,2012-09-30,1,1,F,grenada,Asoms Paradise (Grenada),Police (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Eagles Super Strikers,2012-10-07,2,2,F,grenada,Carib Hurricane (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Queens Park Rangers,2012-10-07,2,0,F,grenada,Chantimelle (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Chantimelle,2012-10-10,0,1,F,grenada,Eagles Super Strikers (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Boca Juniors St Patrick FC,Queens Park Rangers,2012-10-14,1,3,F,grenada,Boca Juniors St Patrick FC (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Hard Rock,2012-10-14,0,1,F,grenada,Grenada Boys Secondary School (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Police,2012-10-14,1,0,F,grenada,Chantimelle (Grenada),Police (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Eagles Super Strikers,2012-10-14,2,1,F,grenada,Fontenoy United (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Asoms Paradise,2012-10-14,0,1,F,grenada,Carib Hurricane (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Boca Juniors St Patrick FC,Chantimelle,2012-10-21,1,6,F,grenada,Boca Juniors St Patrick FC (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Police,Carib Hurricane,2012-10-21,4,1,F,grenada,Police (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Grenada Boys Secondary School,2012-10-21,3,1,F,grenada,Eagles Super Strikers (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Fontenoy United,2012-10-21,0,1,F,grenada,Asoms Paradise (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Hard Rock,2012-10-21,1,2,F,grenada,Queens Park Rangers (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Boca Juniors St Patrick FC,Asoms Paradise,2012-10-28,0,3,F,grenada,Boca Juniors St Patrick FC (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Grenada Boys Secondary School,2012-10-28,0,1,F,grenada,Fontenoy United (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Eagles Super Strikers,2012-10-28,3,5,F,grenada,Chantimelle (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Hard Rock,2012-10-28,1,1,F,grenada,Carib Hurricane (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Police,2012-10-28,1,1,F,grenada,Queens Park Rangers (Grenada),Police (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Carib Hurricane,2012-11-04,1,5,F,grenada,Eagles Super Strikers (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Queens Park Rangers,2012-11-04,0,0,F,grenada,Grenada Boys Secondary School (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Fontenoy United,2012-11-04,3,1,F,grenada,Hard Rock (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Chantimelle,2012-11-04,3,1,F,grenada,Asoms Paradise (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Police,Boca Juniors St Patrick FC,2012-11-04,3,0,F,grenada,Police (Grenada),Boca Juniors St Patrick FC (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Asoms Paradise,2013-05-26,2,5,F,grenada,Carib Hurricane (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Happy Hill,Hard Rock,2013-05-26,0,1,F,grenada,Happy Hill (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Carib Hurricane,2013-06-01,2,0,F,grenada,Hard Rock (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Ball Dogs,2013-06-02,1,1,F,grenada,Eagles Super Strikers (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Happy Hill,2013-06-05,2,1,F,grenada,Queens Park Rangers (Grenada),Happy Hill (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Grenada Boys Secondary School,2013-06-06,2,0,F,grenada,Fontenoy United (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Queens Park Rangers,2013-06-19,2,4,F,grenada,Eagles Super Strikers (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Ball Dogs,2013-06-19,3,1,F,grenada,Grenada Boys Secondary School (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Carib Hurricane,2013-06-22,2,1,F,grenada,Queens Park Rangers (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Grenada Boys Secondary School,2013-06-22,4,1,F,grenada,Hard Rock (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Ball Dogs,2013-06-23,3,0,F,grenada,Fontenoy United (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Eagles Super Strikers,2013-06-23,2,0,F,grenada,Asoms Paradise (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Five Stars,Carib Hurricane,2013-06-29,1,2,F,grenada,Five Stars (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Happy Hill,2013-06-30,3,0,F,grenada,Grenada Boys Secondary School (Grenada),Happy Hill (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Hard Rock,2013-06-30,1,3,F,grenada,Eagles Super Strikers (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Five Stars,2013-07-03,4,0,F,grenada,Hard Rock (Grenada),Five Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Asoms Paradise,2013-07-04,0,2,F,grenada,Grenada Boys Secondary School (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Queens Park Rangers,2013-07-04,1,3,F,grenada,Ball Dogs (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Ball Dogs,2013-07-06,4,2,F,grenada,Hard Rock (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Happy Hill,Eagles Super Strikers,2013-07-07,2,2,F,grenada,Happy Hill (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Five Stars,2013-07-07,5,0,F,grenada,Queens Park Rangers (Grenada),Five Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Fontenoy United,2013-07-07,4,0,F,grenada,Asoms Paradise (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Grenada Boys Secondary School,2013-07-08,2,3,F,grenada,Carib Hurricane (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Fontenoy United,2013-07-10,3,2,F,grenada,Eagles Super Strikers (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Happy Hill,2013-07-11,3,1,F,grenada,Carib Hurricane (Grenada),Happy Hill (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Queens Park Rangers,2013-07-20,3,1,F,grenada,Asoms Paradise (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Hard Rock,2013-07-21,0,1,F,grenada,Fontenoy United (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Five Stars,2013-07-21,1,1,F,grenada,Grenada Boys Secondary School (Grenada),Five Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Carib Hurricane,2013-07-21,2,2,F,grenada,Eagles Super Strikers (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Asoms Paradise,2013-07-27,1,1,F,grenada,Hard Rock (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Happy Hill,Fontenoy United,2013-07-28,1,0,F,grenada,Happy Hill (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Five Stars,Eagles Super Strikers,2013-07-28,4,0,F,grenada,Five Stars (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Ball Dogs,2013-07-29,0,0,F,grenada,Carib Hurricane (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Carib Hurricane,2013-08-04,3,5,F,grenada,Fontenoy United (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Hard Rock,2013-08-04,1,6,F,grenada,Queens Park Rangers (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Five Stars,2013-08-22,1,2,F,grenada,Fontenoy United (Grenada),Five Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Grenada Boys Secondary School,2013-08-24,0,1,F,grenada,Eagles Super Strikers (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Five Stars,2013-08-25,3,3,F,grenada,Ball Dogs (Grenada),Five Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Happy Hill,2013-08-28,0,2,F,grenada,Ball Dogs (Grenada),Happy Hill (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Five Stars,Fontenoy United,2013-08-31,1,1,F,grenada,Five Stars (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Grenada Boys Secondary School,2013-08-31,1,2,F,grenada,Ball Dogs (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Eagles Super Strikers,2013-09-01,2,0,F,grenada,Queens Park Rangers (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Carib Hurricane,2013-09-01,2,0,F,grenada,Asoms Paradise (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Happy Hill,Five Stars,2013-09-04,2,1,F,grenada,Happy Hill (Grenada),Five Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Grenada Boys Secondary School,2013-09-04,3,3,F,grenada,Queens Park Rangers (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Fontenoy United,2013-09-07,2,1,F,grenada,Grenada Boys Secondary School (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Happy Hill,Queens Park Rangers,2013-09-07,1,1,F,grenada,Happy Hill (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Five Stars,Asoms Paradise,2013-09-08,2,2,F,grenada,Five Stars (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Eagles Super Strikers,2013-09-08,2,0,F,grenada,Ball Dogs (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Hard Rock,2013-09-08,2,3,F,grenada,Carib Hurricane (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Happy Hill,Carib Hurricane,2013-09-14,1,1,F,grenada,Happy Hill (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Grenada Boys Secondary School,2013-09-14,3,1,F,grenada,Asoms Paradise (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Ball Dogs,2013-09-14,2,0,F,grenada,Queens Park Rangers (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Eagles Super Strikers,2013-09-15,1,2,F,grenada,Fontenoy United (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Five Stars,Hard Rock,2013-09-15,0,3,F,grenada,Five Stars (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Asoms Paradise,2013-09-18,0,3,F,grenada,Ball Dogs (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Fontenoy United,2013-09-21,1,2,F,grenada,Ball Dogs (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Five Stars,Happy Hill,2013-09-21,1,3,F,grenada,Five Stars (Grenada),Happy Hill (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Asoms Paradise,2013-09-22,1,6,F,grenada,Eagles Super Strikers (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Hard Rock,2013-09-22,3,2,F,grenada,Grenada Boys Secondary School (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Queens Park Rangers,2013-09-22,0,1,F,grenada,Carib Hurricane (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Five Stars,2013-09-29,5,0,F,grenada,Asoms Paradise (Grenada),Five Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Queens Park Rangers,2013-09-29,1,0,F,grenada,Fontenoy United (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Happy Hill,2013-09-29,4,0,F,grenada,Hard Rock (Grenada),Happy Hill (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Happy Hill,Grenada Boys Secondary School,2013-10-05,1,1,F,grenada,Happy Hill (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Eagles Super Strikers,2013-10-05,1,2,F,grenada,Hard Rock (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Five Stars,2013-10-06,4,0,F,grenada,Carib Hurricane (Grenada),Five Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Ball Dogs,2013-10-06,3,1,F,grenada,Asoms Paradise (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Fontenoy United,2013-10-06,1,0,F,grenada,Queens Park Rangers (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Five Stars,Queens Park Rangers,2013-10-12,3,5,F,grenada,Five Stars (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Asoms Paradise,2013-10-12,1,5,F,grenada,Fontenoy United (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Hard Rock,2013-10-13,0,1,F,grenada,Ball Dogs (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Happy Hill,2013-10-13,0,1,F,grenada,Eagles Super Strikers (Grenada),Happy Hill (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Carib Hurricane,2013-10-13,1,1,F,grenada,Grenada Boys Secondary School (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Fontenoy United,2013-10-19,1,0,F,grenada,Hard Rock (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Asoms Paradise,2013-10-19,2,1,F,grenada,Queens Park Rangers (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Five Stars,Grenada Boys Secondary School,2013-10-20,0,1,F,grenada,Five Stars (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Happy Hill,Ball Dogs,2013-10-20,1,1,F,grenada,Happy Hill (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Eagles Super Strikers,2013-10-20,3,0,F,grenada,Carib Hurricane (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Happy Hill,2013-10-24,2,0,F,grenada,Asoms Paradise (Grenada),Happy Hill (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Happy Hill,2013-10-27,4,3,F,grenada,Fontenoy United (Grenada),Happy Hill (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Queens Park Rangers,2013-10-27,0,0,F,grenada,Grenada Boys Secondary School (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Ball Dogs,Carib Hurricane,2013-11-03,1,2,F,grenada,Ball Dogs (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Five Stars,2013-11-03,0,1,F,grenada,Eagles Super Strikers (Grenada),Five Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Hard Rock,2013-11-10,0,3,F,grenada,Asoms Paradise (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Five Stars,Ball Dogs,2013-11-17,3,0,F,grenada,Five Stars (Grenada),Ball Dogs (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Eagles Super Strikers,2013-11-17,0,3,F,grenada,Grenada Boys Secondary School (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Happy Hill,Asoms Paradise,2013-11-17,2,5,F,grenada,Happy Hill (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Queens Park Rangers,2013-11-17,1,0,F,grenada,Hard Rock (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Fontenoy United,2013-11-17,2,3,F,grenada,Carib Hurricane (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Hard Rock,2014-05-31,2,0,F,grenada,Mt Rich (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Queens Park Rangers,2014-06-01,4,2,F,grenada,Grenada Boys Secondary School (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Happy Hill,Asoms Paradise,2014-06-01,1,2,F,grenada,Happy Hill (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,St Johns,2014-06-01,3,2,F,grenada,Carib Hurricane (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Carib Hurricane,2014-06-07,2,1,F,grenada,Fontenoy United (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Grenada Boys Secondary School,2014-06-07,2,1,F,grenada,Hard Rock (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Happy Hill,2014-06-08,3,0,F,grenada,Queens Park Rangers (Grenada),Happy Hill (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Mt Rich,2014-06-08,2,2,F,grenada,St Johns (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Five Stars,2014-06-09,4,2,F,grenada,Asoms Paradise (Grenada),Five Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Five Stars,Queens Park Rangers,2014-06-14,1,5,F,grenada,Five Stars (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,St Johns,2014-06-14,2,0,F,grenada,Fontenoy United (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Mt Rich,2014-06-15,3,0,F,grenada,Grenada Boys Secondary School (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Happy Hill,Hard Rock,2014-06-15,2,1,F,grenada,Happy Hill (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Asoms Paradise,2014-06-15,2,1,F,grenada,Carib Hurricane (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Five Stars,2014-06-21,2,0,F,grenada,Hard Rock (Grenada),Five Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Carib Hurricane,2014-06-21,1,1,F,grenada,Queens Park Rangers (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Happy Hill,2014-06-22,1,0,F,grenada,Mt Rich (Grenada),Happy Hill (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Fontenoy United,2014-06-22,2,0,F,grenada,Asoms Paradise (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Grenada Boys Secondary School,2014-06-22,0,2,F,grenada,St Johns (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Queens Park Rangers,2014-06-28,0,2,F,grenada,Fontenoy United (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Hard Rock,2014-06-28,0,0,F,grenada,Carib Hurricane (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,St Johns,2014-06-28,3,1,F,grenada,Asoms Paradise (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Five Stars,Mt Rich,2014-06-29,0,2,F,grenada,Five Stars (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Happy Hill,Grenada Boys Secondary School,2014-06-29,0,1,F,grenada,Happy Hill (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Five Stars,Fontenoy United,2014-07-02,0,1,F,grenada,Five Stars (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Carib Hurricane,2014-07-05,1,3,F,grenada,Mt Rich (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Asoms Paradise,2014-07-05,1,1,F,grenada,Queens Park Rangers (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Five Stars,2014-07-06,2,1,F,grenada,Grenada Boys Secondary School (Grenada),Five Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Fontenoy United,2014-07-06,3,0,F,grenada,Hard Rock (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Happy Hill,2014-07-06,2,0,F,grenada,St Johns (Grenada),Happy Hill (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Happy Hill,Carib Hurricane,2014-07-19,0,0,F,grenada,Happy Hill (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Asoms Paradise,2014-07-19,2,5,F,grenada,Mt Rich (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Five Stars,2014-07-19,4,1,F,grenada,St Johns (Grenada),Five Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Fontenoy United,2014-07-20,0,1,F,grenada,Grenada Boys Secondary School (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Queens Park Rangers,2014-07-20,3,2,F,grenada,Hard Rock (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Five Stars,Happy Hill,2014-07-26,0,2,F,grenada,Five Stars (Grenada),Happy Hill (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Mt Rich,2014-07-26,3,2,F,grenada,Fontenoy United (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Grenada Boys Secondary School,2014-07-26,2,1,F,grenada,Carib Hurricane (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Hard Rock,2014-07-27,2,0,F,grenada,Asoms Paradise (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,St Johns,2014-07-27,1,3,F,grenada,Queens Park Rangers (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Happy Hill,2014-08-02,0,3,F,grenada,Fontenoy United (Grenada),Happy Hill (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Five Stars,2014-08-02,2,1,F,grenada,Carib Hurricane (Grenada),Five Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Grenada Boys Secondary School,2014-08-02,2,0,F,grenada,Asoms Paradise (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Mt Rich,2014-08-03,2,1,F,grenada,Queens Park Rangers (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Hard Rock,2014-08-03,1,0,F,grenada,St Johns (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Five Stars,Carib Hurricane,2014-08-23,2,2,F,grenada,Five Stars (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Asoms Paradise,2014-08-23,0,4,F,grenada,Grenada Boys Secondary School (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,St Johns,2014-08-23,2,1,F,grenada,Hard Rock (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Happy Hill,Fontenoy United,2014-08-24,2,2,F,grenada,Happy Hill (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Queens Park Rangers,2014-08-24,4,0,F,grenada,Mt Rich (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Five Stars,2014-08-30,2,1,F,grenada,Fontenoy United (Grenada),Five Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Mt Rich,2014-08-30,0,2,F,grenada,Hard Rock (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Happy Hill,2014-08-30,2,1,F,grenada,Asoms Paradise (Grenada),Happy Hill (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Grenada Boys Secondary School,2014-08-31,0,1,F,grenada,Queens Park Rangers (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Carib Hurricane,2014-08-31,1,0,F,grenada,St Johns (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Happy Hill,Queens Park Rangers,2014-09-06,2,1,F,grenada,Happy Hill (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Fontenoy United,2014-09-06,1,0,F,grenada,Carib Hurricane (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,St Johns,2014-09-06,3,2,F,grenada,Mt Rich (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Five Stars,Asoms Paradise,2014-09-07,1,2,F,grenada,Five Stars (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Happy Hill,2014-09-13,0,0,F,grenada,Hard Rock (Grenada),Happy Hill (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Grenada Boys Secondary School,2014-09-14,1,1,F,grenada,Mt Rich (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Five Stars,2014-09-14,6,0,F,grenada,Queens Park Rangers (Grenada),Five Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Fontenoy United,2014-09-14,3,1,F,grenada,St Johns (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Five Stars,Hard Rock,2014-09-20,1,10,F,grenada,Five Stars (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Queens Park Rangers,2014-09-21,2,0,F,grenada,Carib Hurricane (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Hard Rock,2014-09-28,1,2,F,grenada,Grenada Boys Secondary School (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Carib Hurricane,2014-09-28,3,0,F,grenada,Asoms Paradise (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Five Stars,2014-10-04,3,3,F,grenada,Mt Rich (Grenada),Five Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Carib Hurricane,2014-10-05,0,0,F,grenada,Hard Rock (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Fontenoy United,2014-10-05,3,2,F,grenada,Queens Park Rangers (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Asoms Paradise,2014-10-05,0,8,F,grenada,St Johns (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Five Stars,Grenada Boys Secondary School,2014-10-11,1,4,F,grenada,Five Stars (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Happy Hill,St Johns,2014-10-11,1,1,F,grenada,Happy Hill (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Hard Rock,2014-10-12,2,3,F,grenada,Fontenoy United (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Mt Rich,2014-10-12,3,2,F,grenada,Carib Hurricane (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Queens Park Rangers,2014-10-12,4,0,F,grenada,Asoms Paradise (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Happy Hill,2014-10-15,1,0,F,grenada,Grenada Boys Secondary School (Grenada),Happy Hill (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Happy Hill,Mt Rich,2014-10-19,3,0,F,grenada,Happy Hill (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Fontenoy United,2014-10-26,0,3,F,grenada,Mt Rich (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Carib Hurricane,2014-10-26,2,2,F,grenada,Grenada Boys Secondary School (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Happy Hill,Five Stars,2014-10-26,3,1,F,grenada,Happy Hill (Grenada),Five Stars (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Asoms Paradise,2014-10-26,1,3,F,grenada,Hard Rock (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Queens Park Rangers,2014-10-26,0,1,F,grenada,St Johns (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Asoms Paradise,2014-10-29,1,0,F,grenada,Fontenoy United (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,St Johns,2014-10-29,1,2,F,grenada,Grenada Boys Secondary School (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Five Stars,St Johns,2014-11-02,2,4,F,grenada,Five Stars (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Grenada Boys Secondary School,2014-11-02,1,3,F,grenada,Fontenoy United (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Happy Hill,2014-11-02,1,0,F,grenada,Carib Hurricane (Grenada),Happy Hill (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Mt Rich,2014-11-02,1,2,F,grenada,Asoms Paradise (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Hard Rock,2014-11-02,1,0,F,grenada,Queens Park Rangers (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Chantimelle,2015-05-16,0,2,F,grenada,Asoms Paradise (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Carib Hurricane,2015-05-23,0,0,F,grenada,St Johns (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Boca Juniors St Patrick FC,2015-05-23,0,2,F,grenada,Grenada Boys Secondary School (Grenada),Boca Juniors St Patrick FC (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Asoms Paradise,2015-05-24,0,2,F,grenada,Fontenoy United (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Hampshire Utd,2015-05-24,2,0,F,grenada,Chantimelle (Grenada),Hampshire Utd (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Queens Park Rangers,2015-05-24,0,1,F,grenada,Hard Rock (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Chantimelle,2015-05-30,1,0,F,grenada,St Johns (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Boca Juniors St Patrick FC,Fontenoy United,2015-05-30,1,0,F,grenada,Boca Juniors St Patrick FC (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Grenada Boys Secondary School,2015-05-31,1,1,F,grenada,Asoms Paradise (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Hard Rock,2015-05-31,2,0,F,grenada,Carib Hurricane (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hampshire Utd,Queens Park Rangers,2015-05-31,1,2,F,grenada,Hampshire Utd (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Grenada Boys Secondary School,2015-06-02,0,1,F,grenada,Fontenoy United (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Carib Hurricane,2015-06-03,2,1,F,grenada,Chantimelle (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Boca Juniors St Patrick FC,2015-06-03,1,1,F,grenada,Queens Park Rangers (Grenada),Boca Juniors St Patrick FC (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,St Johns,2015-06-03,0,2,F,grenada,Hard Rock (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Hard Rock,2015-06-06,2,2,F,grenada,Chantimelle (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Queens Park Rangers,2015-06-06,2,1,F,grenada,Grenada Boys Secondary School (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Hampshire Utd,2015-06-07,2,1,F,grenada,St Johns (Grenada),Hampshire Utd (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Fontenoy United,2015-06-13,3,0,F,grenada,St Johns (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Boca Juniors St Patrick FC,Hard Rock,2015-06-14,3,1,F,grenada,Boca Juniors St Patrick FC (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Grenada Boys Secondary School,2015-06-14,0,2,F,grenada,Chantimelle (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Boca Juniors St Patrick FC,St Johns,2015-06-17,1,0,F,grenada,Boca Juniors St Patrick FC (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Carib Hurricane,2015-06-17,1,3,F,grenada,Queens Park Rangers (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hampshire Utd,Grenada Boys Secondary School,2015-06-17,2,1,F,grenada,Hampshire Utd (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Asoms Paradise,2015-06-20,2,1,F,grenada,Carib Hurricane (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,St Johns,2015-06-20,4,0,F,grenada,Queens Park Rangers (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hampshire Utd,Boca Juniors St Patrick FC,2015-06-21,2,4,F,grenada,Hampshire Utd (Grenada),Boca Juniors St Patrick FC (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Grenada Boys Secondary School,2015-06-21,3,1,F,grenada,Hard Rock (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Chantimelle,2015-06-21,2,3,F,grenada,Fontenoy United (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Hard Rock,2015-06-27,1,0,F,grenada,Fontenoy United (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Queens Park Rangers,2015-06-28,3,0,F,grenada,Asoms Paradise (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hampshire Utd,Asoms Paradise,2015-07-01,0,6,F,grenada,Hampshire Utd (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Fontenoy United,2015-07-02,6,1,F,grenada,Carib Hurricane (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Fontenoy United,2015-07-04,3,1,F,grenada,Queens Park Rangers (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Hampshire Utd,2015-07-04,3,0,F,grenada,Hard Rock (Grenada),Hampshire Utd (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Boca Juniors St Patrick FC,Chantimelle,2015-07-05,2,1,F,grenada,Boca Juniors St Patrick FC (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Carib Hurricane,2015-07-05,1,1,F,grenada,Grenada Boys Secondary School (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,St Johns,2015-07-06,3,2,F,grenada,Asoms Paradise (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Hard Rock,2015-07-11,1,0,F,grenada,Asoms Paradise (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Chantimelle,2015-07-11,3,2,F,grenada,Queens Park Rangers (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Boca Juniors St Patrick FC,Carib Hurricane,2015-07-11,0,1,F,grenada,Boca Juniors St Patrick FC (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hampshire Utd,Fontenoy United,2015-07-12,0,1,F,grenada,Hampshire Utd (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Grenada Boys Secondary School,2015-07-13,2,1,F,grenada,St Johns (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Boca Juniors St Patrick FC,Asoms Paradise,2015-07-15,0,1,F,grenada,Boca Juniors St Patrick FC (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hampshire Utd,Carib Hurricane,2015-07-18,0,3,F,grenada,Hampshire Utd (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,St Johns,2015-07-18,0,1,F,grenada,Grenada Boys Secondary School (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Asoms Paradise,2015-07-19,1,2,F,grenada,Hard Rock (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Boca Juniors St Patrick FC,2015-07-25,2,1,F,grenada,Chantimelle (Grenada),Boca Juniors St Patrick FC (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hampshire Utd,Hard Rock,2015-07-25,0,5,F,grenada,Hampshire Utd (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Asoms Paradise,2015-07-26,1,0,F,grenada,St Johns (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Grenada Boys Secondary School,2015-07-26,2,0,F,grenada,Carib Hurricane (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Queens Park Rangers,2015-08-01,2,0,F,grenada,Chantimelle (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Hampshire Utd,2015-08-02,3,0,F,grenada,Fontenoy United (Grenada),Hampshire Utd (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Carib Hurricane,2015-08-15,3,2,F,grenada,Asoms Paradise (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Boca Juniors St Patrick FC,Hampshire Utd,2015-08-15,4,2,F,grenada,Boca Juniors St Patrick FC (Grenada),Hampshire Utd (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Queens Park Rangers,2015-08-16,1,1,F,grenada,St Johns (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Hard Rock,2015-08-16,0,0,F,grenada,Grenada Boys Secondary School (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Fontenoy United,2015-08-16,2,6,F,grenada,Chantimelle (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Asoms Paradise,2015-08-22,4,1,F,grenada,Queens Park Rangers (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Hampshire Utd,2015-08-23,3,0,F,grenada,Carib Hurricane (Grenada),Hampshire Utd (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Boca Juniors St Patrick FC,2015-08-23,2,3,F,grenada,Hard Rock (Grenada),Boca Juniors St Patrick FC (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,St Johns,2015-08-23,1,0,F,grenada,Fontenoy United (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Chantimelle,2015-08-23,1,2,F,grenada,Grenada Boys Secondary School (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Carib Hurricane,2015-08-29,1,2,F,grenada,Fontenoy United (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Chantimelle,2015-08-29,3,1,F,grenada,Hard Rock (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Grenada Boys Secondary School,2015-08-30,7,1,F,grenada,Queens Park Rangers (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Boca Juniors St Patrick FC,2015-08-30,1,3,F,grenada,Asoms Paradise (Grenada),Boca Juniors St Patrick FC (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Asoms Paradise,2015-09-12,0,2,F,grenada,Grenada Boys Secondary School (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,St Johns,2015-09-12,4,2,F,grenada,Chantimelle (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Hampshire Utd,2015-09-13,3,0,F,grenada,Queens Park Rangers (Grenada),Hampshire Utd (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Chantimelle,2015-09-19,1,1,F,grenada,Carib Hurricane (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Fontenoy United,2015-09-19,2,0,F,grenada,Grenada Boys Secondary School (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Hard Rock,2015-09-20,2,2,F,grenada,St Johns (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Boca Juniors St Patrick FC,Queens Park Rangers,2015-09-20,3,1,F,grenada,Boca Juniors St Patrick FC (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Hampshire Utd,2015-09-20,3,0,F,grenada,Asoms Paradise (Grenada),Hampshire Utd (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Boca Juniors St Patrick FC,2015-09-23,1,0,F,grenada,Carib Hurricane (Grenada),Boca Juniors St Patrick FC (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Queens Park Rangers,2015-09-23,0,4,F,grenada,Fontenoy United (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hampshire Utd,St Johns,2015-09-24,0,3,F,grenada,Hampshire Utd (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Boca Juniors St Patrick FC,2015-09-27,2,2,F,grenada,Fontenoy United (Grenada),Boca Juniors St Patrick FC (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Carib Hurricane,2015-09-27,0,0,F,grenada,Hard Rock (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,St Johns,2015-10-03,1,1,F,grenada,Carib Hurricane (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Boca Juniors St Patrick FC,Grenada Boys Secondary School,2015-10-03,2,0,F,grenada,Boca Juniors St Patrick FC (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Fontenoy United,2015-10-04,5,0,F,grenada,Asoms Paradise (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hampshire Utd,Chantimelle,2015-10-04,0,3,F,grenada,Hampshire Utd (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Hard Rock,2015-10-04,2,3,F,grenada,Queens Park Rangers (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Hampshire Utd,2015-10-24,3,0,F,grenada,Grenada Boys Secondary School (Grenada),Hampshire Utd (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Asoms Paradise,2015-10-24,0,3,F,grenada,Chantimelle (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Boca Juniors St Patrick FC,2015-10-24,2,1,F,grenada,St Johns (Grenada),Boca Juniors St Patrick FC (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Queens Park Rangers,2015-10-24,2,0,F,grenada,Carib Hurricane (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Fontenoy United,2015-10-24,2,3,F,grenada,Hard Rock (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Gouyave,2016-06-11,4,3,F,grenada,Asoms Paradise (Grenada),Gouyave (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Mt Rich,2016-06-11,4,1,F,grenada,Carib Hurricane (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Fontenoy United,2016-06-11,3,1,F,grenada,St Johns (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Hard Rock,2016-06-12,1,1,F,grenada,Queens Park Rangers (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Gouyave,2016-06-18,3,0,F,grenada,St Johns (Grenada),Gouyave (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Queens Park Rangers,2016-06-19,3,3,F,grenada,Fontenoy United (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Chantimelle,2016-07-10,3,3,F,grenada,Queens Park Rangers (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Fontenoy United,2016-07-10,1,1,F,grenada,Mt Rich (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Hard Rock,2016-07-10,4,0,F,grenada,Asoms Paradise (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Boca Juniors St Patrick FC,2016-07-10,3,2,F,grenada,St Johns (Grenada),Boca Juniors St Patrick FC (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Gouyave,2016-07-10,1,1,F,grenada,Carib Hurricane (Grenada),Gouyave (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Boca Juniors St Patrick FC,Gouyave,2016-07-16,3,1,F,grenada,Boca Juniors St Patrick FC (Grenada),Gouyave (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Carib Hurricane,2016-07-17,1,1,F,grenada,St Johns (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Fontenoy United,2016-07-17,3,3,F,grenada,Hard Rock (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Asoms Paradise,2016-07-17,1,2,F,grenada,Queens Park Rangers (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Mt Rich,2016-07-20,1,5,F,grenada,Chantimelle (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Gouyave,Fontenoy United,2016-07-24,3,0,F,grenada,Gouyave (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Chantimelle,2016-07-28,3,0,F,grenada,Hard Rock (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Boca Juniors St Patrick FC,2016-07-28,1,1,F,grenada,Carib Hurricane (Grenada),Boca Juniors St Patrick FC (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Boca Juniors St Patrick FC,Asoms Paradise,2016-08-01,1,6,F,grenada,Boca Juniors St Patrick FC (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Carib Hurricane,2016-08-03,1,1,F,grenada,Queens Park Rangers (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Boca Juniors St Patrick FC,Chantimelle,2016-08-14,1,1,F,grenada,Boca Juniors St Patrick FC (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Mt Rich,2016-08-14,4,1,F,grenada,Hard Rock (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Boca Juniors St Patrick FC,2016-08-20,3,2,F,grenada,Mt Rich (Grenada),Boca Juniors St Patrick FC (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Chantimelle,2016-08-21,2,2,F,grenada,Asoms Paradise (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Boca Juniors St Patrick FC,Queens Park Rangers,2016-08-24,3,3,F,grenada,Boca Juniors St Patrick FC (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Asoms Paradise,2016-08-24,3,5,F,grenada,Fontenoy United (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Chantimelle,2016-08-24,1,0,F,grenada,Carib Hurricane (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,St Johns,2016-08-25,3,2,F,grenada,Hard Rock (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Gouyave,Mt Rich,2016-08-25,1,1,F,grenada,Gouyave (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Gouyave,2016-08-28,2,1,F,grenada,Queens Park Rangers (Grenada),Gouyave (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Mt Rich,2016-08-28,2,2,F,grenada,St Johns (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,St Johns,2016-08-31,3,1,F,grenada,Asoms Paradise (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Hard Rock,2016-08-31,0,3,F,grenada,Carib Hurricane (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Boca Juniors St Patrick FC,2016-09-01,3,1,F,grenada,Fontenoy United (Grenada),Boca Juniors St Patrick FC (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,St Johns,2016-09-04,1,4,F,grenada,Mt Rich (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Boca Juniors St Patrick FC,2016-09-04,1,1,F,grenada,Hard Rock (Grenada),Boca Juniors St Patrick FC (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Gouyave,Queens Park Rangers,2016-09-05,1,6,F,grenada,Gouyave (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Asoms Paradise,2016-09-05,1,3,F,grenada,Carib Hurricane (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Fontenoy United,2016-09-07,2,1,F,grenada,Asoms Paradise (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Boca Juniors St Patrick FC,2016-09-07,5,2,F,grenada,Queens Park Rangers (Grenada),Boca Juniors St Patrick FC (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Carib Hurricane,2016-09-08,1,3,F,grenada,Chantimelle (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Hard Rock,2016-09-08,1,0,F,grenada,St Johns (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Gouyave,2016-09-08,4,0,F,grenada,Mt Rich (Grenada),Gouyave (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Gouyave,Hard Rock,2016-09-10,1,2,F,grenada,Gouyave (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Asoms Paradise,2016-09-10,0,2,F,grenada,Chantimelle (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Carib Hurricane,2016-09-10,2,2,F,grenada,Fontenoy United (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Boca Juniors St Patrick FC,Mt Rich,2016-09-11,0,0,F,grenada,Boca Juniors St Patrick FC (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,St Johns,2016-09-11,2,2,F,grenada,Queens Park Rangers (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Boca Juniors St Patrick FC,2016-09-13,2,1,F,grenada,Asoms Paradise (Grenada),Boca Juniors St Patrick FC (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Carib Hurricane,2016-09-17,2,0,F,grenada,Hard Rock (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Gouyave,2016-09-17,3,1,F,grenada,Chantimelle (Grenada),Gouyave (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Boca Juniors St Patrick FC,Fontenoy United,2016-09-18,3,1,F,grenada,Boca Juniors St Patrick FC (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Mt Rich,2016-09-18,0,1,F,grenada,Queens Park Rangers (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Asoms Paradise,2016-09-18,3,3,F,grenada,St Johns (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Queens Park Rangers,2016-09-24,2,0,F,grenada,Carib Hurricane (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Hard Rock,2016-09-24,1,2,F,grenada,Mt Rich (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Chantimelle,2016-09-25,3,1,F,grenada,St Johns (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Gouyave,2016-09-25,4,1,F,grenada,Fontenoy United (Grenada),Gouyave (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Asoms Paradise,2016-10-01,1,3,F,grenada,Hard Rock (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Queens Park Rangers,2016-10-01,1,2,F,grenada,Chantimelle (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Boca Juniors St Patrick FC,St Johns,2016-10-02,2,2,F,grenada,Boca Juniors St Patrick FC (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Gouyave,Carib Hurricane,2016-10-02,2,1,F,grenada,Gouyave (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Gouyave,Boca Juniors St Patrick FC,2016-10-05,1,0,F,grenada,Gouyave (Grenada),Boca Juniors St Patrick FC (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Queens Park Rangers,2016-10-05,1,1,F,grenada,Asoms Paradise (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Chantimelle,2016-10-05,6,1,F,grenada,Mt Rich (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,St Johns,2016-10-05,0,2,F,grenada,Carib Hurricane (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Hard Rock,2016-10-05,0,4,F,grenada,Fontenoy United (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Boca Juniors St Patrick FC,Carib Hurricane,2016-10-08,1,2,F,grenada,Boca Juniors St Patrick FC (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Mt Rich,2016-10-08,2,1,F,grenada,Asoms Paradise (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Gouyave,2016-10-08,4,2,F,grenada,St Johns (Grenada),Gouyave (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Hard Rock,2016-10-09,1,2,F,grenada,Chantimelle (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Fontenoy United,2016-10-09,1,2,F,grenada,Queens Park Rangers (Grenada),Fontenoy United (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,Mt Rich,2016-10-13,1,4,F,grenada,Fontenoy United (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Boca Juniors St Patrick FC,2016-10-23,2,2,F,grenada,Chantimelle (Grenada),Boca Juniors St Patrick FC (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Fontenoy United,St Johns,2016-10-23,4,1,F,grenada,Fontenoy United (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Queens Park Rangers,2016-10-23,1,0,F,grenada,Hard Rock (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Carib Hurricane,2016-10-23,1,0,F,grenada,Mt Rich (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Gouyave,Asoms Paradise,2016-10-23,0,1,F,grenada,Gouyave (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Grenada Boys Secondary School,2017-06-24,0,3,F,grenada,Asoms Paradise (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Hard Rock,2017-06-25,0,2,F,grenada,Eagles Super Strikers (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Tamcc,Carib Hurricane,2017-06-25,0,2,F,grenada,Tamcc (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Mt Rich,2017-06-26,0,3,F,grenada,Chantimelle (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Queens Park Rangers,2017-06-26,4,1,F,grenada,St Johns (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,St Johns,2017-07-08,0,1,F,grenada,Grenada Boys Secondary School (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Sab Spartans,2017-07-08,5,1,F,grenada,Carib Hurricane (Grenada),Sab Spartans (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Tamcc,2017-07-09,4,1,F,grenada,Hard Rock (Grenada),Tamcc (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Eagles Super Strikers,2017-07-09,2,1,F,grenada,Mt Rich (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Sab Spartans,2017-07-12,2,1,F,grenada,Mt Rich (Grenada),Sab Spartans (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Chantimelle,2017-07-12,4,0,F,grenada,Asoms Paradise (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Grenada Boys Secondary School,2017-07-16,3,1,F,grenada,Chantimelle (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Sab Spartans,Hard Rock,2017-07-16,2,3,F,grenada,Sab Spartans (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Tamcc,Mt Rich,2017-07-16,2,1,F,grenada,Tamcc (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Queens Park Rangers,2017-07-17,3,2,F,grenada,Eagles Super Strikers (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Asoms Paradise,2017-07-17,2,2,F,grenada,St Johns (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Eagles Super Strikers,2017-07-19,1,1,F,grenada,Grenada Boys Secondary School (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Tamcc,2017-07-19,2,2,F,grenada,Queens Park Rangers (Grenada),Tamcc (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Carib Hurricane,2017-07-19,1,1,F,grenada,Hard Rock (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Mt Rich,2017-07-22,6,1,F,grenada,Carib Hurricane (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Sab Spartans,Queens Park Rangers,2017-07-22,3,4,F,grenada,Sab Spartans (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Tamcc,Grenada Boys Secondary School,2017-07-23,2,3,F,grenada,Tamcc (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Asoms Paradise,2017-07-25,2,3,F,grenada,Eagles Super Strikers (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,St Johns,2017-07-25,1,1,F,grenada,Chantimelle (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Sab Spartans,2017-07-26,1,0,F,grenada,Grenada Boys Secondary School (Grenada),Sab Spartans (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Carib Hurricane,2017-07-26,1,3,F,grenada,Queens Park Rangers (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Hard Rock,2017-07-26,0,1,F,grenada,Mt Rich (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Tamcc,St Johns,2017-07-29,0,3,F,grenada,Tamcc (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Chantimelle,2017-07-29,1,1,F,grenada,Eagles Super Strikers (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Sab Spartans,Asoms Paradise,2017-07-29,1,0,F,grenada,Sab Spartans (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Queens Park Rangers,2017-07-30,1,0,F,grenada,Hard Rock (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Eagles Super Strikers,2017-08-02,2,2,F,grenada,St Johns (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Grenada Boys Secondary School,2017-08-03,1,0,F,grenada,Carib Hurricane (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Asoms Paradise,2017-08-26,2,1,F,grenada,Hard Rock (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Tamcc,Eagles Super Strikers,2017-08-26,1,1,F,grenada,Tamcc (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Sab Spartans,Chantimelle,2017-08-27,3,0,F,grenada,Sab Spartans (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Grenada Boys Secondary School,2017-08-27,4,2,F,grenada,Mt Rich (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,St Johns,2017-08-27,3,1,F,grenada,Carib Hurricane (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Chantimelle,2017-08-30,2,1,F,grenada,Queens Park Rangers (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Carib Hurricane,2017-09-02,0,2,F,grenada,Chantimelle (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Mt Rich,2017-09-03,4,1,F,grenada,Asoms Paradise (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Queens Park Rangers,2017-09-03,2,4,F,grenada,Grenada Boys Secondary School (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Sab Spartans,2017-09-03,2,0,F,grenada,Eagles Super Strikers (Grenada),Sab Spartans (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Hard Rock,2017-09-06,1,2,F,grenada,St Johns (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Eagles Super Strikers,2017-09-09,1,0,F,grenada,Carib Hurricane (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,St Johns,2017-09-09,0,3,F,grenada,Mt Rich (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Sab Spartans,Tamcc,2017-09-10,1,3,F,grenada,Sab Spartans (Grenada),Tamcc (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Asoms Paradise,2017-09-10,2,1,F,grenada,Queens Park Rangers (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Chantimelle,2017-09-10,2,0,F,grenada,Hard Rock (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Tamcc,2017-09-13,6,1,F,grenada,Asoms Paradise (Grenada),Tamcc (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Mt Rich,2017-09-16,1,1,F,grenada,Queens Park Rangers (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Tamcc,2017-09-16,2,1,F,grenada,Chantimelle (Grenada),Tamcc (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Sab Spartans,2017-09-16,1,1,F,grenada,St Johns (Grenada),Sab Spartans (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Carib Hurricane,2017-09-17,4,1,F,grenada,Asoms Paradise (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Hard Rock,2017-09-17,1,1,F,grenada,Grenada Boys Secondary School (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Sab Spartans,2017-09-23,2,0,F,grenada,Hard Rock (Grenada),Sab Spartans (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Chantimelle,2017-09-23,0,0,F,grenada,Grenada Boys Secondary School (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,St Johns,2017-09-24,0,2,F,grenada,Asoms Paradise (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Eagles Super Strikers,2017-09-24,3,4,F,grenada,Queens Park Rangers (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Tamcc,2017-09-24,3,0,F,grenada,Mt Rich (Grenada),Tamcc (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Chantimelle,2017-09-27,1,0,F,grenada,Mt Rich (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Tamcc,2017-09-27,0,0,F,grenada,Carib Hurricane (Grenada),Tamcc (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Tamcc,Queens Park Rangers,2017-09-30,0,3,F,grenada,Tamcc (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Grenada Boys Secondary School,2017-09-30,2,2,F,grenada,Eagles Super Strikers (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Hard Rock,2017-10-01,4,0,F,grenada,Carib Hurricane (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Asoms Paradise,2017-10-01,0,3,F,grenada,Chantimelle (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Eagles Super Strikers,2017-10-11,0,2,F,grenada,Hard Rock (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Asoms Paradise,2017-10-11,0,2,F,grenada,Grenada Boys Secondary School (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,St Johns,2017-10-11,3,0,F,grenada,Queens Park Rangers (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Eagles Super Strikers,2017-10-14,4,0,F,grenada,Asoms Paradise (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Carib Hurricane,2017-10-14,2,3,F,grenada,Mt Rich (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Chantimelle,2017-10-15,5,1,F,grenada,St Johns (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Sab Spartans,2017-10-15,3,1,F,grenada,Queens Park Rangers (Grenada),Sab Spartans (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Tamcc,2017-10-25,3,1,F,grenada,Grenada Boys Secondary School (Grenada),Tamcc (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Tamcc,Hard Rock,2017-10-28,0,1,F,grenada,Tamcc (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Mt Rich,2017-10-28,2,2,F,grenada,Eagles Super Strikers (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Sab Spartans,Carib Hurricane,2017-10-29,0,3,F,grenada,Sab Spartans (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Tamcc,2017-10-31,4,0,F,grenada,St Johns (Grenada),Tamcc (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Carib Hurricane,2017-11-01,0,2,F,grenada,Grenada Boys Secondary School (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Hard Rock,2017-11-01,1,1,F,grenada,Queens Park Rangers (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Sab Spartans,2017-11-01,0,0,F,grenada,Asoms Paradise (Grenada),Sab Spartans (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Eagles Super Strikers,2017-11-01,2,2,F,grenada,Chantimelle (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Grenada Boys Secondary School,2017-11-04,2,0,F,grenada,St Johns (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Queens Park Rangers,2017-11-05,2,1,F,grenada,Chantimelle (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Sab Spartans,St Johns,2017-11-07,0,3,F,grenada,Sab Spartans (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Tamcc,Chantimelle,2017-11-08,1,3,F,grenada,Tamcc (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Asoms Paradise,2017-11-08,1,3,F,grenada,Carib Hurricane (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Hard Rock,2017-11-12,2,1,F,grenada,Asoms Paradise (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Tamcc,2017-11-14,3,0,F,grenada,Eagles Super Strikers (Grenada),Tamcc (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Carib Hurricane,2017-11-15,0,1,F,grenada,St Johns (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Sab Spartans,2017-11-15,5,1,F,grenada,Chantimelle (Grenada),Sab Spartans (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Mt Rich,2017-11-15,3,3,F,grenada,Grenada Boys Secondary School (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Sab Spartans,Mt Rich,2017-11-18,2,1,F,grenada,Sab Spartans (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,St Johns,2017-11-21,2,0,F,grenada,Hard Rock (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Chantimelle,2017-11-21,3,1,F,grenada,Carib Hurricane (Grenada),Chantimelle (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Asoms Paradise,2017-11-22,2,4,F,grenada,Mt Rich (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Grenada Boys Secondary School,2017-11-22,2,3,F,grenada,Queens Park Rangers (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Queens Park Rangers,2017-11-26,2,0,F,grenada,Asoms Paradise (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Carib Hurricane,2017-11-28,1,4,F,grenada,Eagles Super Strikers (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Tamcc,Sab Spartans,2017-11-29,2,4,F,grenada,Tamcc (Grenada),Sab Spartans (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Chantimelle,Hard Rock,2017-11-29,0,2,F,grenada,Chantimelle (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Mt Rich,2017-11-29,0,1,F,grenada,St Johns (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Grenada Boys Secondary School,2017-12-06,1,2,F,grenada,Hard Rock (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Queens Park Rangers,2017-12-06,0,1,F,grenada,Mt Rich (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Sab Spartans,Eagles Super Strikers,2017-12-14,0,3,F,grenada,Sab Spartans (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Mt Rich,2018-08-25,3,0,F,grenada,St Johns (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Carib Hurricane,2018-08-25,0,1,F,grenada,Grenada Boys Secondary School (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Queens Park Rangers,2018-08-26,1,1,F,grenada,Eagles Super Strikers (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Camerhogne,Asoms Paradise,2018-08-26,1,2,F,grenada,Camerhogne (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Happy Hill,2018-08-27,2,1,F,grenada,Hard Rock (Grenada),Happy Hill (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Grenada Boys Secondary School,2018-08-31,1,1,F,grenada,Mt Rich (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Happy Hill,Camerhogne,2018-09-01,0,2,F,grenada,Happy Hill (Grenada),Camerhogne (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Hard Rock,2018-09-01,2,3,F,grenada,Carib Hurricane (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Eagles Super Strikers,2018-09-02,5,1,F,grenada,Asoms Paradise (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,St Johns,2018-09-02,2,4,F,grenada,Queens Park Rangers (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Camerhogne,Carib Hurricane,2018-09-15,3,1,F,grenada,Camerhogne (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Grenada Boys Secondary School,2018-09-15,2,3,F,grenada,Hard Rock (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Asoms Paradise,2018-09-16,1,0,F,grenada,St Johns (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Mt Rich,2018-09-16,0,1,F,grenada,Queens Park Rangers (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Happy Hill,2018-09-16,0,0,F,grenada,Eagles Super Strikers (Grenada),Happy Hill (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Hard Rock,2018-09-21,1,2,F,grenada,Mt Rich (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Camerhogne,2018-09-22,4,1,F,grenada,Grenada Boys Secondary School (Grenada),Camerhogne (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Eagles Super Strikers,2018-09-22,5,0,F,grenada,Carib Hurricane (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Queens Park Rangers,2018-09-23,2,0,F,grenada,Asoms Paradise (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Happy Hill,St Johns,2018-09-23,0,3,F,grenada,Happy Hill (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Happy Hill,2018-09-29,3,2,F,grenada,Queens Park Rangers (Grenada),Happy Hill (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Carib Hurricane,2018-09-29,3,1,F,grenada,St Johns (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Mt Rich,2018-09-30,10,0,F,grenada,Asoms Paradise (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Camerhogne,Hard Rock,2018-09-30,1,0,F,grenada,Camerhogne (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Happy Hill,Asoms Paradise,2018-10-06,1,3,F,grenada,Happy Hill (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Eagles Super Strikers,2018-10-06,2,1,F,grenada,Hard Rock (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,St Johns,2018-10-07,0,1,F,grenada,Grenada Boys Secondary School (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Queens Park Rangers,2018-10-07,0,1,F,grenada,Carib Hurricane (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Camerhogne,2018-10-07,3,0,F,grenada,Mt Rich (Grenada),Camerhogne (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Grenada Boys Secondary School,2018-10-13,1,3,F,grenada,Eagles Super Strikers (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Camerhogne,2018-10-20,3,1,F,grenada,Eagles Super Strikers (Grenada),Camerhogne (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Carib Hurricane,2018-10-20,3,2,F,grenada,Asoms Paradise (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Happy Hill,Mt Rich,2018-10-20,3,2,F,grenada,Happy Hill (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Grenada Boys Secondary School,2018-10-21,3,0,F,grenada,Queens Park Rangers (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Hard Rock,2018-10-22,1,0,F,grenada,St Johns (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Camerhogne,St Johns,2018-10-27,0,0,F,grenada,Camerhogne (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Queens Park Rangers,2018-10-28,4,0,F,grenada,Hard Rock (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Happy Hill,2018-10-28,3,0,F,grenada,Carib Hurricane (Grenada),Happy Hill (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Eagles Super Strikers,2018-10-28,1,1,F,grenada,Mt Rich (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Carib Hurricane,2018-11-03,1,1,F,grenada,Mt Rich (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Hard Rock,2018-11-04,1,0,F,grenada,Asoms Paradise (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Eagles Super Strikers,2018-11-10,2,2,F,grenada,St Johns (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Camerhogne,2018-11-10,1,0,F,grenada,Queens Park Rangers (Grenada),Camerhogne (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Happy Hill,Grenada Boys Secondary School,2018-11-17,0,0,F,grenada,Happy Hill (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Asoms Paradise,2018-11-21,1,1,F,grenada,Grenada Boys Secondary School (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Carib Hurricane,2018-11-30,0,3,F,grenada,Hard Rock (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Camerhogne,Happy Hill,2018-12-01,2,2,F,grenada,Camerhogne (Grenada),Happy Hill (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Asoms Paradise,2018-12-01,2,2,F,grenada,Eagles Super Strikers (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Mt Rich,2018-12-02,1,2,F,grenada,Grenada Boys Secondary School (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Queens Park Rangers,2018-12-02,3,3,F,grenada,St Johns (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Happy Hill,Eagles Super Strikers,2018-12-08,4,4,F,grenada,Happy Hill (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Camerhogne,2018-12-09,2,1,F,grenada,Carib Hurricane (Grenada),Camerhogne (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Hard Rock,2018-12-09,1,2,F,grenada,Grenada Boys Secondary School (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,St Johns,2018-12-09,1,0,F,grenada,Asoms Paradise (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Queens Park Rangers,2018-12-09,1,0,F,grenada,Mt Rich (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Mt Rich,2018-12-15,1,2,F,grenada,Hard Rock (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Camerhogne,Grenada Boys Secondary School,2018-12-15,1,1,F,grenada,Camerhogne (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Carib Hurricane,2018-12-16,0,2,F,grenada,Eagles Super Strikers (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Asoms Paradise,2018-12-16,1,1,F,grenada,Queens Park Rangers (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Happy Hill,2018-12-16,2,0,F,grenada,St Johns (Grenada),Happy Hill (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Happy Hill,Queens Park Rangers,2019-01-05,2,3,F,grenada,Happy Hill (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Hard Rock,Camerhogne,2019-01-06,0,1,F,grenada,Hard Rock (Grenada),Camerhogne (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Eagles Super Strikers,2019-01-06,0,1,F,grenada,Grenada Boys Secondary School (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,St Johns,2019-01-06,1,1,F,grenada,Carib Hurricane (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,Asoms Paradise,2019-01-06,2,4,F,grenada,Mt Rich (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Hard Rock,2019-01-11,1,1,F,grenada,Eagles Super Strikers (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Camerhogne,Mt Rich,2019-01-12,3,1,F,grenada,Camerhogne (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Grenada Boys Secondary School,2019-01-12,3,0,F,grenada,St Johns (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Happy Hill,2019-01-13,3,0,F,grenada,Asoms Paradise (Grenada),Happy Hill (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Happy Hill,Hard Rock,2019-02-17,1,3,F,grenada,Happy Hill (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Grenada Boys Secondary School,2019-02-19,4,2,F,grenada,Carib Hurricane (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Mt Rich,St Johns,2019-02-19,0,2,F,grenada,Mt Rich (Grenada),St Johns (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Grenada Boys Secondary School,Queens Park Rangers,2019-02-23,2,2,F,grenada,Grenada Boys Secondary School (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Carib Hurricane,Asoms Paradise,2019-02-23,2,1,F,grenada,Carib Hurricane (Grenada),Asoms Paradise (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Eagles Super Strikers,2019-03-26,3,1,F,grenada,Queens Park Rangers (Grenada),Eagles Super Strikers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Camerhogne,Queens Park Rangers,2019-03-28,2,0,F,grenada,Camerhogne (Grenada),Queens Park Rangers (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Eagles Super Strikers,Mt Rich,2019-04-14,5,2,F,grenada,Eagles Super Strikers (Grenada),Mt Rich (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Asoms Paradise,Grenada Boys Secondary School,2019-04-14,1,0,F,grenada,Asoms Paradise (Grenada),Grenada Boys Secondary School (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Queens Park Rangers,Hard Rock,2019-04-14,2,5,F,grenada,Queens Park Rangers (Grenada),Hard Rock (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+Happy Hill,Carib Hurricane,2019-04-14,2,4,F,grenada,Happy Hill (Grenada),Carib Hurricane (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national
+St Johns,Camerhogne,2019-04-14,2,1,F,grenada,St Johns (Grenada),Camerhogne (Grenada),grenada,grenada,GD,GD,North America,North America,North America,national

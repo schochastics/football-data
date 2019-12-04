@@ -1,0 +1,772 @@
+home,away,date,gh,ga,full_time,competition,home_ident,away_ident,home_country,away_country,home_code,away_code,home_continent,away_continent,continent,level
+Victory SC,New Radiant,2008-06-24,4,0,F,maldives,Victory SC (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Vb Sports,2008-06-25,2,3,F,maldives,Club Valencia (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vyansa,Maziya Src,2008-06-26,0,1,F,maldives,Vyansa (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Kalhaidhoo Zj,Thinadhoo Zc,2008-06-27,5,3,F,maldives,Kalhaidhoo Zj (Maldives),Thinadhoo Zc (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Valencia,2008-06-30,2,1,F,maldives,New Radiant (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Kalhaidhoo Zj,2008-07-01,0,2,F,maldives,Maziya Src (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Vb Sports,2008-07-02,2,1,F,maldives,Victory SC (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vyansa,Thinadhoo Zc,2008-07-03,5,0,F,maldives,Vyansa (Maldives),Thinadhoo Zc (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Vb Sports,2008-07-06,2,3,F,maldives,New Radiant (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Thinadhoo Zc,2008-07-06,6,0,F,maldives,Maziya Src (Maldives),Thinadhoo Zc (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Club Valencia,2008-07-07,0,0,F,maldives,Victory SC (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vyansa,Kalhaidhoo Zj,2008-07-07,2,1,F,maldives,Vyansa (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Maziya Src,2008-07-10,3,0,F,maldives,New Radiant (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Thinadhoo Zc,2008-07-11,2,0,F,maldives,Vb Sports (Maldives),Thinadhoo Zc (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Vyansa,2008-07-12,2,1,F,maldives,Victory SC (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Kalhaidhoo Zj,2008-07-13,1,1,F,maldives,Club Valencia (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Vyansa,2008-07-16,1,1,F,maldives,Vb Sports (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Maziya Src,2008-07-17,1,1,F,maldives,Victory SC (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Kalhaidhoo Zj,2008-07-19,5,3,F,maldives,New Radiant (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Thinadhoo Zc,2008-07-19,3,1,F,maldives,Club Valencia (Maldives),Thinadhoo Zc (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Kalhaidhoo Zj,2008-07-30,0,1,F,maldives,Victory SC (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Maziya Src,2008-07-30,4,1,F,maldives,Vb Sports (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Vyansa,2008-07-31,3,0,F,maldives,Club Valencia (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Thinadhoo Zc,2008-07-31,5,1,F,maldives,New Radiant (Maldives),Thinadhoo Zc (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Kalhaidhoo Zj,2008-08-03,5,0,F,maldives,Vb Sports (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Vyansa,2008-08-04,0,3,F,maldives,New Radiant (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Thinadhoo Zc,2008-08-05,5,0,F,maldives,Victory SC (Maldives),Thinadhoo Zc (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Maziya Src,2008-08-06,4,0,F,maldives,Club Valencia (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Kalhaidhoo Zj,2008-08-09,3,1,F,maldives,Club Valencia (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Vyansa,2008-08-10,0,0,F,maldives,Victory SC (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,New Radiant,2008-08-11,0,0,F,maldives,Vb Sports (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Club Valencia,2008-08-14,1,3,F,maldives,Victory SC (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Kalhaidhoo Zj,2008-08-15,7,0,F,maldives,New Radiant (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Vyansa,2008-08-16,1,1,F,maldives,Vb Sports (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,New Radiant,2008-08-19,1,1,F,maldives,Victory SC (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Vyansa,2008-08-20,3,1,F,maldives,Club Valencia (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Kalhaidhoo Zj,2008-08-21,3,1,F,maldives,Vb Sports (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Vyansa,2008-08-24,2,1,F,maldives,New Radiant (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Kalhaidhoo Zj,2008-08-25,8,3,F,maldives,Victory SC (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Club Valencia,2008-08-26,0,1,F,maldives,Vb Sports (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vyansa,Kalhaidhoo Zj,2008-08-29,1,1,F,maldives,Vyansa (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Valencia,2008-08-30,1,2,F,maldives,New Radiant (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Victory SC,2008-08-31,0,0,F,maldives,Vb Sports (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vyansa,All Youth Linkage,2008-09-03,0,1,F,maldives,Vyansa (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Vb Sports,2008-09-05,1,1,P,maldives,Club Valencia (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,New Radiant,2008-09-06,3,1,F,maldives,Victory SC (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vyansa,Maziya Src,2008-09-07,0,1,F,maldives,Vyansa (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Red Line Club,All Youth Linkage,2008-09-09,0,4,F,maldives,Red Line Club (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Victory SC,2008-09-10,0,1,F,maldives,Vb Sports (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Red Line Club,2008-09-12,0,0,F,maldives,Maziya Src (Maldives),Red Line Club (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vyansa,All Youth Linkage,2008-09-13,0,1,F,maldives,Vyansa (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Victory SC,2008-09-15,3,2,E,maldives,Club Valencia (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,All Youth Linkage,2008-09-16,0,0,F,maldives,Maziya Src (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vyansa,Red Line Club,2008-09-17,2,2,F,maldives,Vyansa (Maldives),Red Line Club (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Kalhaidhoo Zj,2009-02-05,5,0,F,maldives,Victory SC (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,All Youth Linkage,2009-02-06,2,3,F,maldives,Vb Sports (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Maziya Src,2009-02-07,3,3,F,maldives,New Radiant (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,All Youth Linkage,2009-02-12,0,0,F,maldives,Victory SC (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Kalhaidhoo Zj,2009-02-13,3,0,F,maldives,New Radiant (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Maziya Src,2009-02-14,1,2,F,maldives,Club Valencia (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Maziya Src,2009-02-19,4,0,F,maldives,Vb Sports (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Kalhaidhoo Zj,2009-02-20,0,1,F,maldives,Club Valencia (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,All Youth Linkage,2009-02-21,2,2,F,maldives,New Radiant (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Maziya Src,2009-02-26,3,1,F,maldives,Victory SC (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,All Youth Linkage,2009-02-27,3,1,F,maldives,Club Valencia (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Kalhaidhoo Zj,2009-02-28,7,0,F,maldives,Vb Sports (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,Maziya Src,2009-03-03,0,1,F,maldives,All Youth Linkage (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Victory SC,2009-03-03,1,1,F,maldives,Club Valencia (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,New Radiant,2009-03-04,2,0,F,maldives,Vb Sports (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,New Radiant,2009-04-26,1,1,F,maldives,Club Valencia (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Kalhaidhoo Zj,Maziya Src,2009-04-27,0,4,F,maldives,Kalhaidhoo Zj (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Victory SC,2009-04-27,2,1,F,maldives,Vb Sports (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,Kalhaidhoo Zj,2009-05-07,0,0,F,maldives,All Youth Linkage (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,New Radiant,2009-05-11,4,2,F,maldives,Victory SC (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Vb Sports,2009-05-12,2,2,F,maldives,Club Valencia (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Vb Sports,2009-05-28,1,3,F,maldives,Victory SC (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Valencia,2009-05-29,3,2,F,maldives,Maziya Src (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,New Radiant,2009-05-30,1,2,F,maldives,All Youth Linkage (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Victory SC,2009-06-04,1,2,F,maldives,Maziya Src (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Kalhaidhoo Zj,All Youth Linkage,2009-06-05,1,8,F,maldives,Kalhaidhoo Zj (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Club Valencia,2009-06-06,3,1,F,maldives,Vb Sports (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Club Valencia,2009-06-11,4,2,F,maldives,Victory SC (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Vb Sports,2009-06-12,1,1,F,maldives,Maziya Src (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Kalhaidhoo Zj,New Radiant,2009-06-13,0,0,F,maldives,Kalhaidhoo Zj (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,Victory SC,2009-06-18,3,3,F,maldives,All Youth Linkage (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Vb Sports,2009-06-19,0,0,F,maldives,New Radiant (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Kalhaidhoo Zj,2009-06-20,4,0,F,maldives,Maziya Src (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Valencia,2009-06-25,2,1,F,maldives,New Radiant (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,Vb Sports,2009-06-26,1,1,F,maldives,All Youth Linkage (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Kalhaidhoo Zj,Victory SC,2009-06-27,1,3,F,maldives,Kalhaidhoo Zj (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Kalhaidhoo Zj,Vb Sports,2009-07-02,0,20,F,maldives,Kalhaidhoo Zj (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,Club Valencia,2009-07-03,2,2,F,maldives,All Youth Linkage (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,New Radiant,2009-07-04,4,0,F,maldives,Maziya Src (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Kalhaidhoo Zj,Club Valencia,2009-07-09,2,4,F,maldives,Kalhaidhoo Zj (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,All Youth Linkage,2009-07-10,1,1,F,maldives,Maziya Src (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Victory SC,2009-07-10,0,3,F,maldives,New Radiant (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Valencia,2009-07-30,3,1,F,maldives,Maziya Src (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,All Youth Linkage,2009-07-31,3,0,F,maldives,Victory SC (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Kalhaidhoo Zj,2009-08-01,8,0,F,maldives,New Radiant (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,All Youth Linkage,2009-08-06,1,1,F,maldives,Maziya Src (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Valencia,2009-08-07,2,0,F,maldives,New Radiant (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Kalhaidhoo Zj,2009-08-08,5,2,F,maldives,Vb Sports (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Kalhaidhoo Zj,2009-08-13,2,1,F,maldives,Victory SC (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Club Valencia,2009-08-14,3,1,F,maldives,Vb Sports (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,All Youth Linkage,2009-08-15,1,4,F,maldives,New Radiant (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Kalhaidhoo Zj,2009-08-20,12,0,F,maldives,Maziya Src (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,All Youth Linkage,2009-08-21,7,0,F,maldives,Vb Sports (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Club Valencia,2009-08-22,2,0,F,maldives,Victory SC (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,Kalhaidhoo Zj,2009-08-27,4,0,F,maldives,All Youth Linkage (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Maziya Src,2009-08-28,1,0,F,maldives,Vb Sports (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,New Radiant,2009-08-29,0,2,F,maldives,Victory SC (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,New Radiant,2009-09-03,2,1,F,maldives,Vb Sports (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Kalhaidhoo Zj,2009-09-04,5,1,F,maldives,Club Valencia (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Maziya Src,2009-09-05,1,0,F,maldives,Victory SC (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,Club Valencia,2009-09-10,2,3,F,maldives,All Youth Linkage (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,New Radiant,2009-09-11,6,2,F,maldives,Maziya Src (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Victory SC,2009-09-12,4,1,F,maldives,Vb Sports (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,Club Eagles,2009-09-27,0,0,F,maldives,All Youth Linkage (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Vyansa,2009-09-29,1,2,F,maldives,Club Valencia (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Kalhaidhoo Zj,Club Eagles,2009-09-30,3,1,F,maldives,Kalhaidhoo Zj (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,Vyansa,2009-10-02,4,1,F,maldives,All Youth Linkage (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Victory SC,2009-10-03,0,2,F,maldives,Vb Sports (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,New Radiant,2009-10-04,2,1,F,maldives,Maziya Src (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Kalhaidhoo Zj,2009-10-04,7,1,F,maldives,Club Valencia (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vyansa,Club Eagles,2009-10-06,5,1,F,maldives,Vyansa (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Maziya Src,2009-10-07,5,3,F,maldives,Vb Sports (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,Kalhaidhoo Zj,2009-10-08,3,2,F,maldives,All Youth Linkage (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Vb Sports,2009-10-10,2,1,F,maldives,Victory SC (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Club Eagles,2009-10-11,4,0,F,maldives,Club Valencia (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Kalhaidhoo Zj,Vyansa,2009-10-13,3,10,F,maldives,Kalhaidhoo Zj (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,Club Valencia,2009-10-14,2,1,F,maldives,All Youth Linkage (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Valencia,2010-03-26,4,1,F,maldives,New Radiant (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Vyansa,2010-03-26,1,1,F,maldives,Maziya Src (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,All Youth Linkage,2010-03-27,2,0,F,maldives,Victory SC (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Kalhaidhoo Zj,2010-03-28,8,0,F,maldives,Vb Sports (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Vyansa,2010-04-09,2,4,F,maldives,New Radiant (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,All Youth Linkage,2010-04-10,3,1,F,maldives,Maziya Src (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Club Valencia,2010-04-10,5,0,F,maldives,Vb Sports (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Kalhaidhoo Zj,2010-04-11,3,0,F,maldives,Victory SC (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Vyansa,2010-04-16,1,0,F,maldives,Vb Sports (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,All Youth Linkage,2010-04-16,6,1,F,maldives,New Radiant (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Kalhaidhoo Zj,2010-04-18,2,1,F,maldives,Maziya Src (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Club Valencia,2010-04-25,1,1,F,maldives,Victory SC (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Valencia,2010-04-30,3,2,F,maldives,Maziya Src (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Kalhaidhoo Zj,2010-05-01,1,0,F,maldives,New Radiant (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Vyansa,2010-05-01,1,3,F,maldives,Victory SC (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,All Youth Linkage,2010-05-02,5,2,F,maldives,Vb Sports (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vyansa,Kalhaidhoo Zj,2010-05-06,0,2,F,maldives,Vyansa (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,New Radiant,2010-05-07,2,1,F,maldives,Victory SC (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,Club Valencia,2010-05-07,0,3,F,maldives,All Youth Linkage (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Maziya Src,2010-05-08,1,1,F,maldives,Vb Sports (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,Kalhaidhoo Zj,2010-05-13,0,1,F,maldives,All Youth Linkage (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,New Radiant,2010-05-14,2,1,F,maldives,Vb Sports (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Maziya Src,2010-05-15,0,0,F,maldives,Victory SC (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vyansa,Club Valencia,2010-05-16,0,3,F,maldives,Vyansa (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,Vyansa,2010-05-20,0,2,F,maldives,All Youth Linkage (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,New Radiant,2010-05-21,0,0,F,maldives,Maziya Src (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Victory SC,2010-05-22,0,0,F,maldives,Vb Sports (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Kalhaidhoo Zj,2010-05-23,7,1,F,maldives,Club Valencia (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Vyansa,2010-05-27,1,1,F,maldives,Club Valencia (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Victory SC,2010-05-28,2,1,F,maldives,New Radiant (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Vb Sports,2010-05-29,1,1,F,maldives,Maziya Src (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Kalhaidhoo Zj,All Youth Linkage,2010-05-30,1,0,F,maldives,Kalhaidhoo Zj (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Kalhaidhoo Zj,Vyansa,2010-06-03,0,2,F,maldives,Kalhaidhoo Zj (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Victory SC,2010-06-04,0,1,F,maldives,Maziya Src (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,All Youth Linkage,2010-06-04,2,0,F,maldives,Club Valencia (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Vb Sports,2010-06-05,2,3,F,maldives,New Radiant (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vyansa,All Youth Linkage,2010-06-07,0,0,F,maldives,Vyansa (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Kalhaidhoo Zj,Club Valencia,2010-06-08,0,2,F,maldives,Kalhaidhoo Zj (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Maziya Src,2010-06-09,0,1,F,maldives,New Radiant (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Vb Sports,2010-06-10,1,1,F,maldives,Victory SC (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Kalhaidhoo Zj,Victory SC,2010-07-15,0,4,F,maldives,Kalhaidhoo Zj (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vyansa,Maziya Src,2010-07-16,0,3,F,maldives,Vyansa (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Vb Sports,2010-07-17,1,3,F,maldives,Club Valencia (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,New Radiant,2010-07-18,1,4,F,maldives,All Youth Linkage (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,Victory SC,2010-07-22,0,2,F,maldives,All Youth Linkage (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Kalhaidhoo Zj,Maziya Src,2010-07-23,0,7,F,maldives,Kalhaidhoo Zj (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vyansa,Vb Sports,2010-07-24,1,3,F,maldives,Vyansa (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,New Radiant,2010-07-25,4,4,F,maldives,Club Valencia (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Victory SC,2010-07-29,1,2,F,maldives,Club Valencia (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Kalhaidhoo Zj,Vb Sports,2010-07-30,0,1,F,maldives,Kalhaidhoo Zj (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,Maziya Src,2010-07-31,1,1,F,maldives,All Youth Linkage (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vyansa,New Radiant,2010-08-01,1,2,F,maldives,Vyansa (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Kalhaidhoo Zj,New Radiant,2010-08-05,0,2,F,maldives,Kalhaidhoo Zj (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,Vb Sports,2010-08-06,0,5,F,maldives,All Youth Linkage (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Maziya Src,2010-08-07,0,0,F,maldives,Club Valencia (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vyansa,Victory SC,2010-08-08,0,1,F,maldives,Vyansa (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Vyansa,2010-08-17,1,0,F,maldives,Maziya Src (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,All Youth Linkage,2010-08-18,2,0,F,maldives,Vb Sports (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Club Valencia,2010-08-19,0,0,F,maldives,Victory SC (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Kalhaidhoo Zj,2010-08-20,3,1,F,maldives,New Radiant (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,All Youth Linkage,2010-08-23,2,0,F,maldives,Victory SC (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Valencia,2010-08-24,0,1,F,maldives,Maziya Src (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Vyansa,2010-08-25,1,0,F,maldives,New Radiant (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Kalhaidhoo Zj,2010-08-26,6,2,F,maldives,Vb Sports (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,All Youth Linkage,2010-08-29,4,1,F,maldives,Maziya Src (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Kalhaidhoo Zj,2010-08-30,3,0,F,maldives,Victory SC (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Vyansa,2010-08-31,6,1,F,maldives,Vb Sports (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Valencia,2010-09-01,3,1,F,maldives,New Radiant (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Kalhaidhoo Zj,2010-09-04,3,1,F,maldives,Maziya Src (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Club Valencia,2010-09-06,4,1,F,maldives,Vb Sports (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,All Youth Linkage,2010-09-07,5,3,F,maldives,New Radiant (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Vyansa,2010-09-08,4,1,F,maldives,Victory SC (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vyansa,All Youth Linkage,2010-09-16,1,1,F,maldives,Vyansa (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,New Radiant,2010-09-17,2,1,F,maldives,Victory SC (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Maziya Src,2010-09-17,4,1,F,maldives,Vb Sports (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Kalhaidhoo Zj,2010-09-19,1,0,F,maldives,Club Valencia (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,New Radiant,2010-09-20,3,0,F,maldives,Vb Sports (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vyansa,Kalhaidhoo Zj,2010-09-20,1,4,F,maldives,Vyansa (Maldives),Kalhaidhoo Zj (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Maziya Src,2010-09-21,1,3,F,maldives,Victory SC (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,All Youth Linkage,2010-09-21,2,1,F,maldives,Club Valencia (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Vyansa,2010-09-24,0,0,F,maldives,Club Valencia (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,New Radiant,2010-09-24,0,0,F,maldives,Maziya Src (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Kalhaidhoo Zj,All Youth Linkage,2010-09-25,2,4,F,maldives,Kalhaidhoo Zj (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Victory SC,2010-09-25,2,2,F,maldives,Vb Sports (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Victory SC,2010-10-21,1,2,F,maldives,Vb Sports (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,New Radiant,2010-10-22,3,1,E,maldives,Maziya Src (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,New Radiant,2010-10-25,5,0,F,maldives,Vb Sports (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Vb Sports,2010-10-28,2,5,F,maldives,Victory SC (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,New Radiant,2011-03-30,3,2,F,maldives,Vb Sports (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Club Eagles,2011-03-31,1,1,F,maldives,Club Valencia (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Maziya Src,2011-04-01,2,1,F,maldives,Victory SC (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vyansa,All Youth Linkage,2011-04-02,0,2,F,maldives,Vyansa (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Club Valencia,2011-04-06,2,0,F,maldives,Victory SC (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Club Eagles,2011-04-07,9,0,F,maldives,Vb Sports (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Vyansa,2011-04-08,2,0,F,maldives,Maziya Src (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,All Youth Linkage,2011-04-09,3,1,F,maldives,New Radiant (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Valencia,2011-04-15,0,4,F,maldives,Maziya Src (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Vyansa,2011-04-16,1,0,F,maldives,New Radiant (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,All Youth Linkage,2011-04-17,6,1,F,maldives,Vb Sports (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Club Eagles,2011-04-18,2,0,F,maldives,Victory SC (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Vyansa,2011-04-21,4,0,F,maldives,Vb Sports (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,All Youth Linkage,2011-04-22,0,0,F,maldives,Victory SC (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Valencia,2011-04-23,4,2,F,maldives,New Radiant (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Eagles,2011-04-24,2,0,F,maldives,Maziya Src (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,All Youth Linkage,2011-05-06,1,1,F,maldives,Maziya Src (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Eagles,2011-05-07,0,2,F,maldives,New Radiant (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Vyansa,2011-05-15,7,1,F,maldives,Victory SC (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Club Valencia,2011-05-16,2,0,F,maldives,Vb Sports (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vyansa,Club Eagles,2011-05-18,1,0,F,maldives,Vyansa (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,All Youth Linkage,2011-05-19,4,2,F,maldives,Club Valencia (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Maziya Src,2011-05-20,4,1,F,maldives,Vb Sports (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,New Radiant,2011-05-20,3,2,F,maldives,Victory SC (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,Club Eagles,2011-05-22,2,1,F,maldives,All Youth Linkage (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Vyansa,2011-05-23,3,2,F,maldives,Club Valencia (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,New Radiant,2011-05-24,1,0,F,maldives,Maziya Src (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Victory SC,2011-05-25,4,0,F,maldives,Vb Sports (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Victory SC,2011-05-29,2,2,F,maldives,Vb Sports (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Maziya Src,2011-05-29,1,1,F,maldives,Club Valencia (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,All Youth Linkage,2011-05-30,5,0,F,maldives,New Radiant (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Vyansa,2011-05-31,1,0,F,maldives,Club Eagles (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,Club Eagles,2011-06-10,0,1,F,maldives,All Youth Linkage (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Club Valencia,2011-06-11,2,1,F,maldives,Victory SC (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Maziya Src,2011-06-11,2,1,F,maldives,Vb Sports (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Vyansa,2011-06-12,3,1,F,maldives,New Radiant (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Club Valencia,2011-06-14,4,0,F,maldives,Vb Sports (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Eagles,2011-06-15,7,0,F,maldives,New Radiant (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Maziya Src,2011-06-15,1,3,F,maldives,Victory SC (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,Vyansa,2011-06-16,1,0,F,maldives,All Youth Linkage (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,New Radiant,2011-06-18,1,2,F,maldives,Vb Sports (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Club Eagles,2011-06-18,1,2,F,maldives,Club Valencia (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,All Youth Linkage,2011-06-19,5,1,F,maldives,Victory SC (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Vyansa,2011-06-20,2,1,F,maldives,Maziya Src (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Club Eagles,2011-06-22,5,1,F,maldives,Victory SC (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Vyansa,2011-06-23,1,3,F,maldives,Club Valencia (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,All Youth Linkage,2011-06-24,6,0,F,maldives,Vb Sports (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,New Radiant,2011-06-24,1,1,F,maldives,Maziya Src (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Vyansa,2011-06-26,4,0,F,maldives,Victory SC (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,All Youth Linkage,2011-06-27,2,1,F,maldives,Maziya Src (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Club Eagles,2011-06-27,0,0,F,maldives,Vb Sports (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,New Radiant,2011-06-28,0,0,F,maldives,Club Valencia (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Eagles,2011-06-30,2,0,F,maldives,Maziya Src (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Vyansa,2011-07-01,1,0,F,maldives,Vb Sports (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,New Radiant,2011-07-02,1,1,F,maldives,Victory SC (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,All Youth Linkage,2011-07-03,2,1,F,maldives,Club Valencia (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Eagles,2011-09-06,2,1,F,maldives,New Radiant (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Maziya Src,2011-09-07,2,2,F,maldives,Victory SC (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Club Valencia,2011-09-08,3,0,F,maldives,Vb Sports (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Club Eagles,2011-09-10,2,2,F,maldives,Victory SC (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Valencia,2011-09-11,2,2,F,maldives,New Radiant (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Maziya Src,2011-09-12,0,2,F,maldives,Vb Sports (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Club Valencia,2011-09-14,2,0,F,maldives,Victory SC (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Eagles,2011-09-15,3,0,F,maldives,Maziya Src (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,New Radiant,2011-09-16,1,0,F,maldives,Vb Sports (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Valencia,2011-09-18,1,1,F,maldives,Maziya Src (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Club Eagles,2011-09-19,8,1,F,maldives,Vb Sports (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,New Radiant,2011-09-20,1,6,F,maldives,Victory SC (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Club Eagles,2011-09-22,2,3,F,maldives,Club Valencia (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Maziya Src,2011-09-23,0,3,F,maldives,New Radiant (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Victory SC,2011-09-24,1,0,F,maldives,Vb Sports (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,New Radiant,2012-04-18,0,4,F,maldives,Vb Sports (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Maziya Src,2012-04-19,3,2,F,maldives,Victory SC (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Vyansa,2012-04-20,1,0,F,maldives,Club Eagles (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,All Youth Linkage,2012-04-21,1,0,F,maldives,Club Valencia (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Valencia,2012-04-27,3,0,F,maldives,Maziya Src (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,All Youth Linkage,2012-04-28,3,0,F,maldives,New Radiant (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Vyansa,2012-04-29,0,0,F,maldives,Vb Sports (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Club Eagles,2012-04-30,1,1,F,maldives,Victory SC (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,All Youth Linkage,2012-05-03,1,1,F,maldives,Vb Sports (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Vyansa,2012-05-04,3,0,F,maldives,Victory SC (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Valencia,2012-05-05,3,0,F,maldives,New Radiant (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Eagles,2012-05-06,2,1,F,maldives,Maziya Src (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Eagles,2012-05-11,1,1,F,maldives,New Radiant (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Vyansa,2012-05-12,1,1,F,maldives,Maziya Src (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,All Youth Linkage,2012-05-13,0,4,F,maldives,Victory SC (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Club Valencia,2012-05-14,2,2,F,maldives,Vb Sports (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,All Youth Linkage,2012-05-17,2,1,F,maldives,Maziya Src (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Club Eagles,2012-05-18,6,3,F,maldives,Vb Sports (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Club Valencia,2012-05-19,5,1,F,maldives,Victory SC (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Vyansa,2012-05-20,0,0,F,maldives,New Radiant (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,All Youth Linkage,2012-05-23,2,1,F,maldives,Club Eagles (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Vyansa,2012-05-24,2,0,F,maldives,Club Valencia (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,New Radiant,2012-05-25,1,5,F,maldives,Victory SC (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Maziya Src,2012-05-26,1,2,F,maldives,Vb Sports (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Club Valencia,2012-05-29,1,0,F,maldives,Club Eagles (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,Vyansa,2012-05-30,0,5,F,maldives,All Youth Linkage (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,New Radiant,2012-05-31,0,1,F,maldives,Maziya Src (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Victory SC,2012-06-01,1,2,F,maldives,Vb Sports (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Victory SC,2012-06-05,0,0,F,maldives,New Radiant (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Maziya Src,2012-06-06,0,0,F,maldives,Club Eagles (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Vyansa,2012-06-07,0,1,F,maldives,Club Valencia (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,All Youth Linkage,2012-06-07,6,1,F,maldives,Vb Sports (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Maziya Src,2012-06-10,5,1,F,maldives,New Radiant (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vyansa,Vb Sports,2012-06-11,0,6,F,maldives,Vyansa (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Club Eagles,2012-06-11,1,1,F,maldives,Victory SC (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,All Youth Linkage,2012-06-12,0,1,F,maldives,Club Valencia (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Eagles,2012-07-10,1,0,F,maldives,New Radiant (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Vb Sports,2012-07-11,5,6,F,maldives,Club Valencia (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Maziya Src,2012-07-12,2,3,F,maldives,Victory SC (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vyansa,All Youth Linkage,2012-07-13,0,3,F,maldives,Vyansa (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Valencia,2012-07-15,5,1,F,maldives,New Radiant (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Vb Sports,2012-07-16,1,4,F,maldives,Club Eagles (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Vyansa,2012-07-17,2,0,F,maldives,Victory SC (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,All Youth Linkage,2012-07-18,2,0,F,maldives,Maziya Src (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Vb Sports,2012-07-29,1,2,F,maldives,Victory SC (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,All Youth Linkage,2012-07-30,0,0,F,maldives,Club Eagles (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Vyansa,2012-07-31,1,0,F,maldives,New Radiant (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Valencia,2012-08-01,4,0,F,maldives,Maziya Src (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,All Youth Linkage,2012-08-05,1,1,F,maldives,Victory SC (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Vyansa,2012-08-06,3,1,F,maldives,Maziya Src (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Vb Sports,2012-08-06,5,1,F,maldives,New Radiant (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Club Valencia,2012-08-07,3,3,F,maldives,Club Eagles (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Vb Sports,2012-08-10,5,1,F,maldives,Maziya Src (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,All Youth Linkage,2012-08-11,2,1,F,maldives,New Radiant (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Club Valencia,2012-08-12,8,2,F,maldives,Victory SC (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Vyansa,2012-08-13,3,2,F,maldives,Club Eagles (Maldives),Vyansa (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,All Youth Linkage,2012-09-16,4,2,F,maldives,Victory SC (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Vb Sports,2012-09-18,4,2,F,maldives,Maziya Src (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Eagles,2012-09-19,2,0,F,maldives,New Radiant (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,All Youth Linkage,2012-09-21,6,1,F,maldives,Maziya Src (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Club Eagles,2012-09-22,5,0,F,maldives,Victory SC (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Vb Sports,2012-09-23,0,0,F,maldives,New Radiant (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Eagles,2012-09-26,2,0,F,maldives,Maziya Src (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,All Youth Linkage,2012-09-27,0,1,F,maldives,Vb Sports (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Victory SC,2012-09-27,3,1,F,maldives,New Radiant (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Club Eagles,2012-09-30,6,3,F,maldives,Vb Sports (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,All Youth Linkage,2012-09-30,5,1,F,maldives,New Radiant (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Victory SC,2012-10-01,0,1,F,maldives,Maziya Src (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,All Youth Linkage,2012-10-03,5,2,F,maldives,Club Eagles (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Vb Sports,2012-10-04,5,2,F,maldives,Victory SC (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Maziya Src,2012-10-04,2,1,F,maldives,New Radiant (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Vb Sports,2013-02-26,10,1,F,maldives,New Radiant (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Maziya Src,2013-02-27,0,4,F,maldives,Victory SC (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Bg Sports,2013-02-28,4,2,F,maldives,Club Eagles (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,Club Valencia,2013-03-01,0,1,F,maldives,All Youth Linkage (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Club Eagles,2013-03-09,0,0,F,maldives,Victory SC (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Club Valencia,2013-03-10,0,5,F,maldives,Vb Sports (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,All Youth Linkage,2013-03-17,2,0,F,maldives,Maziya Src (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Bg Sports,2013-03-18,1,0,F,maldives,New Radiant (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,All Youth Linkage,2013-03-21,0,0,F,maldives,Vb Sports (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Eagles,2013-03-22,2,0,F,maldives,Maziya Src (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Bg Sports,2013-03-23,0,2,F,maldives,Victory SC (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Valencia,2013-03-24,5,0,F,maldives,New Radiant (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Bg Sports,2013-03-27,1,0,F,maldives,Maziya Src (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,All Youth Linkage,2013-03-28,3,0,F,maldives,New Radiant (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Club Valencia,2013-03-29,2,1,F,maldives,Victory SC (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Club Eagles,2013-03-30,1,1,F,maldives,Vb Sports (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Bg Sports,2013-04-05,0,1,F,maldives,Vb Sports (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,All Youth Linkage,2013-04-06,4,0,F,maldives,Victory SC (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Valencia,2013-04-15,2,3,F,maldives,Maziya Src (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Eagles,2013-04-16,4,0,F,maldives,New Radiant (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,Bg Sports,2013-04-19,0,1,F,maldives,All Youth Linkage (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Club Valencia,2013-04-20,0,1,F,maldives,Club Eagles (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Vb Sports,2013-04-27,0,3,F,maldives,Victory SC (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Maziya Src,2013-05-06,4,2,F,maldives,New Radiant (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Bg Sports,2013-05-08,2,3,F,maldives,Club Valencia (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,All Youth Linkage,2013-05-09,4,0,F,maldives,Club Eagles (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Vb Sports,2013-05-11,0,2,F,maldives,Maziya Src (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Victory SC,2013-05-20,4,0,F,maldives,New Radiant (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Maziya Src,2013-05-24,2,0,F,maldives,New Radiant (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Bg Sports,2013-05-25,2,1,F,maldives,Club Valencia (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Vb Sports,2013-05-26,1,1,F,maldives,Club Eagles (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,All Youth Linkage,2013-05-27,0,2,F,maldives,Victory SC (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Bg Sports,2013-05-29,1,0,F,maldives,New Radiant (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Valencia,2013-05-30,2,0,F,maldives,Maziya Src (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,All Youth Linkage,2013-05-31,0,2,F,maldives,Club Eagles (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,Victory SC,2013-06-01,1,3,F,maldives,Vb Sports (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Valencia,2013-06-03,2,1,F,maldives,New Radiant (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Bg Sports,2013-06-04,2,0,F,maldives,Maziya Src (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Victory SC,2013-06-05,2,0,F,maldives,Club Eagles (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Vb Sports,All Youth Linkage,2013-06-06,0,2,F,maldives,Vb Sports (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Eagles,2013-06-10,5,0,F,maldives,New Radiant (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Vb Sports,2013-06-10,5,2,F,maldives,Maziya Src (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Victory SC,2013-06-11,0,0,F,maldives,Club Valencia (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Bg Sports,All Youth Linkage,2013-06-11,0,2,F,maldives,Bg Sports (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Vb Sports,2013-06-14,2,0,F,maldives,New Radiant (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Victory SC,2013-06-15,4,0,F,maldives,Maziya Src (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Bg Sports,Club Eagles,2013-06-15,1,1,F,maldives,Bg Sports (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,All Youth Linkage,2013-06-16,1,1,F,maldives,Club Valencia (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Victory SC,2013-06-19,3,0,F,maldives,New Radiant (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,All Youth Linkage,2013-06-19,1,1,F,maldives,Maziya Src (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Club Eagles,2013-06-20,2,2,F,maldives,Club Valencia (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Bg Sports,Vb Sports,2013-06-20,2,1,F,maldives,Bg Sports (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,All Youth Linkage,2013-06-23,5,0,F,maldives,New Radiant (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Eagles,2013-06-23,3,0,F,maldives,Maziya Src (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Vb Sports,2013-06-24,2,1,F,maldives,Club Valencia (Maldives),Vb Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Bg Sports,Victory SC,2013-06-24,1,1,F,maldives,Bg Sports (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Club Eagles,2013-06-28,0,2,F,maldives,Club Valencia (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Bg Sports,2013-06-29,2,3,F,maldives,Maziya Src (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,All Youth Linkage,2013-06-30,10,0,F,maldives,New Radiant (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Eagles,2013-07-03,3,0,F,maldives,Maziya Src (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,All Youth Linkage,2013-07-04,1,2,F,maldives,Club Valencia (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Bg Sports,2013-07-05,2,1,F,maldives,New Radiant (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,All Youth Linkage,2013-07-13,1,0,F,maldives,Maziya Src (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Bg Sports,Club Eagles,2013-07-14,1,0,F,maldives,Bg Sports (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Valencia,2013-07-16,2,0,F,maldives,New Radiant (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Bg Sports,All Youth Linkage,2013-07-19,0,1,F,maldives,Bg Sports (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Eagles,2013-07-20,7,0,F,maldives,New Radiant (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Valencia,2013-07-21,2,0,F,maldives,Maziya Src (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,Club Eagles,2013-07-24,2,0,F,maldives,All Youth Linkage (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Bg Sports,2013-07-27,0,0,F,maldives,Club Valencia (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Maziya Src,2013-07-28,1,0,F,maldives,New Radiant (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,All Youth Linkage,2014-06-16,7,0,F,maldives,New Radiant (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Mahibadhoo,2014-06-17,6,1,F,maldives,Club Eagles (Maldives),Mahibadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Victory SC,2014-06-18,0,0,F,maldives,Club Valencia (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Bg Sports,2014-06-19,2,2,F,maldives,Maziya Src (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,Mahibadhoo,2014-06-22,1,2,F,maldives,All Youth Linkage (Maldives),Mahibadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Victory SC,2014-06-23,3,0,F,maldives,New Radiant (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Valencia,2014-06-24,4,1,F,maldives,Maziya Src (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Bg Sports,Club Eagles,2014-06-25,1,3,F,maldives,Bg Sports (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,Club Eagles,2014-07-02,0,4,F,maldives,All Youth Linkage (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Bg Sports,Club Valencia,2014-07-03,1,2,F,maldives,Bg Sports (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Victory SC,2014-07-06,5,1,F,maldives,Maziya Src (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Mahibadhoo,2014-07-07,4,0,F,maldives,New Radiant (Maldives),Mahibadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,Club Valencia,2014-07-10,1,1,F,maldives,All Youth Linkage (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Bg Sports,Victory SC,2014-07-11,0,2,F,maldives,Bg Sports (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Mahibadhoo,2014-07-12,8,1,F,maldives,Maziya Src (Maldives),Mahibadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Eagles,2014-07-14,4,1,F,maldives,New Radiant (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,Victory SC,2014-07-16,0,3,F,maldives,All Youth Linkage (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Bg Sports,Mahibadhoo,2014-07-18,2,4,F,maldives,Bg Sports (Maldives),Mahibadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Eagles,2014-07-19,1,0,F,maldives,Maziya Src (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Valencia,2014-07-20,3,0,F,maldives,New Radiant (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Victory SC,2014-07-25,3,2,F,maldives,Club Eagles (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Mahibadhoo,2014-07-26,3,3,F,maldives,Club Valencia (Maldives),Mahibadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,All Youth Linkage,2014-07-27,8,1,F,maldives,Maziya Src (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Bg Sports,2014-07-28,6,0,F,maldives,New Radiant (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Mahibadhoo,Victory SC,2014-07-31,1,3,F,maldives,Mahibadhoo (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Club Eagles,2014-08-01,0,2,F,maldives,Club Valencia (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Bg Sports,All Youth Linkage,2014-08-02,0,1,F,maldives,Bg Sports (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Maziya Src,2014-08-03,0,1,F,maldives,New Radiant (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,New Radiant,2014-08-07,0,1,F,maldives,Maziya Src (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Victory SC,2014-08-07,1,1,F,maldives,Club Eagles (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Mahibadhoo,Club Valencia,2014-08-08,3,0,F,maldives,Mahibadhoo (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+All Youth Linkage,Bg Sports,2014-08-08,0,0,F,maldives,All Youth Linkage (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Victory SC,2014-08-11,2,1,F,maldives,Maziya Src (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Eagles,2014-08-11,2,0,F,maldives,New Radiant (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Mahibadhoo,Bg Sports,2014-08-12,2,3,F,maldives,Mahibadhoo (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,All Youth Linkage,2014-08-12,0,0,F,maldives,Club Valencia (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Victory SC,2014-08-15,1,0,F,maldives,New Radiant (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Eagles,2014-08-15,2,1,F,maldives,Maziya Src (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Bg Sports,2014-08-16,2,0,F,maldives,Club Valencia (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Mahibadhoo,All Youth Linkage,2014-08-16,1,1,F,maldives,Mahibadhoo (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Valencia,2014-08-21,3,1,F,maldives,New Radiant (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Mahibadhoo,2014-08-21,2,0,F,maldives,Maziya Src (Maldives),Mahibadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,All Youth Linkage,2014-08-22,2,0,F,maldives,Club Eagles (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Bg Sports,2014-08-22,3,1,F,maldives,Victory SC (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Valencia,2014-08-26,2,0,F,maldives,Maziya Src (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,All Youth Linkage,2014-08-26,4,0,F,maldives,New Radiant (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Mahibadhoo,2014-08-27,2,1,F,maldives,Victory SC (Maldives),Mahibadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Bg Sports,2014-08-27,1,1,F,maldives,Club Eagles (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,All Youth Linkage,2014-09-30,5,1,F,maldives,Maziya Src (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Bg Sports,2014-09-30,5,1,F,maldives,New Radiant (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Mahibadhoo,2014-10-01,3,1,F,maldives,Club Eagles (Maldives),Mahibadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Club Valencia,2014-10-01,2,0,F,maldives,Victory SC (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Mahibadhoo,2014-10-09,3,1,F,maldives,New Radiant (Maldives),Mahibadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Bg Sports,2014-10-09,6,1,F,maldives,Maziya Src (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,All Youth Linkage,2014-10-10,3,4,F,maldives,Victory SC (Maldives),All Youth Linkage (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Club Valencia,2014-10-10,0,1,F,maldives,Club Eagles (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Mahibadhoo,2014-10-21,3,0,F,maldives,Club Eagles (Maldives),Mahibadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Victory SC,2014-10-21,3,1,F,maldives,Maziya Src (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Valencia,2014-10-22,2,1,F,maldives,New Radiant (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Mahibadhoo,2014-10-25,6,1,F,maldives,Maziya Src (Maldives),Mahibadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Club Valencia,2014-10-25,3,0,F,maldives,Club Eagles (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Victory SC,2014-10-26,1,0,F,maldives,New Radiant (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Valencia,2014-10-31,2,2,F,maldives,Maziya Src (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Mahibadhoo,2014-10-31,1,3,F,maldives,Victory SC (Maldives),Mahibadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Eagles,2014-11-01,1,0,F,maldives,New Radiant (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Club Valencia,2014-11-04,2,0,F,maldives,Victory SC (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Eagles,2014-11-04,1,3,F,maldives,Maziya Src (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Mahibadhoo,2014-11-05,6,1,F,maldives,New Radiant (Maldives),Mahibadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Mahibadhoo,2014-11-08,1,0,F,maldives,Club Valencia (Maldives),Mahibadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Victory SC,2014-11-09,4,3,F,maldives,Club Eagles (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Maziya Src,2014-11-09,1,1,F,maldives,New Radiant (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Victory SC,2015-04-20,3,1,F,maldives,New Radiant (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Mahibadhoo,Bg Sports,2015-04-21,0,3,F,maldives,Mahibadhoo (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Tc Sports Club,2015-04-22,0,2,F,maldives,Club Valencia (Maldives),Tc Sports Club (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Eagles,2015-04-23,1,1,F,maldives,Maziya Src (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Bg Sports,2015-05-04,1,0,F,maldives,Victory SC (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Tc Sports Club,2015-05-05,0,0,F,maldives,New Radiant (Maldives),Tc Sports Club (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Valencia,2015-05-06,2,1,F,maldives,Maziya Src (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Mahibadhoo,2015-05-07,3,0,F,maldives,Club Eagles (Maldives),Mahibadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Mahibadhoo,2015-06-21,2,0,F,maldives,Victory SC (Maldives),Mahibadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Club Valencia,2015-06-22,2,1,F,maldives,Club Eagles (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Tc Sports Club,2015-06-23,3,1,F,maldives,Maziya Src (Maldives),Tc Sports Club (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Bg Sports,2015-06-24,1,0,F,maldives,New Radiant (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Club Valencia,2015-06-28,2,3,F,maldives,Victory SC (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Tc Sports Club,2015-06-29,2,2,F,maldives,Club Eagles (Maldives),Tc Sports Club (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Bg Sports,2015-06-30,2,2,F,maldives,Maziya Src (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Mahibadhoo,2015-07-01,2,1,F,maldives,New Radiant (Maldives),Mahibadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Tc Sports Club,2015-07-05,2,3,F,maldives,Victory SC (Maldives),Tc Sports Club (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Bg Sports,2015-07-06,0,0,F,maldives,Club Eagles (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Mahibadhoo,2015-07-07,1,1,F,maldives,Maziya Src (Maldives),Mahibadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Valencia,2015-07-08,3,1,F,maldives,New Radiant (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Mahibadhoo,Tc Sports Club,2015-07-12,0,3,F,maldives,Mahibadhoo (Maldives),Tc Sports Club (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Bg Sports,2015-07-14,1,3,F,maldives,Club Valencia (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Victory SC,2015-07-15,3,2,F,maldives,Maziya Src (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Eagles,2015-07-16,1,1,F,maldives,New Radiant (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Bg Sports,Tc Sports Club,2015-10-17,1,3,F,maldives,Bg Sports (Maldives),Tc Sports Club (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Mahibadhoo,2015-10-18,3,2,F,maldives,Club Valencia (Maldives),Mahibadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Victory SC,2015-10-19,2,3,F,maldives,Club Eagles (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Maziya Src,2015-10-20,1,0,F,maldives,New Radiant (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Bg Sports,Club Valencia,2015-10-24,3,5,F,maldives,Bg Sports (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Eagles,2015-10-24,3,1,F,maldives,New Radiant (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Mahibadhoo,2015-10-25,5,1,F,maldives,Victory SC (Maldives),Mahibadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Maziya Src,2015-10-25,2,0,F,maldives,Tc Sports Club (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Club Valencia,2015-10-29,1,0,F,maldives,Club Eagles (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Mahibadhoo,2015-10-29,2,1,F,maldives,New Radiant (Maldives),Mahibadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Victory SC,2015-10-30,1,1,F,maldives,Tc Sports Club (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Valencia,2015-11-03,2,4,F,maldives,New Radiant (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Bg Sports,2015-11-03,0,1,F,maldives,Maziya Src (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Mahibadhoo,2015-11-03,2,1,F,maldives,Tc Sports Club (Maldives),Mahibadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Victory SC,2015-11-16,3,1,F,maldives,Maziya Src (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Bg Sports,2015-11-16,0,0,F,maldives,Club Eagles (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Club Valencia,2015-11-19,2,0,F,maldives,Tc Sports Club (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Bg Sports,2015-11-19,4,1,F,maldives,New Radiant (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Victory SC,2015-11-20,2,0,F,maldives,Club Eagles (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Mahibadhoo,2015-11-20,7,1,F,maldives,Maziya Src (Maldives),Mahibadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Mahibadhoo,2015-11-23,7,1,F,maldives,Club Eagles (Maldives),Mahibadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Valencia,2015-11-23,2,1,F,maldives,Maziya Src (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Bg Sports,2015-11-24,4,1,F,maldives,Tc Sports Club (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Victory SC,2015-11-24,1,0,F,maldives,New Radiant (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Bg Sports,Mahibadhoo,2015-11-27,2,2,F,maldives,Bg Sports (Maldives),Mahibadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Club Valencia,2015-11-27,0,0,F,maldives,Victory SC (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Club Eagles,2015-11-28,0,0,F,maldives,Tc Sports Club (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Maziya Src,2015-11-28,3,1,F,maldives,New Radiant (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Mahibadhoo,2015-12-01,5,1,F,maldives,Club Valencia (Maldives),Mahibadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Eagles,2015-12-02,1,2,F,maldives,Maziya Src (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Bg Sports,2015-12-02,3,1,F,maldives,Victory SC (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Tc Sports Club,2015-12-02,1,1,F,maldives,New Radiant (Maldives),Tc Sports Club (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Maziya Src,2016-04-19,2,3,F,maldives,New Radiant (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Bg Sports,2016-04-19,3,0,F,maldives,Club Valencia (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,United Victory,2016-04-20,2,5,F,maldives,Victory SC (Maldives),United Victory (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Club Eagles,2016-04-20,1,2,F,maldives,Tc Sports Club (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Bg Sports,2016-05-04,1,0,F,maldives,Maziya Src (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,United Victory,2016-05-04,1,0,F,maldives,New Radiant (Maldives),United Victory (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Victory SC,2016-05-05,4,1,F,maldives,Tc Sports Club (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Club Valencia,2016-05-05,0,0,F,maldives,Club Eagles (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Valencia,2016-05-17,2,1,F,maldives,Maziya Src (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Victory SC,2016-05-17,3,0,F,maldives,Club Eagles (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,United Victory,2016-05-18,1,1,F,maldives,Tc Sports Club (Maldives),United Victory (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Bg Sports,2016-05-18,0,0,F,maldives,New Radiant (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Victory SC,2016-06-12,2,1,F,maldives,Maziya Src (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,United Victory,2016-06-13,0,0,F,maldives,Club Eagles (Maldives),United Victory (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Bg Sports,2016-06-14,4,1,F,maldives,Tc Sports Club (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Valencia,2016-06-15,1,1,F,maldives,New Radiant (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,United Victory,2016-06-19,1,1,F,maldives,Maziya Src (Maldives),United Victory (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Bg Sports,2016-06-20,0,0,F,maldives,Club Eagles (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Club Valencia,2016-06-21,2,3,F,maldives,Tc Sports Club (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Victory SC,2016-06-22,0,0,F,maldives,New Radiant (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,United Victory,2016-06-26,0,1,F,maldives,Club Valencia (Maldives),United Victory (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Bg Sports,2016-06-27,2,0,F,maldives,Victory SC (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Maziya Src,2016-06-28,3,2,F,maldives,Tc Sports Club (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Eagles,2016-06-29,0,1,F,maldives,New Radiant (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Bg Sports,United Victory,2016-07-03,1,2,F,maldives,Bg Sports (Maldives),United Victory (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Club Valencia,2016-07-04,0,2,F,maldives,Victory SC (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Maziya Src,2016-07-05,1,1,F,maldives,Club Eagles (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Tc Sports Club,2016-07-10,1,1,F,maldives,New Radiant (Maldives),Tc Sports Club (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Victory SC,2016-07-15,1,0,F,maldives,New Radiant (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Tc Sports Club,2016-07-15,2,1,F,maldives,Maziya Src (Maldives),Tc Sports Club (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Bg Sports,2016-07-16,0,0,F,maldives,Club Valencia (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,United Victory,2016-07-16,1,1,F,maldives,Club Eagles (Maldives),United Victory (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Victory SC,2016-07-20,1,0,F,maldives,Tc Sports Club (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Bg Sports,2016-07-20,1,0,F,maldives,Maziya Src (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Club Valencia,2016-07-21,2,1,F,maldives,Club Eagles (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+United Victory,New Radiant,2016-07-21,0,3,F,maldives,United Victory (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Victory SC,2016-08-03,3,3,F,maldives,Maziya Src (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Bg Sports,2016-08-03,3,1,F,maldives,Club Eagles (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+United Victory,Club Valencia,2016-08-04,0,2,F,maldives,United Victory (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,New Radiant,2016-08-04,3,0,F,maldives,Tc Sports Club (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Victory SC,2016-08-07,4,0,F,maldives,Club Eagles (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,New Radiant,2016-08-07,2,0,F,maldives,Maziya Src (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Club Valencia,2016-08-08,2,0,F,maldives,Tc Sports Club (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+United Victory,Bg Sports,2016-08-08,0,0,F,maldives,United Victory (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Bg Sports,2016-08-12,3,1,F,maldives,Tc Sports Club (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+United Victory,Victory SC,2016-08-12,1,1,F,maldives,United Victory (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,New Radiant,2016-08-13,2,0,F,maldives,Club Eagles (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Valencia,2016-08-13,2,2,F,maldives,Maziya Src (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Bg Sports,2016-08-17,0,2,F,maldives,New Radiant (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Victory SC,2016-08-17,2,0,F,maldives,Club Valencia (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Tc Sports Club,2016-08-18,0,0,F,maldives,Club Eagles (Maldives),Tc Sports Club (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,United Victory,2016-08-18,5,1,F,maldives,Maziya Src (Maldives),United Victory (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Bg Sports,2016-08-21,3,2,F,maldives,Victory SC (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,New Radiant,2016-08-21,0,2,F,maldives,Club Valencia (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+United Victory,Tc Sports Club,2016-08-22,1,0,F,maldives,United Victory (Maldives),Tc Sports Club (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Eagles,2016-08-22,1,0,F,maldives,Maziya Src (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,United Victory,2016-08-25,2,1,F,maldives,Tc Sports Club (Maldives),United Victory (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Bg Sports,2016-08-25,0,0,F,maldives,Club Eagles (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,New Radiant,2016-08-26,2,0,F,maldives,Maziya Src (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Victory SC,2016-08-26,1,1,F,maldives,Club Valencia (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Victory SC,2016-09-14,1,2,F,maldives,New Radiant (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Valencia,2016-09-14,5,1,F,maldives,Maziya Src (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+United Victory,Bg Sports,2016-09-15,0,0,F,maldives,United Victory (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Tc Sports Club,2016-09-15,1,0,F,maldives,Club Eagles (Maldives),Tc Sports Club (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Victory SC,2016-09-19,0,0,F,maldives,Club Eagles (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,New Radiant,2016-09-20,0,1,F,maldives,Club Valencia (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,United Victory,2016-09-20,5,1,F,maldives,Maziya Src (Maldives),United Victory (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,Bg Sports,2016-09-24,1,2,F,maldives,Club Valencia (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,United Victory,2016-09-24,1,0,F,maldives,Maziya Src (Maldives),United Victory (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Victory SC,2016-09-25,0,3,F,maldives,Club Eagles (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,New Radiant,2016-09-25,2,0,F,maldives,Tc Sports Club (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,New Radiant,2016-09-29,1,0,F,maldives,Club Eagles (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Victory SC,2016-09-29,6,1,F,maldives,Tc Sports Club (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Bg Sports,2016-09-30,2,2,F,maldives,Maziya Src (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Valencia,United Victory,2016-09-30,0,1,F,maldives,Club Valencia (Maldives),United Victory (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Tc Sports Club,2016-10-16,3,4,F,maldives,Maziya Src (Maldives),Tc Sports Club (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Club Valencia,2016-10-16,1,0,F,maldives,Club Eagles (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+United Victory,Victory SC,2016-10-17,0,1,F,maldives,United Victory (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Bg Sports,2016-10-17,1,1,F,maldives,New Radiant (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Bg Sports,2016-10-21,0,1,F,maldives,Victory SC (Maldives),Bg Sports (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+United Victory,New Radiant,2016-10-21,2,3,F,maldives,United Victory (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Club Valencia,2016-10-22,4,3,F,maldives,Tc Sports Club (Maldives),Club Valencia (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Club Eagles,2016-10-22,2,1,F,maldives,Maziya Src (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Kudahuvadhoo,Maziya Src,2017-08-04,0,4,F,maldives,Kudahuvadhoo (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,New Radiant,2017-08-05,1,3,F,maldives,Tc Sports Club (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Green Streets,Milandhoo,2017-08-06,2,1,F,maldives,Green Streets (Maldives),Milandhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Thinadhoo Zc,Maalhos,2017-08-06,1,0,F,maldives,Thinadhoo Zc (Maldives),Maalhos (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Milandhoo,Maalhos,2017-08-11,2,2,F,maldives,Milandhoo (Maldives),Maalhos (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Green Streets,Thinadhoo Zc,2017-08-11,2,1,F,maldives,Green Streets (Maldives),Thinadhoo Zc (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,New Radiant,2017-08-12,2,0,F,maldives,Maziya Src (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Kudahuvadhoo,Tc Sports Club,2017-08-12,1,6,F,maldives,Kudahuvadhoo (Maldives),Tc Sports Club (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Green Streets,2017-08-18,1,0,F,maldives,New Radiant (Maldives),Green Streets (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Kudahuvadhoo,Maalhos,2017-08-18,2,2,F,maldives,Kudahuvadhoo (Maldives),Maalhos (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Thinadhoo Zc,2017-08-19,1,0,F,maldives,Tc Sports Club (Maldives),Thinadhoo Zc (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Milandhoo,2017-08-19,1,0,F,maldives,Maziya Src (Maldives),Milandhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Milandhoo,2017-08-23,0,0,F,maldives,Tc Sports Club (Maldives),Milandhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Thinadhoo Zc,2017-08-23,1,1,F,maldives,Maziya Src (Maldives),Thinadhoo Zc (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Kudahuvadhoo,Green Streets,2017-08-24,0,1,F,maldives,Kudahuvadhoo (Maldives),Green Streets (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Maalhos,2017-08-24,3,0,F,maldives,New Radiant (Maldives),Maalhos (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Kudahuvadhoo,Thinadhoo Zc,2017-09-09,0,2,F,maldives,Kudahuvadhoo (Maldives),Thinadhoo Zc (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Milandhoo,2017-09-09,1,0,F,maldives,New Radiant (Maldives),Milandhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Maalhos,2017-09-10,3,2,F,maldives,Tc Sports Club (Maldives),Maalhos (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Green Streets,2017-09-11,2,0,F,maldives,Maziya Src (Maldives),Green Streets (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Tc Sports Club,2017-09-16,0,1,F,maldives,Maziya Src (Maldives),Tc Sports Club (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Green Streets,Maalhos,2017-09-16,5,0,F,maldives,Green Streets (Maldives),Maalhos (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Kudahuvadhoo,New Radiant,2017-09-17,0,6,F,maldives,Kudahuvadhoo (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Milandhoo,Thinadhoo Zc,2017-09-17,1,2,F,maldives,Milandhoo (Maldives),Thinadhoo Zc (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Thinadhoo Zc,2017-09-22,2,1,F,maldives,New Radiant (Maldives),Thinadhoo Zc (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Kudahuvadhoo,Milandhoo,2017-09-22,0,2,F,maldives,Kudahuvadhoo (Maldives),Milandhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Maalhos,2017-09-23,3,0,F,maldives,Maziya Src (Maldives),Maalhos (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Green Streets,2017-09-23,3,1,F,maldives,Tc Sports Club (Maldives),Green Streets (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Thinadhoo Zc,2017-10-14,3,2,F,maldives,Tc Sports Club (Maldives),Thinadhoo Zc (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Kudahuvadhoo,2017-10-14,3,0,F,maldives,Maziya Src (Maldives),Kudahuvadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Milandhoo,2017-10-15,7,1,F,maldives,New Radiant (Maldives),Milandhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Green Streets,Maalhos,2017-10-15,1,2,F,maldives,Green Streets (Maldives),Maalhos (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Milandhoo,Maalhos,2017-10-20,1,5,F,maldives,Milandhoo (Maldives),Maalhos (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Green Streets,2017-10-20,3,0,F,maldives,New Radiant (Maldives),Green Streets (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Thinadhoo Zc,Kudahuvadhoo,2017-10-21,0,0,F,maldives,Thinadhoo Zc (Maldives),Kudahuvadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Tc Sports Club,2017-10-21,1,2,F,maldives,Maziya Src (Maldives),Tc Sports Club (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Thinadhoo Zc,2017-10-25,1,1,F,maldives,Maziya Src (Maldives),Thinadhoo Zc (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Kudahuvadhoo,2017-10-25,4,0,F,maldives,Tc Sports Club (Maldives),Kudahuvadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Green Streets,Milandhoo,2017-10-26,1,1,F,maldives,Green Streets (Maldives),Milandhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Maalhos,2017-10-26,7,1,F,maldives,New Radiant (Maldives),Maalhos (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Green Streets,Kudahuvadhoo,2017-10-30,1,0,F,maldives,Green Streets (Maldives),Kudahuvadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Thinadhoo Zc,2017-10-30,3,1,F,maldives,New Radiant (Maldives),Thinadhoo Zc (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Maalhos,2017-10-31,6,0,F,maldives,Maziya Src (Maldives),Maalhos (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Milandhoo,2017-10-31,0,0,F,maldives,Tc Sports Club (Maldives),Milandhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Milandhoo,2017-11-04,3,3,F,maldives,Maziya Src (Maldives),Milandhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Maalhos,2017-11-04,1,0,F,maldives,Tc Sports Club (Maldives),Maalhos (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Kudahuvadhoo,2017-11-05,3,0,F,maldives,New Radiant (Maldives),Kudahuvadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Green Streets,Thinadhoo Zc,2017-11-05,0,7,F,maldives,Green Streets (Maldives),Thinadhoo Zc (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Tc Sports Club,2017-11-19,3,2,F,maldives,New Radiant (Maldives),Tc Sports Club (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Green Streets,2017-11-19,3,0,F,maldives,Maziya Src (Maldives),Green Streets (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Thinadhoo Zc,Maalhos,2017-11-20,2,1,F,maldives,Thinadhoo Zc (Maldives),Maalhos (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Milandhoo,Kudahuvadhoo,2017-11-20,3,0,F,maldives,Milandhoo (Maldives),Kudahuvadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maalhos,Kudahuvadhoo,2017-11-25,3,3,F,maldives,Maalhos (Maldives),Kudahuvadhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Thinadhoo Zc,Milandhoo,2017-11-25,2,3,F,maldives,Thinadhoo Zc (Maldives),Milandhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Green Streets,2017-11-26,4,1,F,maldives,Tc Sports Club (Maldives),Green Streets (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Maziya Src,2017-11-26,2,0,F,maldives,New Radiant (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Thaa Thimarafushi,2018-06-28,10,0,F,maldives,New Radiant (Maldives),Thaa Thimarafushi (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Maziya Src,2018-06-29,2,2,F,maldives,Club Eagles (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Nilandhoo,2018-06-29,6,1,F,maldives,Tc Sports Club (Maldives),Nilandhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Green Streets,Foakaidhoo,2018-06-30,1,1,F,maldives,Green Streets (Maldives),Foakaidhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Fehendhoo,2018-06-30,0,0,F,maldives,Victory SC (Maldives),Fehendhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Club Eagles,2018-07-03,2,2,F,maldives,New Radiant (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Nilandhoo,Maziya Src,2018-07-03,0,7,F,maldives,Nilandhoo (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Fehendhoo,Tc Sports Club,2018-07-04,0,3,F,maldives,Fehendhoo (Maldives),Tc Sports Club (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Thaa Thimarafushi,Green Streets,2018-07-04,0,2,F,maldives,Thaa Thimarafushi (Maldives),Green Streets (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Foakaidhoo,Victory SC,2018-07-05,1,2,F,maldives,Foakaidhoo (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Green Streets,Fehendhoo,2018-07-08,2,0,F,maldives,Green Streets (Maldives),Fehendhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Thaa Thimarafushi,Foakaidhoo,2018-07-09,2,2,F,maldives,Thaa Thimarafushi (Maldives),Foakaidhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,New Radiant,2018-07-09,0,1,F,maldives,Maziya Src (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Tc Sports Club,2018-07-10,0,1,F,maldives,Club Eagles (Maldives),Tc Sports Club (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Nilandhoo,2018-07-10,0,0,F,maldives,Victory SC (Maldives),Nilandhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Green Streets,Nilandhoo,2018-07-16,6,0,F,maldives,Green Streets (Maldives),Nilandhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Thaa Thimarafushi,Fehendhoo,2018-07-16,0,1,F,maldives,Thaa Thimarafushi (Maldives),Fehendhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Tc Sports Club,2018-07-17,0,3,F,maldives,Maziya Src (Maldives),Tc Sports Club (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Foakaidhoo,2018-07-17,1,0,F,maldives,New Radiant (Maldives),Foakaidhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Victory SC,2018-07-18,3,1,F,maldives,Club Eagles (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Thaa Thimarafushi,Nilandhoo,2018-09-26,0,3,F,maldives,Thaa Thimarafushi (Maldives),Nilandhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Victory SC,2018-09-26,5,0,F,maldives,Maziya Src (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Tc Sports Club,2018-09-27,0,1,F,maldives,New Radiant (Maldives),Tc Sports Club (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Fehendhoo,Foakaidhoo,2018-09-27,0,4,F,maldives,Fehendhoo (Maldives),Foakaidhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Green Streets,Club Eagles,2018-09-28,0,1,F,maldives,Green Streets (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Fehendhoo,New Radiant,2018-10-01,0,11,F,maldives,Fehendhoo (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Nilandhoo,Foakaidhoo,2018-10-02,0,2,F,maldives,Nilandhoo (Maldives),Foakaidhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Thaa Thimarafushi,Club Eagles,2018-10-02,0,9,F,maldives,Thaa Thimarafushi (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Green Streets,Maziya Src,2018-10-03,1,4,F,maldives,Green Streets (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Tc Sports Club,2018-10-03,0,2,F,maldives,Victory SC (Maldives),Tc Sports Club (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Nilandhoo,Fehendhoo,2018-10-06,3,1,F,maldives,Nilandhoo (Maldives),Fehendhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Foakaidhoo,Club Eagles,2018-10-06,0,5,F,maldives,Foakaidhoo (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Thaa Thimarafushi,Maziya Src,2018-10-07,0,2,F,maldives,Thaa Thimarafushi (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Green Streets,Tc Sports Club,2018-10-07,2,1,F,maldives,Green Streets (Maldives),Tc Sports Club (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,New Radiant,2018-10-08,1,1,F,maldives,Victory SC (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Fehendhoo,Club Eagles,2018-10-11,0,5,F,maldives,Fehendhoo (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Foakaidhoo,Maziya Src,2018-10-11,1,2,F,maldives,Foakaidhoo (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Green Streets,Victory SC,2018-10-12,4,1,F,maldives,Green Streets (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Nilandhoo,New Radiant,2018-10-12,0,1,F,maldives,Nilandhoo (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Thaa Thimarafushi,Tc Sports Club,2018-10-13,0,7,F,maldives,Thaa Thimarafushi (Maldives),Tc Sports Club (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Fehendhoo,Maziya Src,2018-10-16,0,2,F,maldives,Fehendhoo (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Nilandhoo,Club Eagles,2018-10-17,2,7,F,maldives,Nilandhoo (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Green Streets,New Radiant,2018-10-17,2,2,F,maldives,Green Streets (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Thaa Thimarafushi,Victory SC,2018-10-18,0,1,F,maldives,Thaa Thimarafushi (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Foakaidhoo,Tc Sports Club,2018-10-18,0,4,F,maldives,Foakaidhoo (Maldives),Tc Sports Club (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Green Streets,Maziya Src,2018-10-21,2,4,F,maldives,Green Streets (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Nilandhoo,Club Eagles,2018-10-21,0,8,F,maldives,Nilandhoo (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Tc Sports Club,2018-10-22,0,4,F,maldives,Victory SC (Maldives),Tc Sports Club (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Foakaidhoo,New Radiant,2018-10-22,0,2,F,maldives,Foakaidhoo (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Foakaidhoo,Victory SC,2018-10-25,0,0,F,maldives,Foakaidhoo (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,New Radiant,2018-10-25,2,0,F,maldives,Tc Sports Club (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Green Streets,Nilandhoo,2018-10-26,3,0,F,maldives,Green Streets (Maldives),Nilandhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Maziya Src,2018-10-26,0,1,F,maldives,Club Eagles (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Green Streets,2018-10-29,7,0,F,maldives,Club Eagles (Maldives),Green Streets (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Nilandhoo,2018-10-29,6,1,F,maldives,Maziya Src (Maldives),Nilandhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Victory SC,2018-10-30,3,1,F,maldives,New Radiant (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Foakaidhoo,2018-10-30,5,1,F,maldives,Tc Sports Club (Maldives),Foakaidhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Nilandhoo,2018-11-07,5,2,F,maldives,New Radiant (Maldives),Nilandhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Green Streets,2018-11-07,1,0,F,maldives,Tc Sports Club (Maldives),Green Streets (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Foakaidhoo,2018-11-08,5,0,F,maldives,Club Eagles (Maldives),Foakaidhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Victory SC,2018-11-08,3,0,F,maldives,Maziya Src (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,Foakaidhoo,2018-11-21,5,0,F,maldives,Maziya Src (Maldives),Foakaidhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,Victory SC,2018-11-21,2,0,F,maldives,Club Eagles (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Nilandhoo,2018-11-22,7,0,F,maldives,Tc Sports Club (Maldives),Nilandhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+New Radiant,Green Streets,2018-11-22,1,5,F,maldives,New Radiant (Maldives),Green Streets (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Maziya Src,2018-11-25,2,4,F,maldives,Tc Sports Club (Maldives),Maziya Src (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Club Eagles,New Radiant,2018-11-25,2,0,F,maldives,Club Eagles (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Green Streets,Foakaidhoo,2018-11-26,1,4,F,maldives,Green Streets (Maldives),Foakaidhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Victory SC,Nilandhoo,2018-11-26,1,4,F,maldives,Victory SC (Maldives),Nilandhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Foakaidhoo,Nilandhoo,2018-11-29,0,4,F,maldives,Foakaidhoo (Maldives),Nilandhoo (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Green Streets,Victory SC,2018-11-29,4,2,F,maldives,Green Streets (Maldives),Victory SC (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Maziya Src,New Radiant,2018-11-30,4,4,F,maldives,Maziya Src (Maldives),New Radiant (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
+Tc Sports Club,Club Eagles,2018-11-30,4,4,F,maldives,Tc Sports Club (Maldives),Club Eagles (Maldives),maldives,maldives,MV,MV,Asia,Asia,Asia,national
