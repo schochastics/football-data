@@ -1,3 +1,5 @@
+<img src="http://soccerverse.com/static/img/logo_text_color.png" width="300px">
+
 # Football Results Dataset
 
 `data/results` contains results of 1,078,214 football games in 207 top-tier domestic leagues and 
