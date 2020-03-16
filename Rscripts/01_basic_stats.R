@@ -22,7 +22,7 @@ col_spec <- cols(
   level = col_character()
 )
 
-games <- map_dfr(res_files,read_csv,col_types=col_spec)
+games <- map_dfr(res_files,read_csv,col_types = col_spec)
 
 #------------------------------------------------------------------------------#
 # basic stats examples----
@@ -37,9 +37,9 @@ games %>% count(competition,sort = TRUE)
 games %>% count(continent,sort = TRUE)
 
 # games per team
-games %>% 
-  select(home_ident,away_ident) %>% 
-  gather("location","team") %>% 
+games %>%
+  select(home_ident,away_ident) %>%
+  gather("location","team") %>%
   count(team,sort = TRUE)
 
 # number of goals
@@ -49,44 +49,44 @@ sum(games$gh+games$ga)
 sum(games$gh+games$ga)/nrow(games)
 
 # most goals in a match (excluding extra time and penalties)
-games %>% 
-  dplyr::filter(full_time=="F") %>% 
-  mutate(goals = gh+ga) %>% 
-  arrange(-goals) %>% 
+games %>%
+  dplyr::filter(full_time=="F") %>%
+  mutate(goals = gh+ga) %>%
+  arrange(-goals) %>%
   select(home_ident,away_ident,date,gh,ga)
 
 # goals per country per game (show top and bottom 5)
-games %>% 
+games %>%
   mutate(goals = gh+ga) %>%
-  group_by(competition) %>% 
-  summarise(gpg = sum(goals)/n()) %>% 
-  arrange(-gpg) %>% 
-  map_dfr(.,function(x) rbind(head(x,5),tail(x,5))) %>% 
+  group_by(competition) %>%
+  summarise(gpg = sum(goals)/n()) %>%
+  arrange(-gpg) %>%
+  map_dfr(.,function(x) rbind(head(x,5),tail(x,5))) %>%
   arrange(-gpg)
-  
+
 # goals per team
-games %>% 
-  select(home_ident,away_ident,gh,ga) %>% 
+games %>%
+  select(home_ident,away_ident,gh,ga) %>%
   gather("location","team",-gh,-ga) %>%
   mutate(scored = case_when(location=="home_ident" ~ gh,
                             location=="away_ident" ~ ga),
          conceded = case_when(location=="home_ident" ~ ga,
-                              location=="away_ident" ~ gh)) %>% 
-  group_by(team) %>% 
-  summarise(goals_scored = sum(scored),goals_conceded = sum(conceded)) %>% 
+                              location=="away_ident" ~ gh)) %>%
+  group_by(team) %>%
+  summarise(goals_scored = sum(scored),goals_conceded = sum(conceded)) %>%
   arrange(-goals_scored)
 
 # goals per team per game (more than 100 games played)
-games %>% 
-  select(home_ident,away_ident,gh,ga) %>% 
+games %>%
+  select(home_ident,away_ident,gh,ga) %>%
   gather("location","team",-gh,-ga) %>%
   mutate(scored = case_when(location=="home_ident" ~ gh,
-                            location=="away_ident" ~ ga)) %>% 
-  group_by(team) %>% 
-  summarise(goals_scored = sum(scored)/n(),played = n()) %>% 
-  dplyr::filter(played>=100) %>% 
+                            location=="away_ident" ~ ga)) %>%
+  group_by(team) %>%
+  summarise(goals_scored = sum(scored)/n(),played = n()) %>%
+  dplyr::filter(played>=100) %>%
   arrange(-goals_scored)
 
 # most frequent results
-games %>% count(gh,ga,sort = TRUE) 
+games %>% count(gh,ga,sort = TRUE)
 

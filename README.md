@@ -14,7 +14,7 @@ split up by competition but all follow the same scheme.
 | date           | date of match                                                   |
 | gh             | goals for home team (including extra time and penalties)        |
 | ga             | goals for away team (including extra time and penalties)        |
-| full_time      | "F"=game ended in 90', "E"=extra time, "P" penalty shoot-out    |
+| full_time      | "F"=game ended in 90', "E"=extra time, "P"=penalty shoot-out    |
 | competition    | country name of league or name of international competition     |
 | home_ident     | unique identifier of home team                                  |
 | away_ident     | unique identifier of away team                                  |
@@ -27,6 +27,9 @@ split up by competition but all follow the same scheme.
 | continent      | continent of competition                                        |
 | level          | "national"= domestic league, "international"= international cup |
 
+## Rscipts
+
+The folder `Rscripts` contains some R code with basic analyses which could get you going.
 
 # Disclaimer
 
@@ -34,7 +37,7 @@ This dataset definitely contains errors, especially for older games, where sourc
 as reliable. A big issue are teams that merge/split/dissolve over time, which (I think) I did
 not resolve consistently over time.
 
-I have gathered this dataset over the course of 7 years and put a lot of effort in
+I have gathered this dataset over the course of 8 years and put a lot of effort in
 it (see [soccerverse.com](soccerverse.com)). If you use the data for any kind of project, please drop me a line
 or ping me on [twitter](https://twitter.com/schochastics). 
 
