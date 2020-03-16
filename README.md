@@ -29,7 +29,10 @@ split up by competition but all follow the same scheme.
 
 ## Rscipts
 
-The folder `Rscripts` contains some R code with basic analyses which could get you going.
+The folder `Rscripts` contains some R code with basic analyses which could get you going:
+
+- `01_basic_stats.R`: very simple stats (number of games, goals, etc)
+- `02_soccerverse.R`: some code for figures on soccerverse.com
 
 # Disclaimer
 

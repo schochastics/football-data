@@ -22,7 +22,7 @@ col_spec <- cols(
   level = col_character()
 )
 
-games <- map_dfr(res_files,read_csv,col_types = col_spec)
+games <- map_dfr(res_files,read_csv,col_types = col_spec) %>% arrange(date)
 
 #------------------------------------------------------------------------------#
 # basic stats examples----
