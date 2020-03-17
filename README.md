@@ -1,4 +1,4 @@
-<img src="http://soccerverse.com/static/img/logo_text_color.png" width="300px">
+<a href="http://soccerverse.com"><img src="http://soccerverse.com/static/img/logo_text_color.png" width="300px"></a>
 
 **This repository is made available under the [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/1-0/index.html)**
 
