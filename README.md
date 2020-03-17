@@ -1,5 +1,12 @@
 <img src="http://soccerverse.com/static/img/logo_text_color.png" width="300px">
 
+**This repository is made available under the [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/1-0/index.html)**
+
+# football-data
+
+This repository contains some datasets around football (soccer). For now, it only contains
+results from ~1 million top-tier games, but more will be added in the future.
+
 # Football Results Dataset
 
 `data/results` contains results of 1,078,214 football games in 207 top-tier domestic leagues and 
@@ -36,7 +43,7 @@ The folder `Rscripts` contains some R code with basic analyses which could get y
 - `01_basic_stats.R`: very simple stats (number of games, goals, etc)
 - `02_soccerverse.R`: some code for figures on soccerverse.com
 
-# Disclaimer
+## Disclaimer
 
 This dataset definitely contains errors, especially for older games, where sources are not
 as reliable. A big issue are teams that merge/split/dissolve over time, which (I think) I did
@@ -46,12 +53,16 @@ I have gathered this dataset over the course of 8 years and put a lot of effort 
 it (see [soccerverse.com](soccerverse.com)). If you use the data for any kind of project, please drop me a line
 or ping me on [twitter](https://twitter.com/schochastics). 
 
-**This repository is made available under the [Open Data Commons Attribution License](https://opendatacommons.org/licenses/by/1-0/index.html)**
-
-
 # Links
 
 [soccerverse.com](soccerverse.com)
 
+Similar datasets:  
+
+- [European Soccer Database](https://www.kaggle.com/hugomathien/soccer) (Kaggle)
+- [World Soccer](https://www.kaggle.com/sashchernuh/european-football)  (Kaggle)
+- [International Football Results](https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017) (Kaggle)
+- [engsoccerdata](https://github.com/jalapic/engsoccerdata) (R package)
+- [football-data.co.uk](http://football-data.co.uk/)
 
 
