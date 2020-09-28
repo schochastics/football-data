@@ -53,7 +53,7 @@ I have gathered this dataset over the course of 8 years and put a lot of effort 
 it (see [soccerverse.com](soccerverse.com)). If you use the data for any kind of project, please drop me a line
 or ping me on [twitter](https://twitter.com/schochastics). I hapilly include your results on soccerverse.com too.
 
-# formations/ linups
+# formations and lineups
 
 The folder `data/formations` contains lineups and formations datasets
 
