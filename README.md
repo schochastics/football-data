@@ -4,8 +4,8 @@
 
 # football-data
 
-This repository contains some datasets around football (soccer). For now, it only contains
-results from ~1 million top-tier games, but more will be added in the future.
+This repository contains some datasets around football (soccer). The main dataset contains
+results from ~1 million top-tier games.
 
 # Football Results Dataset
 
@@ -52,6 +52,10 @@ not resolve consistently over time.
 I have gathered this dataset over the course of 8 years and put a lot of effort in
 it (see [soccerverse.com](soccerverse.com)). If you use the data for any kind of project, please drop me a line
 or ping me on [twitter](https://twitter.com/schochastics). I hapilly include your results on soccerverse.com too.
+
+# formations/ linups
+
+The folder `data/formations` contains lineups and formations datasets
 
 # Links
 
