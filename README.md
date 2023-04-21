@@ -36,7 +36,7 @@ split up by competition but all follow the same scheme.
 | continent      | continent of competition                                        |
 | level          | "national"= domestic league, "international"= international cup |
 
-## Rscipts
+## Rscripts
 
 The folder `Rscripts` contains some R code with basic analyses which could get you going:
 
