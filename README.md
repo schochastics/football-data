@@ -55,6 +55,10 @@ or ping me on [twitter](https://twitter.com/schochastics). I hapilly include you
 
 The folder `data/formations` contains lineups and formations datasets
 
+# goals and times
+
+The folder `data/goals_time` contains the details about goal scorers in several European Leagues
+
 # Links
 
 [worldclubratings.com](http://worldclubratings.com/)
