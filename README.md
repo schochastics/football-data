@@ -57,7 +57,7 @@ The folder `data/formations` contains lineups and formations datasets
 
 # Links
 
-[soccerverse.com](http://soccerverse.com/)
+[worldclubratings.com](http://worldclubratings.com/)
 
 Similar datasets:  
 
