@@ -48,8 +48,8 @@ as reliable. A big issue are teams that merge/split/dissolve over time, which (I
 not resolve consistently over time.
 
 I have gathered this dataset over the course of 8 years and put a lot of effort in
-it (see [soccerverse.com](soccerverse.com)). If you use the data for any kind of project, please drop me a line
-or ping me on [twitter](https://twitter.com/schochastics). I hapilly include your results on soccerverse.com too.
+it (see [worldclubratings.com](worldclubratings.com)). If you use the data for any kind of project, please drop me a line
+or ping me on [twitter](https://twitter.com/schochastics). I hapilly include your results on worldclubratings.com too.
 
 # formations and lineups
 
