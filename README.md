@@ -2,17 +2,21 @@
 
 # football-data
 
-This repository contains some datasets around football (soccer). The main dataset contains
-results from ~1 million top-tier games.
+This repository contains some datasets for football (soccer). 
 
-# Football Results Dataset
+## Updates
 
-`data/results` contains results of 1,078,214 football games in 207 top-tier domestic leagues and 
-20 international tournaments (UEFA EuroLeague/ChampionsLeague,etc.) from 1888-2019. The files are 
-split up by competition but all follow the same scheme.
+(11/2024)
+- Result data now contains all games until end of 2023 as a parquet file
+- `data/goals_time` now includes 23 competitions 
 
+## Football Results Dataset
 
-## Codebook
+`data/results` contains results of 1,237,935 football games in 207 top-tier domestic leagues and 
+20 international tournaments (UEFA EuroLeague/ChampionsLeague,etc.) from
+1888-2023. The data is provided as a parquet file.
+
+### Codebook
 
 | variable       | description                                                     |
 |----------------|-----------------------------------------------------------------|
@@ -34,32 +38,28 @@ split up by competition but all follow the same scheme.
 | continent      | continent of competition                                        |
 | level          | "national"= domestic league, "international"= international cup |
 
-## Rscripts
+### Disclaimer
 
-The folder `Rscripts` contains some R code with basic analyses which could get you going:
-
-- `01_basic_stats.R`: very simple stats (number of games, goals, etc)
-- `02_soccerverse.R`: some code for figures on soccerverse.com
-
-## Disclaimer
-
-This dataset definitely contains errors, especially for older games, where sources are not
-as reliable. A big issue are teams that merge/split/dissolve over time, which (I think) I did
+This dataset contains errors for older games where sources are not as reliable.
+A big issue are teams that merge/split/dissolve over time, which (I think) I did
 not resolve consistently over time.
 
-I have gathered this dataset over the course of 8 years and put a lot of effort in
+I have gathered this dataset over the course of 10 years and put a lot of effort in
 it (see [worldclubratings.com](worldclubratings.com)). If you use the data for any kind of project, please drop me a line
-or ping me on [twitter](https://twitter.com/schochastics). I hapilly include your results on worldclubratings.com too.
+or open an issue in this repository. If you have any questions or requests,
+please open an issue too.
 
-# formations and lineups
+## formations and lineups
 
-The folder `data/formations` contains lineups and formations datasets
+The folder `data/formations` contains lineups and formations datasets 
 
-# goals and times
+## goals and times
 
-The folder `data/goals_time` contains the details about goal scorers in several European Leagues
+The folder `data/goals_time` contains details about each scored goal (scorer,
+time) in the Top 15 European Leagues (according to the UEFA 5 year rating 2004), the Champions League and Euro League, and
+a few national cups.
 
-# Links
+## Links
 
 [worldclubratings.com](http://worldclubratings.com/)
 
