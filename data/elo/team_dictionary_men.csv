@@ -208,6 +208,7 @@ team_code,team,country_label,team_abbr,team_slug,country
 29nigk43,Super Power FC,Thailand,SUP,super-power-samut-prakan-fc,thailand
 2B6eyFVh,Druids,Wales,DRU,n-c-druids,wales
 2B9zTTrh,Coleraine FC,Nordirland,CFC,coleraine,northern-ireland
+2BDwY7xI,Al Watan,Libyen,FRA,al-watan,libya
 2BJIkFqL,CS Sfaxien,Tunesien,CS,cs-sfaxien,tunisia
 2BZasmEM,SP La Fiorita,San Marino,FIO,sp-la-fiorita,san-marino
 2BaHDFR2,Maniema,DR Kongo,MAN,as-maniema,congo-dr
@@ -467,6 +468,8 @@ team_code,team,country_label,team_abbr,team_slug,country
 4SV9apYN,Sepahan,Iran,SEP,sepahan,iran
 4U0ouXq4,Bayi Army,China,BAY,bayi-army,china-pr
 4UMnUjy6,FC Balzers,Liechtenstein,BAL,fc-balzers,liechtenstein
+4UpEbSrS,Al-Afreeki,Libyen,ALA,al-afreeki,libya
+4UvVEsjd,Al-Shouleh,Syrien,ALS,al-shouleh,syria
 4W0iZsfN,LISCR FC,Liberia,LIS,liberia-registry,liberia
 4W9bSa0b,Chadormalu,Iran,CHA,chadormalu,iran
 4WElAd9p,FC Thun,Schweiz,THU,fc-thun,switzerland
@@ -768,6 +771,7 @@ team_code,team,country_label,team_abbr,team_slug,country
 80ziMpJe,Mighty Gunners,Namibia,MGU,mighty-gunners,namibia
 82IqsrHJ,Matara City,Sri Lanka,MAT,matara-city,sri-lanka
 82OXAD3n,Cienciano,Peru,CIE,cienciano,peru
+82TCMBKF,Military Union,Libyen,MIL,military-union,libya
 82U9BapI,Nandasmo,Nicaragua,NAN,nandasmo,nicaragua
 82VKXSti,Les Avirons,Réunion,LES,les-avirons,reunion
 82dLD8Is,FK Moskau,Russland,MOS,fk-moskau,russia
@@ -1760,6 +1764,7 @@ IHv6nz80,CD Teneriffa,Spanien,CDT,cd-teneriffa,spain
 IHxkNE2h,Sua Flamingoes,Botswana,SUA,sua-flamingoes,botswana
 IJCHinD6,Sonacos,Senegal,SON,sonacos,senegal
 IJH9uRJn,Maharlika,Philippinen,MAH,maharlika-manila,philippines
+IJHcROMU,Khan Shaykhun,Syrien,KHA,khan-shaykhun,syria
 IJIz8OYm,Bangladesh Police,Bangladesch,BYS,bangladesh-police,bangladesh
 IJsfVxHj,Shamrock,Grenada,SHA,shamrock,grenada
 IL2ZQcXn,Genesis,Honduras,DEP,genesis-fc,honduras
@@ -2560,6 +2565,7 @@ Qad8OfLF,UNAN-Managua,Nicaragua,UNA,unan-managua,nicaragua
 Qakd3M99,Salamanca,Spanien,UDS,ud-salamanca-inactive,spain
 QamTNjZC,Joinville,Brasilien,JOI,joinville,brazil
 QaqfE8WE,Beveren,Belgien,WAA,sk-beveren,belgium
+QcA5WEUs,Al Shomooa,Libyen,ALS,al-shomooa,libya
 QcARYoMF,Sekondi Eleven Wise,Ghana,SEK,eleven,ghana
 QcdlfOD2,Baka City,Malawi,BAK,baka-city,malawi
 Qe432hiO,U. Catolica,Chile,CAT,u-catolica,chile
@@ -2963,6 +2969,7 @@ UmCtWyo8,FC Tbilisi,Georgien,TBI,fc-tbilisi,georgia
 UmMRoGzp,FC Watford,England,WAT,fc-watford,england
 Umprep5l,Lobos BUAP,Mexiko,LOB,lobos-buap,mexico
 UoAxb1Tq,Athletico-PR,Brasilien,ATL,athletico-pr,brazil
+UomuDRcL,Assabah,Libyen,ASS,assabah,libya
 UopPSUlp,Slavia Sofia,Bulgarien,SLA,pfk-slavia-sofia,bulgaria
 UovQtopk,IFK Göteborg,Schweden,GOT,ifk-goteborg,sweden
 Uoz1IMWI,AC Lala FC,Venezuela,ACL,ac-lala-fc,venezuela
@@ -2997,9 +3004,11 @@ Uw6JiP9h,Meshki Pooshan,Iran,MES,meshki-pooshan,iran
 Uw7E96rU,FK Sutjeska Nikšić,Montenegro,SUN,sutjeska,montenegro
 Uw8jbFwc,Banat,Serbien,BAN,banat,serbia
 UwAwNo2E,Chicago Fire,USA,CHI,chicago-fire,united-states
+UwJEsL9E,Al-Majd,Libyen,ALM,al-majd,libya
 UwJodqmQ,FC 08 Homburg,Deutschland,FCH,homburg,germany
 UwXjFqS3,Bahrain SC,Bahrain,BAH,bahrain-sc,bahrain
 UwcWaARL,Al-Suqoor,Libyen,ALS,al-suqoor,libya
+Uy4thc4U,Al Borouq,Libyen,GOM,al-borouq,libya
 UyRV4EMa,Codru Lozova,Republik Moldau,COD,codru-lozova,moldova
 UySmgAPp,Sekhukhune,Südafrika,TZI,sekhukhune,south-africa
 UyWbqw6K,Leotar,Bosnien und Herzegowina,LEO,leotar,bosnia-herzegovina
@@ -3034,6 +3043,7 @@ W6u0d7B3,BK Häcken,Schweden,HAC,bk-hacken,sweden
 W6u55wAD,Nitra,Slowakei,NIT,nitra,slovakia
 W82OaQl9,Bali United,Indonesien,BAL,bali-united,indonesia
 W8IYMbrj,FC Viikingit,Finnland,VII,fc-viikingit,finland
+W8MfStER,Aral,Usbekistan,ARA,aral,uzbekistan
 W8U20zwQ,Megasport Almaty,Kasachstan,MEG,megasport-almaty,kazakhstan
 W8WY1Eze,Kisvárda FC,Ungarn,KIS,kisvarda-fc,hungary
 W8mj7MDD,Real Madrid,Spanien,RMA,real-madrid,spain
@@ -3260,6 +3270,7 @@ YT5nn99d,Triomphe Liancourt,Haiti,TRI,triomphe-liancourt,haiti
 YThXPY0r,Nchanga Rangers,Sambia,NCH,nchanga-rangers,zambia
 YTlk69a4,La Tamponnaise,Réunion,TAM,us-stade-tamponnaise,reunion
 YVJSjAUO,Siauliai,Litauen,SIA,siauliai,lithuania
+YVLMyjwg,Shabab Al-Ghar,Libyen,SHA,shabab-al-ghar,libya
 YVV4mjPD,Orijent,Kroatien,ORI,orijent,croatia
 YVa0yqLR,Al Amana,Irak,GRI,al-amana,iraq
 YVkFoJW0,Harrach,Algerien,HAR,harrach,algeria
@@ -3350,6 +3361,7 @@ YumRyCHF,Mtibwa Sugar,Tansania,MTI,mtibwa-sugar,tanzania
 YuxTCP06,Nimba FC,Liberia,NIM,nimba-fc,liberia
 YwE6vHLt,Manta,Ecuador,MAN,manta,ecuador
 YwEvAvbf,Wathbah,Syrien,WAT,wathbah,syria
+YwEvAvbf,Homs Al Fidaa,Syrien,WAT,homs-al-fidaa,syria
 Ywy81Djb,Henan Songshan Longmen,China,HEN,henan-songshan-longmen,china-pr
 Yy6e5ij1,TTM Chiangmai,Thailand,CHI,ttm-chiangmai,thailand
 Yy8Tcqzr,AS Police,Burkina Faso,ASP,as-police,burkina-faso
@@ -3602,6 +3614,7 @@ dANVxvHk,Taiwan Steel F.C.,Taiwan,TAI,taiwan-steel-f-c,chinese-taipei
 dAUHgRnP,Yaroslavl,Russland,YAR,yaroslavl,russia
 dAaCjQrP,Pantheres,Benin,PAN,pantheres-fc,benin
 dAlJ9nqA,FC Minsk,Belarus,MIN,fc-minsk,belarus
+dCczuVge,San Juan FC,Bolivien,SKO,san-juan-fc,bolivia
 dCu6JsVb,Stade Malien,Mali,STA,stade-malien,mali
 dCyGKA0e,ACJM,Kongo,ACJ,acjm,congo
 dECY1ZvC,Znojmo,Tschechien,ZNO,znojmo,czech-republic
@@ -3701,6 +3714,7 @@ dhfRkskl,FC Iberia 1999,Georgien,IBE,fc-iberia-1999-tiflis,georgia
 dhgsqrvS,Cangzhou,China,SHI,cangzhou-mighty-lions,china-pr
 dhnNlCE9,Petrolul,Rumänien,PET,petrolul,romania
 dhxmP7ui,LionsXII,Malaysia,LIO,lionsxii,malaysia
+djCMPcxA,Hart Academy,Gambia,HAR,hart-academy,gambia
 djDbesL0,Vihiga United,Kenia,VIH,vihiga-united,kenya
 djFHM0D9,Zeyar Shwe Myay,Myanmar,ZEY,zeyar-shwe-myay,myanmar
 djQvVaME,Torpedo Zodino,Belarus,ZHO,torpedo-zodino,belarus
@@ -4302,6 +4316,7 @@ jmmBWFML,Zeleznicar Pancevo,Serbien,PAN,zeleznicar-pancevo,serbia
 jmpghFVd,NK Zepce,Bosnien und Herzegowina,ZEP,nk-zepce,bosnia-herzegovina
 jmura0NM,Tacuarembo,Uruguay,TAC,tacuarembo,uruguay
 jmxg3KJk,New Star,Sri Lanka,HAM,new-star,sri-lanka
+joFSswvJ,Medina United,Gambia,BEN,medina-united,gambia
 joO7tfhP,Figueirense,Brasilien,FIG,figueirense,brazil
 joVtOm40,Black Leopards,Südafrika,BLA,black-leopards,south-africa
 joX7cky0,Gazelle,Tschad,GAZ,gazelle,chad
@@ -5062,6 +5077,7 @@ rVwaK9XN,Sporting Cristal,Peru,SPO,sporting-cristal,peru
 rX0awNf8,Stumbras,Litauen,STU,fc-stumbras,lithuania
 rX4RfyVF,Sirens,Malta,SIR,sirens,malta
 rXDiwS8e,Zamora,Venezuela,ZAM,zamora,venezuela
+rXJrVaJ6,Ittihad Al Marj,Libyen,ITT,ittihad-al-marj,libya
 rXPTtQ2i,Al-Nil Al-Has.,Sudan,ALH,al-nil-al-has,sudan
 rXZS338A,ACR Messina,Italien,MES,acr-messina,italy
 rXvZQXEe,Sporting Nampula,Mosambik,SPO,sporting-nampula,mozambique
@@ -5134,6 +5150,7 @@ rob4IVdn,RSSC Utd,Eswatini,RSS,rssc-utd,swaziland
 rosDFzaI,TAS Casablanca,Marokko,TAS,tas-casablanca,morocco
 rq101FoU,Namungo,Tansania,NAM,namungo,tanzania
 rqDXU7pb,Barito Putera,Indonesien,BAR,ps-barito-putera,indonesia
+rqlCn7iB,Al Dahra,Libyen,ALE,al-dahra,libya
 rqvu9QSd,Spora Luxemburg,Luxemburg,SVO,spora-luxemburg,luxembourg
 rs3LyWUo,Thai Honda FC,Thailand,THA,thai-honda-fc,thailand
 rs7MlqYA,Shek Kip Mei,Hongkong,SHE,shek-kip-mei,hong-kong
@@ -5425,6 +5442,7 @@ vZd1OY26,Ibri,Oman,KHA,ibri,oman
 vZnNZOLP,GOŠK Gabela,Bosnien und Herzegowina,GOS,nk-gosk-gabela,bosnia-herzegovina
 vZraQYnO,New York City,USA,NYC,new-york-city,united-states
 vZy2PdFp,Beerschot,Belgien,BEE,beerschot,belgium
+vaDiTwlJ,Al Qadisiyah,Libyen,ALQ,al-qadisiyah,libya
 vaXlvurO,Hajer,Saudi-Arabien,HAJ,hajer,saudi-arabia
 vaYMWtGb,Vllaznia Pozheran,Kosovo,VPO,vllaznia-pozheran,kosovo
 vaZ7webf,Gradacac,Bosnien und Herzegowina,GRA,gradacac,bosnia-herzegovina
@@ -5598,6 +5616,7 @@ xU9afFkD,Sofapaka,Kenia,SOF,sofapaka,kenya
 xUT0Bp8o,America MG,Brasilien,AME,america-mineiro,brazil
 xUZ5xVki,Tanger,Marokko,TAN,tanger,morocco
 xUq2CwJk,Al Majd,Syrien,MAJ,al-majd,syria
+xUq2CwJk,Damascus Al-Ahli,Syrien,DAM,damascus-al-ahli,syria
 xUvPtdff,Orbit College,Südafrika,ORB,orbit-college,south-africa
 xW771C6U,U. De Chile,Chile,CHI,u-de-chile,chile
 xW8i8U05,Umm-Salal,Katar,UMM,umm-salal,qatar
@@ -5632,6 +5651,7 @@ xfNyVZUc,Marquense,Guatemala,MAR,marquense,guatemala
 xfVSXhLU,Black Lions,Botswana,BLA,black-lions,botswana
 xfWUdFWa,La Cure Sylvester,Mauritius,LAC,la-cure-sylvester,mauritius
 xfnmMoFp,Sporting San Jose,Costa Rica,SSJ,sporting-san-jose,costa-rica
+xfnmMoFp,Sporting FC,Costa Rica,SFC,sporting-fc,costa-rica
 xh1m0397,Manurewa,Neuseeland,MAN,manurewa,new-zealand
 xh8PlVf0,Manonyane,Lesotho,SAL,manonyane,lesotho
 xhnraWMa,Ouidah,Benin,OUI,ouidah,benin
@@ -5815,6 +5835,7 @@ zk185iZr,Mount Cameroon U22,Kamerun,MOU,mount-cameroon,cameroon
 zkDski5F,Naggo Head,Jamaika,NAG,naggo-head,jamaica
 zkQvu47B,Remo Stars,Nigeria,REM,remo-stars,nigeria
 zkXT6GcR,Cardiff Metropolitan,Wales,UWI,uwic,wales
+zkgc2Aq3,Ittihad Gharyan,Libyen,ITT,ittihad-gharyan,libya
 zkmKIcHn,FC Balzers B,Liechtenstein,BAL,fc-balzers,liechtenstein
 zkpajjvm,Real Valladolid,Spanien,VLL,real-valladolid,spain
 zkvlOwf7,Young Brazilians,Namibia,YOU,young-brazilians,namibia
