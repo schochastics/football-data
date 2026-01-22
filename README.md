@@ -56,8 +56,11 @@ The folder `data/formations` contains lineups and formations datasets
 ## goals and times
 
 The folder `data/goals_time` contains details about each scored goal (scorer,
-time) in the Top 15 European Leagues (according to the UEFA 5 year rating 2004), the Champions League and Euro League, and
-a few national cups.
+time) in the Top 15 European Leagues (according to the UEFA 5 year rating 2004), the Champions League and Euro League, and a few national cups.
+
+## goals and times 2
+
+The folder `data/goals_time_2` is similar to `data/goals_time` but contains more details like yellow cards and substitutions.
 
 ## Links
 

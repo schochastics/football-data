@@ -12477,7 +12477,7 @@
           "team": "away",
           "minute": "24'",
           "incident_type": "Red Card",
-          "player_name": "Alvaro Valles",
+          "player_name": "Valles A.",
           "card_reason": "Tripping"
         },
         {
@@ -15269,7 +15269,7 @@
           "team": "home",
           "minute": "81'",
           "incident_type": "Yellow Card",
-          "player_name": "Alvaro Valles",
+          "player_name": "Valles A.",
           "card_reason": "Unsportsmanlike conduct"
         },
         {
@@ -26196,7 +26196,7 @@
           "team": "away",
           "minute": "80'",
           "incident_type": "Yellow Card",
-          "player_name": "Alvaro Valles",
+          "player_name": "Valles A.",
           "card_reason": "Delay of game"
         },
         {
