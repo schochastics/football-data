@@ -1,0 +1,7407 @@
+[
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ac-ajaccio",
+    "away": "fc-metz",
+    "GH": 3,
+    "GA": 1,
+    "date": "2004-05-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Michel Moretti Stadium",
+          "city": "Ajaccio",
+          "capacity": "8 470"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-nantes",
+    "away": "fc-sochaux",
+    "GH": 3,
+    "GA": 1,
+    "date": "2004-05-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "le-mans",
+    "away": "rc-lens",
+    "GH": 3,
+    "GA": 0,
+    "date": "2004-05-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Léon-Bollée",
+          "city": "Le Mans",
+          "capacity": "17 801"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ogc-nizza",
+    "away": "aj-auxerre",
+    "GH": 1,
+    "GA": 1,
+    "date": "2004-05-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Municipal du Ray",
+          "city": "Nice",
+          "capacity": "17 415"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-lyon",
+    "away": "osc-lille",
+    "GH": 3,
+    "GA": 0,
+    "date": "2004-05-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-marseille",
+    "away": "ea-guingamp",
+    "GH": 2,
+    "GA": 1,
+    "date": "2004-05-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "racing-strassburg",
+    "away": "fc-toulouse",
+    "GH": 0,
+    "GA": 0,
+    "date": "2004-05-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "sc-bastia",
+    "away": "paris-saint-germain",
+    "GH": 0,
+    "GA": 1,
+    "date": "2004-05-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "stade-rennes",
+    "away": "hsc-montpellier",
+    "GH": 4,
+    "GA": 0,
+    "date": "2004-05-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "girondins-bordeaux",
+    "away": "as-monaco",
+    "GH": 1,
+    "GA": 3,
+    "date": "2004-05-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "aj-auxerre",
+    "away": "fc-nantes",
+    "GH": 2,
+    "GA": 0,
+    "date": "2004-05-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "as-monaco",
+    "away": "stade-rennes",
+    "GH": 1,
+    "GA": 4,
+    "date": "2004-05-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ea-guingamp",
+    "away": "ogc-nizza",
+    "GH": 1,
+    "GA": 2,
+    "date": "2004-05-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-metz",
+    "away": "girondins-bordeaux",
+    "GH": 3,
+    "GA": 1,
+    "date": "2004-05-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-sochaux",
+    "away": "le-mans",
+    "GH": 3,
+    "GA": 0,
+    "date": "2004-05-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Auguste Bonal",
+          "city": "Montbéliard",
+          "capacity": "20 005"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-toulouse",
+    "away": "olympique-marseille",
+    "GH": 2,
+    "GA": 1,
+    "date": "2004-05-15",
+    "incident": {
+      "incidents": [
+        {
+          "team": "away",
+          "minute": "4'",
+          "incident_type": "Own goal",
+          "player_name": "Issoumaila Dao"
+        },
+        {
+          "team": "home",
+          "minute": "10'",
+          "incident_type": "Yellow Card",
+          "player_name": "Julien Cardy"
+        },
+        {
+          "team": "home",
+          "minute": "17'",
+          "incident_type": "Yellow Card",
+          "player_name": "Achille Emana"
+        },
+        {
+          "team": "home",
+          "minute": "18'",
+          "incident_type": "Yellow Card",
+          "player_name": "Anthony Braizat"
+        },
+        {
+          "team": "away",
+          "minute": "33'",
+          "incident_type": "Yellow Card",
+          "player_name": "Khalifa"
+        },
+        {
+          "team": "away",
+          "minute": "45'",
+          "incident_type": "Yellow Card",
+          "player_name": "Philippe Christanval"
+        },
+        {
+          "team": "home",
+          "minute": "45'",
+          "incident_type": "Goal",
+          "player_name": "Fernandao"
+        },
+        {
+          "team": "away",
+          "minute": "54'",
+          "incident_type": "Yellow Card",
+          "player_name": "Khalifa"
+        },
+        {
+          "team": "home",
+          "minute": "68'",
+          "incident_type": "Yellow Card",
+          "player_name": "Predrag Ocokoljic"
+        },
+        {
+          "team": "home",
+          "minute": "83'",
+          "incident_type": "Goal",
+          "player_name": "Adelino Eduardo"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "hsc-montpellier",
+    "away": "racing-strassburg",
+    "GH": 1,
+    "GA": 2,
+    "date": "2004-05-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Mosson",
+          "city": "Montpellier",
+          "capacity": "20 484"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "osc-lille",
+    "away": "sc-bastia",
+    "GH": 2,
+    "GA": 0,
+    "date": "2004-05-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "paris-saint-germain",
+    "away": "olympique-lyon",
+    "GH": 1,
+    "GA": 0,
+    "date": "2004-05-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "rc-lens",
+    "away": "ac-ajaccio",
+    "GH": 2,
+    "GA": 0,
+    "date": "2004-05-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ac-ajaccio",
+    "away": "fc-sochaux",
+    "GH": 1,
+    "GA": 0,
+    "date": "2004-05-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Michel Moretti Stadium",
+          "city": "Ajaccio",
+          "capacity": "8 470"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-nantes",
+    "away": "ea-guingamp",
+    "GH": 0,
+    "GA": 0,
+    "date": "2004-05-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "le-mans",
+    "away": "osc-lille",
+    "GH": 1,
+    "GA": 1,
+    "date": "2004-05-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Léon-Bollée",
+          "city": "Le Mans",
+          "capacity": "17 801"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ogc-nizza",
+    "away": "fc-toulouse",
+    "GH": 1,
+    "GA": 1,
+    "date": "2004-05-12",
+    "incident": {
+      "incidents": [
+        {
+          "team": "away",
+          "minute": "4'",
+          "incident_type": "Goal",
+          "player_name": "Fernandao"
+        },
+        {
+          "team": "away",
+          "minute": "42'",
+          "incident_type": "Yellow Card",
+          "player_name": "Sylvain Didot"
+        },
+        {
+          "team": "away",
+          "minute": "60'",
+          "incident_type": "Red Card",
+          "player_name": "Nicolas Dieuze"
+        },
+        {
+          "team": "home",
+          "minute": "60'",
+          "incident_type": "Goal",
+          "player_name": "Georges Ba"
+        },
+        {
+          "team": "away",
+          "minute": "81'",
+          "incident_type": "Yellow Card",
+          "player_name": "Stephane Lievre"
+        },
+        {
+          "team": "home",
+          "minute": "82'",
+          "incident_type": "Yellow Card",
+          "player_name": "Olivier Echouafni"
+        },
+        {
+          "team": "home",
+          "minute": "87'",
+          "incident_type": "Red Card",
+          "player_name": "Noé Pamarot"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stade Municipal du Ray",
+          "city": "Nice",
+          "capacity": "17 415"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-lyon",
+    "away": "sc-bastia",
+    "GH": 1,
+    "GA": 0,
+    "date": "2004-05-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-marseille",
+    "away": "hsc-montpellier",
+    "GH": 1,
+    "GA": 1,
+    "date": "2004-05-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "racing-strassburg",
+    "away": "as-monaco",
+    "GH": 0,
+    "GA": 0,
+    "date": "2004-05-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "stade-rennes",
+    "away": "fc-metz",
+    "GH": 0,
+    "GA": 0,
+    "date": "2004-05-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "girondins-bordeaux",
+    "away": "paris-saint-germain",
+    "GH": 3,
+    "GA": 0,
+    "date": "2004-05-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "rc-lens",
+    "away": "aj-auxerre",
+    "GH": 1,
+    "GA": 3,
+    "date": "2004-05-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "as-monaco",
+    "away": "olympique-marseille",
+    "GH": 1,
+    "GA": 0,
+    "date": "2004-05-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "aj-auxerre",
+    "away": "ac-ajaccio",
+    "GH": 1,
+    "GA": 1,
+    "date": "2004-05-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ea-guingamp",
+    "away": "le-mans",
+    "GH": 2,
+    "GA": 4,
+    "date": "2004-05-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-metz",
+    "away": "olympique-lyon",
+    "GH": 1,
+    "GA": 2,
+    "date": "2004-05-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-sochaux",
+    "away": "rc-lens",
+    "GH": 0,
+    "GA": 3,
+    "date": "2004-05-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Auguste Bonal",
+          "city": "Montbéliard",
+          "capacity": "20 005"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-toulouse",
+    "away": "fc-nantes",
+    "GH": 0,
+    "GA": 1,
+    "date": "2004-05-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "hsc-montpellier",
+    "away": "ogc-nizza",
+    "GH": 2,
+    "GA": 2,
+    "date": "2004-05-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Mosson",
+          "city": "Montpellier",
+          "capacity": "20 484"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "osc-lille",
+    "away": "girondins-bordeaux",
+    "GH": 2,
+    "GA": 1,
+    "date": "2004-05-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "sc-bastia",
+    "away": "racing-strassburg",
+    "GH": 0,
+    "GA": 0,
+    "date": "2004-05-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "paris-saint-germain",
+    "away": "stade-rennes",
+    "GH": 1,
+    "GA": 0,
+    "date": "2004-05-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "girondins-bordeaux",
+    "away": "olympique-lyon",
+    "GH": 1,
+    "GA": 1,
+    "date": "2004-05-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ac-ajaccio",
+    "away": "ea-guingamp",
+    "GH": 0,
+    "GA": 0,
+    "date": "2004-05-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Michel Moretti Stadium",
+          "city": "Ajaccio",
+          "capacity": "8 470"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-nantes",
+    "away": "osc-lille",
+    "GH": 2,
+    "GA": 0,
+    "date": "2004-05-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-sochaux",
+    "away": "hsc-montpellier",
+    "GH": 3,
+    "GA": 1,
+    "date": "2004-05-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Auguste Bonal",
+          "city": "Montbéliard",
+          "capacity": "20 005"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "le-mans",
+    "away": "aj-auxerre",
+    "GH": 2,
+    "GA": 1,
+    "date": "2004-05-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Léon-Bollée",
+          "city": "Le Mans",
+          "capacity": "17 801"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "racing-strassburg",
+    "away": "paris-saint-germain",
+    "GH": 0,
+    "GA": 0,
+    "date": "2004-05-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "rc-lens",
+    "away": "fc-toulouse",
+    "GH": 1,
+    "GA": 1,
+    "date": "2004-05-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "stade-rennes",
+    "away": "sc-bastia",
+    "GH": 4,
+    "GA": 0,
+    "date": "2004-05-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-marseille",
+    "away": "fc-metz",
+    "GH": 0,
+    "GA": 1,
+    "date": "2004-05-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ogc-nizza",
+    "away": "as-monaco",
+    "GH": 1,
+    "GA": 2,
+    "date": "2004-04-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Municipal du Ray",
+          "city": "Nice",
+          "capacity": "17 415"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "paris-saint-germain",
+    "away": "olympique-marseille",
+    "GH": 2,
+    "GA": 1,
+    "date": "2004-04-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "aj-auxerre",
+    "away": "fc-sochaux",
+    "GH": 2,
+    "GA": 1,
+    "date": "2004-04-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ea-guingamp",
+    "away": "rc-lens",
+    "GH": 1,
+    "GA": 0,
+    "date": "2004-04-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-metz",
+    "away": "ogc-nizza",
+    "GH": 1,
+    "GA": 0,
+    "date": "2004-04-24",
+    "incident": {
+      "incidents": [
+        {
+          "team": "home",
+          "minute": "61'",
+          "incident_type": "Goal",
+          "player_name": "Gregory Proment"
+        },
+        {
+          "team": "away",
+          "minute": "69'",
+          "incident_type": "Yellow Card",
+          "player_name": "Jacques Abardonado"
+        },
+        {
+          "team": "away",
+          "minute": "71'",
+          "incident_type": "Yellow Card",
+          "player_name": "Lilian Laslandes"
+        },
+        {
+          "team": "away",
+          "minute": "76'",
+          "incident_type": "Yellow Card",
+          "player_name": "Noé Pamarot"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-toulouse",
+    "away": "ac-ajaccio",
+    "GH": 3,
+    "GA": 1,
+    "date": "2004-04-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "hsc-montpellier",
+    "away": "le-mans",
+    "GH": 0,
+    "GA": 3,
+    "date": "2004-04-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Mosson",
+          "city": "Montpellier",
+          "capacity": "20 484"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-lyon",
+    "away": "stade-rennes",
+    "GH": 3,
+    "GA": 0,
+    "date": "2004-04-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "osc-lille",
+    "away": "racing-strassburg",
+    "GH": 0,
+    "GA": 1,
+    "date": "2004-04-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "sc-bastia",
+    "away": "girondins-bordeaux",
+    "GH": 0,
+    "GA": 2,
+    "date": "2004-04-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "as-monaco",
+    "away": "fc-nantes",
+    "GH": 0,
+    "GA": 1,
+    "date": "2004-04-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-marseille",
+    "away": "osc-lille",
+    "GH": 2,
+    "GA": 1,
+    "date": "2004-04-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "stade-rennes",
+    "away": "girondins-bordeaux",
+    "GH": 3,
+    "GA": 1,
+    "date": "2004-04-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ea-guingamp",
+    "away": "fc-metz",
+    "GH": 1,
+    "GA": 1,
+    "date": "2004-04-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "racing-strassburg",
+    "away": "olympique-lyon",
+    "GH": 0,
+    "GA": 1,
+    "date": "2004-04-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ac-ajaccio",
+    "away": "hsc-montpellier",
+    "GH": 0,
+    "GA": 0,
+    "date": "2004-04-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Michel Moretti Stadium",
+          "city": "Ajaccio",
+          "capacity": "8 470"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "aj-auxerre",
+    "away": "fc-metz",
+    "GH": 2,
+    "GA": 1,
+    "date": "2004-04-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-nantes",
+    "away": "sc-bastia",
+    "GH": 1,
+    "GA": 1,
+    "date": "2004-04-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-sochaux",
+    "away": "ea-guingamp",
+    "GH": 2,
+    "GA": 0,
+    "date": "2004-04-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Auguste Bonal",
+          "city": "Montbéliard",
+          "capacity": "20 005"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "le-mans",
+    "away": "fc-toulouse",
+    "GH": 2,
+    "GA": 1,
+    "date": "2004-04-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Léon-Bollée",
+          "city": "Le Mans",
+          "capacity": "17 801"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ogc-nizza",
+    "away": "paris-saint-germain",
+    "GH": 1,
+    "GA": 2,
+    "date": "2004-04-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Municipal du Ray",
+          "city": "Nice",
+          "capacity": "17 415"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "rc-lens",
+    "away": "as-monaco",
+    "GH": 0,
+    "GA": 0,
+    "date": "2004-04-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ea-guingamp",
+    "away": "aj-auxerre",
+    "GH": 2,
+    "GA": 2,
+    "date": "2004-04-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-metz",
+    "away": "le-mans",
+    "GH": 5,
+    "GA": 0,
+    "date": "2004-04-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-toulouse",
+    "away": "fc-sochaux",
+    "GH": 0,
+    "GA": 0,
+    "date": "2004-04-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "girondins-bordeaux",
+    "away": "racing-strassburg",
+    "GH": 1,
+    "GA": 1,
+    "date": "2004-04-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "hsc-montpellier",
+    "away": "rc-lens",
+    "GH": 1,
+    "GA": 0,
+    "date": "2004-04-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Mosson",
+          "city": "Montpellier",
+          "capacity": "20 484"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "osc-lille",
+    "away": "stade-rennes",
+    "GH": 1,
+    "GA": 0,
+    "date": "2004-04-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "paris-saint-germain",
+    "away": "fc-nantes",
+    "GH": 3,
+    "GA": 2,
+    "date": "2004-04-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "sc-bastia",
+    "away": "ogc-nizza",
+    "GH": 2,
+    "GA": 1,
+    "date": "2004-04-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-lyon",
+    "away": "olympique-marseille",
+    "GH": 1,
+    "GA": 2,
+    "date": "2004-04-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "as-monaco",
+    "away": "ac-ajaccio",
+    "GH": 3,
+    "GA": 3,
+    "date": "2004-04-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "rc-lens",
+    "away": "paris-saint-germain",
+    "GH": 1,
+    "GA": 0,
+    "date": "2004-03-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "aj-auxerre",
+    "away": "fc-toulouse",
+    "GH": 3,
+    "GA": 2,
+    "date": "2004-03-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-marseille",
+    "away": "girondins-bordeaux",
+    "GH": 1,
+    "GA": 1,
+    "date": "2004-03-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ac-ajaccio",
+    "away": "sc-bastia",
+    "GH": 1,
+    "GA": 0,
+    "date": "2004-03-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Michel Moretti Stadium",
+          "city": "Ajaccio",
+          "capacity": "8 470"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ea-guingamp",
+    "away": "osc-lille",
+    "GH": 2,
+    "GA": 1,
+    "date": "2004-03-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-nantes",
+    "away": "hsc-montpellier",
+    "GH": 3,
+    "GA": 2,
+    "date": "2004-03-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "le-mans",
+    "away": "as-monaco",
+    "GH": 0,
+    "GA": 1,
+    "date": "2004-03-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Léon-Bollée",
+          "city": "Le Mans",
+          "capacity": "17 801"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ogc-nizza",
+    "away": "olympique-lyon",
+    "GH": 0,
+    "GA": 1,
+    "date": "2004-03-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Municipal du Ray",
+          "city": "Nice",
+          "capacity": "17 415"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "racing-strassburg",
+    "away": "stade-rennes",
+    "GH": 0,
+    "GA": 3,
+    "date": "2004-03-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-sochaux",
+    "away": "fc-metz",
+    "GH": 2,
+    "GA": 0,
+    "date": "2004-03-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Auguste Bonal",
+          "city": "Montbéliard",
+          "capacity": "20 005"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "stade-rennes",
+    "away": "olympique-marseille",
+    "GH": 4,
+    "GA": 3,
+    "date": "2004-03-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "as-monaco",
+    "away": "fc-sochaux",
+    "GH": 1,
+    "GA": 1,
+    "date": "2004-03-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-metz",
+    "away": "racing-strassburg",
+    "GH": 1,
+    "GA": 0,
+    "date": "2004-03-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "girondins-bordeaux",
+    "away": "ogc-nizza",
+    "GH": 1,
+    "GA": 1,
+    "date": "2004-03-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "hsc-montpellier",
+    "away": "aj-auxerre",
+    "GH": 1,
+    "GA": 0,
+    "date": "2004-03-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Mosson",
+          "city": "Montpellier",
+          "capacity": "20 484"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "osc-lille",
+    "away": "rc-lens",
+    "GH": 1,
+    "GA": 1,
+    "date": "2004-03-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "paris-saint-germain",
+    "away": "ac-ajaccio",
+    "GH": 1,
+    "GA": 0,
+    "date": "2004-03-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "sc-bastia",
+    "away": "le-mans",
+    "GH": 0,
+    "GA": 0,
+    "date": "2004-03-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-lyon",
+    "away": "fc-nantes",
+    "GH": 1,
+    "GA": 0,
+    "date": "2004-03-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-toulouse",
+    "away": "ea-guingamp",
+    "GH": 0,
+    "GA": 0,
+    "date": "2004-03-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "aj-auxerre",
+    "away": "as-monaco",
+    "GH": 0,
+    "GA": 0,
+    "date": "2004-03-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-toulouse",
+    "away": "girondins-bordeaux",
+    "GH": 1,
+    "GA": 0,
+    "date": "2004-03-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-marseille",
+    "away": "racing-strassburg",
+    "GH": 4,
+    "GA": 0,
+    "date": "2004-03-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ac-ajaccio",
+    "away": "osc-lille",
+    "GH": 0,
+    "GA": 3,
+    "date": "2004-03-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Michel Moretti Stadium",
+          "city": "Ajaccio",
+          "capacity": "8 470"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ea-guingamp",
+    "away": "hsc-montpellier",
+    "GH": 4,
+    "GA": 3,
+    "date": "2004-03-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-nantes",
+    "away": "fc-metz",
+    "GH": 2,
+    "GA": 2,
+    "date": "2004-03-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-sochaux",
+    "away": "olympique-lyon",
+    "GH": 1,
+    "GA": 2,
+    "date": "2004-03-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Auguste Bonal",
+          "city": "Montbéliard",
+          "capacity": "20 005"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ogc-nizza",
+    "away": "stade-rennes",
+    "GH": 3,
+    "GA": 1,
+    "date": "2004-03-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Municipal du Ray",
+          "city": "Nice",
+          "capacity": "17 415"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "rc-lens",
+    "away": "sc-bastia",
+    "GH": 0,
+    "GA": 0,
+    "date": "2004-03-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "le-mans",
+    "away": "paris-saint-germain",
+    "GH": 0,
+    "GA": 1,
+    "date": "2004-03-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Léon-Bollée",
+          "city": "Le Mans",
+          "capacity": "17 801"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "sc-bastia",
+    "away": "olympique-marseille",
+    "GH": 4,
+    "GA": 1,
+    "date": "2004-03-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-metz",
+    "away": "rc-lens",
+    "GH": 0,
+    "GA": 2,
+    "date": "2004-03-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "girondins-bordeaux",
+    "away": "le-mans",
+    "GH": 2,
+    "GA": 0,
+    "date": "2004-03-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "hsc-montpellier",
+    "away": "fc-toulouse",
+    "GH": 0,
+    "GA": 1,
+    "date": "2004-03-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Mosson",
+          "city": "Montpellier",
+          "capacity": "20 484"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "paris-saint-germain",
+    "away": "fc-sochaux",
+    "GH": 1,
+    "GA": 1,
+    "date": "2004-03-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "racing-strassburg",
+    "away": "ogc-nizza",
+    "GH": 2,
+    "GA": 2,
+    "date": "2004-03-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "stade-rennes",
+    "away": "fc-nantes",
+    "GH": 0,
+    "GA": 3,
+    "date": "2004-03-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "osc-lille",
+    "away": "aj-auxerre",
+    "GH": 1,
+    "GA": 0,
+    "date": "2004-03-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "as-monaco",
+    "away": "ea-guingamp",
+    "GH": 3,
+    "GA": 1,
+    "date": "2004-03-05",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-lyon",
+    "away": "ac-ajaccio",
+    "GH": 4,
+    "GA": 0,
+    "date": "2004-03-05",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "aj-auxerre",
+    "away": "paris-saint-germain",
+    "GH": 1,
+    "GA": 1,
+    "date": "2004-02-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ac-ajaccio",
+    "away": "girondins-bordeaux",
+    "GH": 1,
+    "GA": 0,
+    "date": "2004-02-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Michel Moretti Stadium",
+          "city": "Ajaccio",
+          "capacity": "8 470"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-sochaux",
+    "away": "sc-bastia",
+    "GH": 2,
+    "GA": 1,
+    "date": "2004-02-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Auguste Bonal",
+          "city": "Montbéliard",
+          "capacity": "20 005"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ogc-nizza",
+    "away": "olympique-marseille",
+    "GH": 0,
+    "GA": 0,
+    "date": "2004-02-29",
+    "incident": {
+      "incidents": [
+        {
+          "team": "home",
+          "minute": "15'",
+          "incident_type": "Yellow Card",
+          "player_name": "Jacques Abardonado"
+        },
+        {
+          "team": "home",
+          "minute": "27'",
+          "incident_type": "Yellow Card",
+          "player_name": "Noé Pamarot"
+        },
+        {
+          "team": "away",
+          "minute": "29'",
+          "incident_type": "Yellow Card",
+          "player_name": "Abdoulaye Meite"
+        },
+        {
+          "team": "away",
+          "minute": "30'",
+          "incident_type": "Yellow Card",
+          "player_name": "Laurent Batlles"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stade Municipal du Ray",
+          "city": "Nice",
+          "capacity": "17 415"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-toulouse",
+    "away": "as-monaco",
+    "GH": 1,
+    "GA": 1,
+    "date": "2004-02-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "hsc-montpellier",
+    "away": "osc-lille",
+    "GH": 0,
+    "GA": 2,
+    "date": "2004-02-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Mosson",
+          "city": "Montpellier",
+          "capacity": "20 484"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "le-mans",
+    "away": "stade-rennes",
+    "GH": 2,
+    "GA": 2,
+    "date": "2004-02-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Léon-Bollée",
+          "city": "Le Mans",
+          "capacity": "17 801"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "rc-lens",
+    "away": "olympique-lyon",
+    "GH": 1,
+    "GA": 1,
+    "date": "2004-02-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-nantes",
+    "away": "racing-strassburg",
+    "GH": 1,
+    "GA": 1,
+    "date": "2004-02-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-marseille",
+    "away": "fc-nantes",
+    "GH": 1,
+    "GA": 1,
+    "date": "2004-02-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-metz",
+    "away": "fc-toulouse",
+    "GH": 0,
+    "GA": 2,
+    "date": "2004-02-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "girondins-bordeaux",
+    "away": "rc-lens",
+    "GH": 0,
+    "GA": 0,
+    "date": "2004-02-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "osc-lille",
+    "away": "ogc-nizza",
+    "GH": 1,
+    "GA": 2,
+    "date": "2004-02-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "paris-saint-germain",
+    "away": "ea-guingamp",
+    "GH": 2,
+    "GA": 0,
+    "date": "2004-02-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "racing-strassburg",
+    "away": "fc-sochaux",
+    "GH": 0,
+    "GA": 2,
+    "date": "2004-02-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "sc-bastia",
+    "away": "aj-auxerre",
+    "GH": 0,
+    "GA": 0,
+    "date": "2004-02-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "stade-rennes",
+    "away": "ac-ajaccio",
+    "GH": 4,
+    "GA": 1,
+    "date": "2004-02-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-lyon",
+    "away": "le-mans",
+    "GH": 2,
+    "GA": 0,
+    "date": "2004-02-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "as-monaco",
+    "away": "hsc-montpellier",
+    "GH": 4,
+    "GA": 0,
+    "date": "2004-02-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "aj-auxerre",
+    "away": "olympique-lyon",
+    "GH": 1,
+    "GA": 2,
+    "date": "2004-02-15",
+    "incident": {
+      "incidents": [
+        {
+          "team": "away",
+          "minute": "9'",
+          "incident_type": "Own goal",
+          "player_name": "Philippe Violeau"
+        },
+        {
+          "team": "away",
+          "minute": "44'",
+          "incident_type": "Yellow Card",
+          "player_name": "Jérémy Berthod"
+        },
+        {
+          "team": "home",
+          "minute": "47'",
+          "incident_type": "Yellow Card",
+          "player_name": "Johan Radet"
+        },
+        {
+          "team": "away",
+          "minute": "67'",
+          "incident_type": "Yellow Card",
+          "player_name": "Anthony Réveillere"
+        },
+        {
+          "team": "away",
+          "minute": "67'",
+          "incident_type": "Goal",
+          "player_name": "Peguy Luyindula"
+        },
+        {
+          "team": "home",
+          "minute": "75'",
+          "incident_type": "Goal",
+          "player_name": "Jean-Alain Boumsong"
+        },
+        {
+          "team": "away",
+          "minute": "90'",
+          "incident_type": "Yellow Card",
+          "player_name": "Sidney Govou"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ac-ajaccio",
+    "away": "racing-strassburg",
+    "GH": 0,
+    "GA": 0,
+    "date": "2004-02-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Michel Moretti Stadium",
+          "city": "Ajaccio",
+          "capacity": "8 470"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "as-monaco",
+    "away": "osc-lille",
+    "GH": 0,
+    "GA": 1,
+    "date": "2004-02-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ea-guingamp",
+    "away": "sc-bastia",
+    "GH": 1,
+    "GA": 0,
+    "date": "2004-02-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-nantes",
+    "away": "ogc-nizza",
+    "GH": 3,
+    "GA": 1,
+    "date": "2004-02-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-toulouse",
+    "away": "paris-saint-germain",
+    "GH": 0,
+    "GA": 1,
+    "date": "2004-02-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "hsc-montpellier",
+    "away": "fc-metz",
+    "GH": 0,
+    "GA": 1,
+    "date": "2004-02-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Mosson",
+          "city": "Montpellier",
+          "capacity": "20 484"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "le-mans",
+    "away": "olympique-marseille",
+    "GH": 0,
+    "GA": 0,
+    "date": "2004-02-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Léon-Bollée",
+          "city": "Le Mans",
+          "capacity": "17 801"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "rc-lens",
+    "away": "stade-rennes",
+    "GH": 2,
+    "GA": 1,
+    "date": "2004-02-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-sochaux",
+    "away": "girondins-bordeaux",
+    "GH": 1,
+    "GA": 1,
+    "date": "2004-02-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Auguste Bonal",
+          "city": "Montbéliard",
+          "capacity": "20 005"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-metz",
+    "away": "as-monaco",
+    "GH": 0,
+    "GA": 2,
+    "date": "2004-02-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ogc-nizza",
+    "away": "rc-lens",
+    "GH": 4,
+    "GA": 0,
+    "date": "2004-02-07",
+    "incident": {
+      "incidents": [
+        {
+          "team": "home",
+          "minute": "8'",
+          "incident_type": "Goal",
+          "player_name": "Christophe Meslin"
+        },
+        {
+          "team": "home",
+          "minute": "16'",
+          "incident_type": "Goal",
+          "player_name": "Noé Pamarot"
+        },
+        {
+          "team": "home",
+          "minute": "32'",
+          "incident_type": "Goal",
+          "player_name": "Pereira da Silva Everson"
+        },
+        {
+          "team": "away",
+          "minute": "39'",
+          "incident_type": "Yellow Card",
+          "player_name": "Dagui Bakari"
+        },
+        {
+          "team": "away",
+          "minute": "41'",
+          "incident_type": "Yellow Card",
+          "player_name": "Dagui Bakari"
+        },
+        {
+          "team": "away",
+          "minute": "62'",
+          "incident_type": "Yellow Card",
+          "player_name": "Eric Sikora"
+        },
+        {
+          "team": "home",
+          "minute": "77'",
+          "incident_type": "Goal",
+          "player_name": "Diakite"
+        },
+        {
+          "team": "away",
+          "minute": "87'",
+          "incident_type": "Yellow Card",
+          "player_name": "Ekani"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stade Municipal du Ray",
+          "city": "Nice",
+          "capacity": "17 415"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-lyon",
+    "away": "ea-guingamp",
+    "GH": 0,
+    "GA": 1,
+    "date": "2004-02-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "osc-lille",
+    "away": "fc-sochaux",
+    "GH": 2,
+    "GA": 0,
+    "date": "2004-02-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "paris-saint-germain",
+    "away": "hsc-montpellier",
+    "GH": 6,
+    "GA": 1,
+    "date": "2004-02-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "racing-strassburg",
+    "away": "le-mans",
+    "GH": 3,
+    "GA": 0,
+    "date": "2004-02-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "sc-bastia",
+    "away": "fc-toulouse",
+    "GH": 1,
+    "GA": 0,
+    "date": "2004-02-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "stade-rennes",
+    "away": "aj-auxerre",
+    "GH": 0,
+    "GA": 2,
+    "date": "2004-02-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-marseille",
+    "away": "ac-ajaccio",
+    "GH": 2,
+    "GA": 1,
+    "date": "2004-02-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "girondins-bordeaux",
+    "away": "fc-nantes",
+    "GH": 2,
+    "GA": 0,
+    "date": "2004-02-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "hsc-montpellier",
+    "away": "olympique-marseille",
+    "GH": 0,
+    "GA": 1,
+    "date": "2004-02-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Mosson",
+          "city": "Montpellier",
+          "capacity": "20 484"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ac-ajaccio",
+    "away": "ogc-nizza",
+    "GH": 1,
+    "GA": 1,
+    "date": "2004-01-31",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Michel Moretti Stadium",
+          "city": "Ajaccio",
+          "capacity": "8 470"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ea-guingamp",
+    "away": "stade-rennes",
+    "GH": 0,
+    "GA": 2,
+    "date": "2004-01-31",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-metz",
+    "away": "osc-lille",
+    "GH": 0,
+    "GA": 1,
+    "date": "2004-01-31",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-sochaux",
+    "away": "olympique-marseille",
+    "GH": 2,
+    "GA": 1,
+    "date": "2004-01-31",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Auguste Bonal",
+          "city": "Montbéliard",
+          "capacity": "20 005"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-toulouse",
+    "away": "olympique-lyon",
+    "GH": 0,
+    "GA": 1,
+    "date": "2004-01-31",
+    "incident": {
+      "incidents": [
+        {
+          "team": "away",
+          "minute": "7'",
+          "incident_type": "Yellow Card",
+          "player_name": "Jose Gomes de Moraes Edmilson"
+        },
+        {
+          "team": "away",
+          "minute": "29'",
+          "incident_type": "Yellow Card",
+          "player_name": "Mickael Essien"
+        },
+        {
+          "team": "home",
+          "minute": "41'",
+          "incident_type": "Yellow Card",
+          "player_name": "Predrag Ocokoljic"
+        },
+        {
+          "team": "home",
+          "minute": "43'",
+          "incident_type": "Yellow Card",
+          "player_name": "Lucio Fernandao"
+        },
+        {
+          "team": "away",
+          "minute": "48'",
+          "incident_type": "Yellow Card",
+          "player_name": "Anthony Réveillere"
+        },
+        {
+          "team": "away",
+          "minute": "60'",
+          "incident_type": "Goal",
+          "player_name": "Vikash Dhorasoo"
+        },
+        {
+          "team": "home",
+          "minute": "70'",
+          "incident_type": "Yellow Card",
+          "player_name": "Balmont"
+        },
+        {
+          "team": "home",
+          "minute": "80'",
+          "incident_type": "Yellow Card",
+          "player_name": "Emana"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "hsc-montpellier",
+    "away": "sc-bastia",
+    "GH": 1,
+    "GA": 1,
+    "date": "2004-01-31",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Mosson",
+          "city": "Montpellier",
+          "capacity": "20 484"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "le-mans",
+    "away": "fc-nantes",
+    "GH": 0,
+    "GA": 1,
+    "date": "2004-01-31",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Léon-Bollée",
+          "city": "Le Mans",
+          "capacity": "17 801"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "rc-lens",
+    "away": "racing-strassburg",
+    "GH": 2,
+    "GA": 1,
+    "date": "2004-01-31",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "aj-auxerre",
+    "away": "girondins-bordeaux",
+    "GH": 5,
+    "GA": 0,
+    "date": "2004-01-31",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "as-monaco",
+    "away": "paris-saint-germain",
+    "GH": 1,
+    "GA": 1,
+    "date": "2004-01-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-lyon",
+    "away": "girondins-bordeaux",
+    "GH": 3,
+    "GA": 0,
+    "date": "2004-01-28",
+    "incident": {
+      "incidents": [
+        {
+          "team": "away",
+          "minute": "30'",
+          "incident_type": "Yellow Card",
+          "player_name": "Deivid"
+        },
+        {
+          "team": "home",
+          "minute": "62'",
+          "incident_type": "Yellow Card",
+          "player_name": "Anthony Réveillere"
+        },
+        {
+          "team": "home",
+          "minute": "65'",
+          "incident_type": "Goal",
+          "player_name": "Patrick Müller"
+        },
+        {
+          "team": "away",
+          "minute": "67'",
+          "incident_type": "Yellow Card",
+          "player_name": "Bruno Basto"
+        },
+        {
+          "team": "home",
+          "minute": "67'",
+          "incident_type": "Goal",
+          "player_name": "Peguy Luyindula"
+        },
+        {
+          "team": "away",
+          "minute": "72'",
+          "incident_type": "Yellow Card",
+          "player_name": "Marco Caneira"
+        },
+        {
+          "team": "home",
+          "minute": "81'",
+          "incident_type": "Goal",
+          "player_name": "Mickael Essien"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-metz",
+    "away": "olympique-marseille",
+    "GH": 1,
+    "GA": 1,
+    "date": "2004-01-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "hsc-montpellier",
+    "away": "fc-sochaux",
+    "GH": 1,
+    "GA": 3,
+    "date": "2004-01-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Mosson",
+          "city": "Montpellier",
+          "capacity": "20 484"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "as-monaco",
+    "away": "ogc-nizza",
+    "GH": 1,
+    "GA": 1,
+    "date": "2004-01-21",
+    "incident": {
+      "incidents": [
+        {
+          "team": "home",
+          "minute": "12'",
+          "incident_type": "Yellow Card",
+          "player_name": "Zikos"
+        },
+        {
+          "team": "home",
+          "minute": "31'",
+          "incident_type": "Yellow Card",
+          "player_name": "Ludovic Giuly"
+        },
+        {
+          "team": "away",
+          "minute": "31'",
+          "incident_type": "Yellow Card",
+          "player_name": "Noé Pamarot"
+        },
+        {
+          "team": "away",
+          "minute": "38'",
+          "incident_type": "Yellow Card",
+          "player_name": "Cedric Varrault"
+        },
+        {
+          "team": "home",
+          "minute": "40'",
+          "incident_type": "Goal",
+          "player_name": "Fernando Morientes"
+        },
+        {
+          "team": "home",
+          "minute": "42'",
+          "incident_type": "Yellow Card",
+          "player_name": "Lucas Bernardi"
+        },
+        {
+          "team": "home",
+          "minute": "57'",
+          "incident_type": "Red Card",
+          "player_name": "Evra"
+        },
+        {
+          "team": "away",
+          "minute": "63'",
+          "incident_type": "Yellow Card",
+          "player_name": "Pereira da Silva Everson"
+        },
+        {
+          "team": "away",
+          "minute": "83'",
+          "incident_type": "Yellow Card",
+          "player_name": "Ba"
+        },
+        {
+          "team": "away",
+          "minute": "86'",
+          "incident_type": "Yellow Card",
+          "player_name": "Pereira da Silva Everson"
+        },
+        {
+          "team": "away",
+          "minute": "90'",
+          "incident_type": "Penalty Awarded",
+          "player_name": "Christophe Meslin"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-marseille",
+    "away": "rc-lens",
+    "GH": 3,
+    "GA": 2,
+    "date": "2004-01-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-nantes",
+    "away": "ac-ajaccio",
+    "GH": 4,
+    "GA": 0,
+    "date": "2004-01-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "girondins-bordeaux",
+    "away": "ea-guingamp",
+    "GH": 2,
+    "GA": 0,
+    "date": "2004-01-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ogc-nizza",
+    "away": "le-mans",
+    "GH": 0,
+    "GA": 1,
+    "date": "2004-01-17",
+    "incident": {
+      "incidents": [
+        {
+          "team": "home",
+          "minute": "10'",
+          "incident_type": "Yellow Card",
+          "player_name": "Noé Pamarot"
+        },
+        {
+          "team": "away",
+          "minute": "23'",
+          "incident_type": "Yellow Card",
+          "player_name": "Fanchone"
+        },
+        {
+          "team": "away",
+          "minute": "38'",
+          "incident_type": "Yellow Card",
+          "player_name": "Jean-Jacques Domoraud"
+        },
+        {
+          "team": "away",
+          "minute": "40'",
+          "incident_type": "Goal",
+          "player_name": "Daniel Cousin"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stade Municipal du Ray",
+          "city": "Nice",
+          "capacity": "17 415"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-lyon",
+    "away": "hsc-montpellier",
+    "GH": 3,
+    "GA": 0,
+    "date": "2004-01-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "osc-lille",
+    "away": "fc-toulouse",
+    "GH": 0,
+    "GA": 1,
+    "date": "2004-01-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "paris-saint-germain",
+    "away": "fc-metz",
+    "GH": 0,
+    "GA": 0,
+    "date": "2004-01-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "racing-strassburg",
+    "away": "aj-auxerre",
+    "GH": 0,
+    "GA": 2,
+    "date": "2004-01-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "stade-rennes",
+    "away": "fc-sochaux",
+    "GH": 4,
+    "GA": 0,
+    "date": "2004-01-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "sc-bastia",
+    "away": "as-monaco",
+    "GH": 0,
+    "GA": 0,
+    "date": "2004-01-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ac-ajaccio",
+    "away": "le-mans",
+    "GH": 2,
+    "GA": 0,
+    "date": "2004-01-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Michel Moretti Stadium",
+          "city": "Ajaccio",
+          "capacity": "8 470"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "aj-auxerre",
+    "away": "olympique-marseille",
+    "GH": 2,
+    "GA": 0,
+    "date": "2004-01-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ea-guingamp",
+    "away": "racing-strassburg",
+    "GH": 3,
+    "GA": 2,
+    "date": "2004-01-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-metz",
+    "away": "sc-bastia",
+    "GH": 1,
+    "GA": 0,
+    "date": "2004-01-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-sochaux",
+    "away": "ogc-nizza",
+    "GH": 0,
+    "GA": 0,
+    "date": "2004-01-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Auguste Bonal",
+          "city": "Montbéliard",
+          "capacity": "20 005"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-toulouse",
+    "away": "stade-rennes",
+    "GH": 2,
+    "GA": 0,
+    "date": "2004-01-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "hsc-montpellier",
+    "away": "girondins-bordeaux",
+    "GH": 1,
+    "GA": 2,
+    "date": "2004-01-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Mosson",
+          "city": "Montpellier",
+          "capacity": "20 484"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "rc-lens",
+    "away": "fc-nantes",
+    "GH": 0,
+    "GA": 0,
+    "date": "2004-01-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "paris-saint-germain",
+    "away": "osc-lille",
+    "GH": 1,
+    "GA": 0,
+    "date": "2004-01-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "as-monaco",
+    "away": "olympique-lyon",
+    "GH": 3,
+    "GA": 0,
+    "date": "2004-01-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ac-ajaccio",
+    "away": "rc-lens",
+    "GH": 2,
+    "GA": 0,
+    "date": "2003-12-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Michel Moretti Stadium",
+          "city": "Ajaccio",
+          "capacity": "8 470"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-nantes",
+    "away": "aj-auxerre",
+    "GH": 1,
+    "GA": 0,
+    "date": "2003-12-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "girondins-bordeaux",
+    "away": "fc-metz",
+    "GH": 2,
+    "GA": 0,
+    "date": "2003-12-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "le-mans",
+    "away": "fc-sochaux",
+    "GH": 2,
+    "GA": 2,
+    "date": "2003-12-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Léon-Bollée",
+          "city": "Le Mans",
+          "capacity": "17 801"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ogc-nizza",
+    "away": "ea-guingamp",
+    "GH": 2,
+    "GA": 0,
+    "date": "2003-12-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Municipal du Ray",
+          "city": "Nice",
+          "capacity": "17 415"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "racing-strassburg",
+    "away": "hsc-montpellier",
+    "GH": 4,
+    "GA": 2,
+    "date": "2003-12-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "sc-bastia",
+    "away": "osc-lille",
+    "GH": 0,
+    "GA": 2,
+    "date": "2003-12-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "stade-rennes",
+    "away": "as-monaco",
+    "GH": 1,
+    "GA": 0,
+    "date": "2003-12-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-marseille",
+    "away": "fc-toulouse",
+    "GH": 1,
+    "GA": 0,
+    "date": "2003-12-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-lyon",
+    "away": "paris-saint-germain",
+    "GH": 1,
+    "GA": 1,
+    "date": "2003-12-19",
+    "incident": {
+      "incidents": [],
+      "metadata": {}
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "as-monaco",
+    "away": "racing-strassburg",
+    "GH": 2,
+    "GA": 0,
+    "date": "2003-12-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "aj-auxerre",
+    "away": "rc-lens",
+    "GH": 2,
+    "GA": 0,
+    "date": "2003-12-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ea-guingamp",
+    "away": "fc-nantes",
+    "GH": 1,
+    "GA": 1,
+    "date": "2003-12-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-metz",
+    "away": "stade-rennes",
+    "GH": 1,
+    "GA": 1,
+    "date": "2003-12-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-sochaux",
+    "away": "ac-ajaccio",
+    "GH": 2,
+    "GA": 0,
+    "date": "2003-12-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Auguste Bonal",
+          "city": "Montbéliard",
+          "capacity": "20 005"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-toulouse",
+    "away": "ogc-nizza",
+    "GH": 1,
+    "GA": 1,
+    "date": "2003-12-13",
+    "incident": {
+      "incidents": [
+        {
+          "team": "home",
+          "minute": "8'",
+          "incident_type": "Goal",
+          "player_name": "Eduardo Da Silva"
+        },
+        {
+          "team": "away",
+          "minute": "20'",
+          "incident_type": "Yellow Card",
+          "player_name": "Abdelmalek Cherrad"
+        },
+        {
+          "team": "home",
+          "minute": "37'",
+          "incident_type": "Yellow Card",
+          "player_name": "Eduardo Da Silva"
+        },
+        {
+          "team": "away",
+          "minute": "44'",
+          "incident_type": "Yellow Card",
+          "player_name": "Abdelmalek Cherrad"
+        },
+        {
+          "team": "home",
+          "minute": "48'",
+          "incident_type": "Yellow Card",
+          "player_name": "Lucien Aubey"
+        },
+        {
+          "team": "away",
+          "minute": "51'",
+          "incident_type": "Yellow Card",
+          "player_name": "Noé Pamarot"
+        },
+        {
+          "team": "home",
+          "minute": "56'",
+          "incident_type": "Yellow Card",
+          "player_name": "Achille Emana"
+        },
+        {
+          "team": "away",
+          "minute": "57'",
+          "incident_type": "Goal",
+          "player_name": "Olivier Echouafni"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "osc-lille",
+    "away": "le-mans",
+    "GH": 1,
+    "GA": 1,
+    "date": "2003-12-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "paris-saint-germain",
+    "away": "girondins-bordeaux",
+    "GH": 2,
+    "GA": 1,
+    "date": "2003-12-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "sc-bastia",
+    "away": "olympique-lyon",
+    "GH": 0,
+    "GA": 0,
+    "date": "2003-12-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "le-mans",
+    "away": "ea-guingamp",
+    "GH": 2,
+    "GA": 0,
+    "date": "2003-12-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Léon-Bollée",
+          "city": "Le Mans",
+          "capacity": "17 801"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ogc-nizza",
+    "away": "hsc-montpellier",
+    "GH": 2,
+    "GA": 1,
+    "date": "2003-12-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Municipal du Ray",
+          "city": "Nice",
+          "capacity": "17 415"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ac-ajaccio",
+    "away": "aj-auxerre",
+    "GH": 1,
+    "GA": 2,
+    "date": "2003-12-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Michel Moretti Stadium",
+          "city": "Ajaccio",
+          "capacity": "8 470"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-nantes",
+    "away": "fc-toulouse",
+    "GH": 1,
+    "GA": 1,
+    "date": "2003-12-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "girondins-bordeaux",
+    "away": "osc-lille",
+    "GH": 2,
+    "GA": 1,
+    "date": "2003-12-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "racing-strassburg",
+    "away": "sc-bastia",
+    "GH": 4,
+    "GA": 2,
+    "date": "2003-12-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "stade-rennes",
+    "away": "paris-saint-germain",
+    "GH": 1,
+    "GA": 1,
+    "date": "2003-12-06",
+    "incident": {
+      "incidents": [],
+      "metadata": {}
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "rc-lens",
+    "away": "fc-sochaux",
+    "GH": 0,
+    "GA": 3,
+    "date": "2003-12-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-marseille",
+    "away": "as-monaco",
+    "GH": 1,
+    "GA": 2,
+    "date": "2003-12-05",
+    "incident": {
+      "incidents": [],
+      "metadata": {}
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-lyon",
+    "away": "fc-metz",
+    "GH": 2,
+    "GA": 1,
+    "date": "2003-12-05",
+    "incident": {
+      "incidents": [],
+      "metadata": {}
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "paris-saint-germain",
+    "away": "racing-strassburg",
+    "GH": 3,
+    "GA": 2,
+    "date": "2003-12-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "aj-auxerre",
+    "away": "le-mans",
+    "GH": 1,
+    "GA": 0,
+    "date": "2003-12-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ea-guingamp",
+    "away": "ac-ajaccio",
+    "GH": 2,
+    "GA": 0,
+    "date": "2003-12-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-toulouse",
+    "away": "rc-lens",
+    "GH": 1,
+    "GA": 2,
+    "date": "2003-12-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "osc-lille",
+    "away": "fc-nantes",
+    "GH": 2,
+    "GA": 0,
+    "date": "2003-12-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "sc-bastia",
+    "away": "stade-rennes",
+    "GH": 3,
+    "GA": 2,
+    "date": "2003-12-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-marseille",
+    "away": "paris-saint-germain",
+    "GH": 0,
+    "GA": 1,
+    "date": "2003-11-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-sochaux",
+    "away": "aj-auxerre",
+    "GH": 3,
+    "GA": 2,
+    "date": "2003-11-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Auguste Bonal",
+          "city": "Montbéliard",
+          "capacity": "20 005"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "rc-lens",
+    "away": "ea-guingamp",
+    "GH": 2,
+    "GA": 1,
+    "date": "2003-11-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "girondins-bordeaux",
+    "away": "sc-bastia",
+    "GH": 1,
+    "GA": 1,
+    "date": "2003-11-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ac-ajaccio",
+    "away": "fc-toulouse",
+    "GH": 2,
+    "GA": 1,
+    "date": "2003-11-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Michel Moretti Stadium",
+          "city": "Ajaccio",
+          "capacity": "8 470"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-nantes",
+    "away": "as-monaco",
+    "GH": 0,
+    "GA": 1,
+    "date": "2003-11-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "le-mans",
+    "away": "hsc-montpellier",
+    "GH": 4,
+    "GA": 0,
+    "date": "2003-11-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Léon-Bollée",
+          "city": "Le Mans",
+          "capacity": "17 801"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ogc-nizza",
+    "away": "fc-metz",
+    "GH": 1,
+    "GA": 1,
+    "date": "2003-11-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Municipal du Ray",
+          "city": "Nice",
+          "capacity": "17 415"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "racing-strassburg",
+    "away": "osc-lille",
+    "GH": 2,
+    "GA": 2,
+    "date": "2003-11-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "stade-rennes",
+    "away": "olympique-lyon",
+    "GH": 3,
+    "GA": 1,
+    "date": "2003-11-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "paris-saint-germain",
+    "away": "ogc-nizza",
+    "GH": 0,
+    "GA": 0,
+    "date": "2003-11-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ea-guingamp",
+    "away": "fc-sochaux",
+    "GH": 1,
+    "GA": 2,
+    "date": "2003-11-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-metz",
+    "away": "aj-auxerre",
+    "GH": 0,
+    "GA": 2,
+    "date": "2003-11-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-toulouse",
+    "away": "le-mans",
+    "GH": 1,
+    "GA": 1,
+    "date": "2003-11-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "girondins-bordeaux",
+    "away": "stade-rennes",
+    "GH": 2,
+    "GA": 1,
+    "date": "2003-11-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "hsc-montpellier",
+    "away": "ac-ajaccio",
+    "GH": 3,
+    "GA": 1,
+    "date": "2003-11-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Mosson",
+          "city": "Montpellier",
+          "capacity": "20 484"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "osc-lille",
+    "away": "olympique-marseille",
+    "GH": 0,
+    "GA": 2,
+    "date": "2003-11-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "sc-bastia",
+    "away": "fc-nantes",
+    "GH": 1,
+    "GA": 3,
+    "date": "2003-11-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "as-monaco",
+    "away": "rc-lens",
+    "GH": 2,
+    "GA": 0,
+    "date": "2003-11-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-lyon",
+    "away": "racing-strassburg",
+    "GH": 1,
+    "GA": 0,
+    "date": "2003-11-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-marseille",
+    "away": "olympique-lyon",
+    "GH": 1,
+    "GA": 4,
+    "date": "2003-11-09",
+    "incident": {
+      "incidents": [
+        {
+          "team": "away",
+          "minute": "16'",
+          "incident_type": "Yellow Card",
+          "player_name": "Anthony Réveillere"
+        },
+        {
+          "team": "away",
+          "minute": "19'",
+          "incident_type": "Goal",
+          "player_name": "Giovane Elber"
+        },
+        {
+          "team": "home",
+          "minute": "20'",
+          "incident_type": "Goal",
+          "player_name": "Daniel van Buyten"
+        },
+        {
+          "team": "home",
+          "minute": "23'",
+          "incident_type": "Yellow Card",
+          "player_name": "Pascal Johansen"
+        },
+        {
+          "team": "away",
+          "minute": "37'",
+          "incident_type": "Goal",
+          "player_name": "Juninho"
+        },
+        {
+          "team": "away",
+          "minute": "52'",
+          "incident_type": "Yellow Card",
+          "player_name": "Patrick Müller"
+        },
+        {
+          "team": "away",
+          "minute": "58'",
+          "incident_type": "Goal",
+          "player_name": "Peguy Luyindula"
+        },
+        {
+          "team": "away",
+          "minute": "90'",
+          "incident_type": "Goal",
+          "player_name": "Juninho"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ac-ajaccio",
+    "away": "as-monaco",
+    "GH": 0,
+    "GA": 1,
+    "date": "2003-11-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Michel Moretti Stadium",
+          "city": "Ajaccio",
+          "capacity": "8 470"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "aj-auxerre",
+    "away": "ea-guingamp",
+    "GH": 3,
+    "GA": 0,
+    "date": "2003-11-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-sochaux",
+    "away": "fc-toulouse",
+    "GH": 3,
+    "GA": 1,
+    "date": "2003-11-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Auguste Bonal",
+          "city": "Montbéliard",
+          "capacity": "20 005"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "racing-strassburg",
+    "away": "girondins-bordeaux",
+    "GH": 1,
+    "GA": 1,
+    "date": "2003-11-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "rc-lens",
+    "away": "hsc-montpellier",
+    "GH": 3,
+    "GA": 2,
+    "date": "2003-11-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-nantes",
+    "away": "paris-saint-germain",
+    "GH": 0,
+    "GA": 1,
+    "date": "2003-11-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "le-mans",
+    "away": "fc-metz",
+    "GH": 2,
+    "GA": 0,
+    "date": "2003-11-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Léon-Bollée",
+          "city": "Le Mans",
+          "capacity": "17 801"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "stade-rennes",
+    "away": "osc-lille",
+    "GH": 2,
+    "GA": 2,
+    "date": "2003-11-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ogc-nizza",
+    "away": "sc-bastia",
+    "GH": 2,
+    "GA": 0,
+    "date": "2003-11-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Municipal du Ray",
+          "city": "Nice",
+          "capacity": "17 415"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "paris-saint-germain",
+    "away": "rc-lens",
+    "GH": 0,
+    "GA": 1,
+    "date": "2003-11-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "as-monaco",
+    "away": "le-mans",
+    "GH": 4,
+    "GA": 2,
+    "date": "2003-11-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-metz",
+    "away": "fc-sochaux",
+    "GH": 0,
+    "GA": 1,
+    "date": "2003-11-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-toulouse",
+    "away": "aj-auxerre",
+    "GH": 0,
+    "GA": 3,
+    "date": "2003-11-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "girondins-bordeaux",
+    "away": "olympique-marseille",
+    "GH": 1,
+    "GA": 0,
+    "date": "2003-11-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "hsc-montpellier",
+    "away": "fc-nantes",
+    "GH": 4,
+    "GA": 1,
+    "date": "2003-11-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Mosson",
+          "city": "Montpellier",
+          "capacity": "20 484"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "osc-lille",
+    "away": "ea-guingamp",
+    "GH": 1,
+    "GA": 3,
+    "date": "2003-11-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "sc-bastia",
+    "away": "ac-ajaccio",
+    "GH": 1,
+    "GA": 1,
+    "date": "2003-11-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "stade-rennes",
+    "away": "racing-strassburg",
+    "GH": 1,
+    "GA": 1,
+    "date": "2003-11-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-lyon",
+    "away": "ogc-nizza",
+    "GH": 5,
+    "GA": 0,
+    "date": "2003-11-01",
+    "incident": {
+      "incidents": [
+        {
+          "team": "home",
+          "minute": "24'",
+          "incident_type": "Goal",
+          "player_name": "Juninho"
+        },
+        {
+          "team": "home",
+          "minute": "27'",
+          "incident_type": "Goal",
+          "player_name": "Florent Malouda"
+        },
+        {
+          "team": "away",
+          "minute": "31'",
+          "incident_type": "Red Card",
+          "player_name": "Romain Pitau"
+        },
+        {
+          "team": "away",
+          "minute": "33'",
+          "incident_type": "Yellow Card",
+          "player_name": "Olivier Echouafni"
+        },
+        {
+          "team": "home",
+          "minute": "39'",
+          "incident_type": "Goal",
+          "player_name": "Giovane Elber"
+        },
+        {
+          "team": "home",
+          "minute": "45'",
+          "incident_type": "Goal",
+          "player_name": "Sidney Govou"
+        },
+        {
+          "team": "home",
+          "minute": "48'",
+          "incident_type": "Yellow Card",
+          "player_name": "Peguy Luyindula"
+        },
+        {
+          "team": "home",
+          "minute": "56'",
+          "incident_type": "Yellow Card",
+          "player_name": "Anthony Réveillère"
+        },
+        {
+          "team": "away",
+          "minute": "56'",
+          "incident_type": "Yellow Card",
+          "player_name": "Jose Cobos"
+        },
+        {
+          "team": "away",
+          "minute": "63'",
+          "incident_type": "Yellow Card",
+          "player_name": "Serge Dié"
+        },
+        {
+          "team": "away",
+          "minute": "65'",
+          "incident_type": "Yellow Card",
+          "player_name": "Noé Pamarot"
+        },
+        {
+          "team": "away",
+          "minute": "70'",
+          "incident_type": "Yellow Card",
+          "player_name": "Cedric Varrault"
+        },
+        {
+          "team": "home",
+          "minute": "73'",
+          "incident_type": "Goal",
+          "player_name": "Juninho"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-sochaux",
+    "away": "as-monaco",
+    "GH": 1,
+    "GA": 1,
+    "date": "2003-10-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Auguste Bonal",
+          "city": "Montbéliard",
+          "capacity": "20 005"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ac-ajaccio",
+    "away": "paris-saint-germain",
+    "GH": 0,
+    "GA": 0,
+    "date": "2003-10-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Michel Moretti Stadium",
+          "city": "Ajaccio",
+          "capacity": "8 470"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "aj-auxerre",
+    "away": "hsc-montpellier",
+    "GH": 0,
+    "GA": 1,
+    "date": "2003-10-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ea-guingamp",
+    "away": "fc-toulouse",
+    "GH": 1,
+    "GA": 0,
+    "date": "2003-10-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "le-mans",
+    "away": "sc-bastia",
+    "GH": 1,
+    "GA": 1,
+    "date": "2003-10-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Léon-Bollée",
+          "city": "Le Mans",
+          "capacity": "17 801"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ogc-nizza",
+    "away": "girondins-bordeaux",
+    "GH": 0,
+    "GA": 0,
+    "date": "2003-10-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Municipal du Ray",
+          "city": "Nice",
+          "capacity": "17 415"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-marseille",
+    "away": "stade-rennes",
+    "GH": 2,
+    "GA": 0,
+    "date": "2003-10-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "racing-strassburg",
+    "away": "fc-metz",
+    "GH": 0,
+    "GA": 2,
+    "date": "2003-10-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "rc-lens",
+    "away": "osc-lille",
+    "GH": 2,
+    "GA": 1,
+    "date": "2003-10-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-nantes",
+    "away": "olympique-lyon",
+    "GH": 0,
+    "GA": 1,
+    "date": "2003-10-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-metz",
+    "away": "fc-nantes",
+    "GH": 1,
+    "GA": 3,
+    "date": "2003-10-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "girondins-bordeaux",
+    "away": "fc-toulouse",
+    "GH": 1,
+    "GA": 2,
+    "date": "2003-10-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "hsc-montpellier",
+    "away": "ea-guingamp",
+    "GH": 2,
+    "GA": 0,
+    "date": "2003-10-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Mosson",
+          "city": "Montpellier",
+          "capacity": "20 484"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-lyon",
+    "away": "fc-sochaux",
+    "GH": 1,
+    "GA": 1,
+    "date": "2003-10-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "osc-lille",
+    "away": "ac-ajaccio",
+    "GH": 0,
+    "GA": 0,
+    "date": "2003-10-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "paris-saint-germain",
+    "away": "le-mans",
+    "GH": 5,
+    "GA": 1,
+    "date": "2003-10-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "sc-bastia",
+    "away": "rc-lens",
+    "GH": 3,
+    "GA": 1,
+    "date": "2003-10-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "stade-rennes",
+    "away": "ogc-nizza",
+    "GH": 0,
+    "GA": 0,
+    "date": "2003-10-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "as-monaco",
+    "away": "aj-auxerre",
+    "GH": 1,
+    "GA": 1,
+    "date": "2003-10-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "racing-strassburg",
+    "away": "olympique-marseille",
+    "GH": 4,
+    "GA": 1,
+    "date": "2003-10-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-marseille",
+    "away": "sc-bastia",
+    "GH": 3,
+    "GA": 1,
+    "date": "2003-10-05",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ac-ajaccio",
+    "away": "olympique-lyon",
+    "GH": 2,
+    "GA": 4,
+    "date": "2003-10-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Michel Moretti Stadium",
+          "city": "Ajaccio",
+          "capacity": "8 470"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "aj-auxerre",
+    "away": "osc-lille",
+    "GH": 3,
+    "GA": 0,
+    "date": "2003-10-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ea-guingamp",
+    "away": "as-monaco",
+    "GH": 1,
+    "GA": 2,
+    "date": "2003-10-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-sochaux",
+    "away": "paris-saint-germain",
+    "GH": 0,
+    "GA": 1,
+    "date": "2003-10-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Auguste Bonal",
+          "city": "Montbéliard",
+          "capacity": "20 005"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-toulouse",
+    "away": "hsc-montpellier",
+    "GH": 2,
+    "GA": 2,
+    "date": "2003-10-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "le-mans",
+    "away": "girondins-bordeaux",
+    "GH": 0,
+    "GA": 0,
+    "date": "2003-10-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Léon-Bollée",
+          "city": "Le Mans",
+          "capacity": "17 801"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ogc-nizza",
+    "away": "racing-strassburg",
+    "GH": 0,
+    "GA": 0,
+    "date": "2003-10-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Municipal du Ray",
+          "city": "Nice",
+          "capacity": "17 415"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "rc-lens",
+    "away": "fc-metz",
+    "GH": 0,
+    "GA": 2,
+    "date": "2003-10-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-nantes",
+    "away": "stade-rennes",
+    "GH": 1,
+    "GA": 0,
+    "date": "2003-10-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "racing-strassburg",
+    "away": "fc-nantes",
+    "GH": 1,
+    "GA": 0,
+    "date": "2003-09-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "girondins-bordeaux",
+    "away": "ac-ajaccio",
+    "GH": 1,
+    "GA": 0,
+    "date": "2003-09-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "as-monaco",
+    "away": "fc-toulouse",
+    "GH": 3,
+    "GA": 0,
+    "date": "2003-09-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-metz",
+    "away": "ea-guingamp",
+    "GH": 1,
+    "GA": 1,
+    "date": "2003-09-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-marseille",
+    "away": "ogc-nizza",
+    "GH": 2,
+    "GA": 1,
+    "date": "2003-09-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "osc-lille",
+    "away": "hsc-montpellier",
+    "GH": 1,
+    "GA": 1,
+    "date": "2003-09-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "paris-saint-germain",
+    "away": "aj-auxerre",
+    "GH": 1,
+    "GA": 0,
+    "date": "2003-09-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "sc-bastia",
+    "away": "fc-sochaux",
+    "GH": 2,
+    "GA": 0,
+    "date": "2003-09-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "stade-rennes",
+    "away": "le-mans",
+    "GH": 2,
+    "GA": 0,
+    "date": "2003-09-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-lyon",
+    "away": "rc-lens",
+    "GH": 4,
+    "GA": 0,
+    "date": "2003-09-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-nantes",
+    "away": "olympique-marseille",
+    "GH": 1,
+    "GA": 0,
+    "date": "2003-09-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "hsc-montpellier",
+    "away": "as-monaco",
+    "GH": 1,
+    "GA": 2,
+    "date": "2003-09-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Mosson",
+          "city": "Montpellier",
+          "capacity": "20 484"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "le-mans",
+    "away": "olympique-lyon",
+    "GH": 0,
+    "GA": 2,
+    "date": "2003-09-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Léon-Bollée",
+          "city": "Le Mans",
+          "capacity": "17 801"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ac-ajaccio",
+    "away": "stade-rennes",
+    "GH": 1,
+    "GA": 0,
+    "date": "2003-09-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Michel Moretti Stadium",
+          "city": "Ajaccio",
+          "capacity": "8 470"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "aj-auxerre",
+    "away": "sc-bastia",
+    "GH": 4,
+    "GA": 1,
+    "date": "2003-09-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ea-guingamp",
+    "away": "paris-saint-germain",
+    "GH": 0,
+    "GA": 2,
+    "date": "2003-09-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-toulouse",
+    "away": "fc-metz",
+    "GH": 1,
+    "GA": 0,
+    "date": "2003-09-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ogc-nizza",
+    "away": "osc-lille",
+    "GH": 2,
+    "GA": 0,
+    "date": "2003-09-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Municipal du Ray",
+          "city": "Nice",
+          "capacity": "17 415"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "rc-lens",
+    "away": "girondins-bordeaux",
+    "GH": 1,
+    "GA": 0,
+    "date": "2003-09-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-sochaux",
+    "away": "racing-strassburg",
+    "GH": 3,
+    "GA": 0,
+    "date": "2003-09-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Auguste Bonal",
+          "city": "Montbéliard",
+          "capacity": "20 005"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "paris-saint-germain",
+    "away": "fc-toulouse",
+    "GH": 2,
+    "GA": 1,
+    "date": "2003-09-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-metz",
+    "away": "hsc-montpellier",
+    "GH": 2,
+    "GA": 1,
+    "date": "2003-09-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "girondins-bordeaux",
+    "away": "fc-sochaux",
+    "GH": 1,
+    "GA": 3,
+    "date": "2003-09-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ogc-nizza",
+    "away": "fc-nantes",
+    "GH": 1,
+    "GA": 0,
+    "date": "2003-09-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Municipal du Ray",
+          "city": "Nice",
+          "capacity": "17 415"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-marseille",
+    "away": "le-mans",
+    "GH": 5,
+    "GA": 0,
+    "date": "2003-09-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "osc-lille",
+    "away": "as-monaco",
+    "GH": 1,
+    "GA": 1,
+    "date": "2003-09-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "racing-strassburg",
+    "away": "ac-ajaccio",
+    "GH": 3,
+    "GA": 2,
+    "date": "2003-09-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "sc-bastia",
+    "away": "ea-guingamp",
+    "GH": 4,
+    "GA": 2,
+    "date": "2003-09-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "stade-rennes",
+    "away": "rc-lens",
+    "GH": 2,
+    "GA": 0,
+    "date": "2003-09-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-lyon",
+    "away": "aj-auxerre",
+    "GH": 1,
+    "GA": 1,
+    "date": "2003-09-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ac-ajaccio",
+    "away": "olympique-marseille",
+    "GH": 0,
+    "GA": 1,
+    "date": "2003-08-31",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Michel Moretti Stadium",
+          "city": "Ajaccio",
+          "capacity": "8 470"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "as-monaco",
+    "away": "fc-metz",
+    "GH": 1,
+    "GA": 0,
+    "date": "2003-08-31",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "rc-lens",
+    "away": "ogc-nizza",
+    "GH": 1,
+    "GA": 0,
+    "date": "2003-08-31",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "aj-auxerre",
+    "away": "stade-rennes",
+    "GH": 2,
+    "GA": 1,
+    "date": "2003-08-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-nantes",
+    "away": "girondins-bordeaux",
+    "GH": 0,
+    "GA": 0,
+    "date": "2003-08-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-sochaux",
+    "away": "osc-lille",
+    "GH": 2,
+    "GA": 1,
+    "date": "2003-08-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Auguste Bonal",
+          "city": "Montbéliard",
+          "capacity": "20 005"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-toulouse",
+    "away": "sc-bastia",
+    "GH": 0,
+    "GA": 2,
+    "date": "2003-08-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "hsc-montpellier",
+    "away": "paris-saint-germain",
+    "GH": 3,
+    "GA": 2,
+    "date": "2003-08-30",
+    "incident": {
+      "incidents": [],
+      "metadata": {}
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "le-mans",
+    "away": "racing-strassburg",
+    "GH": 0,
+    "GA": 3,
+    "date": "2003-08-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Léon-Bollée",
+          "city": "Le Mans",
+          "capacity": "17 801"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ea-guingamp",
+    "away": "olympique-lyon",
+    "GH": 2,
+    "GA": 0,
+    "date": "2003-08-30",
+    "incident": {
+      "incidents": [],
+      "metadata": {}
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "paris-saint-germain",
+    "away": "as-monaco",
+    "GH": 2,
+    "GA": 4,
+    "date": "2003-08-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-nantes",
+    "away": "le-mans",
+    "GH": 1,
+    "GA": 0,
+    "date": "2003-08-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ogc-nizza",
+    "away": "ac-ajaccio",
+    "GH": 2,
+    "GA": 2,
+    "date": "2003-08-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Municipal du Ray",
+          "city": "Nice",
+          "capacity": "17 415"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-lyon",
+    "away": "fc-toulouse",
+    "GH": 0,
+    "GA": 0,
+    "date": "2003-08-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-marseille",
+    "away": "fc-sochaux",
+    "GH": 2,
+    "GA": 0,
+    "date": "2003-08-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "osc-lille",
+    "away": "fc-metz",
+    "GH": 1,
+    "GA": 1,
+    "date": "2003-08-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "racing-strassburg",
+    "away": "rc-lens",
+    "GH": 0,
+    "GA": 1,
+    "date": "2003-08-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "sc-bastia",
+    "away": "hsc-montpellier",
+    "GH": 1,
+    "GA": 0,
+    "date": "2003-08-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "stade-rennes",
+    "away": "ea-guingamp",
+    "GH": 0,
+    "GA": 0,
+    "date": "2003-08-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "girondins-bordeaux",
+    "away": "aj-auxerre",
+    "GH": 2,
+    "GA": 0,
+    "date": "2003-08-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "rc-lens",
+    "away": "olympique-marseille",
+    "GH": 2,
+    "GA": 1,
+    "date": "2003-08-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ac-ajaccio",
+    "away": "fc-nantes",
+    "GH": 1,
+    "GA": 3,
+    "date": "2003-08-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Michel Moretti Stadium",
+          "city": "Ajaccio",
+          "capacity": "8 470"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "as-monaco",
+    "away": "sc-bastia",
+    "GH": 2,
+    "GA": 0,
+    "date": "2003-08-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ea-guingamp",
+    "away": "girondins-bordeaux",
+    "GH": 1,
+    "GA": 3,
+    "date": "2003-08-16",
+    "incident": {
+      "incidents": [],
+      "metadata": {}
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-metz",
+    "away": "paris-saint-germain",
+    "GH": 0,
+    "GA": 1,
+    "date": "2003-08-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-sochaux",
+    "away": "stade-rennes",
+    "GH": 1,
+    "GA": 1,
+    "date": "2003-08-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Auguste Bonal",
+          "city": "Montbéliard",
+          "capacity": "20 005"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-toulouse",
+    "away": "osc-lille",
+    "GH": 0,
+    "GA": 3,
+    "date": "2003-08-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "hsc-montpellier",
+    "away": "olympique-lyon",
+    "GH": 0,
+    "GA": 2,
+    "date": "2003-08-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Mosson",
+          "city": "Montpellier",
+          "capacity": "20 484"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "le-mans",
+    "away": "ogc-nizza",
+    "GH": 1,
+    "GA": 1,
+    "date": "2003-08-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Léon-Bollée",
+          "city": "Le Mans",
+          "capacity": "17 801"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "aj-auxerre",
+    "away": "racing-strassburg",
+    "GH": 3,
+    "GA": 2,
+    "date": "2003-08-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-nantes",
+    "away": "rc-lens",
+    "GH": 2,
+    "GA": 0,
+    "date": "2003-08-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "girondins-bordeaux",
+    "away": "hsc-montpellier",
+    "GH": 0,
+    "GA": 1,
+    "date": "2003-08-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "le-mans",
+    "away": "ac-ajaccio",
+    "GH": 0,
+    "GA": 1,
+    "date": "2003-08-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Léon-Bollée",
+          "city": "Le Mans",
+          "capacity": "17 801"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ogc-nizza",
+    "away": "fc-sochaux",
+    "GH": 1,
+    "GA": 0,
+    "date": "2003-08-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Municipal du Ray",
+          "city": "Nice",
+          "capacity": "17 415"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-lyon",
+    "away": "as-monaco",
+    "GH": 3,
+    "GA": 1,
+    "date": "2003-08-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "racing-strassburg",
+    "away": "ea-guingamp",
+    "GH": 2,
+    "GA": 0,
+    "date": "2003-08-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "sc-bastia",
+    "away": "fc-metz",
+    "GH": 0,
+    "GA": 2,
+    "date": "2003-08-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "stade-rennes",
+    "away": "fc-toulouse",
+    "GH": 1,
+    "GA": 0,
+    "date": "2003-08-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "osc-lille",
+    "away": "paris-saint-germain",
+    "GH": 1,
+    "GA": 0,
+    "date": "2003-08-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "olympique-marseille",
+    "away": "aj-auxerre",
+    "GH": 1,
+    "GA": 0,
+    "date": "2003-08-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "aj-auxerre",
+    "away": "ogc-nizza",
+    "GH": 1,
+    "GA": 2,
+    "date": "2003-08-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "ea-guingamp",
+    "away": "olympique-marseille",
+    "GH": 0,
+    "GA": 1,
+    "date": "2003-08-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-metz",
+    "away": "ac-ajaccio",
+    "GH": 0,
+    "GA": 1,
+    "date": "2003-08-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-sochaux",
+    "away": "fc-nantes",
+    "GH": 2,
+    "GA": 1,
+    "date": "2003-08-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Auguste Bonal",
+          "city": "Montbéliard",
+          "capacity": "20 005"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "fc-toulouse",
+    "away": "racing-strassburg",
+    "GH": 1,
+    "GA": 1,
+    "date": "2003-08-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "hsc-montpellier",
+    "away": "stade-rennes",
+    "GH": 1,
+    "GA": 1,
+    "date": "2003-08-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Mosson",
+          "city": "Montpellier",
+          "capacity": "20 484"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "paris-saint-germain",
+    "away": "sc-bastia",
+    "GH": 0,
+    "GA": 0,
+    "date": "2003-08-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "rc-lens",
+    "away": "le-mans",
+    "GH": 0,
+    "GA": 0,
+    "date": "2003-08-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "as-monaco",
+    "away": "girondins-bordeaux",
+    "GH": 2,
+    "GA": 0,
+    "date": "2003-08-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2003-2004",
+    "home": "osc-lille",
+    "away": "olympique-lyon",
+    "GH": 1,
+    "GA": 0,
+    "date": "2003-08-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  }
+]
