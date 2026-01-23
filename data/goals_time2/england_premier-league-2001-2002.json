@@ -1,0 +1,7004 @@
+[
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "afc-sunderland",
+    "away": "derby-county",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-05-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium of Light",
+          "city": "Sunderland",
+          "capacity": "48 707"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "blackburn-rovers",
+    "away": "fc-fulham",
+    "GH": 3,
+    "GA": 0,
+    "date": "2002-05-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ewood Park",
+          "city": "Blackburn",
+          "capacity": "31 367"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-arsenal",
+    "away": "fc-everton",
+    "GH": 4,
+    "GA": 3,
+    "date": "2002-05-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Highbury",
+          "city": "London",
+          "capacity": "38 419"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-chelsea",
+    "away": "aston-villa",
+    "GH": 1,
+    "GA": 3,
+    "date": "2002-05-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stamford Bridge",
+          "city": "London",
+          "capacity": "40 341"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-liverpool",
+    "away": "ipswich-town",
+    "GH": 5,
+    "GA": 0,
+    "date": "2002-05-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Anfield",
+          "city": "Liverpool",
+          "capacity": "61 276"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-southampton",
+    "away": "newcastle-united",
+    "GH": 3,
+    "GA": 1,
+    "date": "2002-05-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. Mary's Stadium",
+          "city": "Southampton",
+          "capacity": "32 384"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leeds-united",
+    "away": "fc-middlesbrough",
+    "GH": 1,
+    "GA": 0,
+    "date": "2002-05-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Elland Road",
+          "city": "Leeds",
+          "capacity": "37 792"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leicester-city",
+    "away": "tottenham-hotspur",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-05-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "King Power Stadium",
+          "city": "Leicester",
+          "capacity": "32 261"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "manchester-united",
+    "away": "charlton-athletic",
+    "GH": 0,
+    "GA": 0,
+    "date": "2002-05-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Old Trafford",
+          "city": "Manchester",
+          "capacity": "75 635"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "west-ham-united",
+    "away": "bolton-wanderers",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-05-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Boleyn Ground",
+          "city": "London",
+          "capacity": "35 016"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-liverpool",
+    "away": "blackburn-rovers",
+    "GH": 4,
+    "GA": 3,
+    "date": "2002-05-08",
+    "incident": {
+      "incidents": [
+        {
+          "team": "home",
+          "minute": "23'",
+          "incident_type": "Goal",
+          "player_name": "Danny Murphy"
+        },
+        {
+          "team": "away",
+          "minute": "28'",
+          "incident_type": "Goal",
+          "player_name": "Damien Duff"
+        },
+        {
+          "team": "home",
+          "minute": "39'",
+          "incident_type": "Goal",
+          "player_name": "Anelka"
+        },
+        {
+          "team": "away",
+          "minute": "49'",
+          "incident_type": "Goal",
+          "player_name": "Andy Cole"
+        },
+        {
+          "team": "home",
+          "minute": "52'",
+          "incident_type": "Goal",
+          "player_name": "Sami Hyypia"
+        },
+        {
+          "team": "away",
+          "minute": "80'",
+          "incident_type": "Goal",
+          "player_name": "Matt Jansen"
+        },
+        {
+          "team": "away",
+          "minute": "82'",
+          "incident_type": "Yellow Card",
+          "player_name": "Damien Duff"
+        },
+        {
+          "team": "home",
+          "minute": "84'",
+          "incident_type": "Yellow Card",
+          "player_name": "Steven Gerrard"
+        },
+        {
+          "team": "home",
+          "minute": "86'",
+          "incident_type": "Goal",
+          "player_name": "Emile Heskey"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Anfield",
+          "city": "Liverpool",
+          "capacity": "61 276"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "manchester-united",
+    "away": "fc-arsenal",
+    "GH": 0,
+    "GA": 1,
+    "date": "2002-05-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Old Trafford",
+          "city": "Manchester",
+          "capacity": "75 635"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "bolton-wanderers",
+    "away": "fc-arsenal",
+    "GH": 0,
+    "GA": 2,
+    "date": "2002-04-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Toughsheet Community Stadium",
+          "city": "Bolton",
+          "capacity": "28 723"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-everton",
+    "away": "blackburn-rovers",
+    "GH": 1,
+    "GA": 2,
+    "date": "2002-04-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Goodison Park",
+          "city": "Liverpool",
+          "capacity": "39 572"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "ipswich-town",
+    "away": "manchester-united",
+    "GH": 0,
+    "GA": 1,
+    "date": "2002-04-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Portman Road",
+          "city": "Ipswich",
+          "capacity": "30 017"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "aston-villa",
+    "away": "fc-southampton",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-04-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Villa Park",
+          "city": "Birmingham",
+          "capacity": "42 789"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "charlton-athletic",
+    "away": "afc-sunderland",
+    "GH": 2,
+    "GA": 2,
+    "date": "2002-04-27",
+    "incident": {
+      "incidents": [],
+      "metadata": {}
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "derby-county",
+    "away": "leeds-united",
+    "GH": 0,
+    "GA": 1,
+    "date": "2002-04-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Pride Park",
+          "city": "Derby",
+          "capacity": "33 597"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-fulham",
+    "away": "leicester-city",
+    "GH": 0,
+    "GA": 0,
+    "date": "2002-04-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Craven Cottage",
+          "city": "London",
+          "capacity": "29 589"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-middlesbrough",
+    "away": "fc-chelsea",
+    "GH": 0,
+    "GA": 2,
+    "date": "2002-04-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Riverside Stadium",
+          "city": "Middlesbrough",
+          "capacity": "34 742"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "newcastle-united",
+    "away": "west-ham-united",
+    "GH": 3,
+    "GA": 1,
+    "date": "2002-04-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. James' Park",
+          "city": "Newcastle",
+          "capacity": "52 305"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "tottenham-hotspur",
+    "away": "fc-liverpool",
+    "GH": 1,
+    "GA": 0,
+    "date": "2002-04-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "White Hart Lane",
+          "city": "London",
+          "capacity": "36 284"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-arsenal",
+    "away": "west-ham-united",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-04-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Highbury",
+          "city": "London",
+          "capacity": "38 419"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "ipswich-town",
+    "away": "fc-middlesbrough",
+    "GH": 1,
+    "GA": 0,
+    "date": "2002-04-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Portman Road",
+          "city": "Ipswich",
+          "capacity": "30 017"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "blackburn-rovers",
+    "away": "newcastle-united",
+    "GH": 2,
+    "GA": 2,
+    "date": "2002-04-23",
+    "incident": {
+      "incidents": [
+        {
+          "team": "home",
+          "minute": "24'",
+          "incident_type": "Goal",
+          "player_name": "Keith Gillespie"
+        },
+        {
+          "team": "away",
+          "minute": "25'",
+          "incident_type": "Yellow Card",
+          "player_name": "Robbie Elliott"
+        },
+        {
+          "team": "away",
+          "minute": "57'",
+          "incident_type": "Yellow Card",
+          "player_name": "Laurent Robert"
+        },
+        {
+          "team": "away",
+          "minute": "63'",
+          "incident_type": "Goal",
+          "player_name": "Alan Shearer"
+        },
+        {
+          "team": "home",
+          "minute": "67'",
+          "incident_type": "Goal",
+          "player_name": "Andy Cole"
+        },
+        {
+          "team": "away",
+          "minute": "70'",
+          "incident_type": "Goal",
+          "player_name": "Alan Shearer"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Ewood Park",
+          "city": "Blackburn",
+          "capacity": "31 367"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-fulham",
+    "away": "bolton-wanderers",
+    "GH": 3,
+    "GA": 0,
+    "date": "2002-04-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Craven Cottage",
+          "city": "London",
+          "capacity": "29 589"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-arsenal",
+    "away": "ipswich-town",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-04-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Highbury",
+          "city": "London",
+          "capacity": "38 419"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-southampton",
+    "away": "fc-everton",
+    "GH": 0,
+    "GA": 1,
+    "date": "2002-04-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. Mary's Stadium",
+          "city": "Southampton",
+          "capacity": "32 384"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "bolton-wanderers",
+    "away": "tottenham-hotspur",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-04-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Toughsheet Community Stadium",
+          "city": "Bolton",
+          "capacity": "28 723"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-liverpool",
+    "away": "derby-county",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-04-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Anfield",
+          "city": "Liverpool",
+          "capacity": "61 276"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-middlesbrough",
+    "away": "blackburn-rovers",
+    "GH": 1,
+    "GA": 3,
+    "date": "2002-04-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Riverside Stadium",
+          "city": "Middlesbrough",
+          "capacity": "34 742"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leeds-united",
+    "away": "fc-fulham",
+    "GH": 0,
+    "GA": 1,
+    "date": "2002-04-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Elland Road",
+          "city": "Leeds",
+          "capacity": "37 792"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leicester-city",
+    "away": "aston-villa",
+    "GH": 2,
+    "GA": 2,
+    "date": "2002-04-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "King Power Stadium",
+          "city": "Leicester",
+          "capacity": "32 261"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "newcastle-united",
+    "away": "charlton-athletic",
+    "GH": 3,
+    "GA": 0,
+    "date": "2002-04-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. James' Park",
+          "city": "Newcastle",
+          "capacity": "52 305"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "west-ham-united",
+    "away": "afc-sunderland",
+    "GH": 3,
+    "GA": 0,
+    "date": "2002-04-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Boleyn Ground",
+          "city": "London",
+          "capacity": "35 016"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-chelsea",
+    "away": "manchester-united",
+    "GH": 0,
+    "GA": 3,
+    "date": "2002-04-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stamford Bridge",
+          "city": "London",
+          "capacity": "40 341"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "afc-sunderland",
+    "away": "fc-liverpool",
+    "GH": 0,
+    "GA": 1,
+    "date": "2002-04-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium of Light",
+          "city": "Sunderland",
+          "capacity": "48 707"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "aston-villa",
+    "away": "leeds-united",
+    "GH": 0,
+    "GA": 1,
+    "date": "2002-04-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Villa Park",
+          "city": "Birmingham",
+          "capacity": "42 789"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "charlton-athletic",
+    "away": "fc-southampton",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-04-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "The Valley",
+          "city": "London",
+          "capacity": "27 111"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "derby-county",
+    "away": "newcastle-united",
+    "GH": 2,
+    "GA": 3,
+    "date": "2002-04-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Pride Park",
+          "city": "Derby",
+          "capacity": "33 597"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-everton",
+    "away": "leicester-city",
+    "GH": 2,
+    "GA": 2,
+    "date": "2002-04-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Goodison Park",
+          "city": "Liverpool",
+          "capacity": "39 572"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "tottenham-hotspur",
+    "away": "west-ham-united",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-04-13",
+    "incident": {
+      "incidents": [],
+      "metadata": {}
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "blackburn-rovers",
+    "away": "fc-chelsea",
+    "GH": 0,
+    "GA": 0,
+    "date": "2002-04-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ewood Park",
+          "city": "Blackburn",
+          "capacity": "31 367"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "newcastle-united",
+    "away": "fc-fulham",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-04-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. James' Park",
+          "city": "Newcastle",
+          "capacity": "52 305"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leeds-united",
+    "away": "afc-sunderland",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-04-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Elland Road",
+          "city": "Leeds",
+          "capacity": "37 792"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "bolton-wanderers",
+    "away": "ipswich-town",
+    "GH": 4,
+    "GA": 1,
+    "date": "2002-04-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Toughsheet Community Stadium",
+          "city": "Bolton",
+          "capacity": "28 723"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-arsenal",
+    "away": "tottenham-hotspur",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-04-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Highbury",
+          "city": "London",
+          "capacity": "38 419"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-chelsea",
+    "away": "fc-everton",
+    "GH": 3,
+    "GA": 0,
+    "date": "2002-04-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stamford Bridge",
+          "city": "London",
+          "capacity": "40 341"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-middlesbrough",
+    "away": "aston-villa",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-04-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Riverside Stadium",
+          "city": "Middlesbrough",
+          "capacity": "34 742"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-southampton",
+    "away": "derby-county",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-04-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. Mary's Stadium",
+          "city": "Southampton",
+          "capacity": "32 384"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "west-ham-united",
+    "away": "charlton-athletic",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-04-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Boleyn Ground",
+          "city": "London",
+          "capacity": "35 016"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leicester-city",
+    "away": "manchester-united",
+    "GH": 0,
+    "GA": 1,
+    "date": "2002-04-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "King Power Stadium",
+          "city": "Leicester",
+          "capacity": "32 261"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "aston-villa",
+    "away": "newcastle-united",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-04-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Villa Park",
+          "city": "Birmingham",
+          "capacity": "42 789"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "blackburn-rovers",
+    "away": "fc-southampton",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-04-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ewood Park",
+          "city": "Blackburn",
+          "capacity": "31 367"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "afc-sunderland",
+    "away": "leicester-city",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-04-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium of Light",
+          "city": "Sunderland",
+          "capacity": "48 707"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "charlton-athletic",
+    "away": "fc-arsenal",
+    "GH": 0,
+    "GA": 3,
+    "date": "2002-04-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "The Valley",
+          "city": "London",
+          "capacity": "27 111"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "derby-county",
+    "away": "fc-middlesbrough",
+    "GH": 0,
+    "GA": 1,
+    "date": "2002-04-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Pride Park",
+          "city": "Derby",
+          "capacity": "33 597"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-everton",
+    "away": "bolton-wanderers",
+    "GH": 3,
+    "GA": 1,
+    "date": "2002-04-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Goodison Park",
+          "city": "Liverpool",
+          "capacity": "39 572"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-fulham",
+    "away": "west-ham-united",
+    "GH": 0,
+    "GA": 1,
+    "date": "2002-04-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Craven Cottage",
+          "city": "London",
+          "capacity": "29 589"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "ipswich-town",
+    "away": "fc-chelsea",
+    "GH": 0,
+    "GA": 0,
+    "date": "2002-04-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Portman Road",
+          "city": "Ipswich",
+          "capacity": "30 017"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "tottenham-hotspur",
+    "away": "leeds-united",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-04-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "White Hart Lane",
+          "city": "London",
+          "capacity": "36 284"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-middlesbrough",
+    "away": "tottenham-hotspur",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-03-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Riverside Stadium",
+          "city": "Middlesbrough",
+          "capacity": "34 742"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "bolton-wanderers",
+    "away": "aston-villa",
+    "GH": 3,
+    "GA": 2,
+    "date": "2002-03-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Toughsheet Community Stadium",
+          "city": "Bolton",
+          "capacity": "28 723"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-arsenal",
+    "away": "afc-sunderland",
+    "GH": 3,
+    "GA": 0,
+    "date": "2002-03-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Highbury",
+          "city": "London",
+          "capacity": "38 419"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-chelsea",
+    "away": "derby-county",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-03-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stamford Bridge",
+          "city": "London",
+          "capacity": "40 341"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-liverpool",
+    "away": "charlton-athletic",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-03-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Anfield",
+          "city": "Liverpool",
+          "capacity": "61 276"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-southampton",
+    "away": "fc-fulham",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-03-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. Mary's Stadium",
+          "city": "Southampton",
+          "capacity": "32 384"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leicester-city",
+    "away": "blackburn-rovers",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-03-30",
+    "incident": {
+      "incidents": [],
+      "metadata": {}
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "west-ham-united",
+    "away": "ipswich-town",
+    "GH": 3,
+    "GA": 1,
+    "date": "2002-03-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Boleyn Ground",
+          "city": "London",
+          "capacity": "35 016"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leeds-united",
+    "away": "manchester-united",
+    "GH": 3,
+    "GA": 4,
+    "date": "2002-03-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Elland Road",
+          "city": "Leeds",
+          "capacity": "37 792"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "newcastle-united",
+    "away": "fc-everton",
+    "GH": 6,
+    "GA": 2,
+    "date": "2002-03-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. James' Park",
+          "city": "Newcastle",
+          "capacity": "52 305"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-fulham",
+    "away": "tottenham-hotspur",
+    "GH": 0,
+    "GA": 2,
+    "date": "2002-03-24",
+    "incident": {
+      "incidents": [],
+      "metadata": {}
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-liverpool",
+    "away": "fc-chelsea",
+    "GH": 1,
+    "GA": 0,
+    "date": "2002-03-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Anfield",
+          "city": "Liverpool",
+          "capacity": "61 276"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "afc-sunderland",
+    "away": "fc-southampton",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-03-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium of Light",
+          "city": "Sunderland",
+          "capacity": "48 707"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "charlton-athletic",
+    "away": "bolton-wanderers",
+    "GH": 1,
+    "GA": 2,
+    "date": "2002-03-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "The Valley",
+          "city": "London",
+          "capacity": "27 111"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "derby-county",
+    "away": "fc-everton",
+    "GH": 3,
+    "GA": 4,
+    "date": "2002-03-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Pride Park",
+          "city": "Derby",
+          "capacity": "33 597"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "ipswich-town",
+    "away": "aston-villa",
+    "GH": 0,
+    "GA": 0,
+    "date": "2002-03-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Portman Road",
+          "city": "Ipswich",
+          "capacity": "30 017"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leicester-city",
+    "away": "leeds-united",
+    "GH": 0,
+    "GA": 2,
+    "date": "2002-03-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "King Power Stadium",
+          "city": "Leicester",
+          "capacity": "32 261"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "manchester-united",
+    "away": "fc-middlesbrough",
+    "GH": 0,
+    "GA": 1,
+    "date": "2002-03-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Old Trafford",
+          "city": "Manchester",
+          "capacity": "75 635"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "tottenham-hotspur",
+    "away": "charlton-athletic",
+    "GH": 0,
+    "GA": 1,
+    "date": "2002-03-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "White Hart Lane",
+          "city": "London",
+          "capacity": "36 284"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "aston-villa",
+    "away": "fc-arsenal",
+    "GH": 1,
+    "GA": 2,
+    "date": "2002-03-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Villa Park",
+          "city": "Birmingham",
+          "capacity": "42 789"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leeds-united",
+    "away": "blackburn-rovers",
+    "GH": 3,
+    "GA": 1,
+    "date": "2002-03-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Elland Road",
+          "city": "Leeds",
+          "capacity": "37 792"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "bolton-wanderers",
+    "away": "derby-county",
+    "GH": 1,
+    "GA": 3,
+    "date": "2002-03-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Toughsheet Community Stadium",
+          "city": "Bolton",
+          "capacity": "28 723"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-chelsea",
+    "away": "afc-sunderland",
+    "GH": 4,
+    "GA": 0,
+    "date": "2002-03-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stamford Bridge",
+          "city": "London",
+          "capacity": "40 341"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-everton",
+    "away": "fc-fulham",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-03-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Goodison Park",
+          "city": "Liverpool",
+          "capacity": "39 572"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-southampton",
+    "away": "leicester-city",
+    "GH": 2,
+    "GA": 2,
+    "date": "2002-03-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. Mary's Stadium",
+          "city": "Southampton",
+          "capacity": "32 384"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "newcastle-united",
+    "away": "ipswich-town",
+    "GH": 2,
+    "GA": 2,
+    "date": "2002-03-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. James' Park",
+          "city": "Newcastle",
+          "capacity": "52 305"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "west-ham-united",
+    "away": "manchester-united",
+    "GH": 3,
+    "GA": 5,
+    "date": "2002-03-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Boleyn Ground",
+          "city": "London",
+          "capacity": "35 016"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-middlesbrough",
+    "away": "fc-liverpool",
+    "GH": 1,
+    "GA": 2,
+    "date": "2002-03-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Riverside Stadium",
+          "city": "Middlesbrough",
+          "capacity": "34 742"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "blackburn-rovers",
+    "away": "ipswich-town",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-03-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ewood Park",
+          "city": "Blackburn",
+          "capacity": "31 367"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-chelsea",
+    "away": "tottenham-hotspur",
+    "GH": 4,
+    "GA": 0,
+    "date": "2002-03-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stamford Bridge",
+          "city": "London",
+          "capacity": "40 341"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leicester-city",
+    "away": "charlton-athletic",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-03-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "King Power Stadium",
+          "city": "Leicester",
+          "capacity": "32 261"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-liverpool",
+    "away": "newcastle-united",
+    "GH": 3,
+    "GA": 0,
+    "date": "2002-03-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Anfield",
+          "city": "Liverpool",
+          "capacity": "61 276"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "manchester-united",
+    "away": "tottenham-hotspur",
+    "GH": 4,
+    "GA": 0,
+    "date": "2002-03-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Old Trafford",
+          "city": "Manchester",
+          "capacity": "75 635"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-chelsea",
+    "away": "fc-fulham",
+    "GH": 3,
+    "GA": 2,
+    "date": "2002-03-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stamford Bridge",
+          "city": "London",
+          "capacity": "40 341"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-southampton",
+    "away": "fc-middlesbrough",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-03-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. Mary's Stadium",
+          "city": "Southampton",
+          "capacity": "32 384"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leeds-united",
+    "away": "ipswich-town",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-03-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Elland Road",
+          "city": "Leeds",
+          "capacity": "37 792"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "west-ham-united",
+    "away": "fc-everton",
+    "GH": 1,
+    "GA": 0,
+    "date": "2002-03-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Boleyn Ground",
+          "city": "London",
+          "capacity": "35 016"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "afc-sunderland",
+    "away": "bolton-wanderers",
+    "GH": 1,
+    "GA": 0,
+    "date": "2002-03-05",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium of Light",
+          "city": "Sunderland",
+          "capacity": "48 707"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "blackburn-rovers",
+    "away": "aston-villa",
+    "GH": 3,
+    "GA": 0,
+    "date": "2002-03-05",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ewood Park",
+          "city": "Blackburn",
+          "capacity": "31 367"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-arsenal",
+    "away": "derby-county",
+    "GH": 1,
+    "GA": 0,
+    "date": "2002-03-05",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Highbury",
+          "city": "London",
+          "capacity": "38 419"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "derby-county",
+    "away": "manchester-united",
+    "GH": 2,
+    "GA": 2,
+    "date": "2002-03-03",
+    "incident": {
+      "incidents": [],
+      "metadata": {}
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-everton",
+    "away": "leeds-united",
+    "GH": 0,
+    "GA": 0,
+    "date": "2002-03-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Goodison Park",
+          "city": "Liverpool",
+          "capacity": "39 572"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "newcastle-united",
+    "away": "fc-arsenal",
+    "GH": 0,
+    "GA": 2,
+    "date": "2002-03-02",
+    "incident": {
+      "incidents": [],
+      "metadata": {}
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "aston-villa",
+    "away": "west-ham-united",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-03-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Villa Park",
+          "city": "Birmingham",
+          "capacity": "42 789"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "bolton-wanderers",
+    "away": "blackburn-rovers",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-03-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Toughsheet Community Stadium",
+          "city": "Bolton",
+          "capacity": "28 723"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "charlton-athletic",
+    "away": "fc-chelsea",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-03-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "The Valley",
+          "city": "London",
+          "capacity": "27 111"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-fulham",
+    "away": "fc-liverpool",
+    "GH": 0,
+    "GA": 2,
+    "date": "2002-03-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Craven Cottage",
+          "city": "London",
+          "capacity": "29 589"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-middlesbrough",
+    "away": "leicester-city",
+    "GH": 1,
+    "GA": 0,
+    "date": "2002-03-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Riverside Stadium",
+          "city": "Middlesbrough",
+          "capacity": "34 742"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "ipswich-town",
+    "away": "fc-southampton",
+    "GH": 1,
+    "GA": 3,
+    "date": "2002-03-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Portman Road",
+          "city": "Ipswich",
+          "capacity": "30 017"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "tottenham-hotspur",
+    "away": "afc-sunderland",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-03-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "White Hart Lane",
+          "city": "London",
+          "capacity": "36 284"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leeds-united",
+    "away": "charlton-athletic",
+    "GH": 0,
+    "GA": 0,
+    "date": "2002-02-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Elland Road",
+          "city": "Leeds",
+          "capacity": "37 792"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "afc-sunderland",
+    "away": "newcastle-united",
+    "GH": 0,
+    "GA": 1,
+    "date": "2002-02-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium of Light",
+          "city": "Sunderland",
+          "capacity": "48 707"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-arsenal",
+    "away": "fc-fulham",
+    "GH": 4,
+    "GA": 1,
+    "date": "2002-02-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Highbury",
+          "city": "London",
+          "capacity": "38 419"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-liverpool",
+    "away": "fc-everton",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-02-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Anfield",
+          "city": "Liverpool",
+          "capacity": "61 276"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-southampton",
+    "away": "bolton-wanderers",
+    "GH": 0,
+    "GA": 0,
+    "date": "2002-02-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. Mary's Stadium",
+          "city": "Southampton",
+          "capacity": "32 384"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leicester-city",
+    "away": "derby-county",
+    "GH": 0,
+    "GA": 3,
+    "date": "2002-02-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "King Power Stadium",
+          "city": "Leicester",
+          "capacity": "32 261"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "west-ham-united",
+    "away": "fc-middlesbrough",
+    "GH": 1,
+    "GA": 0,
+    "date": "2002-02-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Boleyn Ground",
+          "city": "London",
+          "capacity": "35 016"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "manchester-united",
+    "away": "aston-villa",
+    "GH": 1,
+    "GA": 0,
+    "date": "2002-02-23",
+    "incident": {
+      "incidents": [],
+      "metadata": {}
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-middlesbrough",
+    "away": "fc-fulham",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-02-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Riverside Stadium",
+          "city": "Middlesbrough",
+          "capacity": "34 742"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-everton",
+    "away": "fc-arsenal",
+    "GH": 0,
+    "GA": 1,
+    "date": "2002-02-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Goodison Park",
+          "city": "Liverpool",
+          "capacity": "39 572"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "charlton-athletic",
+    "away": "manchester-united",
+    "GH": 0,
+    "GA": 2,
+    "date": "2002-02-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "The Valley",
+          "city": "London",
+          "capacity": "27 111"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "aston-villa",
+    "away": "fc-chelsea",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-02-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Villa Park",
+          "city": "Birmingham",
+          "capacity": "42 789"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "bolton-wanderers",
+    "away": "west-ham-united",
+    "GH": 1,
+    "GA": 0,
+    "date": "2002-02-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Toughsheet Community Stadium",
+          "city": "Bolton",
+          "capacity": "28 723"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "derby-county",
+    "away": "afc-sunderland",
+    "GH": 0,
+    "GA": 1,
+    "date": "2002-02-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Pride Park",
+          "city": "Derby",
+          "capacity": "33 597"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-fulham",
+    "away": "blackburn-rovers",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-02-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Craven Cottage",
+          "city": "London",
+          "capacity": "29 589"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-middlesbrough",
+    "away": "leeds-united",
+    "GH": 2,
+    "GA": 2,
+    "date": "2002-02-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Riverside Stadium",
+          "city": "Middlesbrough",
+          "capacity": "34 742"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "ipswich-town",
+    "away": "fc-liverpool",
+    "GH": 0,
+    "GA": 6,
+    "date": "2002-02-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Portman Road",
+          "city": "Ipswich",
+          "capacity": "30 017"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "newcastle-united",
+    "away": "fc-southampton",
+    "GH": 3,
+    "GA": 1,
+    "date": "2002-02-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. James' Park",
+          "city": "Newcastle",
+          "capacity": "52 305"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "tottenham-hotspur",
+    "away": "leicester-city",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-02-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "White Hart Lane",
+          "city": "London",
+          "capacity": "36 284"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-middlesbrough",
+    "away": "charlton-athletic",
+    "GH": 0,
+    "GA": 0,
+    "date": "2002-02-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Riverside Stadium",
+          "city": "Middlesbrough",
+          "capacity": "34 742"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leeds-united",
+    "away": "fc-liverpool",
+    "GH": 0,
+    "GA": 4,
+    "date": "2002-02-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Elland Road",
+          "city": "Leeds",
+          "capacity": "37 792"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-arsenal",
+    "away": "fc-southampton",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-02-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Highbury",
+          "city": "London",
+          "capacity": "38 419"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-everton",
+    "away": "ipswich-town",
+    "GH": 1,
+    "GA": 2,
+    "date": "2002-02-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Goodison Park",
+          "city": "Liverpool",
+          "capacity": "39 572"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-fulham",
+    "away": "aston-villa",
+    "GH": 0,
+    "GA": 0,
+    "date": "2002-02-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Craven Cottage",
+          "city": "London",
+          "capacity": "29 589"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leicester-city",
+    "away": "fc-chelsea",
+    "GH": 2,
+    "GA": 3,
+    "date": "2002-02-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "King Power Stadium",
+          "city": "Leicester",
+          "capacity": "32 261"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "manchester-united",
+    "away": "afc-sunderland",
+    "GH": 4,
+    "GA": 1,
+    "date": "2002-02-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Old Trafford",
+          "city": "Manchester",
+          "capacity": "75 635"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "newcastle-united",
+    "away": "bolton-wanderers",
+    "GH": 3,
+    "GA": 2,
+    "date": "2002-02-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. James' Park",
+          "city": "Newcastle",
+          "capacity": "52 305"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "west-ham-united",
+    "away": "blackburn-rovers",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-02-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Boleyn Ground",
+          "city": "London",
+          "capacity": "35 016"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "derby-county",
+    "away": "tottenham-hotspur",
+    "GH": 1,
+    "GA": 0,
+    "date": "2002-02-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Pride Park",
+          "city": "Derby",
+          "capacity": "33 597"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-chelsea",
+    "away": "leeds-united",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-01-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stamford Bridge",
+          "city": "London",
+          "capacity": "40 341"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-liverpool",
+    "away": "leicester-city",
+    "GH": 1,
+    "GA": 0,
+    "date": "2002-01-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Anfield",
+          "city": "Liverpool",
+          "capacity": "61 276"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "aston-villa",
+    "away": "fc-everton",
+    "GH": 0,
+    "GA": 0,
+    "date": "2002-01-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Villa Park",
+          "city": "Birmingham",
+          "capacity": "42 789"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "blackburn-rovers",
+    "away": "fc-arsenal",
+    "GH": 2,
+    "GA": 3,
+    "date": "2002-01-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ewood Park",
+          "city": "Blackburn",
+          "capacity": "31 367"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-southampton",
+    "away": "west-ham-united",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-01-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. Mary's Stadium",
+          "city": "Southampton",
+          "capacity": "32 384"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "ipswich-town",
+    "away": "fc-fulham",
+    "GH": 1,
+    "GA": 0,
+    "date": "2002-01-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Portman Road",
+          "city": "Ipswich",
+          "capacity": "30 017"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "tottenham-hotspur",
+    "away": "newcastle-united",
+    "GH": 1,
+    "GA": 3,
+    "date": "2002-01-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "White Hart Lane",
+          "city": "London",
+          "capacity": "36 284"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "bolton-wanderers",
+    "away": "manchester-united",
+    "GH": 0,
+    "GA": 4,
+    "date": "2002-01-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Toughsheet Community Stadium",
+          "city": "Bolton",
+          "capacity": "28 723"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "afc-sunderland",
+    "away": "fc-middlesbrough",
+    "GH": 0,
+    "GA": 1,
+    "date": "2002-01-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium of Light",
+          "city": "Sunderland",
+          "capacity": "48 707"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "charlton-athletic",
+    "away": "derby-county",
+    "GH": 1,
+    "GA": 0,
+    "date": "2002-01-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "The Valley",
+          "city": "London",
+          "capacity": "27 111"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leicester-city",
+    "away": "fc-arsenal",
+    "GH": 1,
+    "GA": 3,
+    "date": "2002-01-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "King Power Stadium",
+          "city": "Leicester",
+          "capacity": "32 261"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "manchester-united",
+    "away": "fc-liverpool",
+    "GH": 0,
+    "GA": 1,
+    "date": "2002-01-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Old Trafford",
+          "city": "Manchester",
+          "capacity": "75 635"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "charlton-athletic",
+    "away": "aston-villa",
+    "GH": 1,
+    "GA": 2,
+    "date": "2002-01-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "The Valley",
+          "city": "London",
+          "capacity": "27 111"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leeds-united",
+    "away": "fc-arsenal",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-01-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Elland Road",
+          "city": "Leeds",
+          "capacity": "37 792"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-chelsea",
+    "away": "west-ham-united",
+    "GH": 5,
+    "GA": 1,
+    "date": "2002-01-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stamford Bridge",
+          "city": "London",
+          "capacity": "40 341"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "afc-sunderland",
+    "away": "fc-fulham",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-01-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium of Light",
+          "city": "Sunderland",
+          "capacity": "48 707"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "derby-county",
+    "away": "ipswich-town",
+    "GH": 1,
+    "GA": 3,
+    "date": "2002-01-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Pride Park",
+          "city": "Derby",
+          "capacity": "33 597"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-liverpool",
+    "away": "fc-southampton",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-01-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Anfield",
+          "city": "Liverpool",
+          "capacity": "61 276"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-middlesbrough",
+    "away": "bolton-wanderers",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-01-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Riverside Stadium",
+          "city": "Middlesbrough",
+          "capacity": "34 742"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leicester-city",
+    "away": "newcastle-united",
+    "GH": 0,
+    "GA": 0,
+    "date": "2002-01-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "King Power Stadium",
+          "city": "Leicester",
+          "capacity": "32 261"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "manchester-united",
+    "away": "blackburn-rovers",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-01-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Old Trafford",
+          "city": "Manchester",
+          "capacity": "75 635"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "tottenham-hotspur",
+    "away": "fc-everton",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-01-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "White Hart Lane",
+          "city": "London",
+          "capacity": "36 284"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-arsenal",
+    "away": "fc-liverpool",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-01-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Highbury",
+          "city": "London",
+          "capacity": "38 419"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-southampton",
+    "away": "manchester-united",
+    "GH": 1,
+    "GA": 3,
+    "date": "2002-01-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. Mary's Stadium",
+          "city": "Southampton",
+          "capacity": "32 384"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "aston-villa",
+    "away": "derby-county",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-01-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Villa Park",
+          "city": "Birmingham",
+          "capacity": "42 789"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "blackburn-rovers",
+    "away": "charlton-athletic",
+    "GH": 4,
+    "GA": 1,
+    "date": "2002-01-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ewood Park",
+          "city": "Blackburn",
+          "capacity": "31 367"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "bolton-wanderers",
+    "away": "fc-chelsea",
+    "GH": 2,
+    "GA": 2,
+    "date": "2002-01-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Toughsheet Community Stadium",
+          "city": "Bolton",
+          "capacity": "28 723"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-everton",
+    "away": "afc-sunderland",
+    "GH": 1,
+    "GA": 0,
+    "date": "2002-01-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Goodison Park",
+          "city": "Liverpool",
+          "capacity": "39 572"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-fulham",
+    "away": "fc-middlesbrough",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-01-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Craven Cottage",
+          "city": "London",
+          "capacity": "29 589"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "ipswich-town",
+    "away": "tottenham-hotspur",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-01-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Portman Road",
+          "city": "Ipswich",
+          "capacity": "30 017"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "newcastle-united",
+    "away": "leeds-united",
+    "GH": 3,
+    "GA": 1,
+    "date": "2002-01-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. James' Park",
+          "city": "Newcastle",
+          "capacity": "52 305"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "west-ham-united",
+    "away": "leicester-city",
+    "GH": 1,
+    "GA": 0,
+    "date": "2002-01-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Boleyn Ground",
+          "city": "London",
+          "capacity": "35 016"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-southampton",
+    "away": "fc-liverpool",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-01-09",
+    "incident": {
+      "incidents": [
+        {
+          "team": "away",
+          "minute": "36'",
+          "incident_type": "Yellow Card",
+          "player_name": "Jamie Carragher"
+        },
+        {
+          "team": "home",
+          "minute": "63'",
+          "incident_type": "Penalty Awarded",
+          "player_name": "James Beattie"
+        },
+        {
+          "team": "home",
+          "minute": "71'",
+          "incident_type": "Own goal",
+          "player_name": "John Arne Riise"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "St. Mary's Stadium",
+          "city": "Southampton",
+          "capacity": "32 384"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "manchester-united",
+    "away": "newcastle-united",
+    "GH": 3,
+    "GA": 1,
+    "date": "2002-01-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Old Trafford",
+          "city": "Manchester",
+          "capacity": "75 635"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "derby-county",
+    "away": "fc-fulham",
+    "GH": 0,
+    "GA": 1,
+    "date": "2002-01-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Pride Park",
+          "city": "Derby",
+          "capacity": "33 597"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leeds-united",
+    "away": "west-ham-united",
+    "GH": 3,
+    "GA": 0,
+    "date": "2002-01-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Elland Road",
+          "city": "Leeds",
+          "capacity": "37 792"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "afc-sunderland",
+    "away": "aston-villa",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-01-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium of Light",
+          "city": "Sunderland",
+          "capacity": "48 707"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "charlton-athletic",
+    "away": "ipswich-town",
+    "GH": 3,
+    "GA": 2,
+    "date": "2002-01-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "The Valley",
+          "city": "London",
+          "capacity": "27 111"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-chelsea",
+    "away": "fc-southampton",
+    "GH": 2,
+    "GA": 4,
+    "date": "2002-01-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stamford Bridge",
+          "city": "London",
+          "capacity": "40 341"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-liverpool",
+    "away": "bolton-wanderers",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-01-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Anfield",
+          "city": "Liverpool",
+          "capacity": "61 276"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-middlesbrough",
+    "away": "fc-everton",
+    "GH": 1,
+    "GA": 0,
+    "date": "2002-01-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Riverside Stadium",
+          "city": "Middlesbrough",
+          "capacity": "34 742"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "tottenham-hotspur",
+    "away": "blackburn-rovers",
+    "GH": 1,
+    "GA": 0,
+    "date": "2002-01-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "White Hart Lane",
+          "city": "London",
+          "capacity": "36 284"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-fulham",
+    "away": "manchester-united",
+    "GH": 2,
+    "GA": 3,
+    "date": "2001-12-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Craven Cottage",
+          "city": "London",
+          "capacity": "29 589"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "aston-villa",
+    "away": "tottenham-hotspur",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-12-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Villa Park",
+          "city": "Birmingham",
+          "capacity": "42 789"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "blackburn-rovers",
+    "away": "derby-county",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-12-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ewood Park",
+          "city": "Blackburn",
+          "capacity": "31 367"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "bolton-wanderers",
+    "away": "leicester-city",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-12-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Toughsheet Community Stadium",
+          "city": "Bolton",
+          "capacity": "28 723"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-arsenal",
+    "away": "fc-middlesbrough",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-12-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Highbury",
+          "city": "London",
+          "capacity": "38 419"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-everton",
+    "away": "charlton-athletic",
+    "GH": 0,
+    "GA": 3,
+    "date": "2001-12-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Goodison Park",
+          "city": "Liverpool",
+          "capacity": "39 572"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-southampton",
+    "away": "leeds-united",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-12-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. Mary's Stadium",
+          "city": "Southampton",
+          "capacity": "32 384"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "ipswich-town",
+    "away": "afc-sunderland",
+    "GH": 5,
+    "GA": 0,
+    "date": "2001-12-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Portman Road",
+          "city": "Ipswich",
+          "capacity": "30 017"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "newcastle-united",
+    "away": "fc-chelsea",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-12-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. James' Park",
+          "city": "Newcastle",
+          "capacity": "52 305"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "west-ham-united",
+    "away": "fc-liverpool",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-12-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Boleyn Ground",
+          "city": "London",
+          "capacity": "35 016"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "aston-villa",
+    "away": "fc-liverpool",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-12-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Villa Park",
+          "city": "Birmingham",
+          "capacity": "42 789"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "blackburn-rovers",
+    "away": "afc-sunderland",
+    "GH": 0,
+    "GA": 3,
+    "date": "2001-12-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ewood Park",
+          "city": "Blackburn",
+          "capacity": "31 367"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "bolton-wanderers",
+    "away": "leeds-united",
+    "GH": 0,
+    "GA": 3,
+    "date": "2001-12-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Toughsheet Community Stadium",
+          "city": "Bolton",
+          "capacity": "28 723"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-arsenal",
+    "away": "fc-chelsea",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-12-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Highbury",
+          "city": "London",
+          "capacity": "38 419"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-everton",
+    "away": "manchester-united",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-12-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Goodison Park",
+          "city": "Liverpool",
+          "capacity": "39 572"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-fulham",
+    "away": "charlton-athletic",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-12-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Craven Cottage",
+          "city": "London",
+          "capacity": "29 589"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-southampton",
+    "away": "tottenham-hotspur",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-12-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. Mary's Stadium",
+          "city": "Southampton",
+          "capacity": "32 384"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "ipswich-town",
+    "away": "leicester-city",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-12-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Portman Road",
+          "city": "Ipswich",
+          "capacity": "30 017"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "newcastle-united",
+    "away": "fc-middlesbrough",
+    "GH": 3,
+    "GA": 0,
+    "date": "2001-12-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. James' Park",
+          "city": "Newcastle",
+          "capacity": "52 305"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "west-ham-united",
+    "away": "derby-county",
+    "GH": 4,
+    "GA": 0,
+    "date": "2001-12-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Boleyn Ground",
+          "city": "London",
+          "capacity": "35 016"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-chelsea",
+    "away": "bolton-wanderers",
+    "GH": 5,
+    "GA": 1,
+    "date": "2001-12-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stamford Bridge",
+          "city": "London",
+          "capacity": "40 341"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-liverpool",
+    "away": "fc-arsenal",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-12-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Anfield",
+          "city": "Liverpool",
+          "capacity": "61 276"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "afc-sunderland",
+    "away": "fc-everton",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-12-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium of Light",
+          "city": "Sunderland",
+          "capacity": "48 707"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "charlton-athletic",
+    "away": "blackburn-rovers",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-12-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "The Valley",
+          "city": "London",
+          "capacity": "27 111"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "derby-county",
+    "away": "aston-villa",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-12-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Pride Park",
+          "city": "Derby",
+          "capacity": "33 597"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leeds-united",
+    "away": "newcastle-united",
+    "GH": 3,
+    "GA": 4,
+    "date": "2001-12-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Elland Road",
+          "city": "Leeds",
+          "capacity": "37 792"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leicester-city",
+    "away": "west-ham-united",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-12-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "King Power Stadium",
+          "city": "Leicester",
+          "capacity": "32 261"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "manchester-united",
+    "away": "fc-southampton",
+    "GH": 6,
+    "GA": 1,
+    "date": "2001-12-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Old Trafford",
+          "city": "Manchester",
+          "capacity": "75 635"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "tottenham-hotspur",
+    "away": "ipswich-town",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-12-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "White Hart Lane",
+          "city": "London",
+          "capacity": "36 284"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leeds-united",
+    "away": "fc-everton",
+    "GH": 3,
+    "GA": 2,
+    "date": "2001-12-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Elland Road",
+          "city": "Leeds",
+          "capacity": "37 792"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-arsenal",
+    "away": "newcastle-united",
+    "GH": 1,
+    "GA": 3,
+    "date": "2001-12-18",
+    "incident": {
+      "incidents": [
+        {
+          "team": "home",
+          "minute": "20'",
+          "incident_type": "Goal",
+          "player_name": "Robert Pires"
+        },
+        {
+          "team": "away",
+          "minute": "22'",
+          "incident_type": "Yellow Card",
+          "player_name": "Gary Speed"
+        },
+        {
+          "team": "home",
+          "minute": "23'",
+          "incident_type": "Yellow Card",
+          "player_name": "Ray Parlour"
+        },
+        {
+          "team": "away",
+          "minute": "32'",
+          "incident_type": "Yellow Card",
+          "player_name": "Craig Bellamy"
+        },
+        {
+          "team": "home",
+          "minute": "34'",
+          "incident_type": "Yellow Card",
+          "player_name": "Patrick Vieira"
+        },
+        {
+          "team": "home",
+          "minute": "42'",
+          "incident_type": "Yellow Card",
+          "player_name": "Ray Parlour"
+        },
+        {
+          "team": "away",
+          "minute": "60'",
+          "incident_type": "Goal",
+          "player_name": "Andrew O Brien"
+        },
+        {
+          "team": "away",
+          "minute": "61'",
+          "incident_type": "Yellow Card",
+          "player_name": "Andrew O`Brien"
+        },
+        {
+          "team": "away",
+          "minute": "71'",
+          "incident_type": "Yellow Card",
+          "player_name": "Craig Bellamy"
+        },
+        {
+          "team": "home",
+          "minute": "83'",
+          "incident_type": "Yellow Card",
+          "player_name": "Sol Campbell"
+        },
+        {
+          "team": "away",
+          "minute": "86'",
+          "incident_type": "Penalty Awarded",
+          "player_name": "Alan Shearer"
+        },
+        {
+          "team": "away",
+          "minute": "89'",
+          "incident_type": "Goal",
+          "player_name": "Laurent Robert"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Highbury",
+          "city": "London",
+          "capacity": "38 419"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "aston-villa",
+    "away": "ipswich-town",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-12-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Villa Park",
+          "city": "Birmingham",
+          "capacity": "42 789"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-chelsea",
+    "away": "fc-liverpool",
+    "GH": 4,
+    "GA": 0,
+    "date": "2001-12-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stamford Bridge",
+          "city": "London",
+          "capacity": "40 341"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leeds-united",
+    "away": "leicester-city",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-12-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Elland Road",
+          "city": "Leeds",
+          "capacity": "37 792"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "bolton-wanderers",
+    "away": "charlton-athletic",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-12-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Toughsheet Community Stadium",
+          "city": "Bolton",
+          "capacity": "28 723"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-everton",
+    "away": "derby-county",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-12-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Goodison Park",
+          "city": "Liverpool",
+          "capacity": "39 572"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-middlesbrough",
+    "away": "manchester-united",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-12-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Riverside Stadium",
+          "city": "Middlesbrough",
+          "capacity": "34 742"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-southampton",
+    "away": "afc-sunderland",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-12-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. Mary's Stadium",
+          "city": "Southampton",
+          "capacity": "32 384"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "newcastle-united",
+    "away": "blackburn-rovers",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-12-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. James' Park",
+          "city": "Newcastle",
+          "capacity": "52 305"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "tottenham-hotspur",
+    "away": "fc-fulham",
+    "GH": 4,
+    "GA": 0,
+    "date": "2001-12-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "White Hart Lane",
+          "city": "London",
+          "capacity": "36 284"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "west-ham-united",
+    "away": "fc-arsenal",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-12-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Boleyn Ground",
+          "city": "London",
+          "capacity": "35 016"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-liverpool",
+    "away": "fc-fulham",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-12-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Anfield",
+          "city": "Liverpool",
+          "capacity": "61 276"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "manchester-united",
+    "away": "derby-county",
+    "GH": 5,
+    "GA": 0,
+    "date": "2001-12-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Old Trafford",
+          "city": "Manchester",
+          "capacity": "75 635"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "afc-sunderland",
+    "away": "fc-chelsea",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-12-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium of Light",
+          "city": "Sunderland",
+          "capacity": "48 707"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "blackburn-rovers",
+    "away": "leeds-united",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-12-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ewood Park",
+          "city": "Blackburn",
+          "capacity": "31 367"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-arsenal",
+    "away": "aston-villa",
+    "GH": 3,
+    "GA": 2,
+    "date": "2001-12-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Highbury",
+          "city": "London",
+          "capacity": "38 419"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "ipswich-town",
+    "away": "newcastle-united",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-12-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Portman Road",
+          "city": "Ipswich",
+          "capacity": "30 017"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "charlton-athletic",
+    "away": "tottenham-hotspur",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-12-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "The Valley",
+          "city": "London",
+          "capacity": "27 111"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "derby-county",
+    "away": "bolton-wanderers",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-12-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Pride Park",
+          "city": "Derby",
+          "capacity": "33 597"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-fulham",
+    "away": "fc-everton",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-12-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Craven Cottage",
+          "city": "London",
+          "capacity": "29 589"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-liverpool",
+    "away": "fc-middlesbrough",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-12-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Anfield",
+          "city": "Liverpool",
+          "capacity": "61 276"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leicester-city",
+    "away": "fc-southampton",
+    "GH": 0,
+    "GA": 4,
+    "date": "2001-12-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "King Power Stadium",
+          "city": "Leicester",
+          "capacity": "32 261"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "manchester-united",
+    "away": "west-ham-united",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-12-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Old Trafford",
+          "city": "Manchester",
+          "capacity": "75 635"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-chelsea",
+    "away": "charlton-athletic",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-12-05",
+    "incident": {
+      "incidents": [
+        {
+          "team": "away",
+          "minute": "19'",
+          "incident_type": "Yellow Card",
+          "player_name": "Fish"
+        },
+        {
+          "team": "home",
+          "minute": "48'",
+          "incident_type": "Yellow Card",
+          "player_name": "Sam Dalla Bona"
+        },
+        {
+          "team": "away",
+          "minute": "89'",
+          "incident_type": "Goal",
+          "player_name": "Kevin Lisbie"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stamford Bridge",
+          "city": "London",
+          "capacity": "40 341"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "west-ham-united",
+    "away": "aston-villa",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-12-05",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Boleyn Ground",
+          "city": "London",
+          "capacity": "35 016"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "tottenham-hotspur",
+    "away": "bolton-wanderers",
+    "GH": 3,
+    "GA": 2,
+    "date": "2001-12-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "White Hart Lane",
+          "city": "London",
+          "capacity": "36 284"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-everton",
+    "away": "fc-southampton",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-12-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Goodison Park",
+          "city": "Liverpool",
+          "capacity": "39 572"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-fulham",
+    "away": "leeds-united",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-12-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Craven Cottage",
+          "city": "London",
+          "capacity": "29 589"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "afc-sunderland",
+    "away": "west-ham-united",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-12-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium of Light",
+          "city": "Sunderland",
+          "capacity": "48 707"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "aston-villa",
+    "away": "leicester-city",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-12-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Villa Park",
+          "city": "Birmingham",
+          "capacity": "42 789"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "blackburn-rovers",
+    "away": "fc-middlesbrough",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-12-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ewood Park",
+          "city": "Blackburn",
+          "capacity": "31 367"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "charlton-athletic",
+    "away": "newcastle-united",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-12-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "The Valley",
+          "city": "London",
+          "capacity": "27 111"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "derby-county",
+    "away": "fc-liverpool",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-12-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Pride Park",
+          "city": "Derby",
+          "capacity": "33 597"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "ipswich-town",
+    "away": "fc-arsenal",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-12-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Portman Road",
+          "city": "Ipswich",
+          "capacity": "30 017"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "manchester-united",
+    "away": "fc-chelsea",
+    "GH": 0,
+    "GA": 3,
+    "date": "2001-12-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Old Trafford",
+          "city": "Manchester",
+          "capacity": "75 635"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-arsenal",
+    "away": "manchester-united",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-11-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Highbury",
+          "city": "London",
+          "capacity": "38 419"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-liverpool",
+    "away": "afc-sunderland",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-11-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Anfield",
+          "city": "Liverpool",
+          "capacity": "61 276"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-middlesbrough",
+    "away": "ipswich-town",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-11-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Riverside Stadium",
+          "city": "Middlesbrough",
+          "capacity": "34 742"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leeds-united",
+    "away": "aston-villa",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-11-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Elland Road",
+          "city": "Leeds",
+          "capacity": "37 792"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "bolton-wanderers",
+    "away": "fc-fulham",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-11-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Toughsheet Community Stadium",
+          "city": "Bolton",
+          "capacity": "28 723"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-chelsea",
+    "away": "blackburn-rovers",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-11-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stamford Bridge",
+          "city": "London",
+          "capacity": "40 341"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-southampton",
+    "away": "charlton-athletic",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-11-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. Mary's Stadium",
+          "city": "Southampton",
+          "capacity": "32 384"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leicester-city",
+    "away": "fc-everton",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-11-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "King Power Stadium",
+          "city": "Leicester",
+          "capacity": "32 261"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "newcastle-united",
+    "away": "derby-county",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-11-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. James' Park",
+          "city": "Newcastle",
+          "capacity": "52 305"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "west-ham-united",
+    "away": "tottenham-hotspur",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-11-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Boleyn Ground",
+          "city": "London",
+          "capacity": "35 016"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "charlton-athletic",
+    "away": "west-ham-united",
+    "GH": 4,
+    "GA": 4,
+    "date": "2001-11-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "The Valley",
+          "city": "London",
+          "capacity": "27 111"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "afc-sunderland",
+    "away": "leeds-united",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-11-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium of Light",
+          "city": "Sunderland",
+          "capacity": "48 707"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-everton",
+    "away": "fc-chelsea",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-11-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Goodison Park",
+          "city": "Liverpool",
+          "capacity": "39 572"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "ipswich-town",
+    "away": "bolton-wanderers",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-11-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Portman Road",
+          "city": "Ipswich",
+          "capacity": "30 017"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "aston-villa",
+    "away": "fc-middlesbrough",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-11-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Villa Park",
+          "city": "Birmingham",
+          "capacity": "42 789"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "blackburn-rovers",
+    "away": "fc-liverpool",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-11-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ewood Park",
+          "city": "Blackburn",
+          "capacity": "31 367"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "derby-county",
+    "away": "fc-southampton",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-11-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Pride Park",
+          "city": "Derby",
+          "capacity": "33 597"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-fulham",
+    "away": "newcastle-united",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-11-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Craven Cottage",
+          "city": "London",
+          "capacity": "29 589"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "manchester-united",
+    "away": "leicester-city",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-11-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Old Trafford",
+          "city": "Manchester",
+          "capacity": "75 635"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "tottenham-hotspur",
+    "away": "fc-arsenal",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-11-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "White Hart Lane",
+          "city": "London",
+          "capacity": "36 284"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-arsenal",
+    "away": "charlton-athletic",
+    "GH": 2,
+    "GA": 4,
+    "date": "2001-11-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Highbury",
+          "city": "London",
+          "capacity": "38 419"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-chelsea",
+    "away": "ipswich-town",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-11-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stamford Bridge",
+          "city": "London",
+          "capacity": "40 341"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-liverpool",
+    "away": "manchester-united",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-11-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Anfield",
+          "city": "Liverpool",
+          "capacity": "61 276"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leeds-united",
+    "away": "tottenham-hotspur",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-11-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Elland Road",
+          "city": "Leeds",
+          "capacity": "37 792"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "bolton-wanderers",
+    "away": "fc-everton",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-11-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Toughsheet Community Stadium",
+          "city": "Bolton",
+          "capacity": "28 723"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-middlesbrough",
+    "away": "derby-county",
+    "GH": 5,
+    "GA": 1,
+    "date": "2001-11-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Riverside Stadium",
+          "city": "Middlesbrough",
+          "capacity": "34 742"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-southampton",
+    "away": "blackburn-rovers",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-11-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. Mary's Stadium",
+          "city": "Southampton",
+          "capacity": "32 384"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leicester-city",
+    "away": "afc-sunderland",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-11-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "King Power Stadium",
+          "city": "Leicester",
+          "capacity": "32 261"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "newcastle-united",
+    "away": "aston-villa",
+    "GH": 3,
+    "GA": 0,
+    "date": "2001-11-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. James' Park",
+          "city": "Newcastle",
+          "capacity": "52 305"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "west-ham-united",
+    "away": "fc-fulham",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-11-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Boleyn Ground",
+          "city": "London",
+          "capacity": "35 016"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "blackburn-rovers",
+    "away": "leicester-city",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-10-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ewood Park",
+          "city": "Blackburn",
+          "capacity": "31 367"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "derby-county",
+    "away": "fc-chelsea",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-10-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Pride Park",
+          "city": "Derby",
+          "capacity": "33 597"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "ipswich-town",
+    "away": "west-ham-united",
+    "GH": 2,
+    "GA": 3,
+    "date": "2001-10-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Portman Road",
+          "city": "Ipswich",
+          "capacity": "30 017"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "afc-sunderland",
+    "away": "fc-arsenal",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-10-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium of Light",
+          "city": "Sunderland",
+          "capacity": "48 707"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "aston-villa",
+    "away": "bolton-wanderers",
+    "GH": 3,
+    "GA": 2,
+    "date": "2001-10-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Villa Park",
+          "city": "Birmingham",
+          "capacity": "42 789"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "charlton-athletic",
+    "away": "fc-liverpool",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-10-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "The Valley",
+          "city": "London",
+          "capacity": "27 111"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-everton",
+    "away": "newcastle-united",
+    "GH": 1,
+    "GA": 3,
+    "date": "2001-10-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Goodison Park",
+          "city": "Liverpool",
+          "capacity": "39 572"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-fulham",
+    "away": "fc-southampton",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-10-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Craven Cottage",
+          "city": "London",
+          "capacity": "29 589"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "manchester-united",
+    "away": "leeds-united",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-10-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Old Trafford",
+          "city": "Manchester",
+          "capacity": "75 635"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "tottenham-hotspur",
+    "away": "fc-middlesbrough",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-10-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "White Hart Lane",
+          "city": "London",
+          "capacity": "36 284"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "aston-villa",
+    "away": "charlton-athletic",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-10-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Villa Park",
+          "city": "Birmingham",
+          "capacity": "42 789"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-southampton",
+    "away": "ipswich-town",
+    "GH": 3,
+    "GA": 3,
+    "date": "2001-10-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. Mary's Stadium",
+          "city": "Southampton",
+          "capacity": "32 384"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "west-ham-united",
+    "away": "fc-chelsea",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-10-24",
+    "incident": {
+      "incidents": [
+        {
+          "team": "home",
+          "minute": "5'",
+          "incident_type": "Goal",
+          "player_name": "Michael Carrick"
+        },
+        {
+          "team": "home",
+          "minute": "13'",
+          "incident_type": "Goal",
+          "player_name": "Frederic Kanoute"
+        },
+        {
+          "team": "away",
+          "minute": "22'",
+          "incident_type": "Goal",
+          "player_name": "Jimmy Floyd Hasselbaink"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Boleyn Ground",
+          "city": "London",
+          "capacity": "35 016"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-middlesbrough",
+    "away": "afc-sunderland",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-10-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Riverside Stadium",
+          "city": "Middlesbrough",
+          "capacity": "34 742"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-fulham",
+    "away": "ipswich-town",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-10-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Craven Cottage",
+          "city": "London",
+          "capacity": "29 589"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leeds-united",
+    "away": "fc-chelsea",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-10-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Elland Road",
+          "city": "Leeds",
+          "capacity": "37 792"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "newcastle-united",
+    "away": "tottenham-hotspur",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-10-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. James' Park",
+          "city": "Newcastle",
+          "capacity": "52 305"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "derby-county",
+    "away": "charlton-athletic",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-10-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Pride Park",
+          "city": "Derby",
+          "capacity": "33 597"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-arsenal",
+    "away": "blackburn-rovers",
+    "GH": 3,
+    "GA": 3,
+    "date": "2001-10-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Highbury",
+          "city": "London",
+          "capacity": "38 419"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-everton",
+    "away": "aston-villa",
+    "GH": 3,
+    "GA": 2,
+    "date": "2001-10-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Goodison Park",
+          "city": "Liverpool",
+          "capacity": "39 572"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leicester-city",
+    "away": "fc-liverpool",
+    "GH": 1,
+    "GA": 4,
+    "date": "2001-10-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "King Power Stadium",
+          "city": "Leicester",
+          "capacity": "32 261"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "manchester-united",
+    "away": "bolton-wanderers",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-10-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Old Trafford",
+          "city": "Manchester",
+          "capacity": "75 635"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "west-ham-united",
+    "away": "fc-southampton",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-10-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Boleyn Ground",
+          "city": "London",
+          "capacity": "35 016"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "tottenham-hotspur",
+    "away": "derby-county",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-10-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "White Hart Lane",
+          "city": "London",
+          "capacity": "36 284"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "aston-villa",
+    "away": "fc-fulham",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-10-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Villa Park",
+          "city": "Birmingham",
+          "capacity": "42 789"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "blackburn-rovers",
+    "away": "west-ham-united",
+    "GH": 7,
+    "GA": 1,
+    "date": "2001-10-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ewood Park",
+          "city": "Blackburn",
+          "capacity": "31 367"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "afc-sunderland",
+    "away": "manchester-united",
+    "GH": 1,
+    "GA": 3,
+    "date": "2001-10-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium of Light",
+          "city": "Sunderland",
+          "capacity": "48 707"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "bolton-wanderers",
+    "away": "newcastle-united",
+    "GH": 0,
+    "GA": 4,
+    "date": "2001-10-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Toughsheet Community Stadium",
+          "city": "Bolton",
+          "capacity": "28 723"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "charlton-athletic",
+    "away": "fc-middlesbrough",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-10-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "The Valley",
+          "city": "London",
+          "capacity": "27 111"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-chelsea",
+    "away": "leicester-city",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-10-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stamford Bridge",
+          "city": "London",
+          "capacity": "40 341"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-liverpool",
+    "away": "leeds-united",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-10-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Anfield",
+          "city": "Liverpool",
+          "capacity": "61 276"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-southampton",
+    "away": "fc-arsenal",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-10-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. Mary's Stadium",
+          "city": "Southampton",
+          "capacity": "32 384"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "ipswich-town",
+    "away": "fc-everton",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-10-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Portman Road",
+          "city": "Ipswich",
+          "capacity": "30 017"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "aston-villa",
+    "away": "blackburn-rovers",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-09-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Villa Park",
+          "city": "Birmingham",
+          "capacity": "42 789"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-fulham",
+    "away": "fc-chelsea",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-09-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Craven Cottage",
+          "city": "London",
+          "capacity": "29 589"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "ipswich-town",
+    "away": "leeds-united",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-09-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Portman Road",
+          "city": "Ipswich",
+          "capacity": "30 017"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "newcastle-united",
+    "away": "fc-liverpool",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-09-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. James' Park",
+          "city": "Newcastle",
+          "capacity": "52 305"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "bolton-wanderers",
+    "away": "afc-sunderland",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-09-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Toughsheet Community Stadium",
+          "city": "Bolton",
+          "capacity": "28 723"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "charlton-athletic",
+    "away": "leicester-city",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-09-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "The Valley",
+          "city": "London",
+          "capacity": "27 111"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "derby-county",
+    "away": "fc-arsenal",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-09-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Pride Park",
+          "city": "Derby",
+          "capacity": "33 597"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-everton",
+    "away": "west-ham-united",
+    "GH": 5,
+    "GA": 0,
+    "date": "2001-09-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Goodison Park",
+          "city": "Liverpool",
+          "capacity": "39 572"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-middlesbrough",
+    "away": "fc-southampton",
+    "GH": 1,
+    "GA": 3,
+    "date": "2001-09-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Riverside Stadium",
+          "city": "Middlesbrough",
+          "capacity": "34 742"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "tottenham-hotspur",
+    "away": "manchester-united",
+    "GH": 3,
+    "GA": 5,
+    "date": "2001-09-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "White Hart Lane",
+          "city": "London",
+          "capacity": "36 284"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "newcastle-united",
+    "away": "leicester-city",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-09-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. James' Park",
+          "city": "Newcastle",
+          "capacity": "52 305"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-southampton",
+    "away": "aston-villa",
+    "GH": 1,
+    "GA": 3,
+    "date": "2001-09-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. Mary's Stadium",
+          "city": "Southampton",
+          "capacity": "32 384"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-chelsea",
+    "away": "fc-middlesbrough",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-09-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stamford Bridge",
+          "city": "London",
+          "capacity": "40 341"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leeds-united",
+    "away": "derby-county",
+    "GH": 3,
+    "GA": 0,
+    "date": "2001-09-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Elland Road",
+          "city": "Leeds",
+          "capacity": "37 792"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "west-ham-united",
+    "away": "newcastle-united",
+    "GH": 3,
+    "GA": 0,
+    "date": "2001-09-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Boleyn Ground",
+          "city": "London",
+          "capacity": "35 016"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "afc-sunderland",
+    "away": "charlton-athletic",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-09-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium of Light",
+          "city": "Sunderland",
+          "capacity": "48 707"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "blackburn-rovers",
+    "away": "fc-everton",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-09-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ewood Park",
+          "city": "Blackburn",
+          "capacity": "31 367"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-arsenal",
+    "away": "bolton-wanderers",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-09-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Highbury",
+          "city": "London",
+          "capacity": "38 419"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-liverpool",
+    "away": "tottenham-hotspur",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-09-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Anfield",
+          "city": "Liverpool",
+          "capacity": "61 276"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leicester-city",
+    "away": "fc-fulham",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-09-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "King Power Stadium",
+          "city": "Leicester",
+          "capacity": "32 261"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "manchester-united",
+    "away": "ipswich-town",
+    "GH": 4,
+    "GA": 0,
+    "date": "2001-09-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Old Trafford",
+          "city": "Manchester",
+          "capacity": "75 635"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "afc-sunderland",
+    "away": "tottenham-hotspur",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-09-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium of Light",
+          "city": "Sunderland",
+          "capacity": "48 707"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "blackburn-rovers",
+    "away": "bolton-wanderers",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-09-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ewood Park",
+          "city": "Blackburn",
+          "capacity": "31 367"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leicester-city",
+    "away": "fc-middlesbrough",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-09-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "King Power Stadium",
+          "city": "Leicester",
+          "capacity": "32 261"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "aston-villa",
+    "away": "afc-sunderland",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-09-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Villa Park",
+          "city": "Birmingham",
+          "capacity": "42 789"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "charlton-athletic",
+    "away": "leeds-united",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-09-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "The Valley",
+          "city": "London",
+          "capacity": "27 111"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "ipswich-town",
+    "away": "blackburn-rovers",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-09-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Portman Road",
+          "city": "Ipswich",
+          "capacity": "30 017"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "tottenham-hotspur",
+    "away": "fc-chelsea",
+    "GH": 2,
+    "GA": 3,
+    "date": "2001-09-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "White Hart Lane",
+          "city": "London",
+          "capacity": "36 284"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "bolton-wanderers",
+    "away": "fc-southampton",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-09-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Toughsheet Community Stadium",
+          "city": "Bolton",
+          "capacity": "28 723"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "derby-county",
+    "away": "leicester-city",
+    "GH": 2,
+    "GA": 3,
+    "date": "2001-09-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Pride Park",
+          "city": "Derby",
+          "capacity": "33 597"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-everton",
+    "away": "fc-liverpool",
+    "GH": 1,
+    "GA": 3,
+    "date": "2001-09-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Goodison Park",
+          "city": "Liverpool",
+          "capacity": "39 572"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-fulham",
+    "away": "fc-arsenal",
+    "GH": 1,
+    "GA": 3,
+    "date": "2001-09-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Craven Cottage",
+          "city": "London",
+          "capacity": "29 589"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-middlesbrough",
+    "away": "west-ham-united",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-09-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Riverside Stadium",
+          "city": "Middlesbrough",
+          "capacity": "34 742"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "newcastle-united",
+    "away": "manchester-united",
+    "GH": 4,
+    "GA": 3,
+    "date": "2001-09-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. James' Park",
+          "city": "Newcastle",
+          "capacity": "52 305"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "charlton-athletic",
+    "away": "fc-fulham",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-09-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "The Valley",
+          "city": "London",
+          "capacity": "27 111"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "tottenham-hotspur",
+    "away": "fc-southampton",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-09-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "White Hart Lane",
+          "city": "London",
+          "capacity": "36 284"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "afc-sunderland",
+    "away": "blackburn-rovers",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-09-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium of Light",
+          "city": "Sunderland",
+          "capacity": "48 707"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "derby-county",
+    "away": "west-ham-united",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-09-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Pride Park",
+          "city": "Derby",
+          "capacity": "33 597"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-chelsea",
+    "away": "fc-arsenal",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-09-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stamford Bridge",
+          "city": "London",
+          "capacity": "40 341"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-liverpool",
+    "away": "aston-villa",
+    "GH": 1,
+    "GA": 3,
+    "date": "2001-09-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Anfield",
+          "city": "Liverpool",
+          "capacity": "61 276"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-middlesbrough",
+    "away": "newcastle-united",
+    "GH": 1,
+    "GA": 4,
+    "date": "2001-09-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Riverside Stadium",
+          "city": "Middlesbrough",
+          "capacity": "34 742"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leeds-united",
+    "away": "bolton-wanderers",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-09-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Elland Road",
+          "city": "Leeds",
+          "capacity": "37 792"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leicester-city",
+    "away": "ipswich-town",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-09-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "King Power Stadium",
+          "city": "Leicester",
+          "capacity": "32 261"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "manchester-united",
+    "away": "fc-everton",
+    "GH": 4,
+    "GA": 1,
+    "date": "2001-09-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Old Trafford",
+          "city": "Manchester",
+          "capacity": "75 635"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "bolton-wanderers",
+    "away": "fc-liverpool",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-08-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Toughsheet Community Stadium",
+          "city": "Bolton",
+          "capacity": "28 723"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "aston-villa",
+    "away": "manchester-united",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-08-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Villa Park",
+          "city": "Birmingham",
+          "capacity": "42 789"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "newcastle-united",
+    "away": "afc-sunderland",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-08-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. James' Park",
+          "city": "Newcastle",
+          "capacity": "52 305"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "blackburn-rovers",
+    "away": "tottenham-hotspur",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-08-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ewood Park",
+          "city": "Blackburn",
+          "capacity": "31 367"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-arsenal",
+    "away": "leicester-city",
+    "GH": 4,
+    "GA": 0,
+    "date": "2001-08-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Highbury",
+          "city": "London",
+          "capacity": "38 419"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-everton",
+    "away": "fc-middlesbrough",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-08-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Goodison Park",
+          "city": "Liverpool",
+          "capacity": "39 572"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-fulham",
+    "away": "derby-county",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-08-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Craven Cottage",
+          "city": "London",
+          "capacity": "29 589"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-southampton",
+    "away": "fc-chelsea",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-08-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "St. Mary's Stadium",
+          "city": "Southampton",
+          "capacity": "32 384"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "ipswich-town",
+    "away": "charlton-athletic",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-08-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Portman Road",
+          "city": "Ipswich",
+          "capacity": "30 017"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "west-ham-united",
+    "away": "leeds-united",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-08-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Boleyn Ground",
+          "city": "London",
+          "capacity": "35 016"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "blackburn-rovers",
+    "away": "manchester-united",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-08-22",
+    "incident": {
+      "incidents": [],
+      "metadata": {}
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-fulham",
+    "away": "afc-sunderland",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-08-22",
+    "incident": {
+      "incidents": [],
+      "metadata": {}
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "bolton-wanderers",
+    "away": "fc-middlesbrough",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-08-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Toughsheet Community Stadium",
+          "city": "Bolton",
+          "capacity": "28 723"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-arsenal",
+    "away": "leeds-united",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-08-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Highbury",
+          "city": "London",
+          "capacity": "38 419"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "ipswich-town",
+    "away": "derby-county",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-08-21",
+    "incident": {
+      "incidents": [],
+      "metadata": {}
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-everton",
+    "away": "tottenham-hotspur",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-08-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Goodison Park",
+          "city": "Liverpool",
+          "capacity": "39 572"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-chelsea",
+    "away": "newcastle-united",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-08-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stamford Bridge",
+          "city": "London",
+          "capacity": "40 341"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "manchester-united",
+    "away": "fc-fulham",
+    "GH": 3,
+    "GA": 2,
+    "date": "2001-08-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Old Trafford",
+          "city": "Manchester",
+          "capacity": "75 635"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "afc-sunderland",
+    "away": "ipswich-town",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-08-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium of Light",
+          "city": "Sunderland",
+          "capacity": "48 707"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "charlton-athletic",
+    "away": "fc-everton",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-08-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "The Valley",
+          "city": "London",
+          "capacity": "27 111"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "derby-county",
+    "away": "blackburn-rovers",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-08-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Pride Park",
+          "city": "Derby",
+          "capacity": "33 597"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-liverpool",
+    "away": "west-ham-united",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-08-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Anfield",
+          "city": "Liverpool",
+          "capacity": "61 276"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "fc-middlesbrough",
+    "away": "fc-arsenal",
+    "GH": 0,
+    "GA": 4,
+    "date": "2001-08-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Riverside Stadium",
+          "city": "Middlesbrough",
+          "capacity": "34 742"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leeds-united",
+    "away": "fc-southampton",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-08-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Elland Road",
+          "city": "Leeds",
+          "capacity": "37 792"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "leicester-city",
+    "away": "bolton-wanderers",
+    "GH": 0,
+    "GA": 5,
+    "date": "2001-08-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "King Power Stadium",
+          "city": "Leicester",
+          "capacity": "32 261"
+        }
+      ]
+    }
+  },
+  {
+    "league": "england_premier-league-2001-2002",
+    "home": "tottenham-hotspur",
+    "away": "aston-villa",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-08-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "White Hart Lane",
+          "city": "London",
+          "capacity": "36 284"
+        }
+      ]
+    }
+  }
+]

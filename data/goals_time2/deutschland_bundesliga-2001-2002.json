@@ -1,0 +1,5511 @@
+[
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayer-leverkusen",
+    "away": "hertha-bsc",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-05-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "BayArena",
+          "city": "Leverkusen",
+          "capacity": "30 210"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayern-munchen",
+    "away": "hansa-rostock",
+    "GH": 3,
+    "GA": 2,
+    "date": "2002-05-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-dortmund",
+    "away": "werder-bremen",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-05-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Signal Iduna Park",
+          "city": "Dortmund",
+          "capacity": "81 365"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-monchengladbach",
+    "away": "tsv-1860-munchen",
+    "GH": 2,
+    "GA": 4,
+    "date": "2002-05-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Borussia-Park",
+          "city": "Mönchengladbach",
+          "capacity": "54 042"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "energie-cottbus",
+    "away": "1-fc-koln",
+    "GH": 2,
+    "GA": 3,
+    "date": "2002-05-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "LEAG Energie Stadion",
+          "city": "Cottbus",
+          "capacity": "22 450"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-st-pauli",
+    "away": "1-fc-nurnberg",
+    "GH": 2,
+    "GA": 3,
+    "date": "2002-05-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Millerntor-Stadion",
+          "city": "Hamburg",
+          "capacity": "29 546"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "sc-freiburg",
+    "away": "hamburg",
+    "GH": 4,
+    "GA": 3,
+    "date": "2002-05-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Dreisamstadion",
+          "city": "Freiburg",
+          "capacity": "24 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-schalke-04",
+    "away": "vfl-wolfsburg",
+    "GH": 1,
+    "GA": 2,
+    "date": "2002-05-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Veltins Arena",
+          "city": "Gelsenkirchen",
+          "capacity": "62 271"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfb-stuttgart",
+    "away": "1-fc-kaiserslautern",
+    "GH": 4,
+    "GA": 3,
+    "date": "2002-05-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "MHPArena",
+          "city": "Stuttgart",
+          "capacity": "60 449"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-kaiserslautern",
+    "away": "energie-cottbus",
+    "GH": 4,
+    "GA": 0,
+    "date": "2002-04-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Fritz Walter Stadion",
+          "city": "Kaiserslautern",
+          "capacity": "49 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-koln",
+    "away": "sc-freiburg",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-04-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "RheinEnergieStadion",
+          "city": "Cologne",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-nurnberg",
+    "away": "bayer-leverkusen",
+    "GH": 1,
+    "GA": 0,
+    "date": "2002-04-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Max-Morlock-Stadion",
+          "city": "Nuremberg",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hansa-rostock",
+    "away": "borussia-monchengladbach",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-04-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ostseestadion",
+          "city": "Rostock",
+          "capacity": "29 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hertha-bsc",
+    "away": "fc-schalke-04",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-04-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Berlin",
+          "capacity": "74 667"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hamburg",
+    "away": "borussia-dortmund",
+    "GH": 3,
+    "GA": 4,
+    "date": "2002-04-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volksparkstadion",
+          "city": "Hamburg",
+          "capacity": "57 274"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "tsv-1860-munchen",
+    "away": "vfb-stuttgart",
+    "GH": 3,
+    "GA": 3,
+    "date": "2002-04-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfl-wolfsburg",
+    "away": "bayern-munchen",
+    "GH": 0,
+    "GA": 1,
+    "date": "2002-04-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volkswagen Arena",
+          "city": "Wolfsburg",
+          "capacity": "28 917"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "werder-bremen",
+    "away": "fc-st-pauli",
+    "GH": 3,
+    "GA": 2,
+    "date": "2002-04-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Weserstadion",
+          "city": "Bremen",
+          "capacity": "42 100"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-monchengladbach",
+    "away": "vfb-stuttgart",
+    "GH": 2,
+    "GA": 2,
+    "date": "2002-04-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Borussia-Park",
+          "city": "Mönchengladbach",
+          "capacity": "54 042"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "sc-freiburg",
+    "away": "1-fc-kaiserslautern",
+    "GH": 3,
+    "GA": 1,
+    "date": "2002-04-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Dreisamstadion",
+          "city": "Freiburg",
+          "capacity": "24 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayer-leverkusen",
+    "away": "werder-bremen",
+    "GH": 1,
+    "GA": 2,
+    "date": "2002-04-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "BayArena",
+          "city": "Leverkusen",
+          "capacity": "30 210"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayern-munchen",
+    "away": "hertha-bsc",
+    "GH": 3,
+    "GA": 0,
+    "date": "2002-04-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-dortmund",
+    "away": "1-fc-koln",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-04-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Signal Iduna Park",
+          "city": "Dortmund",
+          "capacity": "81 365"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "energie-cottbus",
+    "away": "tsv-1860-munchen",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-04-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "LEAG Energie Stadion",
+          "city": "Cottbus",
+          "capacity": "22 450"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-schalke-04",
+    "away": "1-fc-nurnberg",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-04-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Veltins Arena",
+          "city": "Gelsenkirchen",
+          "capacity": "62 271"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfl-wolfsburg",
+    "away": "hansa-rostock",
+    "GH": 4,
+    "GA": 0,
+    "date": "2002-04-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volkswagen Arena",
+          "city": "Wolfsburg",
+          "capacity": "28 917"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-st-pauli",
+    "away": "hamburg",
+    "GH": 0,
+    "GA": 4,
+    "date": "2002-04-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Millerntor-Stadion",
+          "city": "Hamburg",
+          "capacity": "29 546"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-kaiserslautern",
+    "away": "borussia-dortmund",
+    "GH": 1,
+    "GA": 0,
+    "date": "2002-04-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Fritz Walter Stadion",
+          "city": "Kaiserslautern",
+          "capacity": "49 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfb-stuttgart",
+    "away": "energie-cottbus",
+    "GH": 0,
+    "GA": 0,
+    "date": "2002-04-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "MHPArena",
+          "city": "Stuttgart",
+          "capacity": "60 449"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-koln",
+    "away": "fc-st-pauli",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-04-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "RheinEnergieStadion",
+          "city": "Cologne",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-nurnberg",
+    "away": "bayern-munchen",
+    "GH": 1,
+    "GA": 2,
+    "date": "2002-04-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Max-Morlock-Stadion",
+          "city": "Nuremberg",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-monchengladbach",
+    "away": "vfl-wolfsburg",
+    "GH": 0,
+    "GA": 2,
+    "date": "2002-04-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Borussia-Park",
+          "city": "Mönchengladbach",
+          "capacity": "54 042"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hertha-bsc",
+    "away": "hansa-rostock",
+    "GH": 1,
+    "GA": 0,
+    "date": "2002-04-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Berlin",
+          "capacity": "74 667"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hamburg",
+    "away": "bayer-leverkusen",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-04-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volksparkstadion",
+          "city": "Hamburg",
+          "capacity": "57 274"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "tsv-1860-munchen",
+    "away": "sc-freiburg",
+    "GH": 5,
+    "GA": 2,
+    "date": "2002-04-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "werder-bremen",
+    "away": "fc-schalke-04",
+    "GH": 3,
+    "GA": 0,
+    "date": "2002-04-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Weserstadion",
+          "city": "Bremen",
+          "capacity": "42 100"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-dortmund",
+    "away": "tsv-1860-munchen",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-04-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Signal Iduna Park",
+          "city": "Dortmund",
+          "capacity": "81 365"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "sc-freiburg",
+    "away": "vfb-stuttgart",
+    "GH": 0,
+    "GA": 2,
+    "date": "2002-04-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Dreisamstadion",
+          "city": "Freiburg",
+          "capacity": "24 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayer-leverkusen",
+    "away": "1-fc-koln",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-04-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "BayArena",
+          "city": "Leverkusen",
+          "capacity": "30 210"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayern-munchen",
+    "away": "werder-bremen",
+    "GH": 2,
+    "GA": 2,
+    "date": "2002-04-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "energie-cottbus",
+    "away": "borussia-monchengladbach",
+    "GH": 3,
+    "GA": 3,
+    "date": "2002-04-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "LEAG Energie Stadion",
+          "city": "Cottbus",
+          "capacity": "22 450"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-st-pauli",
+    "away": "1-fc-kaiserslautern",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-04-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Millerntor-Stadion",
+          "city": "Hamburg",
+          "capacity": "29 546"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hansa-rostock",
+    "away": "1-fc-nurnberg",
+    "GH": 1,
+    "GA": 0,
+    "date": "2002-04-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ostseestadion",
+          "city": "Rostock",
+          "capacity": "29 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-schalke-04",
+    "away": "hamburg",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-04-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Veltins Arena",
+          "city": "Gelsenkirchen",
+          "capacity": "62 271"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfl-wolfsburg",
+    "away": "hertha-bsc",
+    "GH": 1,
+    "GA": 3,
+    "date": "2002-04-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volkswagen Arena",
+          "city": "Wolfsburg",
+          "capacity": "28 917"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-koln",
+    "away": "fc-schalke-04",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-03-31",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "RheinEnergieStadion",
+          "city": "Cologne",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "werder-bremen",
+    "away": "hansa-rostock",
+    "GH": 4,
+    "GA": 3,
+    "date": "2002-03-31",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Weserstadion",
+          "city": "Bremen",
+          "capacity": "42 100"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-kaiserslautern",
+    "away": "bayer-leverkusen",
+    "GH": 2,
+    "GA": 4,
+    "date": "2002-03-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Fritz Walter Stadion",
+          "city": "Kaiserslautern",
+          "capacity": "49 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-nurnberg",
+    "away": "vfl-wolfsburg",
+    "GH": 3,
+    "GA": 0,
+    "date": "2002-03-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Max-Morlock-Stadion",
+          "city": "Nuremberg",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-monchengladbach",
+    "away": "hertha-bsc",
+    "GH": 3,
+    "GA": 1,
+    "date": "2002-03-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Borussia-Park",
+          "city": "Mönchengladbach",
+          "capacity": "54 042"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "energie-cottbus",
+    "away": "sc-freiburg",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-03-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "LEAG Energie Stadion",
+          "city": "Cottbus",
+          "capacity": "22 450"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hamburg",
+    "away": "bayern-munchen",
+    "GH": 0,
+    "GA": 0,
+    "date": "2002-03-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volksparkstadion",
+          "city": "Hamburg",
+          "capacity": "57 274"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "tsv-1860-munchen",
+    "away": "fc-st-pauli",
+    "GH": 4,
+    "GA": 2,
+    "date": "2002-03-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfb-stuttgart",
+    "away": "borussia-dortmund",
+    "GH": 3,
+    "GA": 2,
+    "date": "2002-03-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "MHPArena",
+          "city": "Stuttgart",
+          "capacity": "60 449"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-dortmund",
+    "away": "energie-cottbus",
+    "GH": 3,
+    "GA": 0,
+    "date": "2002-03-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Signal Iduna Park",
+          "city": "Dortmund",
+          "capacity": "81 365"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfl-wolfsburg",
+    "away": "werder-bremen",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-03-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volkswagen Arena",
+          "city": "Wolfsburg",
+          "capacity": "28 917"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayer-leverkusen",
+    "away": "tsv-1860-munchen",
+    "GH": 4,
+    "GA": 0,
+    "date": "2002-03-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "BayArena",
+          "city": "Leverkusen",
+          "capacity": "30 210"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayern-munchen",
+    "away": "1-fc-koln",
+    "GH": 3,
+    "GA": 0,
+    "date": "2002-03-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-st-pauli",
+    "away": "vfb-stuttgart",
+    "GH": 1,
+    "GA": 2,
+    "date": "2002-03-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Millerntor-Stadion",
+          "city": "Hamburg",
+          "capacity": "29 546"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hansa-rostock",
+    "away": "hamburg",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-03-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ostseestadion",
+          "city": "Rostock",
+          "capacity": "29 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hertha-bsc",
+    "away": "1-fc-nurnberg",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-03-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Berlin",
+          "capacity": "74 667"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "sc-freiburg",
+    "away": "borussia-monchengladbach",
+    "GH": 0,
+    "GA": 1,
+    "date": "2002-03-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Dreisamstadion",
+          "city": "Freiburg",
+          "capacity": "24 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-schalke-04",
+    "away": "1-fc-kaiserslautern",
+    "GH": 3,
+    "GA": 0,
+    "date": "2002-03-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Veltins Arena",
+          "city": "Gelsenkirchen",
+          "capacity": "62 271"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "sc-freiburg",
+    "away": "borussia-dortmund",
+    "GH": 1,
+    "GA": 5,
+    "date": "2002-03-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Dreisamstadion",
+          "city": "Freiburg",
+          "capacity": "24 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "tsv-1860-munchen",
+    "away": "fc-schalke-04",
+    "GH": 1,
+    "GA": 2,
+    "date": "2002-03-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-kaiserslautern",
+    "away": "bayern-munchen",
+    "GH": 0,
+    "GA": 0,
+    "date": "2002-03-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Fritz Walter Stadion",
+          "city": "Kaiserslautern",
+          "capacity": "49 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-koln",
+    "away": "hansa-rostock",
+    "GH": 4,
+    "GA": 2,
+    "date": "2002-03-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "RheinEnergieStadion",
+          "city": "Cologne",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-monchengladbach",
+    "away": "1-fc-nurnberg",
+    "GH": 1,
+    "GA": 0,
+    "date": "2002-03-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Borussia-Park",
+          "city": "Mönchengladbach",
+          "capacity": "54 042"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "energie-cottbus",
+    "away": "fc-st-pauli",
+    "GH": 4,
+    "GA": 0,
+    "date": "2002-03-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "LEAG Energie Stadion",
+          "city": "Cottbus",
+          "capacity": "22 450"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hamburg",
+    "away": "vfl-wolfsburg",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-03-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volksparkstadion",
+          "city": "Hamburg",
+          "capacity": "57 274"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfb-stuttgart",
+    "away": "bayer-leverkusen",
+    "GH": 0,
+    "GA": 2,
+    "date": "2002-03-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "MHPArena",
+          "city": "Stuttgart",
+          "capacity": "60 449"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "werder-bremen",
+    "away": "hertha-bsc",
+    "GH": 0,
+    "GA": 3,
+    "date": "2002-03-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Weserstadion",
+          "city": "Bremen",
+          "capacity": "42 100"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hertha-bsc",
+    "away": "hamburg",
+    "GH": 6,
+    "GA": 0,
+    "date": "2002-03-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Berlin",
+          "capacity": "74 667"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-schalke-04",
+    "away": "vfb-stuttgart",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-03-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Veltins Arena",
+          "city": "Gelsenkirchen",
+          "capacity": "62 271"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-nurnberg",
+    "away": "werder-bremen",
+    "GH": 0,
+    "GA": 4,
+    "date": "2002-03-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Max-Morlock-Stadion",
+          "city": "Nuremberg",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayer-leverkusen",
+    "away": "energie-cottbus",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-03-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "BayArena",
+          "city": "Leverkusen",
+          "capacity": "30 210"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayern-munchen",
+    "away": "tsv-1860-munchen",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-03-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-dortmund",
+    "away": "borussia-monchengladbach",
+    "GH": 3,
+    "GA": 1,
+    "date": "2002-03-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Signal Iduna Park",
+          "city": "Dortmund",
+          "capacity": "81 365"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-st-pauli",
+    "away": "sc-freiburg",
+    "GH": 1,
+    "GA": 0,
+    "date": "2002-03-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Millerntor-Stadion",
+          "city": "Hamburg",
+          "capacity": "29 546"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hansa-rostock",
+    "away": "1-fc-kaiserslautern",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-03-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ostseestadion",
+          "city": "Rostock",
+          "capacity": "29 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfl-wolfsburg",
+    "away": "1-fc-koln",
+    "GH": 5,
+    "GA": 1,
+    "date": "2002-03-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volkswagen Arena",
+          "city": "Wolfsburg",
+          "capacity": "28 917"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-kaiserslautern",
+    "away": "vfl-wolfsburg",
+    "GH": 3,
+    "GA": 2,
+    "date": "2002-03-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Fritz Walter Stadion",
+          "city": "Kaiserslautern",
+          "capacity": "49 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-dortmund",
+    "away": "fc-st-pauli",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-03-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Signal Iduna Park",
+          "city": "Dortmund",
+          "capacity": "81 365"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-koln",
+    "away": "hertha-bsc",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-03-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "RheinEnergieStadion",
+          "city": "Cologne",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-monchengladbach",
+    "away": "werder-bremen",
+    "GH": 1,
+    "GA": 0,
+    "date": "2002-03-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Borussia-Park",
+          "city": "Mönchengladbach",
+          "capacity": "54 042"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "energie-cottbus",
+    "away": "fc-schalke-04",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-03-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "LEAG Energie Stadion",
+          "city": "Cottbus",
+          "capacity": "22 450"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hamburg",
+    "away": "1-fc-nurnberg",
+    "GH": 3,
+    "GA": 1,
+    "date": "2002-03-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volksparkstadion",
+          "city": "Hamburg",
+          "capacity": "57 274"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "sc-freiburg",
+    "away": "bayer-leverkusen",
+    "GH": 2,
+    "GA": 2,
+    "date": "2002-03-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Dreisamstadion",
+          "city": "Freiburg",
+          "capacity": "24 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "tsv-1860-munchen",
+    "away": "hansa-rostock",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-03-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfb-stuttgart",
+    "away": "bayern-munchen",
+    "GH": 0,
+    "GA": 2,
+    "date": "2002-03-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "MHPArena",
+          "city": "Stuttgart",
+          "capacity": "60 449"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayer-leverkusen",
+    "away": "borussia-dortmund",
+    "GH": 4,
+    "GA": 0,
+    "date": "2002-02-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "BayArena",
+          "city": "Leverkusen",
+          "capacity": "30 210"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "werder-bremen",
+    "away": "hamburg",
+    "GH": 0,
+    "GA": 1,
+    "date": "2002-02-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Weserstadion",
+          "city": "Bremen",
+          "capacity": "42 100"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-nurnberg",
+    "away": "1-fc-koln",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-02-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Max-Morlock-Stadion",
+          "city": "Nuremberg",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayern-munchen",
+    "away": "energie-cottbus",
+    "GH": 6,
+    "GA": 0,
+    "date": "2002-02-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-st-pauli",
+    "away": "borussia-monchengladbach",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-02-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Millerntor-Stadion",
+          "city": "Hamburg",
+          "capacity": "29 546"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hansa-rostock",
+    "away": "vfb-stuttgart",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-02-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ostseestadion",
+          "city": "Rostock",
+          "capacity": "29 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hertha-bsc",
+    "away": "1-fc-kaiserslautern",
+    "GH": 5,
+    "GA": 1,
+    "date": "2002-02-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Berlin",
+          "capacity": "74 667"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-schalke-04",
+    "away": "sc-freiburg",
+    "GH": 3,
+    "GA": 0,
+    "date": "2002-02-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Veltins Arena",
+          "city": "Gelsenkirchen",
+          "capacity": "62 271"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfl-wolfsburg",
+    "away": "tsv-1860-munchen",
+    "GH": 1,
+    "GA": 3,
+    "date": "2002-02-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volkswagen Arena",
+          "city": "Wolfsburg",
+          "capacity": "28 917"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-koln",
+    "away": "werder-bremen",
+    "GH": 0,
+    "GA": 0,
+    "date": "2002-02-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "RheinEnergieStadion",
+          "city": "Cologne",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "energie-cottbus",
+    "away": "hansa-rostock",
+    "GH": 3,
+    "GA": 0,
+    "date": "2002-02-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "LEAG Energie Stadion",
+          "city": "Cottbus",
+          "capacity": "22 450"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-kaiserslautern",
+    "away": "1-fc-nurnberg",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-02-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Fritz Walter Stadion",
+          "city": "Kaiserslautern",
+          "capacity": "49 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-dortmund",
+    "away": "fc-schalke-04",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-02-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Signal Iduna Park",
+          "city": "Dortmund",
+          "capacity": "81 365"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-monchengladbach",
+    "away": "hamburg",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-02-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Borussia-Park",
+          "city": "Mönchengladbach",
+          "capacity": "54 042"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-st-pauli",
+    "away": "bayer-leverkusen",
+    "GH": 2,
+    "GA": 2,
+    "date": "2002-02-16",
+    "incident": {
+      "incidents": [],
+      "metadata": {}
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "sc-freiburg",
+    "away": "bayern-munchen",
+    "GH": 0,
+    "GA": 2,
+    "date": "2002-02-16",
+    "incident": {
+      "incidents": [],
+      "metadata": {}
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "tsv-1860-munchen",
+    "away": "hertha-bsc",
+    "GH": 0,
+    "GA": 3,
+    "date": "2002-02-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfb-stuttgart",
+    "away": "vfl-wolfsburg",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-02-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "MHPArena",
+          "city": "Stuttgart",
+          "capacity": "60 449"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-nurnberg",
+    "away": "tsv-1860-munchen",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-02-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Max-Morlock-Stadion",
+          "city": "Nuremberg",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hamburg",
+    "away": "1-fc-koln",
+    "GH": 4,
+    "GA": 0,
+    "date": "2002-02-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volksparkstadion",
+          "city": "Hamburg",
+          "capacity": "57 274"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayer-leverkusen",
+    "away": "borussia-monchengladbach",
+    "GH": 5,
+    "GA": 0,
+    "date": "2002-02-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "BayArena",
+          "city": "Leverkusen",
+          "capacity": "30 210"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayern-munchen",
+    "away": "borussia-dortmund",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-02-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hansa-rostock",
+    "away": "sc-freiburg",
+    "GH": 4,
+    "GA": 0,
+    "date": "2002-02-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ostseestadion",
+          "city": "Rostock",
+          "capacity": "29 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hertha-bsc",
+    "away": "vfb-stuttgart",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-02-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Berlin",
+          "capacity": "74 667"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-schalke-04",
+    "away": "fc-st-pauli",
+    "GH": 4,
+    "GA": 0,
+    "date": "2002-02-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Veltins Arena",
+          "city": "Gelsenkirchen",
+          "capacity": "62 271"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfl-wolfsburg",
+    "away": "energie-cottbus",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-02-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volkswagen Arena",
+          "city": "Wolfsburg",
+          "capacity": "28 917"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "werder-bremen",
+    "away": "1-fc-kaiserslautern",
+    "GH": 1,
+    "GA": 0,
+    "date": "2002-02-09",
+    "incident": {
+      "incidents": [],
+      "metadata": {}
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-kaiserslautern",
+    "away": "hamburg",
+    "GH": 2,
+    "GA": 2,
+    "date": "2002-02-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Fritz Walter Stadion",
+          "city": "Kaiserslautern",
+          "capacity": "49 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayer-leverkusen",
+    "away": "fc-schalke-04",
+    "GH": 0,
+    "GA": 1,
+    "date": "2002-02-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "BayArena",
+          "city": "Leverkusen",
+          "capacity": "30 210"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-dortmund",
+    "away": "hansa-rostock",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-02-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Signal Iduna Park",
+          "city": "Dortmund",
+          "capacity": "81 365"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-st-pauli",
+    "away": "bayern-munchen",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-02-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Millerntor-Stadion",
+          "city": "Hamburg",
+          "capacity": "29 546"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-monchengladbach",
+    "away": "1-fc-koln",
+    "GH": 4,
+    "GA": 0,
+    "date": "2002-02-05",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Borussia-Park",
+          "city": "Mönchengladbach",
+          "capacity": "54 042"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "energie-cottbus",
+    "away": "hertha-bsc",
+    "GH": 1,
+    "GA": 0,
+    "date": "2002-02-05",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "LEAG Energie Stadion",
+          "city": "Cottbus",
+          "capacity": "22 450"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "sc-freiburg",
+    "away": "vfl-wolfsburg",
+    "GH": 0,
+    "GA": 0,
+    "date": "2002-02-05",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Dreisamstadion",
+          "city": "Freiburg",
+          "capacity": "24 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "tsv-1860-munchen",
+    "away": "werder-bremen",
+    "GH": 3,
+    "GA": 1,
+    "date": "2002-02-05",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfb-stuttgart",
+    "away": "1-fc-nurnberg",
+    "GH": 2,
+    "GA": 3,
+    "date": "2002-02-05",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "MHPArena",
+          "city": "Stuttgart",
+          "capacity": "60 449"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayern-munchen",
+    "away": "bayer-leverkusen",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-02-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hansa-rostock",
+    "away": "fc-st-pauli",
+    "GH": 1,
+    "GA": 0,
+    "date": "2002-02-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ostseestadion",
+          "city": "Rostock",
+          "capacity": "29 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-koln",
+    "away": "1-fc-kaiserslautern",
+    "GH": 0,
+    "GA": 1,
+    "date": "2002-02-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "RheinEnergieStadion",
+          "city": "Cologne",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-nurnberg",
+    "away": "energie-cottbus",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-02-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Max-Morlock-Stadion",
+          "city": "Nuremberg",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hertha-bsc",
+    "away": "sc-freiburg",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-02-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Berlin",
+          "capacity": "74 667"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hamburg",
+    "away": "tsv-1860-munchen",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-02-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volksparkstadion",
+          "city": "Hamburg",
+          "capacity": "57 274"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-schalke-04",
+    "away": "borussia-monchengladbach",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-02-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Veltins Arena",
+          "city": "Gelsenkirchen",
+          "capacity": "62 271"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfl-wolfsburg",
+    "away": "borussia-dortmund",
+    "GH": 1,
+    "GA": 1,
+    "date": "2002-02-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volkswagen Arena",
+          "city": "Wolfsburg",
+          "capacity": "28 917"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "werder-bremen",
+    "away": "vfb-stuttgart",
+    "GH": 1,
+    "GA": 2,
+    "date": "2002-02-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Weserstadion",
+          "city": "Bremen",
+          "capacity": "42 100"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-dortmund",
+    "away": "hertha-bsc",
+    "GH": 3,
+    "GA": 1,
+    "date": "2002-01-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Signal Iduna Park",
+          "city": "Dortmund",
+          "capacity": "81 365"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "energie-cottbus",
+    "away": "werder-bremen",
+    "GH": 2,
+    "GA": 1,
+    "date": "2002-01-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "LEAG Energie Stadion",
+          "city": "Cottbus",
+          "capacity": "22 450"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayer-leverkusen",
+    "away": "hansa-rostock",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-01-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "BayArena",
+          "city": "Leverkusen",
+          "capacity": "30 210"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-monchengladbach",
+    "away": "1-fc-kaiserslautern",
+    "GH": 0,
+    "GA": 2,
+    "date": "2002-01-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Borussia-Park",
+          "city": "Mönchengladbach",
+          "capacity": "54 042"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-st-pauli",
+    "away": "vfl-wolfsburg",
+    "GH": 3,
+    "GA": 1,
+    "date": "2002-01-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Millerntor-Stadion",
+          "city": "Hamburg",
+          "capacity": "29 546"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "sc-freiburg",
+    "away": "1-fc-nurnberg",
+    "GH": 2,
+    "GA": 0,
+    "date": "2002-01-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Dreisamstadion",
+          "city": "Freiburg",
+          "capacity": "24 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-schalke-04",
+    "away": "bayern-munchen",
+    "GH": 5,
+    "GA": 1,
+    "date": "2002-01-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Veltins Arena",
+          "city": "Gelsenkirchen",
+          "capacity": "62 271"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "tsv-1860-munchen",
+    "away": "1-fc-koln",
+    "GH": 3,
+    "GA": 0,
+    "date": "2002-01-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfb-stuttgart",
+    "away": "hamburg",
+    "GH": 3,
+    "GA": 0,
+    "date": "2002-01-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "MHPArena",
+          "city": "Stuttgart",
+          "capacity": "60 449"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-kaiserslautern",
+    "away": "tsv-1860-munchen",
+    "GH": 1,
+    "GA": 3,
+    "date": "2001-12-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Fritz Walter Stadion",
+          "city": "Kaiserslautern",
+          "capacity": "49 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-koln",
+    "away": "vfb-stuttgart",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-12-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "RheinEnergieStadion",
+          "city": "Cologne",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hansa-rostock",
+    "away": "fc-schalke-04",
+    "GH": 1,
+    "GA": 3,
+    "date": "2001-12-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ostseestadion",
+          "city": "Rostock",
+          "capacity": "29 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfl-wolfsburg",
+    "away": "bayer-leverkusen",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-12-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volkswagen Arena",
+          "city": "Wolfsburg",
+          "capacity": "28 917"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-nurnberg",
+    "away": "borussia-dortmund",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-12-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Max-Morlock-Stadion",
+          "city": "Nuremberg",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayern-munchen",
+    "away": "borussia-monchengladbach",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-12-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hertha-bsc",
+    "away": "fc-st-pauli",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-12-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Berlin",
+          "capacity": "74 667"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hamburg",
+    "away": "energie-cottbus",
+    "GH": 5,
+    "GA": 2,
+    "date": "2001-12-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volksparkstadion",
+          "city": "Hamburg",
+          "capacity": "57 274"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "werder-bremen",
+    "away": "sc-freiburg",
+    "GH": 3,
+    "GA": 2,
+    "date": "2001-12-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Weserstadion",
+          "city": "Bremen",
+          "capacity": "42 100"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-kaiserslautern",
+    "away": "vfb-stuttgart",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-12-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Fritz Walter Stadion",
+          "city": "Kaiserslautern",
+          "capacity": "49 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfl-wolfsburg",
+    "away": "fc-schalke-04",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-12-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volkswagen Arena",
+          "city": "Wolfsburg",
+          "capacity": "28 917"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-koln",
+    "away": "energie-cottbus",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-12-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "RheinEnergieStadion",
+          "city": "Cologne",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-nurnberg",
+    "away": "fc-st-pauli",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-12-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Max-Morlock-Stadion",
+          "city": "Nuremberg",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hansa-rostock",
+    "away": "bayern-munchen",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-12-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ostseestadion",
+          "city": "Rostock",
+          "capacity": "29 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hertha-bsc",
+    "away": "bayer-leverkusen",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-12-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Berlin",
+          "capacity": "74 667"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hamburg",
+    "away": "sc-freiburg",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-12-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volksparkstadion",
+          "city": "Hamburg",
+          "capacity": "57 274"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "tsv-1860-munchen",
+    "away": "borussia-monchengladbach",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-12-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "werder-bremen",
+    "away": "borussia-dortmund",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-12-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Weserstadion",
+          "city": "Bremen",
+          "capacity": "42 100"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "sc-freiburg",
+    "away": "1-fc-koln",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-12-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Dreisamstadion",
+          "city": "Freiburg",
+          "capacity": "24 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-schalke-04",
+    "away": "hertha-bsc",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-12-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Veltins Arena",
+          "city": "Gelsenkirchen",
+          "capacity": "62 271"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayer-leverkusen",
+    "away": "1-fc-nurnberg",
+    "GH": 4,
+    "GA": 2,
+    "date": "2001-12-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "BayArena",
+          "city": "Leverkusen",
+          "capacity": "30 210"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayern-munchen",
+    "away": "vfl-wolfsburg",
+    "GH": 3,
+    "GA": 3,
+    "date": "2001-12-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-dortmund",
+    "away": "hamburg",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-12-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Signal Iduna Park",
+          "city": "Dortmund",
+          "capacity": "81 365"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-monchengladbach",
+    "away": "hansa-rostock",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-12-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Borussia-Park",
+          "city": "Mönchengladbach",
+          "capacity": "54 042"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "energie-cottbus",
+    "away": "1-fc-kaiserslautern",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-12-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "LEAG Energie Stadion",
+          "city": "Cottbus",
+          "capacity": "22 450"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-st-pauli",
+    "away": "werder-bremen",
+    "GH": 0,
+    "GA": 3,
+    "date": "2001-12-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Millerntor-Stadion",
+          "city": "Hamburg",
+          "capacity": "29 546"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfb-stuttgart",
+    "away": "tsv-1860-munchen",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-12-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "MHPArena",
+          "city": "Stuttgart",
+          "capacity": "60 449"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hertha-bsc",
+    "away": "bayern-munchen",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-12-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Berlin",
+          "capacity": "74 667"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hamburg",
+    "away": "fc-st-pauli",
+    "GH": 4,
+    "GA": 3,
+    "date": "2001-12-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volksparkstadion",
+          "city": "Hamburg",
+          "capacity": "57 274"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-kaiserslautern",
+    "away": "sc-freiburg",
+    "GH": 3,
+    "GA": 0,
+    "date": "2001-12-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Fritz Walter Stadion",
+          "city": "Kaiserslautern",
+          "capacity": "49 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-koln",
+    "away": "borussia-dortmund",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-12-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "RheinEnergieStadion",
+          "city": "Cologne",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-nurnberg",
+    "away": "fc-schalke-04",
+    "GH": 0,
+    "GA": 3,
+    "date": "2001-12-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Max-Morlock-Stadion",
+          "city": "Nuremberg",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hansa-rostock",
+    "away": "vfl-wolfsburg",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-12-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ostseestadion",
+          "city": "Rostock",
+          "capacity": "29 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "tsv-1860-munchen",
+    "away": "energie-cottbus",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-12-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfb-stuttgart",
+    "away": "borussia-monchengladbach",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-12-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "MHPArena",
+          "city": "Stuttgart",
+          "capacity": "60 449"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "werder-bremen",
+    "away": "bayer-leverkusen",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-12-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Weserstadion",
+          "city": "Bremen",
+          "capacity": "42 100"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-dortmund",
+    "away": "1-fc-kaiserslautern",
+    "GH": 3,
+    "GA": 0,
+    "date": "2001-11-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Signal Iduna Park",
+          "city": "Dortmund",
+          "capacity": "81 365"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "sc-freiburg",
+    "away": "tsv-1860-munchen",
+    "GH": 1,
+    "GA": 3,
+    "date": "2001-11-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Dreisamstadion",
+          "city": "Freiburg",
+          "capacity": "24 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayer-leverkusen",
+    "away": "hamburg",
+    "GH": 4,
+    "GA": 1,
+    "date": "2001-11-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "BayArena",
+          "city": "Leverkusen",
+          "capacity": "30 210"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayern-munchen",
+    "away": "1-fc-nurnberg",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-11-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "energie-cottbus",
+    "away": "vfb-stuttgart",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-11-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "LEAG Energie Stadion",
+          "city": "Cottbus",
+          "capacity": "22 450"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-st-pauli",
+    "away": "1-fc-koln",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-11-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Millerntor-Stadion",
+          "city": "Hamburg",
+          "capacity": "29 546"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hansa-rostock",
+    "away": "hertha-bsc",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-11-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ostseestadion",
+          "city": "Rostock",
+          "capacity": "29 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-schalke-04",
+    "away": "werder-bremen",
+    "GH": 1,
+    "GA": 4,
+    "date": "2001-11-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Veltins Arena",
+          "city": "Gelsenkirchen",
+          "capacity": "62 271"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfl-wolfsburg",
+    "away": "borussia-monchengladbach",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-11-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volkswagen Arena",
+          "city": "Wolfsburg",
+          "capacity": "28 917"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-nurnberg",
+    "away": "hansa-rostock",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-11-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Max-Morlock-Stadion",
+          "city": "Nuremberg",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-monchengladbach",
+    "away": "energie-cottbus",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-11-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Borussia-Park",
+          "city": "Mönchengladbach",
+          "capacity": "54 042"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-kaiserslautern",
+    "away": "fc-st-pauli",
+    "GH": 5,
+    "GA": 1,
+    "date": "2001-11-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Fritz Walter Stadion",
+          "city": "Kaiserslautern",
+          "capacity": "49 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-koln",
+    "away": "bayer-leverkusen",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-11-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "RheinEnergieStadion",
+          "city": "Cologne",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hertha-bsc",
+    "away": "vfl-wolfsburg",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-11-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Berlin",
+          "capacity": "74 667"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hamburg",
+    "away": "fc-schalke-04",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-11-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volksparkstadion",
+          "city": "Hamburg",
+          "capacity": "57 274"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "tsv-1860-munchen",
+    "away": "borussia-dortmund",
+    "GH": 1,
+    "GA": 3,
+    "date": "2001-11-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfb-stuttgart",
+    "away": "sc-freiburg",
+    "GH": 3,
+    "GA": 0,
+    "date": "2001-11-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "MHPArena",
+          "city": "Stuttgart",
+          "capacity": "60 449"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "werder-bremen",
+    "away": "bayern-munchen",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-11-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Weserstadion",
+          "city": "Bremen",
+          "capacity": "42 100"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hertha-bsc",
+    "away": "borussia-monchengladbach",
+    "GH": 3,
+    "GA": 0,
+    "date": "2001-11-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Berlin",
+          "capacity": "74 667"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "sc-freiburg",
+    "away": "energie-cottbus",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-11-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Dreisamstadion",
+          "city": "Freiburg",
+          "capacity": "24 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayer-leverkusen",
+    "away": "1-fc-kaiserslautern",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-11-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "BayArena",
+          "city": "Leverkusen",
+          "capacity": "30 210"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayern-munchen",
+    "away": "hamburg",
+    "GH": 3,
+    "GA": 0,
+    "date": "2001-11-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-dortmund",
+    "away": "vfb-stuttgart",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-11-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Signal Iduna Park",
+          "city": "Dortmund",
+          "capacity": "81 365"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-st-pauli",
+    "away": "tsv-1860-munchen",
+    "GH": 0,
+    "GA": 3,
+    "date": "2001-11-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Millerntor-Stadion",
+          "city": "Hamburg",
+          "capacity": "29 546"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hansa-rostock",
+    "away": "werder-bremen",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-11-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ostseestadion",
+          "city": "Rostock",
+          "capacity": "29 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-schalke-04",
+    "away": "1-fc-koln",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-11-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Veltins Arena",
+          "city": "Gelsenkirchen",
+          "capacity": "62 271"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfl-wolfsburg",
+    "away": "1-fc-nurnberg",
+    "GH": 5,
+    "GA": 0,
+    "date": "2001-11-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volkswagen Arena",
+          "city": "Wolfsburg",
+          "capacity": "28 917"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-nurnberg",
+    "away": "hertha-bsc",
+    "GH": 1,
+    "GA": 3,
+    "date": "2001-10-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Max-Morlock-Stadion",
+          "city": "Nuremberg",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hamburg",
+    "away": "hansa-rostock",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-10-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volksparkstadion",
+          "city": "Hamburg",
+          "capacity": "57 274"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-kaiserslautern",
+    "away": "fc-schalke-04",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-10-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Fritz Walter Stadion",
+          "city": "Kaiserslautern",
+          "capacity": "49 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-koln",
+    "away": "bayern-munchen",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-10-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "RheinEnergieStadion",
+          "city": "Cologne",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-monchengladbach",
+    "away": "sc-freiburg",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-10-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Borussia-Park",
+          "city": "Mönchengladbach",
+          "capacity": "54 042"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "energie-cottbus",
+    "away": "borussia-dortmund",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-10-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "LEAG Energie Stadion",
+          "city": "Cottbus",
+          "capacity": "22 450"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "tsv-1860-munchen",
+    "away": "bayer-leverkusen",
+    "GH": 1,
+    "GA": 4,
+    "date": "2001-10-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfb-stuttgart",
+    "away": "fc-st-pauli",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-10-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "MHPArena",
+          "city": "Stuttgart",
+          "capacity": "60 449"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "werder-bremen",
+    "away": "vfl-wolfsburg",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-10-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Weserstadion",
+          "city": "Bremen",
+          "capacity": "42 100"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-dortmund",
+    "away": "sc-freiburg",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-10-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Signal Iduna Park",
+          "city": "Dortmund",
+          "capacity": "81 365"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfl-wolfsburg",
+    "away": "hamburg",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-10-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volkswagen Arena",
+          "city": "Wolfsburg",
+          "capacity": "28 917"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hertha-bsc",
+    "away": "werder-bremen",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-10-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Berlin",
+          "capacity": "74 667"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-nurnberg",
+    "away": "borussia-monchengladbach",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-10-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Max-Morlock-Stadion",
+          "city": "Nuremberg",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayer-leverkusen",
+    "away": "vfb-stuttgart",
+    "GH": 4,
+    "GA": 1,
+    "date": "2001-10-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "BayArena",
+          "city": "Leverkusen",
+          "capacity": "30 210"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayern-munchen",
+    "away": "1-fc-kaiserslautern",
+    "GH": 4,
+    "GA": 1,
+    "date": "2001-10-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-st-pauli",
+    "away": "energie-cottbus",
+    "GH": 4,
+    "GA": 0,
+    "date": "2001-10-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Millerntor-Stadion",
+          "city": "Hamburg",
+          "capacity": "29 546"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hansa-rostock",
+    "away": "1-fc-koln",
+    "GH": 3,
+    "GA": 0,
+    "date": "2001-10-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ostseestadion",
+          "city": "Rostock",
+          "capacity": "29 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-schalke-04",
+    "away": "tsv-1860-munchen",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-10-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Veltins Arena",
+          "city": "Gelsenkirchen",
+          "capacity": "62 271"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-koln",
+    "away": "vfl-wolfsburg",
+    "GH": 0,
+    "GA": 4,
+    "date": "2001-10-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "RheinEnergieStadion",
+          "city": "Cologne",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "werder-bremen",
+    "away": "1-fc-nurnberg",
+    "GH": 3,
+    "GA": 0,
+    "date": "2001-10-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Weserstadion",
+          "city": "Bremen",
+          "capacity": "42 100"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-kaiserslautern",
+    "away": "hansa-rostock",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-10-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Fritz Walter Stadion",
+          "city": "Kaiserslautern",
+          "capacity": "49 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-monchengladbach",
+    "away": "borussia-dortmund",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-10-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Borussia-Park",
+          "city": "Mönchengladbach",
+          "capacity": "54 042"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "energie-cottbus",
+    "away": "bayer-leverkusen",
+    "GH": 2,
+    "GA": 3,
+    "date": "2001-10-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "LEAG Energie Stadion",
+          "city": "Cottbus",
+          "capacity": "22 450"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hamburg",
+    "away": "hertha-bsc",
+    "GH": 4,
+    "GA": 0,
+    "date": "2001-10-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volksparkstadion",
+          "city": "Hamburg",
+          "capacity": "57 274"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "sc-freiburg",
+    "away": "fc-st-pauli",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-10-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Dreisamstadion",
+          "city": "Freiburg",
+          "capacity": "24 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "tsv-1860-munchen",
+    "away": "bayern-munchen",
+    "GH": 1,
+    "GA": 5,
+    "date": "2001-10-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfb-stuttgart",
+    "away": "fc-schalke-04",
+    "GH": 3,
+    "GA": 0,
+    "date": "2001-10-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "MHPArena",
+          "city": "Stuttgart",
+          "capacity": "60 449"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayer-leverkusen",
+    "away": "sc-freiburg",
+    "GH": 4,
+    "GA": 1,
+    "date": "2001-09-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "BayArena",
+          "city": "Leverkusen",
+          "capacity": "30 210"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayern-munchen",
+    "away": "vfb-stuttgart",
+    "GH": 4,
+    "GA": 0,
+    "date": "2001-09-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-nurnberg",
+    "away": "hamburg",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-09-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Max-Morlock-Stadion",
+          "city": "Nuremberg",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-st-pauli",
+    "away": "borussia-dortmund",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-09-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Millerntor-Stadion",
+          "city": "Hamburg",
+          "capacity": "29 546"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hansa-rostock",
+    "away": "tsv-1860-munchen",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-09-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ostseestadion",
+          "city": "Rostock",
+          "capacity": "29 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hertha-bsc",
+    "away": "1-fc-koln",
+    "GH": 3,
+    "GA": 0,
+    "date": "2001-09-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Berlin",
+          "capacity": "74 667"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-schalke-04",
+    "away": "energie-cottbus",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-09-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Veltins Arena",
+          "city": "Gelsenkirchen",
+          "capacity": "62 271"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfl-wolfsburg",
+    "away": "1-fc-kaiserslautern",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-09-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volkswagen Arena",
+          "city": "Wolfsburg",
+          "capacity": "28 917"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "werder-bremen",
+    "away": "borussia-monchengladbach",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-09-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Weserstadion",
+          "city": "Bremen",
+          "capacity": "42 100"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-monchengladbach",
+    "away": "fc-st-pauli",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-09-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Borussia-Park",
+          "city": "Mönchengladbach",
+          "capacity": "54 042"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "tsv-1860-munchen",
+    "away": "vfl-wolfsburg",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-09-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-kaiserslautern",
+    "away": "hertha-bsc",
+    "GH": 4,
+    "GA": 1,
+    "date": "2001-09-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Fritz Walter Stadion",
+          "city": "Kaiserslautern",
+          "capacity": "49 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-koln",
+    "away": "1-fc-nurnberg",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-09-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "RheinEnergieStadion",
+          "city": "Cologne",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-dortmund",
+    "away": "bayer-leverkusen",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-09-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Signal Iduna Park",
+          "city": "Dortmund",
+          "capacity": "81 365"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "energie-cottbus",
+    "away": "bayern-munchen",
+    "GH": 0,
+    "GA": 3,
+    "date": "2001-09-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "LEAG Energie Stadion",
+          "city": "Cottbus",
+          "capacity": "22 450"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hamburg",
+    "away": "werder-bremen",
+    "GH": 0,
+    "GA": 4,
+    "date": "2001-09-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volksparkstadion",
+          "city": "Hamburg",
+          "capacity": "57 274"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "sc-freiburg",
+    "away": "fc-schalke-04",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-09-22",
+    "incident": {
+      "incidents": [
+        {
+          "team": "away",
+          "minute": "51'",
+          "incident_type": "Yellow Card",
+          "player_name": "Tomasz Hajto"
+        },
+        {
+          "team": "home",
+          "minute": "68'",
+          "incident_type": "Goal",
+          "player_name": "Ibrahim Tanko"
+        },
+        {
+          "team": "away",
+          "minute": "87'",
+          "incident_type": "Yellow Card",
+          "player_name": "Victor Agali"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Dreisamstadion",
+          "city": "Freiburg",
+          "capacity": "24 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfb-stuttgart",
+    "away": "hansa-rostock",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-09-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "MHPArena",
+          "city": "Stuttgart",
+          "capacity": "60 449"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hansa-rostock",
+    "away": "energie-cottbus",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-09-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ostseestadion",
+          "city": "Rostock",
+          "capacity": "29 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hertha-bsc",
+    "away": "tsv-1860-munchen",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-09-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Berlin",
+          "capacity": "74 667"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-nurnberg",
+    "away": "1-fc-kaiserslautern",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-09-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Max-Morlock-Stadion",
+          "city": "Nuremberg",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayer-leverkusen",
+    "away": "fc-st-pauli",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-09-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "BayArena",
+          "city": "Leverkusen",
+          "capacity": "30 210"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayern-munchen",
+    "away": "sc-freiburg",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-09-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hamburg",
+    "away": "borussia-monchengladbach",
+    "GH": 3,
+    "GA": 3,
+    "date": "2001-09-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volksparkstadion",
+          "city": "Hamburg",
+          "capacity": "57 274"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-schalke-04",
+    "away": "borussia-dortmund",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-09-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Veltins Arena",
+          "city": "Gelsenkirchen",
+          "capacity": "62 271"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfl-wolfsburg",
+    "away": "vfb-stuttgart",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-09-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volkswagen Arena",
+          "city": "Wolfsburg",
+          "capacity": "28 917"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "werder-bremen",
+    "away": "1-fc-koln",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-09-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Weserstadion",
+          "city": "Bremen",
+          "capacity": "42 100"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-kaiserslautern",
+    "away": "werder-bremen",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-09-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Fritz Walter Stadion",
+          "city": "Kaiserslautern",
+          "capacity": "49 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-koln",
+    "away": "hamburg",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-09-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "RheinEnergieStadion",
+          "city": "Cologne",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-dortmund",
+    "away": "bayern-munchen",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-09-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Signal Iduna Park",
+          "city": "Dortmund",
+          "capacity": "81 365"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-monchengladbach",
+    "away": "bayer-leverkusen",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-09-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Borussia-Park",
+          "city": "Mönchengladbach",
+          "capacity": "54 042"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "energie-cottbus",
+    "away": "vfl-wolfsburg",
+    "GH": 3,
+    "GA": 3,
+    "date": "2001-09-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "LEAG Energie Stadion",
+          "city": "Cottbus",
+          "capacity": "22 450"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-st-pauli",
+    "away": "fc-schalke-04",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-09-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Millerntor-Stadion",
+          "city": "Hamburg",
+          "capacity": "29 546"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "sc-freiburg",
+    "away": "hansa-rostock",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-09-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Dreisamstadion",
+          "city": "Freiburg",
+          "capacity": "24 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "tsv-1860-munchen",
+    "away": "1-fc-nurnberg",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-09-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfb-stuttgart",
+    "away": "hertha-bsc",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-09-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "MHPArena",
+          "city": "Stuttgart",
+          "capacity": "60 449"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-schalke-04",
+    "away": "hansa-rostock",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-08-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Veltins Arena",
+          "city": "Gelsenkirchen",
+          "capacity": "62 271"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-koln",
+    "away": "borussia-monchengladbach",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-08-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "RheinEnergieStadion",
+          "city": "Cologne",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hertha-bsc",
+    "away": "energie-cottbus",
+    "GH": 2,
+    "GA": 3,
+    "date": "2001-08-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Berlin",
+          "capacity": "74 667"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-nurnberg",
+    "away": "vfb-stuttgart",
+    "GH": 2,
+    "GA": 4,
+    "date": "2001-08-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Max-Morlock-Stadion",
+          "city": "Nuremberg",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayern-munchen",
+    "away": "fc-st-pauli",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-08-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hansa-rostock",
+    "away": "borussia-dortmund",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-08-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ostseestadion",
+          "city": "Rostock",
+          "capacity": "29 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hamburg",
+    "away": "1-fc-kaiserslautern",
+    "GH": 2,
+    "GA": 3,
+    "date": "2001-08-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volksparkstadion",
+          "city": "Hamburg",
+          "capacity": "57 274"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-schalke-04",
+    "away": "bayer-leverkusen",
+    "GH": 3,
+    "GA": 3,
+    "date": "2001-08-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Veltins Arena",
+          "city": "Gelsenkirchen",
+          "capacity": "62 271"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfl-wolfsburg",
+    "away": "sc-freiburg",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-08-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volkswagen Arena",
+          "city": "Wolfsburg",
+          "capacity": "28 917"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "werder-bremen",
+    "away": "tsv-1860-munchen",
+    "GH": 1,
+    "GA": 3,
+    "date": "2001-08-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Weserstadion",
+          "city": "Bremen",
+          "capacity": "42 100"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-monchengladbach",
+    "away": "fc-schalke-04",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-08-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Borussia-Park",
+          "city": "Mönchengladbach",
+          "capacity": "54 042"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-st-pauli",
+    "away": "hansa-rostock",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-08-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Millerntor-Stadion",
+          "city": "Hamburg",
+          "capacity": "29 546"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-kaiserslautern",
+    "away": "1-fc-koln",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-08-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Fritz Walter Stadion",
+          "city": "Kaiserslautern",
+          "capacity": "49 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayer-leverkusen",
+    "away": "bayern-munchen",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-08-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "BayArena",
+          "city": "Leverkusen",
+          "capacity": "30 210"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-dortmund",
+    "away": "vfl-wolfsburg",
+    "GH": 4,
+    "GA": 0,
+    "date": "2001-08-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Signal Iduna Park",
+          "city": "Dortmund",
+          "capacity": "81 365"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "energie-cottbus",
+    "away": "1-fc-nurnberg",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-08-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "LEAG Energie Stadion",
+          "city": "Cottbus",
+          "capacity": "22 450"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "sc-freiburg",
+    "away": "hertha-bsc",
+    "GH": 1,
+    "GA": 3,
+    "date": "2001-08-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Dreisamstadion",
+          "city": "Freiburg",
+          "capacity": "24 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "tsv-1860-munchen",
+    "away": "hamburg",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-08-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfb-stuttgart",
+    "away": "werder-bremen",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-08-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "MHPArena",
+          "city": "Stuttgart",
+          "capacity": "60 449"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-kaiserslautern",
+    "away": "borussia-monchengladbach",
+    "GH": 3,
+    "GA": 2,
+    "date": "2001-08-05",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Fritz Walter Stadion",
+          "city": "Kaiserslautern",
+          "capacity": "49 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-nurnberg",
+    "away": "sc-freiburg",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-08-05",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Max-Morlock-Stadion",
+          "city": "Nuremberg",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "1-fc-koln",
+    "away": "tsv-1860-munchen",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-08-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "RheinEnergieStadion",
+          "city": "Cologne",
+          "capacity": "50 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayern-munchen",
+    "away": "fc-schalke-04",
+    "GH": 3,
+    "GA": 0,
+    "date": "2001-08-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hansa-rostock",
+    "away": "bayer-leverkusen",
+    "GH": 0,
+    "GA": 3,
+    "date": "2001-08-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Ostseestadion",
+          "city": "Rostock",
+          "capacity": "29 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hertha-bsc",
+    "away": "borussia-dortmund",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-08-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Berlin",
+          "capacity": "74 667"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "hamburg",
+    "away": "vfb-stuttgart",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-08-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volksparkstadion",
+          "city": "Hamburg",
+          "capacity": "57 274"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfl-wolfsburg",
+    "away": "fc-st-pauli",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-08-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Volkswagen Arena",
+          "city": "Wolfsburg",
+          "capacity": "28 917"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "werder-bremen",
+    "away": "energie-cottbus",
+    "GH": 3,
+    "GA": 2,
+    "date": "2001-08-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Weserstadion",
+          "city": "Bremen",
+          "capacity": "42 100"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "fc-st-pauli",
+    "away": "hertha-bsc",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-07-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Millerntor-Stadion",
+          "city": "Hamburg",
+          "capacity": "29 546"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "bayer-leverkusen",
+    "away": "vfl-wolfsburg",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-07-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "BayArena",
+          "city": "Leverkusen",
+          "capacity": "30 210"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-dortmund",
+    "away": "1-fc-nurnberg",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-07-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Signal Iduna Park",
+          "city": "Dortmund",
+          "capacity": "81 365"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "borussia-monchengladbach",
+    "away": "bayern-munchen",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-07-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Borussia-Park",
+          "city": "Mönchengladbach",
+          "capacity": "54 042"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "energie-cottbus",
+    "away": "hamburg",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-07-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "LEAG Energie Stadion",
+          "city": "Cottbus",
+          "capacity": "22 450"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "sc-freiburg",
+    "away": "werder-bremen",
+    "GH": 3,
+    "GA": 0,
+    "date": "2001-07-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Dreisamstadion",
+          "city": "Freiburg",
+          "capacity": "24 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "tsv-1860-munchen",
+    "away": "1-fc-kaiserslautern",
+    "GH": 0,
+    "GA": 4,
+    "date": "2001-07-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Olympiastadion",
+          "city": "Munich",
+          "capacity": "69 250"
+        }
+      ]
+    }
+  },
+  {
+    "league": "deutschland_bundesliga-2001-2002",
+    "home": "vfb-stuttgart",
+    "away": "1-fc-koln",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-07-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "MHPArena",
+          "city": "Stuttgart",
+          "capacity": "60 449"
+        }
+      ]
+    }
+  }
+]

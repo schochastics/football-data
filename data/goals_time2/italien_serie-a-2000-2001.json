@@ -1,0 +1,6030 @@
+[
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "reggina",
+    "away": "hellas-verona",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-06-24",
+    "incident": {
+      "incidents": [],
+      "metadata": {}
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "hellas-verona",
+    "away": "reggina",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-06-21",
+    "incident": {
+      "incidents": [],
+      "metadata": {}
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-florenz",
+    "away": "ssc-neapel",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-06-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Artemio Franchi",
+          "city": "Florence",
+          "capacity": "43 147"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "as-rom",
+    "away": "ssd-parma-calcio",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-06-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "brescia-calcio",
+    "away": "bari",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-06-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Mario Rigamonti",
+          "city": "Brescia",
+          "capacity": "19 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "hellas-verona",
+    "away": "ac-perugia",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-06-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Marc'Antonio Bentegodi",
+          "city": "Verona",
+          "capacity": "39 211"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "inter-mailand",
+    "away": "fc-bologna",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-06-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "juventus-turin",
+    "away": "atalanta-bergamo",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-06-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Delle Alpi",
+          "city": "Turin",
+          "capacity": "69 041"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "reggina",
+    "away": "ac-mailand",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-06-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Oreste Granillo",
+          "city": "Reggio Calabria",
+          "capacity": "27 543"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "udinese-calcio",
+    "away": "vicenza-virtus",
+    "GH": 2,
+    "GA": 3,
+    "date": "2001-06-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Bluenergy Stadium - Stadio Friuli",
+          "city": "Udine",
+          "capacity": "25 144"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "us-lecce",
+    "away": "lazio-rom",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-06-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Via del Mare",
+          "city": "Lecce",
+          "capacity": "40 670"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-mailand",
+    "away": "brescia-calcio",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-06-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-perugia",
+    "away": "reggina",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-06-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Curi",
+          "city": "Perugia",
+          "capacity": "23 625"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "atalanta-bergamo",
+    "away": "udinese-calcio",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-06-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "New Balance Arena",
+          "city": "Bergamo",
+          "capacity": "24 950"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "fc-bologna",
+    "away": "us-lecce",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-06-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Dall'Ara",
+          "city": "Bologna",
+          "capacity": "38 279"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "lazio-rom",
+    "away": "ac-florenz",
+    "GH": 3,
+    "GA": 0,
+    "date": "2001-06-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "vicenza-virtus",
+    "away": "juventus-turin",
+    "GH": 0,
+    "GA": 3,
+    "date": "2001-06-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Romeo Menti",
+          "city": "Vicenza",
+          "capacity": "12 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssd-parma-calcio",
+    "away": "hellas-verona",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-06-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Ennio Tardini",
+          "city": "Parma",
+          "capacity": "27 906"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "bari",
+    "away": "inter-mailand",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-06-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio San Nicola",
+          "city": "Bari",
+          "capacity": "58 270"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssc-neapel",
+    "away": "as-rom",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-06-10",
+    "incident": {
+      "incidents": [
+        {
+          "team": "home",
+          "minute": "14'",
+          "incident_type": "Yellow Card",
+          "player_name": "Salvatore Fresi"
+        },
+        {
+          "team": "away",
+          "minute": "19'",
+          "incident_type": "Yellow Card",
+          "player_name": "Eusebio De Francesco"
+        },
+        {
+          "team": "home",
+          "minute": "38'",
+          "incident_type": "Goal",
+          "player_name": "Nicola Amoruso"
+        },
+        {
+          "team": "home",
+          "minute": "39'",
+          "incident_type": "Yellow Card",
+          "player_name": "Fabio Pecchia"
+        },
+        {
+          "team": "away",
+          "minute": "42'",
+          "incident_type": "Goal",
+          "player_name": "Gabriel Batistuta"
+        },
+        {
+          "team": "away",
+          "minute": "52'",
+          "incident_type": "Goal",
+          "player_name": "Francesco Totti"
+        },
+        {
+          "team": "home",
+          "minute": "81'",
+          "incident_type": "Goal",
+          "player_name": "Fabio Pecchia"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stadio Diego Armando Maradona",
+          "city": "Naples",
+          "capacity": "54 726"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-florenz",
+    "away": "atalanta-bergamo",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-05-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Artemio Franchi",
+          "city": "Florence",
+          "capacity": "43 147"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "as-rom",
+    "away": "ac-mailand",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-05-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "brescia-calcio",
+    "away": "vicenza-virtus",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-05-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Mario Rigamonti",
+          "city": "Brescia",
+          "capacity": "19 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "hellas-verona",
+    "away": "fc-bologna",
+    "GH": 5,
+    "GA": 4,
+    "date": "2001-05-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Marc'Antonio Bentegodi",
+          "city": "Verona",
+          "capacity": "39 211"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "inter-mailand",
+    "away": "lazio-rom",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-05-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "juventus-turin",
+    "away": "ac-perugia",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-05-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Delle Alpi",
+          "city": "Turin",
+          "capacity": "69 041"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "reggina",
+    "away": "bari",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-05-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Oreste Granillo",
+          "city": "Reggio Calabria",
+          "capacity": "27 543"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "udinese-calcio",
+    "away": "ssc-neapel",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-05-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Bluenergy Stadium - Stadio Friuli",
+          "city": "Udine",
+          "capacity": "25 144"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "us-lecce",
+    "away": "ssd-parma-calcio",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-05-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Via del Mare",
+          "city": "Lecce",
+          "capacity": "40 670"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-perugia",
+    "away": "brescia-calcio",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-05-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Curi",
+          "city": "Perugia",
+          "capacity": "23 625"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "atalanta-bergamo",
+    "away": "reggina",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-05-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "New Balance Arena",
+          "city": "Bergamo",
+          "capacity": "24 950"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "fc-bologna",
+    "away": "juventus-turin",
+    "GH": 1,
+    "GA": 4,
+    "date": "2001-05-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Dall'Ara",
+          "city": "Bologna",
+          "capacity": "38 279"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "lazio-rom",
+    "away": "udinese-calcio",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-05-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "vicenza-virtus",
+    "away": "us-lecce",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-05-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Romeo Menti",
+          "city": "Vicenza",
+          "capacity": "12 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "bari",
+    "away": "as-rom",
+    "GH": 1,
+    "GA": 4,
+    "date": "2001-05-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio San Nicola",
+          "city": "Bari",
+          "capacity": "58 270"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssc-neapel",
+    "away": "hellas-verona",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-05-20",
+    "incident": {
+      "incidents": [
+        {
+          "team": "away",
+          "minute": "24'",
+          "incident_type": "Yellow Card",
+          "player_name": "Leonardo Colucci"
+        },
+        {
+          "team": "away",
+          "minute": "40'",
+          "incident_type": "Yellow Card",
+          "player_name": "Anthony Seric"
+        },
+        {
+          "team": "home",
+          "minute": "41'",
+          "incident_type": "Goal",
+          "player_name": "Fabio Pecchia"
+        },
+        {
+          "team": "home",
+          "minute": "72'",
+          "incident_type": "Yellow Card",
+          "player_name": "Salvatore Fresi"
+        },
+        {
+          "team": "home",
+          "minute": "82'",
+          "incident_type": "Goal",
+          "player_name": "Amauri"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stadio Diego Armando Maradona",
+          "city": "Naples",
+          "capacity": "54 726"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-mailand",
+    "away": "ac-florenz",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-05-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssd-parma-calcio",
+    "away": "inter-mailand",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-05-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Ennio Tardini",
+          "city": "Parma",
+          "capacity": "27 906"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "as-rom",
+    "away": "atalanta-bergamo",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-05-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "brescia-calcio",
+    "away": "fc-bologna",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-05-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Mario Rigamonti",
+          "city": "Brescia",
+          "capacity": "19 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "hellas-verona",
+    "away": "us-lecce",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-05-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Marc'Antonio Bentegodi",
+          "city": "Verona",
+          "capacity": "39 211"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "reggina",
+    "away": "ssd-parma-calcio",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-05-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Oreste Granillo",
+          "city": "Reggio Calabria",
+          "capacity": "27 543"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "bari",
+    "away": "vicenza-virtus",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-05-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio San Nicola",
+          "city": "Bari",
+          "capacity": "58 270"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssc-neapel",
+    "away": "lazio-rom",
+    "GH": 2,
+    "GA": 4,
+    "date": "2001-05-13",
+    "incident": {
+      "incidents": [
+        {
+          "team": "home",
+          "minute": "25'",
+          "incident_type": "Goal",
+          "player_name": "Nicola Amoruso"
+        },
+        {
+          "team": "away",
+          "minute": "32'",
+          "incident_type": "Goal",
+          "player_name": "Hernan Crespo"
+        },
+        {
+          "team": "home",
+          "minute": "47'",
+          "incident_type": "Goal",
+          "player_name": "Nicola Amoruso"
+        },
+        {
+          "team": "away",
+          "minute": "51'",
+          "incident_type": "Goal",
+          "player_name": "Hernan Crespo"
+        },
+        {
+          "team": "away",
+          "minute": "57'",
+          "incident_type": "Red Card",
+          "player_name": "Juan Veron"
+        },
+        {
+          "team": "home",
+          "minute": "61'",
+          "incident_type": "Yellow Card",
+          "player_name": "Salvatore Fresi"
+        },
+        {
+          "team": "away",
+          "minute": "65'",
+          "incident_type": "Goal",
+          "player_name": "Pavel Nedved"
+        },
+        {
+          "team": "home",
+          "minute": "83'",
+          "incident_type": "Yellow Card",
+          "player_name": "Alves de Souza Neto Edmundo"
+        },
+        {
+          "team": "away",
+          "minute": "84'",
+          "incident_type": "Goal",
+          "player_name": "Fabrizio Ravanelli"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stadio Diego Armando Maradona",
+          "city": "Naples",
+          "capacity": "54 726"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "udinese-calcio",
+    "away": "ac-perugia",
+    "GH": 3,
+    "GA": 3,
+    "date": "2001-05-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Bluenergy Stadium - Stadio Friuli",
+          "city": "Udine",
+          "capacity": "25 144"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-florenz",
+    "away": "juventus-turin",
+    "GH": 1,
+    "GA": 3,
+    "date": "2001-05-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Artemio Franchi",
+          "city": "Florence",
+          "capacity": "43 147"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "inter-mailand",
+    "away": "ac-mailand",
+    "GH": 0,
+    "GA": 6,
+    "date": "2001-05-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-perugia",
+    "away": "ac-mailand",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-05-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Curi",
+          "city": "Perugia",
+          "capacity": "23 625"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "hellas-verona",
+    "away": "ac-florenz",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-05-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Marc'Antonio Bentegodi",
+          "city": "Verona",
+          "capacity": "39 211"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "inter-mailand",
+    "away": "atalanta-bergamo",
+    "GH": 3,
+    "GA": 0,
+    "date": "2001-05-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "juventus-turin",
+    "away": "as-rom",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-05-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Delle Alpi",
+          "city": "Turin",
+          "capacity": "69 041"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "lazio-rom",
+    "away": "bari",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-05-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "vicenza-virtus",
+    "away": "reggina",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-05-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Romeo Menti",
+          "city": "Vicenza",
+          "capacity": "12 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssd-parma-calcio",
+    "away": "ssc-neapel",
+    "GH": 4,
+    "GA": 0,
+    "date": "2001-05-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Ennio Tardini",
+          "city": "Parma",
+          "capacity": "27 906"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "fc-bologna",
+    "away": "udinese-calcio",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-05-05",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Dall'Ara",
+          "city": "Bologna",
+          "capacity": "38 279"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "us-lecce",
+    "away": "brescia-calcio",
+    "GH": 0,
+    "GA": 3,
+    "date": "2001-05-05",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Via del Mare",
+          "city": "Lecce",
+          "capacity": "40 670"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-florenz",
+    "away": "udinese-calcio",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-04-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Artemio Franchi",
+          "city": "Florence",
+          "capacity": "43 147"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-mailand",
+    "away": "hellas-verona",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-04-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "as-rom",
+    "away": "lazio-rom",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-04-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "atalanta-bergamo",
+    "away": "fc-bologna",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-04-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "New Balance Arena",
+          "city": "Bergamo",
+          "capacity": "24 950"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "brescia-calcio",
+    "away": "inter-mailand",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-04-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Mario Rigamonti",
+          "city": "Brescia",
+          "capacity": "19 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "juventus-turin",
+    "away": "us-lecce",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-04-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Delle Alpi",
+          "city": "Turin",
+          "capacity": "69 041"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "bari",
+    "away": "ac-perugia",
+    "GH": 3,
+    "GA": 4,
+    "date": "2001-04-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio San Nicola",
+          "city": "Bari",
+          "capacity": "58 270"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "vicenza-virtus",
+    "away": "ssd-parma-calcio",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-04-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Romeo Menti",
+          "city": "Vicenza",
+          "capacity": "12 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "reggina",
+    "away": "ssc-neapel",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-04-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Oreste Granillo",
+          "city": "Reggio Calabria",
+          "capacity": "27 543"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-perugia",
+    "away": "atalanta-bergamo",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-04-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Curi",
+          "city": "Perugia",
+          "capacity": "23 625"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "fc-bologna",
+    "away": "bari",
+    "GH": 4,
+    "GA": 2,
+    "date": "2001-04-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Dall'Ara",
+          "city": "Bologna",
+          "capacity": "38 279"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "hellas-verona",
+    "away": "reggina",
+    "GH": 0,
+    "GA": 3,
+    "date": "2001-04-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Marc'Antonio Bentegodi",
+          "city": "Verona",
+          "capacity": "39 211"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "lazio-rom",
+    "away": "vicenza-virtus",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-04-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssd-parma-calcio",
+    "away": "juventus-turin",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-04-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Ennio Tardini",
+          "city": "Parma",
+          "capacity": "27 906"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "udinese-calcio",
+    "away": "as-rom",
+    "GH": 1,
+    "GA": 3,
+    "date": "2001-04-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Bluenergy Stadium - Stadio Friuli",
+          "city": "Udine",
+          "capacity": "25 144"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "us-lecce",
+    "away": "ac-mailand",
+    "GH": 3,
+    "GA": 3,
+    "date": "2001-04-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Via del Mare",
+          "city": "Lecce",
+          "capacity": "40 670"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "inter-mailand",
+    "away": "ac-florenz",
+    "GH": 4,
+    "GA": 2,
+    "date": "2001-04-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssc-neapel",
+    "away": "brescia-calcio",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-04-21",
+    "incident": {
+      "incidents": [
+        {
+          "team": "home",
+          "minute": "32'",
+          "incident_type": "Yellow Card",
+          "player_name": "Salvatore Fresi"
+        },
+        {
+          "team": "home",
+          "minute": "48'",
+          "incident_type": "Goal",
+          "player_name": "Nicola Amoruso"
+        },
+        {
+          "team": "home",
+          "minute": "61'",
+          "incident_type": "Yellow Card",
+          "player_name": "Hector Pineda"
+        },
+        {
+          "team": "away",
+          "minute": "63'",
+          "incident_type": "Yellow Card",
+          "player_name": "Pier Paolo Bisoli"
+        },
+        {
+          "team": "away",
+          "minute": "89'",
+          "incident_type": "Goal",
+          "player_name": "Roberto Baggio"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stadio Diego Armando Maradona",
+          "city": "Naples",
+          "capacity": "54 726"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "lazio-rom",
+    "away": "ssd-parma-calcio",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-04-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "juventus-turin",
+    "away": "inter-mailand",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-04-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Delle Alpi",
+          "city": "Turin",
+          "capacity": "69 041"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-florenz",
+    "away": "us-lecce",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-04-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Artemio Franchi",
+          "city": "Florence",
+          "capacity": "43 147"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-mailand",
+    "away": "udinese-calcio",
+    "GH": 3,
+    "GA": 0,
+    "date": "2001-04-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "as-rom",
+    "away": "ac-perugia",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-04-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "atalanta-bergamo",
+    "away": "ssd-parma-calcio",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-04-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "New Balance Arena",
+          "city": "Bergamo",
+          "capacity": "24 950"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "brescia-calcio",
+    "away": "hellas-verona",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-04-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Mario Rigamonti",
+          "city": "Brescia",
+          "capacity": "19 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "vicenza-virtus",
+    "away": "fc-bologna",
+    "GH": 4,
+    "GA": 2,
+    "date": "2001-04-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Romeo Menti",
+          "city": "Vicenza",
+          "capacity": "12 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "reggina",
+    "away": "lazio-rom",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-04-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Oreste Granillo",
+          "city": "Reggio Calabria",
+          "capacity": "27 543"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "bari",
+    "away": "ssc-neapel",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-04-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio San Nicola",
+          "city": "Bari",
+          "capacity": "58 270"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-florenz",
+    "away": "as-rom",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-04-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Artemio Franchi",
+          "city": "Florence",
+          "capacity": "43 147"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "brescia-calcio",
+    "away": "reggina",
+    "GH": 4,
+    "GA": 0,
+    "date": "2001-04-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Mario Rigamonti",
+          "city": "Brescia",
+          "capacity": "19 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "fc-bologna",
+    "away": "ac-perugia",
+    "GH": 3,
+    "GA": 2,
+    "date": "2001-04-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Dall'Ara",
+          "city": "Bologna",
+          "capacity": "38 279"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "hellas-verona",
+    "away": "juventus-turin",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-04-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Marc'Antonio Bentegodi",
+          "city": "Verona",
+          "capacity": "39 211"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "inter-mailand",
+    "away": "vicenza-virtus",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-04-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssc-neapel",
+    "away": "ac-mailand",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-04-08",
+    "incident": {
+      "incidents": [
+        {
+          "team": "home",
+          "minute": "36'",
+          "incident_type": "Yellow Card",
+          "player_name": "Abdelilah Saber"
+        },
+        {
+          "team": "home",
+          "minute": "42'",
+          "incident_type": "Red Card",
+          "player_name": "Salvatore Fresi"
+        },
+        {
+          "team": "away",
+          "minute": "48'",
+          "incident_type": "Yellow Card",
+          "player_name": "Federico Giunti"
+        },
+        {
+          "team": "away",
+          "minute": "75'",
+          "incident_type": "Yellow Card",
+          "player_name": "Thomas Helveg"
+        },
+        {
+          "team": "home",
+          "minute": "83'",
+          "incident_type": "Yellow Card",
+          "player_name": "Francelino Matuzalem"
+        },
+        {
+          "team": "home",
+          "minute": "89'",
+          "incident_type": "Yellow Card",
+          "player_name": "Abdelilah Saber"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stadio Diego Armando Maradona",
+          "city": "Naples",
+          "capacity": "54 726"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "udinese-calcio",
+    "away": "bari",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-04-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Bluenergy Stadium - Stadio Friuli",
+          "city": "Udine",
+          "capacity": "25 144"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "us-lecce",
+    "away": "atalanta-bergamo",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-04-08",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Via del Mare",
+          "city": "Lecce",
+          "capacity": "40 670"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-mailand",
+    "away": "lazio-rom",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-04-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-perugia",
+    "away": "inter-mailand",
+    "GH": 2,
+    "GA": 3,
+    "date": "2001-04-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Curi",
+          "city": "Perugia",
+          "capacity": "23 625"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "as-rom",
+    "away": "hellas-verona",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-04-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "atalanta-bergamo",
+    "away": "ssc-neapel",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-04-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "New Balance Arena",
+          "city": "Bergamo",
+          "capacity": "24 950"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "juventus-turin",
+    "away": "brescia-calcio",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-04-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Delle Alpi",
+          "city": "Turin",
+          "capacity": "69 041"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssd-parma-calcio",
+    "away": "fc-bologna",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-04-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Ennio Tardini",
+          "city": "Parma",
+          "capacity": "27 906"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "reggina",
+    "away": "udinese-calcio",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-04-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Oreste Granillo",
+          "city": "Reggio Calabria",
+          "capacity": "27 543"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "vicenza-virtus",
+    "away": "ac-florenz",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-03-31",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Romeo Menti",
+          "city": "Vicenza",
+          "capacity": "12 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "bari",
+    "away": "us-lecce",
+    "GH": 3,
+    "GA": 2,
+    "date": "2001-03-31",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio San Nicola",
+          "city": "Bari",
+          "capacity": "58 270"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "brescia-calcio",
+    "away": "atalanta-bergamo",
+    "GH": 0,
+    "GA": 3,
+    "date": "2001-03-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Mario Rigamonti",
+          "city": "Brescia",
+          "capacity": "19 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "lazio-rom",
+    "away": "juventus-turin",
+    "GH": 4,
+    "GA": 1,
+    "date": "2001-03-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "reggina",
+    "away": "as-rom",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-03-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Oreste Granillo",
+          "city": "Reggio Calabria",
+          "capacity": "27 543"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssc-neapel",
+    "away": "ac-perugia",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-03-18",
+    "incident": {
+      "incidents": [
+        {
+          "team": "home",
+          "minute": "35'",
+          "incident_type": "Yellow Card",
+          "player_name": "Claudio Husain"
+        },
+        {
+          "team": "home",
+          "minute": "50'",
+          "incident_type": "Yellow Card",
+          "player_name": "Alves de Souza Neto Edmundo"
+        },
+        {
+          "team": "home",
+          "minute": "63'",
+          "incident_type": "Yellow Card",
+          "player_name": "Dario Baccin"
+        },
+        {
+          "team": "away",
+          "minute": "70'",
+          "incident_type": "Yellow Card",
+          "player_name": "Fabio Liverani"
+        },
+        {
+          "team": "home",
+          "minute": "89'",
+          "incident_type": "Red Card",
+          "player_name": "Marek Jankulovski"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stadio Diego Armando Maradona",
+          "city": "Naples",
+          "capacity": "54 726"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-florenz",
+    "away": "fc-bologna",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-03-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Artemio Franchi",
+          "city": "Florence",
+          "capacity": "43 147"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-mailand",
+    "away": "bari",
+    "GH": 4,
+    "GA": 0,
+    "date": "2001-03-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "hellas-verona",
+    "away": "vicenza-virtus",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-03-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Marc'Antonio Bentegodi",
+          "city": "Verona",
+          "capacity": "39 211"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "udinese-calcio",
+    "away": "ssd-parma-calcio",
+    "GH": 1,
+    "GA": 3,
+    "date": "2001-03-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Bluenergy Stadium - Stadio Friuli",
+          "city": "Udine",
+          "capacity": "25 144"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "us-lecce",
+    "away": "inter-mailand",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-03-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Via del Mare",
+          "city": "Lecce",
+          "capacity": "40 670"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssd-parma-calcio",
+    "away": "bari",
+    "GH": 4,
+    "GA": 0,
+    "date": "2001-03-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Ennio Tardini",
+          "city": "Parma",
+          "capacity": "27 906"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-perugia",
+    "away": "ac-florenz",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-03-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Curi",
+          "city": "Perugia",
+          "capacity": "23 625"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "as-rom",
+    "away": "brescia-calcio",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-03-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "fc-bologna",
+    "away": "lazio-rom",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-03-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Dall'Ara",
+          "city": "Bologna",
+          "capacity": "38 279"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "inter-mailand",
+    "away": "hellas-verona",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-03-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "juventus-turin",
+    "away": "reggina",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-03-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Delle Alpi",
+          "city": "Turin",
+          "capacity": "69 041"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "us-lecce",
+    "away": "udinese-calcio",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-03-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Via del Mare",
+          "city": "Lecce",
+          "capacity": "40 670"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "atalanta-bergamo",
+    "away": "ac-mailand",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-03-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "New Balance Arena",
+          "city": "Bergamo",
+          "capacity": "24 950"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "vicenza-virtus",
+    "away": "ssc-neapel",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-03-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Romeo Menti",
+          "city": "Vicenza",
+          "capacity": "12 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "as-rom",
+    "away": "inter-mailand",
+    "GH": 3,
+    "GA": 2,
+    "date": "2001-03-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-mailand",
+    "away": "ssd-parma-calcio",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-03-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-perugia",
+    "away": "vicenza-virtus",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-03-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Curi",
+          "city": "Perugia",
+          "capacity": "23 625"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "hellas-verona",
+    "away": "atalanta-bergamo",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-03-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Marc'Antonio Bentegodi",
+          "city": "Verona",
+          "capacity": "39 211"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "bari",
+    "away": "ac-florenz",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-03-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio San Nicola",
+          "city": "Bari",
+          "capacity": "58 270"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssc-neapel",
+    "away": "us-lecce",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-03-04",
+    "incident": {
+      "incidents": [
+        {
+          "team": "home",
+          "minute": "51'",
+          "incident_type": "Goal",
+          "player_name": "Alves de Souza Neto Edmundo"
+        },
+        {
+          "team": "away",
+          "minute": "58'",
+          "incident_type": "Yellow Card",
+          "player_name": "Dario Dainelli"
+        },
+        {
+          "team": "away",
+          "minute": "76'",
+          "incident_type": "Goal",
+          "player_name": "Davor Vugrinec"
+        },
+        {
+          "team": "away",
+          "minute": "79'",
+          "incident_type": "Yellow Card",
+          "player_name": "Dario Dainelli"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stadio Diego Armando Maradona",
+          "city": "Naples",
+          "capacity": "54 726"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "udinese-calcio",
+    "away": "juventus-turin",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-03-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Bluenergy Stadium - Stadio Friuli",
+          "city": "Udine",
+          "capacity": "25 144"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "brescia-calcio",
+    "away": "lazio-rom",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-03-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Mario Rigamonti",
+          "city": "Brescia",
+          "capacity": "19 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "reggina",
+    "away": "fc-bologna",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-03-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Oreste Granillo",
+          "city": "Reggio Calabria",
+          "capacity": "27 543"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "fc-bologna",
+    "away": "ssc-neapel",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-02-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Dall'Ara",
+          "city": "Bologna",
+          "capacity": "38 279"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "inter-mailand",
+    "away": "udinese-calcio",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-02-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "juventus-turin",
+    "away": "ac-mailand",
+    "GH": 3,
+    "GA": 0,
+    "date": "2001-02-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Delle Alpi",
+          "city": "Turin",
+          "capacity": "69 041"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "lazio-rom",
+    "away": "hellas-verona",
+    "GH": 5,
+    "GA": 3,
+    "date": "2001-02-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "vicenza-virtus",
+    "away": "as-rom",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-02-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Romeo Menti",
+          "city": "Vicenza",
+          "capacity": "12 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssd-parma-calcio",
+    "away": "ac-perugia",
+    "GH": 5,
+    "GA": 0,
+    "date": "2001-02-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Ennio Tardini",
+          "city": "Parma",
+          "capacity": "27 906"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "us-lecce",
+    "away": "reggina",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-02-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Via del Mare",
+          "city": "Lecce",
+          "capacity": "40 670"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-florenz",
+    "away": "brescia-calcio",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-02-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Artemio Franchi",
+          "city": "Florence",
+          "capacity": "43 147"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "atalanta-bergamo",
+    "away": "bari",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-02-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "New Balance Arena",
+          "city": "Bergamo",
+          "capacity": "24 950"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-perugia",
+    "away": "lazio-rom",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-02-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Curi",
+          "city": "Perugia",
+          "capacity": "23 625"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "as-rom",
+    "away": "us-lecce",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-02-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "atalanta-bergamo",
+    "away": "vicenza-virtus",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-02-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "New Balance Arena",
+          "city": "Bergamo",
+          "capacity": "24 950"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssd-parma-calcio",
+    "away": "brescia-calcio",
+    "GH": 3,
+    "GA": 0,
+    "date": "2001-02-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Ennio Tardini",
+          "city": "Parma",
+          "capacity": "27 906"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "reggina",
+    "away": "ac-florenz",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-02-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Oreste Granillo",
+          "city": "Reggio Calabria",
+          "capacity": "27 543"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "bari",
+    "away": "juventus-turin",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-02-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio San Nicola",
+          "city": "Bari",
+          "capacity": "58 270"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssc-neapel",
+    "away": "inter-mailand",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-02-18",
+    "incident": {
+      "incidents": [
+        {
+          "team": "away",
+          "minute": "6'",
+          "incident_type": "Yellow Card",
+          "player_name": "Bruno Cirillo"
+        },
+        {
+          "team": "home",
+          "minute": "52'",
+          "incident_type": "Yellow Card",
+          "player_name": "Francelino Matuzalem"
+        },
+        {
+          "team": "home",
+          "minute": "54'",
+          "incident_type": "Goal",
+          "player_name": "Francelino Matuzalem"
+        },
+        {
+          "team": "home",
+          "minute": "56'",
+          "incident_type": "Yellow Card",
+          "player_name": "Francelino Matuzalem"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stadio Diego Armando Maradona",
+          "city": "Naples",
+          "capacity": "54 726"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-mailand",
+    "away": "fc-bologna",
+    "GH": 3,
+    "GA": 3,
+    "date": "2001-02-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "udinese-calcio",
+    "away": "hellas-verona",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-02-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Bluenergy Stadium - Stadio Friuli",
+          "city": "Udine",
+          "capacity": "25 144"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-florenz",
+    "away": "ssd-parma-calcio",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-02-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Artemio Franchi",
+          "city": "Florence",
+          "capacity": "43 147"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "brescia-calcio",
+    "away": "udinese-calcio",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-02-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Mario Rigamonti",
+          "city": "Brescia",
+          "capacity": "19 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "fc-bologna",
+    "away": "as-rom",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-02-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Dall'Ara",
+          "city": "Bologna",
+          "capacity": "38 279"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "hellas-verona",
+    "away": "bari",
+    "GH": 3,
+    "GA": 2,
+    "date": "2001-02-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Marc'Antonio Bentegodi",
+          "city": "Verona",
+          "capacity": "39 211"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "juventus-turin",
+    "away": "ssc-neapel",
+    "GH": 3,
+    "GA": 0,
+    "date": "2001-02-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Delle Alpi",
+          "city": "Turin",
+          "capacity": "69 041"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "vicenza-virtus",
+    "away": "ac-mailand",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-02-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Romeo Menti",
+          "city": "Vicenza",
+          "capacity": "12 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "us-lecce",
+    "away": "ac-perugia",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-02-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Via del Mare",
+          "city": "Lecce",
+          "capacity": "40 670"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "inter-mailand",
+    "away": "reggina",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-02-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "lazio-rom",
+    "away": "atalanta-bergamo",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-02-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-mailand",
+    "away": "reggina",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-02-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "fc-bologna",
+    "away": "inter-mailand",
+    "GH": 0,
+    "GA": 3,
+    "date": "2001-02-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Dall'Ara",
+          "city": "Bologna",
+          "capacity": "38 279"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "lazio-rom",
+    "away": "us-lecce",
+    "GH": 3,
+    "GA": 2,
+    "date": "2001-02-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "vicenza-virtus",
+    "away": "udinese-calcio",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-02-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Romeo Menti",
+          "city": "Vicenza",
+          "capacity": "12 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssd-parma-calcio",
+    "away": "as-rom",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-02-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Ennio Tardini",
+          "city": "Parma",
+          "capacity": "27 906"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "bari",
+    "away": "brescia-calcio",
+    "GH": 1,
+    "GA": 3,
+    "date": "2001-02-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio San Nicola",
+          "city": "Bari",
+          "capacity": "58 270"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssc-neapel",
+    "away": "ac-florenz",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-02-04",
+    "incident": {
+      "incidents": [
+        {
+          "team": "home",
+          "minute": "55'",
+          "incident_type": "Yellow Card",
+          "player_name": "Francesco Baldini"
+        },
+        {
+          "team": "home",
+          "minute": "88'",
+          "incident_type": "Goal",
+          "player_name": "Fabio Pecchia"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stadio Diego Armando Maradona",
+          "city": "Naples",
+          "capacity": "54 726"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-perugia",
+    "away": "hellas-verona",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-02-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Curi",
+          "city": "Perugia",
+          "capacity": "23 625"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "atalanta-bergamo",
+    "away": "juventus-turin",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-02-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "New Balance Arena",
+          "city": "Bergamo",
+          "capacity": "24 950"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-florenz",
+    "away": "lazio-rom",
+    "GH": 1,
+    "GA": 4,
+    "date": "2001-01-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Artemio Franchi",
+          "city": "Florence",
+          "capacity": "43 147"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "as-rom",
+    "away": "ssc-neapel",
+    "GH": 3,
+    "GA": 0,
+    "date": "2001-01-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "brescia-calcio",
+    "away": "ac-mailand",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-01-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Mario Rigamonti",
+          "city": "Brescia",
+          "capacity": "19 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "hellas-verona",
+    "away": "ssd-parma-calcio",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-01-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Marc'Antonio Bentegodi",
+          "city": "Verona",
+          "capacity": "39 211"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "inter-mailand",
+    "away": "bari",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-01-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "juventus-turin",
+    "away": "vicenza-virtus",
+    "GH": 4,
+    "GA": 0,
+    "date": "2001-01-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Delle Alpi",
+          "city": "Turin",
+          "capacity": "69 041"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "udinese-calcio",
+    "away": "atalanta-bergamo",
+    "GH": 2,
+    "GA": 4,
+    "date": "2001-01-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Bluenergy Stadium - Stadio Friuli",
+          "city": "Udine",
+          "capacity": "25 144"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "reggina",
+    "away": "ac-perugia",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-01-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Oreste Granillo",
+          "city": "Reggio Calabria",
+          "capacity": "27 543"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "us-lecce",
+    "away": "fc-bologna",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-01-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Via del Mare",
+          "city": "Lecce",
+          "capacity": "40 670"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-mailand",
+    "away": "as-rom",
+    "GH": 3,
+    "GA": 2,
+    "date": "2001-01-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-perugia",
+    "away": "juventus-turin",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-01-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Curi",
+          "city": "Perugia",
+          "capacity": "23 625"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "atalanta-bergamo",
+    "away": "ac-florenz",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-01-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "New Balance Arena",
+          "city": "Bergamo",
+          "capacity": "24 950"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "vicenza-virtus",
+    "away": "brescia-calcio",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-01-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Romeo Menti",
+          "city": "Vicenza",
+          "capacity": "12 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssd-parma-calcio",
+    "away": "us-lecce",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-01-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Ennio Tardini",
+          "city": "Parma",
+          "capacity": "27 906"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "bari",
+    "away": "reggina",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-01-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio San Nicola",
+          "city": "Bari",
+          "capacity": "58 270"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssc-neapel",
+    "away": "udinese-calcio",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-01-21",
+    "incident": {
+      "incidents": [
+        {
+          "team": "away",
+          "minute": "48'",
+          "incident_type": "Yellow Card",
+          "player_name": "Mohammed Gargo"
+        },
+        {
+          "team": "away",
+          "minute": "54'",
+          "incident_type": "Yellow Card",
+          "player_name": "Guiliano Giannichedda"
+        },
+        {
+          "team": "away",
+          "minute": "58'",
+          "incident_type": "Yellow Card",
+          "player_name": "Massimo Margiotta"
+        },
+        {
+          "team": "away",
+          "minute": "67'",
+          "incident_type": "Goal",
+          "player_name": "Roberto Sosa"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stadio Diego Armando Maradona",
+          "city": "Naples",
+          "capacity": "54 726"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "fc-bologna",
+    "away": "hellas-verona",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-01-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Dall'Ara",
+          "city": "Bologna",
+          "capacity": "38 279"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "lazio-rom",
+    "away": "inter-mailand",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-01-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "as-rom",
+    "away": "bari",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-01-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "hellas-verona",
+    "away": "ssc-neapel",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-01-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Marc'Antonio Bentegodi",
+          "city": "Verona",
+          "capacity": "39 211"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "inter-mailand",
+    "away": "ssd-parma-calcio",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-01-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "juventus-turin",
+    "away": "fc-bologna",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-01-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Delle Alpi",
+          "city": "Turin",
+          "capacity": "69 041"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "reggina",
+    "away": "atalanta-bergamo",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-01-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Oreste Granillo",
+          "city": "Reggio Calabria",
+          "capacity": "27 543"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "udinese-calcio",
+    "away": "lazio-rom",
+    "GH": 3,
+    "GA": 4,
+    "date": "2001-01-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Bluenergy Stadium - Stadio Friuli",
+          "city": "Udine",
+          "capacity": "25 144"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "us-lecce",
+    "away": "vicenza-virtus",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-01-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Via del Mare",
+          "city": "Lecce",
+          "capacity": "40 670"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-florenz",
+    "away": "ac-mailand",
+    "GH": 4,
+    "GA": 0,
+    "date": "2001-01-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Artemio Franchi",
+          "city": "Florence",
+          "capacity": "43 147"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "brescia-calcio",
+    "away": "ac-perugia",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-01-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Mario Rigamonti",
+          "city": "Brescia",
+          "capacity": "19 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-mailand",
+    "away": "inter-mailand",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-01-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-perugia",
+    "away": "udinese-calcio",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-01-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Curi",
+          "city": "Perugia",
+          "capacity": "23 625"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "atalanta-bergamo",
+    "away": "as-rom",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-01-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "New Balance Arena",
+          "city": "Bergamo",
+          "capacity": "24 950"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "fc-bologna",
+    "away": "brescia-calcio",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-01-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Dall'Ara",
+          "city": "Bologna",
+          "capacity": "38 279"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "lazio-rom",
+    "away": "ssc-neapel",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-01-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssd-parma-calcio",
+    "away": "reggina",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-01-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Ennio Tardini",
+          "city": "Parma",
+          "capacity": "27 906"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "us-lecce",
+    "away": "hellas-verona",
+    "GH": 4,
+    "GA": 2,
+    "date": "2001-01-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Via del Mare",
+          "city": "Lecce",
+          "capacity": "40 670"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "juventus-turin",
+    "away": "ac-florenz",
+    "GH": 3,
+    "GA": 3,
+    "date": "2001-01-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Delle Alpi",
+          "city": "Turin",
+          "capacity": "69 041"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "vicenza-virtus",
+    "away": "bari",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-01-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Romeo Menti",
+          "city": "Vicenza",
+          "capacity": "12 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-florenz",
+    "away": "hellas-verona",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-12-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Artemio Franchi",
+          "city": "Florence",
+          "capacity": "43 147"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-mailand",
+    "away": "ac-perugia",
+    "GH": 1,
+    "GA": 2,
+    "date": "2000-12-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "atalanta-bergamo",
+    "away": "inter-mailand",
+    "GH": 0,
+    "GA": 1,
+    "date": "2000-12-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "New Balance Arena",
+          "city": "Bergamo",
+          "capacity": "24 950"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "brescia-calcio",
+    "away": "us-lecce",
+    "GH": 2,
+    "GA": 2,
+    "date": "2000-12-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Mario Rigamonti",
+          "city": "Brescia",
+          "capacity": "19 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "reggina",
+    "away": "vicenza-virtus",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-12-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Oreste Granillo",
+          "city": "Reggio Calabria",
+          "capacity": "27 543"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssc-neapel",
+    "away": "ssd-parma-calcio",
+    "GH": 2,
+    "GA": 2,
+    "date": "2000-12-23",
+    "incident": {
+      "incidents": [
+        {
+          "team": "away",
+          "minute": "24'",
+          "incident_type": "Yellow Card",
+          "player_name": "Appiah"
+        },
+        {
+          "team": "home",
+          "minute": "35'",
+          "incident_type": "Yellow Card",
+          "player_name": "Baccin"
+        },
+        {
+          "team": "away",
+          "minute": "42'",
+          "incident_type": "Goal",
+          "player_name": "Micoud"
+        },
+        {
+          "team": "away",
+          "minute": "45'",
+          "incident_type": "Yellow Card",
+          "player_name": "Junior"
+        },
+        {
+          "team": "home",
+          "minute": "47'",
+          "incident_type": "Goal",
+          "player_name": "Pecchia"
+        },
+        {
+          "team": "away",
+          "minute": "53'",
+          "incident_type": "Yellow Card",
+          "player_name": "Amoroso"
+        },
+        {
+          "team": "away",
+          "minute": "74'",
+          "incident_type": "Goal",
+          "player_name": "Milosevic"
+        },
+        {
+          "team": "home",
+          "minute": "83'",
+          "incident_type": "Goal",
+          "player_name": "Amoruso"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stadio Diego Armando Maradona",
+          "city": "Naples",
+          "capacity": "54 726"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "udinese-calcio",
+    "away": "fc-bologna",
+    "GH": 3,
+    "GA": 1,
+    "date": "2000-12-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Bluenergy Stadium - Stadio Friuli",
+          "city": "Udine",
+          "capacity": "25 144"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "as-rom",
+    "away": "juventus-turin",
+    "GH": 0,
+    "GA": 0,
+    "date": "2000-12-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "bari",
+    "away": "lazio-rom",
+    "GH": 1,
+    "GA": 2,
+    "date": "2000-12-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio San Nicola",
+          "city": "Bari",
+          "capacity": "58 270"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "fc-bologna",
+    "away": "atalanta-bergamo",
+    "GH": 0,
+    "GA": 1,
+    "date": "2000-12-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Dall'Ara",
+          "city": "Bologna",
+          "capacity": "38 279"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "hellas-verona",
+    "away": "ac-mailand",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-12-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Marc'Antonio Bentegodi",
+          "city": "Verona",
+          "capacity": "39 211"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "inter-mailand",
+    "away": "brescia-calcio",
+    "GH": 0,
+    "GA": 0,
+    "date": "2000-12-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "lazio-rom",
+    "away": "as-rom",
+    "GH": 0,
+    "GA": 1,
+    "date": "2000-12-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssd-parma-calcio",
+    "away": "vicenza-virtus",
+    "GH": 0,
+    "GA": 2,
+    "date": "2000-12-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Ennio Tardini",
+          "city": "Parma",
+          "capacity": "27 906"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "udinese-calcio",
+    "away": "ac-florenz",
+    "GH": 1,
+    "GA": 3,
+    "date": "2000-12-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Bluenergy Stadium - Stadio Friuli",
+          "city": "Udine",
+          "capacity": "25 144"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "us-lecce",
+    "away": "juventus-turin",
+    "GH": 1,
+    "GA": 4,
+    "date": "2000-12-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Via del Mare",
+          "city": "Lecce",
+          "capacity": "40 670"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-perugia",
+    "away": "bari",
+    "GH": 4,
+    "GA": 1,
+    "date": "2000-12-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Curi",
+          "city": "Perugia",
+          "capacity": "23 625"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssc-neapel",
+    "away": "reggina",
+    "GH": 6,
+    "GA": 2,
+    "date": "2000-12-16",
+    "incident": {
+      "incidents": [
+        {
+          "team": "home",
+          "minute": "8'",
+          "incident_type": "Goal",
+          "player_name": "Baccin"
+        },
+        {
+          "team": "home",
+          "minute": "21'",
+          "incident_type": "Goal",
+          "player_name": "Magoni"
+        },
+        {
+          "team": "home",
+          "minute": "34'",
+          "incident_type": "Goal",
+          "player_name": "Amoruso"
+        },
+        {
+          "team": "home",
+          "minute": "56'",
+          "incident_type": "Goal",
+          "player_name": "Bellucci"
+        },
+        {
+          "team": "away",
+          "minute": "67'",
+          "incident_type": "Penalty Awarded",
+          "player_name": "Cozza"
+        },
+        {
+          "team": "home",
+          "minute": "73'",
+          "incident_type": "Goal",
+          "player_name": "Troise"
+        },
+        {
+          "team": "home",
+          "minute": "84'",
+          "incident_type": "Goal",
+          "player_name": "Jankulovski"
+        },
+        {
+          "team": "away",
+          "minute": "87'",
+          "incident_type": "Goal",
+          "player_name": "Mozart"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stadio Diego Armando Maradona",
+          "city": "Naples",
+          "capacity": "54 726"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-florenz",
+    "away": "inter-mailand",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-12-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Artemio Franchi",
+          "city": "Florence",
+          "capacity": "43 147"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-mailand",
+    "away": "us-lecce",
+    "GH": 4,
+    "GA": 1,
+    "date": "2000-12-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "as-rom",
+    "away": "udinese-calcio",
+    "GH": 2,
+    "GA": 1,
+    "date": "2000-12-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "atalanta-bergamo",
+    "away": "ac-perugia",
+    "GH": 0,
+    "GA": 0,
+    "date": "2000-12-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "New Balance Arena",
+          "city": "Bergamo",
+          "capacity": "24 950"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "juventus-turin",
+    "away": "ssd-parma-calcio",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-12-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Delle Alpi",
+          "city": "Turin",
+          "capacity": "69 041"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "vicenza-virtus",
+    "away": "lazio-rom",
+    "GH": 1,
+    "GA": 4,
+    "date": "2000-12-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Romeo Menti",
+          "city": "Vicenza",
+          "capacity": "12 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "bari",
+    "away": "fc-bologna",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-12-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio San Nicola",
+          "city": "Bari",
+          "capacity": "58 270"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "brescia-calcio",
+    "away": "ssc-neapel",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-12-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Mario Rigamonti",
+          "city": "Brescia",
+          "capacity": "19 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "reggina",
+    "away": "hellas-verona",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-12-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Oreste Granillo",
+          "city": "Reggio Calabria",
+          "capacity": "27 543"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-perugia",
+    "away": "as-rom",
+    "GH": 0,
+    "GA": 0,
+    "date": "2000-12-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Curi",
+          "city": "Perugia",
+          "capacity": "23 625"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "fc-bologna",
+    "away": "vicenza-virtus",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-12-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Dall'Ara",
+          "city": "Bologna",
+          "capacity": "38 279"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "hellas-verona",
+    "away": "brescia-calcio",
+    "GH": 2,
+    "GA": 1,
+    "date": "2000-12-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Marc'Antonio Bentegodi",
+          "city": "Verona",
+          "capacity": "39 211"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "inter-mailand",
+    "away": "juventus-turin",
+    "GH": 2,
+    "GA": 2,
+    "date": "2000-12-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssc-neapel",
+    "away": "bari",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-12-03",
+    "incident": {
+      "incidents": [
+        {
+          "team": "home",
+          "minute": "46'",
+          "incident_type": "Goal",
+          "player_name": "Amoruso"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stadio Diego Armando Maradona",
+          "city": "Naples",
+          "capacity": "54 726"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "udinese-calcio",
+    "away": "ac-mailand",
+    "GH": 0,
+    "GA": 1,
+    "date": "2000-12-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Bluenergy Stadium - Stadio Friuli",
+          "city": "Udine",
+          "capacity": "25 144"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "us-lecce",
+    "away": "ac-florenz",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-12-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Via del Mare",
+          "city": "Lecce",
+          "capacity": "40 670"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "lazio-rom",
+    "away": "reggina",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-12-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssd-parma-calcio",
+    "away": "atalanta-bergamo",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-12-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Ennio Tardini",
+          "city": "Parma",
+          "capacity": "27 906"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-perugia",
+    "away": "fc-bologna",
+    "GH": 1,
+    "GA": 3,
+    "date": "2000-11-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Curi",
+          "city": "Perugia",
+          "capacity": "23 625"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "as-rom",
+    "away": "ac-florenz",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-11-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "juventus-turin",
+    "away": "hellas-verona",
+    "GH": 2,
+    "GA": 1,
+    "date": "2000-11-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Delle Alpi",
+          "city": "Turin",
+          "capacity": "69 041"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "vicenza-virtus",
+    "away": "inter-mailand",
+    "GH": 0,
+    "GA": 0,
+    "date": "2000-11-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Romeo Menti",
+          "city": "Vicenza",
+          "capacity": "12 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssd-parma-calcio",
+    "away": "lazio-rom",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-11-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Ennio Tardini",
+          "city": "Parma",
+          "capacity": "27 906"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "reggina",
+    "away": "brescia-calcio",
+    "GH": 0,
+    "GA": 3,
+    "date": "2000-11-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Oreste Granillo",
+          "city": "Reggio Calabria",
+          "capacity": "27 543"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "bari",
+    "away": "udinese-calcio",
+    "GH": 2,
+    "GA": 1,
+    "date": "2000-11-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio San Nicola",
+          "city": "Bari",
+          "capacity": "58 270"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-mailand",
+    "away": "ssc-neapel",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-11-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "atalanta-bergamo",
+    "away": "us-lecce",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-11-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "New Balance Arena",
+          "city": "Bergamo",
+          "capacity": "24 950"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-florenz",
+    "away": "vicenza-virtus",
+    "GH": 3,
+    "GA": 2,
+    "date": "2000-11-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Artemio Franchi",
+          "city": "Florence",
+          "capacity": "43 147"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "brescia-calcio",
+    "away": "juventus-turin",
+    "GH": 0,
+    "GA": 0,
+    "date": "2000-11-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Mario Rigamonti",
+          "city": "Brescia",
+          "capacity": "19 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "fc-bologna",
+    "away": "ssd-parma-calcio",
+    "GH": 2,
+    "GA": 1,
+    "date": "2000-11-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Dall'Ara",
+          "city": "Bologna",
+          "capacity": "38 279"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "hellas-verona",
+    "away": "as-rom",
+    "GH": 1,
+    "GA": 4,
+    "date": "2000-11-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Marc'Antonio Bentegodi",
+          "city": "Verona",
+          "capacity": "39 211"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssc-neapel",
+    "away": "atalanta-bergamo",
+    "GH": 0,
+    "GA": 0,
+    "date": "2000-11-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Diego Armando Maradona",
+          "city": "Naples",
+          "capacity": "54 726"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "udinese-calcio",
+    "away": "reggina",
+    "GH": 3,
+    "GA": 0,
+    "date": "2000-11-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Bluenergy Stadium - Stadio Friuli",
+          "city": "Udine",
+          "capacity": "25 144"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "us-lecce",
+    "away": "bari",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-11-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Via del Mare",
+          "city": "Lecce",
+          "capacity": "40 670"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "inter-mailand",
+    "away": "ac-perugia",
+    "GH": 2,
+    "GA": 1,
+    "date": "2000-11-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "lazio-rom",
+    "away": "ac-mailand",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-11-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-perugia",
+    "away": "ssc-neapel",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-11-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Curi",
+          "city": "Perugia",
+          "capacity": "23 625"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "as-rom",
+    "away": "reggina",
+    "GH": 2,
+    "GA": 1,
+    "date": "2000-11-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "fc-bologna",
+    "away": "ac-florenz",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-11-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Dall'Ara",
+          "city": "Bologna",
+          "capacity": "38 279"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "inter-mailand",
+    "away": "us-lecce",
+    "GH": 0,
+    "GA": 1,
+    "date": "2000-11-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "vicenza-virtus",
+    "away": "hellas-verona",
+    "GH": 2,
+    "GA": 2,
+    "date": "2000-11-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Romeo Menti",
+          "city": "Vicenza",
+          "capacity": "12 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssd-parma-calcio",
+    "away": "udinese-calcio",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-11-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Ennio Tardini",
+          "city": "Parma",
+          "capacity": "27 906"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "bari",
+    "away": "ac-mailand",
+    "GH": 1,
+    "GA": 3,
+    "date": "2000-11-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio San Nicola",
+          "city": "Bari",
+          "capacity": "58 270"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "atalanta-bergamo",
+    "away": "brescia-calcio",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-11-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "New Balance Arena",
+          "city": "Bergamo",
+          "capacity": "24 950"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "juventus-turin",
+    "away": "lazio-rom",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-11-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Delle Alpi",
+          "city": "Turin",
+          "capacity": "69 041"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-mailand",
+    "away": "atalanta-bergamo",
+    "GH": 3,
+    "GA": 3,
+    "date": "2000-11-05",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "brescia-calcio",
+    "away": "as-rom",
+    "GH": 2,
+    "GA": 4,
+    "date": "2000-11-05",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Mario Rigamonti",
+          "city": "Brescia",
+          "capacity": "19 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "hellas-verona",
+    "away": "inter-mailand",
+    "GH": 2,
+    "GA": 2,
+    "date": "2000-11-05",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Marc'Antonio Bentegodi",
+          "city": "Verona",
+          "capacity": "39 211"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "reggina",
+    "away": "juventus-turin",
+    "GH": 0,
+    "GA": 2,
+    "date": "2000-11-05",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Oreste Granillo",
+          "city": "Reggio Calabria",
+          "capacity": "27 543"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "bari",
+    "away": "ssd-parma-calcio",
+    "GH": 0,
+    "GA": 1,
+    "date": "2000-11-05",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio San Nicola",
+          "city": "Bari",
+          "capacity": "58 270"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssc-neapel",
+    "away": "vicenza-virtus",
+    "GH": 1,
+    "GA": 2,
+    "date": "2000-11-05",
+    "incident": {
+      "incidents": [
+        {
+          "team": "away",
+          "minute": "17'",
+          "incident_type": "Goal",
+          "player_name": "Sommese"
+        },
+        {
+          "team": "home",
+          "minute": "24'",
+          "incident_type": "Goal",
+          "player_name": "Jankulovski"
+        },
+        {
+          "team": "away",
+          "minute": "51'",
+          "incident_type": "Goal",
+          "player_name": "Sommese"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stadio Diego Armando Maradona",
+          "city": "Naples",
+          "capacity": "54 726"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "udinese-calcio",
+    "away": "us-lecce",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-11-05",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Bluenergy Stadium - Stadio Friuli",
+          "city": "Udine",
+          "capacity": "25 144"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-florenz",
+    "away": "ac-perugia",
+    "GH": 3,
+    "GA": 4,
+    "date": "2000-11-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Artemio Franchi",
+          "city": "Florence",
+          "capacity": "43 147"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "lazio-rom",
+    "away": "fc-bologna",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-11-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-florenz",
+    "away": "bari",
+    "GH": 2,
+    "GA": 2,
+    "date": "2000-11-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Artemio Franchi",
+          "city": "Florence",
+          "capacity": "43 147"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "atalanta-bergamo",
+    "away": "hellas-verona",
+    "GH": 3,
+    "GA": 0,
+    "date": "2000-11-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "New Balance Arena",
+          "city": "Bergamo",
+          "capacity": "24 950"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "fc-bologna",
+    "away": "reggina",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-11-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Dall'Ara",
+          "city": "Bologna",
+          "capacity": "38 279"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "inter-mailand",
+    "away": "as-rom",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-11-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "juventus-turin",
+    "away": "udinese-calcio",
+    "GH": 1,
+    "GA": 2,
+    "date": "2000-11-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Delle Alpi",
+          "city": "Turin",
+          "capacity": "69 041"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "lazio-rom",
+    "away": "brescia-calcio",
+    "GH": 2,
+    "GA": 1,
+    "date": "2000-11-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "vicenza-virtus",
+    "away": "ac-perugia",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-11-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Romeo Menti",
+          "city": "Vicenza",
+          "capacity": "12 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssd-parma-calcio",
+    "away": "ac-mailand",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-11-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Ennio Tardini",
+          "city": "Parma",
+          "capacity": "27 906"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "us-lecce",
+    "away": "ssc-neapel",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-11-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Via del Mare",
+          "city": "Lecce",
+          "capacity": "40 670"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-perugia",
+    "away": "ssd-parma-calcio",
+    "GH": 3,
+    "GA": 1,
+    "date": "2000-10-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Curi",
+          "city": "Perugia",
+          "capacity": "23 625"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "as-rom",
+    "away": "vicenza-virtus",
+    "GH": 3,
+    "GA": 1,
+    "date": "2000-10-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "brescia-calcio",
+    "away": "ac-florenz",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-10-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Mario Rigamonti",
+          "city": "Brescia",
+          "capacity": "19 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "hellas-verona",
+    "away": "lazio-rom",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-10-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Marc'Antonio Bentegodi",
+          "city": "Verona",
+          "capacity": "39 211"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "reggina",
+    "away": "us-lecce",
+    "GH": 0,
+    "GA": 1,
+    "date": "2000-10-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Oreste Granillo",
+          "city": "Reggio Calabria",
+          "capacity": "27 543"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "bari",
+    "away": "atalanta-bergamo",
+    "GH": 0,
+    "GA": 2,
+    "date": "2000-10-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio San Nicola",
+          "city": "Bari",
+          "capacity": "58 270"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssc-neapel",
+    "away": "fc-bologna",
+    "GH": 1,
+    "GA": 5,
+    "date": "2000-10-22",
+    "incident": {
+      "incidents": [
+        {
+          "team": "home",
+          "minute": "1'",
+          "incident_type": "Goal",
+          "player_name": "Moriero"
+        },
+        {
+          "team": "away",
+          "minute": "4'",
+          "incident_type": "Goal",
+          "player_name": "Wome"
+        },
+        {
+          "team": "away",
+          "minute": "23'",
+          "incident_type": "Own goal",
+          "player_name": "Baldini"
+        },
+        {
+          "team": "away",
+          "minute": "51'",
+          "incident_type": "Goal",
+          "player_name": "Signori"
+        },
+        {
+          "team": "away",
+          "minute": "75'",
+          "incident_type": "Goal",
+          "player_name": "Signori"
+        },
+        {
+          "team": "away",
+          "minute": "89'",
+          "incident_type": "Goal",
+          "player_name": "Cruz"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stadio Diego Armando Maradona",
+          "city": "Naples",
+          "capacity": "54 726"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-mailand",
+    "away": "juventus-turin",
+    "GH": 2,
+    "GA": 2,
+    "date": "2000-10-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "udinese-calcio",
+    "away": "inter-mailand",
+    "GH": 3,
+    "GA": 0,
+    "date": "2000-10-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Bluenergy Stadium - Stadio Friuli",
+          "city": "Udine",
+          "capacity": "25 144"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-florenz",
+    "away": "reggina",
+    "GH": 2,
+    "GA": 1,
+    "date": "2000-10-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Artemio Franchi",
+          "city": "Florence",
+          "capacity": "43 147"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "brescia-calcio",
+    "away": "ssd-parma-calcio",
+    "GH": 0,
+    "GA": 0,
+    "date": "2000-10-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Mario Rigamonti",
+          "city": "Brescia",
+          "capacity": "19 500"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "fc-bologna",
+    "away": "ac-mailand",
+    "GH": 2,
+    "GA": 1,
+    "date": "2000-10-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Dall'Ara",
+          "city": "Bologna",
+          "capacity": "38 279"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "hellas-verona",
+    "away": "udinese-calcio",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-10-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Marc'Antonio Bentegodi",
+          "city": "Verona",
+          "capacity": "39 211"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "juventus-turin",
+    "away": "bari",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-10-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Delle Alpi",
+          "city": "Turin",
+          "capacity": "69 041"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "vicenza-virtus",
+    "away": "atalanta-bergamo",
+    "GH": 1,
+    "GA": 2,
+    "date": "2000-10-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Romeo Menti",
+          "city": "Vicenza",
+          "capacity": "12 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "us-lecce",
+    "away": "as-rom",
+    "GH": 0,
+    "GA": 4,
+    "date": "2000-10-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Via del Mare",
+          "city": "Lecce",
+          "capacity": "40 670"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "inter-mailand",
+    "away": "ssc-neapel",
+    "GH": 3,
+    "GA": 1,
+    "date": "2000-10-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "lazio-rom",
+    "away": "ac-perugia",
+    "GH": 3,
+    "GA": 0,
+    "date": "2000-10-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-mailand",
+    "away": "vicenza-virtus",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-10-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Giuseppe Meazza (San Siro)",
+          "city": "Milan",
+          "capacity": "80 018"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ac-perugia",
+    "away": "us-lecce",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-10-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Renato Curi",
+          "city": "Perugia",
+          "capacity": "23 625"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "as-rom",
+    "away": "fc-bologna",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-10-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Olimpico",
+          "city": "Rome",
+          "capacity": "70 634"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "atalanta-bergamo",
+    "away": "lazio-rom",
+    "GH": 2,
+    "GA": 2,
+    "date": "2000-10-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "New Balance Arena",
+          "city": "Bergamo",
+          "capacity": "24 950"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssd-parma-calcio",
+    "away": "ac-florenz",
+    "GH": 2,
+    "GA": 2,
+    "date": "2000-10-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Ennio Tardini",
+          "city": "Parma",
+          "capacity": "27 906"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "reggina",
+    "away": "inter-mailand",
+    "GH": 2,
+    "GA": 1,
+    "date": "2000-10-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio Oreste Granillo",
+          "city": "Reggio Calabria",
+          "capacity": "27 543"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "udinese-calcio",
+    "away": "brescia-calcio",
+    "GH": 4,
+    "GA": 2,
+    "date": "2000-10-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Bluenergy Stadium - Stadio Friuli",
+          "city": "Udine",
+          "capacity": "25 144"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "bari",
+    "away": "hellas-verona",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-09-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadio San Nicola",
+          "city": "Bari",
+          "capacity": "58 270"
+        }
+      ]
+    }
+  },
+  {
+    "league": "italien_serie-a-2000-2001",
+    "home": "ssc-neapel",
+    "away": "juventus-turin",
+    "GH": 1,
+    "GA": 2,
+    "date": "2000-09-30",
+    "incident": {
+      "incidents": [
+        {
+          "team": "home",
+          "minute": "41'",
+          "incident_type": "Goal",
+          "player_name": "Stellone"
+        },
+        {
+          "team": "away",
+          "minute": "68'",
+          "incident_type": "Goal",
+          "player_name": "Kovacevic"
+        },
+        {
+          "team": "away",
+          "minute": "75'",
+          "incident_type": "Goal",
+          "player_name": "Del Piero"
+        }
+      ],
+      "metadata": [
+        {
+          "venue": "Stadio Diego Armando Maradona",
+          "city": "Naples",
+          "capacity": "54 726"
+        }
+      ]
+    }
+  }
+]

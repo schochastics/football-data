@@ -1,0 +1,5492 @@
+[
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-monaco",
+    "away": "osc-lille",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-05-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-st-etienne",
+    "away": "ea-guingamp",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-05-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Geoffroy-Guichard",
+          "city": "Saint-Étienne",
+          "capacity": "42 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "cs-sedan",
+    "away": "aj-auxerre",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-05-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis Dugauguez",
+          "city": "Sedan",
+          "capacity": "23 189"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "es-troyes-ac",
+    "away": "olympique-marseille",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-05-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Aube",
+          "city": "Troyes",
+          "capacity": "20 420"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-metz",
+    "away": "girondins-bordeaux",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-05-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "racing-strassburg",
+    "away": "paris-saint-germain",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-05-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "rc-lens",
+    "away": "fc-nantes",
+    "GH": 1,
+    "GA": 4,
+    "date": "2001-05-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "sc-bastia",
+    "away": "fc-toulouse",
+    "GH": 5,
+    "GA": 1,
+    "date": "2001-05-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "stade-rennes",
+    "away": "olympique-lyon",
+    "GH": 3,
+    "GA": 4,
+    "date": "2001-05-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "aj-auxerre",
+    "away": "stade-rennes",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-05-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-monaco",
+    "away": "rc-lens",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-05-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "ea-guingamp",
+    "away": "es-troyes-ac",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-05-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-nantes",
+    "away": "as-st-etienne",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-05-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-toulouse",
+    "away": "fc-metz",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-05-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "girondins-bordeaux",
+    "away": "cs-sedan",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-05-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-lyon",
+    "away": "racing-strassburg",
+    "GH": 5,
+    "GA": 0,
+    "date": "2001-05-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-marseille",
+    "away": "sc-bastia",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-05-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "paris-saint-germain",
+    "away": "osc-lille",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-05-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "rc-lens",
+    "away": "es-troyes-ac",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-05-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "es-troyes-ac",
+    "away": "fc-nantes",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-04-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Aube",
+          "city": "Troyes",
+          "capacity": "20 420"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-st-etienne",
+    "away": "rc-lens",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-04-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Geoffroy-Guichard",
+          "city": "Saint-Étienne",
+          "capacity": "42 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "cs-sedan",
+    "away": "fc-toulouse",
+    "GH": 2,
+    "GA": 3,
+    "date": "2001-04-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis Dugauguez",
+          "city": "Sedan",
+          "capacity": "23 189"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-metz",
+    "away": "olympique-marseille",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-04-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "osc-lille",
+    "away": "olympique-lyon",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-04-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "paris-saint-germain",
+    "away": "as-monaco",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-04-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "racing-strassburg",
+    "away": "aj-auxerre",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-04-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "sc-bastia",
+    "away": "ea-guingamp",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-04-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "stade-rennes",
+    "away": "girondins-bordeaux",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-04-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-lyon",
+    "away": "paris-saint-germain",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-04-15",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "aj-auxerre",
+    "away": "osc-lille",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-04-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-monaco",
+    "away": "as-st-etienne",
+    "GH": 5,
+    "GA": 3,
+    "date": "2001-04-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "ea-guingamp",
+    "away": "fc-metz",
+    "GH": 1,
+    "GA": 3,
+    "date": "2001-04-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-toulouse",
+    "away": "stade-rennes",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-04-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "girondins-bordeaux",
+    "away": "racing-strassburg",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-04-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-marseille",
+    "away": "cs-sedan",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-04-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-nantes",
+    "away": "sc-bastia",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-04-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "racing-strassburg",
+    "away": "fc-metz",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-04-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "cs-sedan",
+    "away": "ea-guingamp",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-04-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis Dugauguez",
+          "city": "Sedan",
+          "capacity": "23 189"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "es-troyes-ac",
+    "away": "as-st-etienne",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-04-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Aube",
+          "city": "Troyes",
+          "capacity": "20 420"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-metz",
+    "away": "fc-nantes",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-04-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-lyon",
+    "away": "as-monaco",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-04-07",
+    "incident": {
+      "incidents": [],
+      "metadata": {}
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "paris-saint-germain",
+    "away": "aj-auxerre",
+    "GH": 3,
+    "GA": 0,
+    "date": "2001-04-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "racing-strassburg",
+    "away": "fc-toulouse",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-04-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "sc-bastia",
+    "away": "rc-lens",
+    "GH": 1,
+    "GA": 3,
+    "date": "2001-04-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "stade-rennes",
+    "away": "olympique-marseille",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-04-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "osc-lille",
+    "away": "girondins-bordeaux",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-04-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "girondins-bordeaux",
+    "away": "paris-saint-germain",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-03-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "aj-auxerre",
+    "away": "olympique-lyon",
+    "GH": 0,
+    "GA": 3,
+    "date": "2001-03-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-monaco",
+    "away": "es-troyes-ac",
+    "GH": 4,
+    "GA": 3,
+    "date": "2001-03-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-st-etienne",
+    "away": "sc-bastia",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-03-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Geoffroy-Guichard",
+          "city": "Saint-Étienne",
+          "capacity": "42 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "ea-guingamp",
+    "away": "stade-rennes",
+    "GH": 1,
+    "GA": 6,
+    "date": "2001-03-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-nantes",
+    "away": "cs-sedan",
+    "GH": 4,
+    "GA": 1,
+    "date": "2001-03-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-marseille",
+    "away": "racing-strassburg",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-03-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "rc-lens",
+    "away": "fc-metz",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-03-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-toulouse",
+    "away": "osc-lille",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-03-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "stade-rennes",
+    "away": "fc-nantes",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-03-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "aj-auxerre",
+    "away": "as-monaco",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-03-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "cs-sedan",
+    "away": "rc-lens",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-03-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis Dugauguez",
+          "city": "Sedan",
+          "capacity": "23 189"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-metz",
+    "away": "as-st-etienne",
+    "GH": 3,
+    "GA": 0,
+    "date": "2001-03-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "osc-lille",
+    "away": "olympique-marseille",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-03-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "paris-saint-germain",
+    "away": "fc-toulouse",
+    "GH": 3,
+    "GA": 0,
+    "date": "2001-03-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "racing-strassburg",
+    "away": "ea-guingamp",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-03-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "sc-bastia",
+    "away": "es-troyes-ac",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-03-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-lyon",
+    "away": "girondins-bordeaux",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-03-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "es-troyes-ac",
+    "away": "stade-rennes",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-02-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Aube",
+          "city": "Troyes",
+          "capacity": "20 420"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-nantes",
+    "away": "racing-strassburg",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-02-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "girondins-bordeaux",
+    "away": "aj-auxerre",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-02-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-monaco",
+    "away": "sc-bastia",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-02-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-st-etienne",
+    "away": "cs-sedan",
+    "GH": 0,
+    "GA": 2,
+    "date": "2001-02-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Geoffroy-Guichard",
+          "city": "Saint-Étienne",
+          "capacity": "42 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "ea-guingamp",
+    "away": "osc-lille",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-02-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "es-troyes-ac",
+    "away": "fc-metz",
+    "GH": 3,
+    "GA": 2,
+    "date": "2001-02-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Aube",
+          "city": "Troyes",
+          "capacity": "20 420"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-toulouse",
+    "away": "olympique-lyon",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-02-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-marseille",
+    "away": "paris-saint-germain",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-02-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "rc-lens",
+    "away": "stade-rennes",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-02-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "aj-auxerre",
+    "away": "fc-toulouse",
+    "GH": 2,
+    "GA": 0,
+    "date": "2001-02-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "cs-sedan",
+    "away": "es-troyes-ac",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-02-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis Dugauguez",
+          "city": "Sedan",
+          "capacity": "23 189"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-metz",
+    "away": "sc-bastia",
+    "GH": 3,
+    "GA": 2,
+    "date": "2001-02-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "girondins-bordeaux",
+    "away": "as-monaco",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-02-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "osc-lille",
+    "away": "fc-nantes",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-02-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "paris-saint-germain",
+    "away": "ea-guingamp",
+    "GH": 1,
+    "GA": 3,
+    "date": "2001-02-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "racing-strassburg",
+    "away": "rc-lens",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-02-07",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-lyon",
+    "away": "olympique-marseille",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-02-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "stade-rennes",
+    "away": "as-st-etienne",
+    "GH": 3,
+    "GA": 0,
+    "date": "2001-02-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "rc-lens",
+    "away": "osc-lille",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-02-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-monaco",
+    "away": "fc-metz",
+    "GH": 6,
+    "GA": 1,
+    "date": "2001-02-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-st-etienne",
+    "away": "racing-strassburg",
+    "GH": 3,
+    "GA": 3,
+    "date": "2001-02-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Geoffroy-Guichard",
+          "city": "Saint-Étienne",
+          "capacity": "42 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "ea-guingamp",
+    "away": "olympique-lyon",
+    "GH": 2,
+    "GA": 3,
+    "date": "2001-02-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-nantes",
+    "away": "paris-saint-germain",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-02-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-toulouse",
+    "away": "girondins-bordeaux",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-02-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-marseille",
+    "away": "aj-auxerre",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-02-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "sc-bastia",
+    "away": "cs-sedan",
+    "GH": 0,
+    "GA": 1,
+    "date": "2001-02-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "aj-auxerre",
+    "away": "ea-guingamp",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-01-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "cs-sedan",
+    "away": "fc-metz",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-01-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis Dugauguez",
+          "city": "Sedan",
+          "capacity": "23 189"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-toulouse",
+    "away": "as-monaco",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-01-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-lyon",
+    "away": "fc-nantes",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-01-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "osc-lille",
+    "away": "as-st-etienne",
+    "GH": 4,
+    "GA": 1,
+    "date": "2001-01-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "paris-saint-germain",
+    "away": "rc-lens",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-01-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "racing-strassburg",
+    "away": "es-troyes-ac",
+    "GH": 3,
+    "GA": 3,
+    "date": "2001-01-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "stade-rennes",
+    "away": "sc-bastia",
+    "GH": 1,
+    "GA": 2,
+    "date": "2001-01-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "girondins-bordeaux",
+    "away": "olympique-marseille",
+    "GH": 3,
+    "GA": 0,
+    "date": "2001-01-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-monaco",
+    "away": "cs-sedan",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-01-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-st-etienne",
+    "away": "paris-saint-germain",
+    "GH": 1,
+    "GA": 0,
+    "date": "2001-01-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Geoffroy-Guichard",
+          "city": "Saint-Étienne",
+          "capacity": "42 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "ea-guingamp",
+    "away": "girondins-bordeaux",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-01-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "es-troyes-ac",
+    "away": "osc-lille",
+    "GH": 2,
+    "GA": 1,
+    "date": "2001-01-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Aube",
+          "city": "Troyes",
+          "capacity": "20 420"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-metz",
+    "away": "stade-rennes",
+    "GH": 2,
+    "GA": 2,
+    "date": "2001-01-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-nantes",
+    "away": "aj-auxerre",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-01-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-marseille",
+    "away": "fc-toulouse",
+    "GH": 1,
+    "GA": 1,
+    "date": "2001-01-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "sc-bastia",
+    "away": "racing-strassburg",
+    "GH": 3,
+    "GA": 1,
+    "date": "2001-01-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "rc-lens",
+    "away": "olympique-lyon",
+    "GH": 0,
+    "GA": 0,
+    "date": "2001-01-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "aj-auxerre",
+    "away": "rc-lens",
+    "GH": 3,
+    "GA": 2,
+    "date": "2000-12-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-toulouse",
+    "away": "ea-guingamp",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-12-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "girondins-bordeaux",
+    "away": "fc-nantes",
+    "GH": 0,
+    "GA": 2,
+    "date": "2000-12-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-lyon",
+    "away": "as-st-etienne",
+    "GH": 2,
+    "GA": 1,
+    "date": "2000-12-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "osc-lille",
+    "away": "sc-bastia",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-12-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "paris-saint-germain",
+    "away": "es-troyes-ac",
+    "GH": 0,
+    "GA": 0,
+    "date": "2000-12-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "stade-rennes",
+    "away": "cs-sedan",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-12-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-marseille",
+    "away": "as-monaco",
+    "GH": 2,
+    "GA": 1,
+    "date": "2000-12-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-nantes",
+    "away": "fc-toulouse",
+    "GH": 3,
+    "GA": 2,
+    "date": "2000-12-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "sc-bastia",
+    "away": "paris-saint-germain",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-12-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-monaco",
+    "away": "stade-rennes",
+    "GH": 1,
+    "GA": 2,
+    "date": "2000-12-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-st-etienne",
+    "away": "aj-auxerre",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-12-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Geoffroy-Guichard",
+          "city": "Saint-Étienne",
+          "capacity": "42 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "cs-sedan",
+    "away": "racing-strassburg",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-12-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis Dugauguez",
+          "city": "Sedan",
+          "capacity": "23 189"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "ea-guingamp",
+    "away": "olympique-marseille",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-12-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "es-troyes-ac",
+    "away": "olympique-lyon",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-12-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Aube",
+          "city": "Troyes",
+          "capacity": "20 420"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-metz",
+    "away": "osc-lille",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-12-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "rc-lens",
+    "away": "girondins-bordeaux",
+    "GH": 2,
+    "GA": 2,
+    "date": "2000-12-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-lyon",
+    "away": "fc-toulouse",
+    "GH": 4,
+    "GA": 1,
+    "date": "2000-12-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "osc-lille",
+    "away": "paris-saint-germain",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-12-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "sc-bastia",
+    "away": "fc-nantes",
+    "GH": 3,
+    "GA": 1,
+    "date": "2000-12-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "girondins-bordeaux",
+    "away": "as-st-etienne",
+    "GH": 2,
+    "GA": 1,
+    "date": "2000-12-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-marseille",
+    "away": "fc-nantes",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-12-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "aj-auxerre",
+    "away": "es-troyes-ac",
+    "GH": 2,
+    "GA": 2,
+    "date": "2000-12-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "ea-guingamp",
+    "away": "as-monaco",
+    "GH": 2,
+    "GA": 2,
+    "date": "2000-12-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-toulouse",
+    "away": "rc-lens",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-12-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-lyon",
+    "away": "sc-bastia",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-12-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "osc-lille",
+    "away": "cs-sedan",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-12-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "paris-saint-germain",
+    "away": "fc-metz",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-12-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "racing-strassburg",
+    "away": "stade-rennes",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-12-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "rc-lens",
+    "away": "olympique-marseille",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-12-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-monaco",
+    "away": "racing-strassburg",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-12-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-st-etienne",
+    "away": "fc-toulouse",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-12-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Geoffroy-Guichard",
+          "city": "Saint-Étienne",
+          "capacity": "42 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "cs-sedan",
+    "away": "paris-saint-germain",
+    "GH": 5,
+    "GA": 1,
+    "date": "2000-12-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis Dugauguez",
+          "city": "Sedan",
+          "capacity": "23 189"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "es-troyes-ac",
+    "away": "girondins-bordeaux",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-12-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Aube",
+          "city": "Troyes",
+          "capacity": "20 420"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-metz",
+    "away": "olympique-lyon",
+    "GH": 0,
+    "GA": 0,
+    "date": "2000-12-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-nantes",
+    "away": "ea-guingamp",
+    "GH": 2,
+    "GA": 1,
+    "date": "2000-12-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "sc-bastia",
+    "away": "aj-auxerre",
+    "GH": 3,
+    "GA": 1,
+    "date": "2000-12-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "stade-rennes",
+    "away": "osc-lille",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-12-02",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "aj-auxerre",
+    "away": "fc-metz",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-11-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-nantes",
+    "away": "as-monaco",
+    "GH": 3,
+    "GA": 1,
+    "date": "2000-11-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-toulouse",
+    "away": "es-troyes-ac",
+    "GH": 2,
+    "GA": 1,
+    "date": "2000-11-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "girondins-bordeaux",
+    "away": "sc-bastia",
+    "GH": 0,
+    "GA": 0,
+    "date": "2000-11-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-lyon",
+    "away": "cs-sedan",
+    "GH": 2,
+    "GA": 2,
+    "date": "2000-11-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-marseille",
+    "away": "as-st-etienne",
+    "GH": 2,
+    "GA": 1,
+    "date": "2000-11-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "osc-lille",
+    "away": "racing-strassburg",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-11-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "ea-guingamp",
+    "away": "rc-lens",
+    "GH": 0,
+    "GA": 1,
+    "date": "2000-11-28",
+    "incident": {
+      "incidents": [],
+      "metadata": {}
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "paris-saint-germain",
+    "away": "stade-rennes",
+    "GH": 0,
+    "GA": 1,
+    "date": "2000-11-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-st-etienne",
+    "away": "fc-nantes",
+    "GH": 0,
+    "GA": 2,
+    "date": "2000-11-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Geoffroy-Guichard",
+          "city": "Saint-Étienne",
+          "capacity": "42 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "cs-sedan",
+    "away": "girondins-bordeaux",
+    "GH": 0,
+    "GA": 0,
+    "date": "2000-11-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis Dugauguez",
+          "city": "Sedan",
+          "capacity": "23 189"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "es-troyes-ac",
+    "away": "ea-guingamp",
+    "GH": 0,
+    "GA": 1,
+    "date": "2000-11-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Aube",
+          "city": "Troyes",
+          "capacity": "20 420"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-metz",
+    "away": "fc-toulouse",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-11-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "racing-strassburg",
+    "away": "olympique-lyon",
+    "GH": 0,
+    "GA": 3,
+    "date": "2000-11-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "rc-lens",
+    "away": "as-monaco",
+    "GH": 4,
+    "GA": 3,
+    "date": "2000-11-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "sc-bastia",
+    "away": "olympique-marseille",
+    "GH": 3,
+    "GA": 0,
+    "date": "2000-11-25",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "stade-rennes",
+    "away": "aj-auxerre",
+    "GH": 0,
+    "GA": 1,
+    "date": "2000-11-25",
+    "incident": {
+      "incidents": [],
+      "metadata": {}
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "aj-auxerre",
+    "away": "racing-strassburg",
+    "GH": 1,
+    "GA": 2,
+    "date": "2000-11-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "girondins-bordeaux",
+    "away": "stade-rennes",
+    "GH": 3,
+    "GA": 0,
+    "date": "2000-11-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-monaco",
+    "away": "paris-saint-germain",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-11-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "ea-guingamp",
+    "away": "sc-bastia",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-11-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-nantes",
+    "away": "es-troyes-ac",
+    "GH": 4,
+    "GA": 0,
+    "date": "2000-11-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-toulouse",
+    "away": "cs-sedan",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-11-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-lyon",
+    "away": "osc-lille",
+    "GH": 0,
+    "GA": 1,
+    "date": "2000-11-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "rc-lens",
+    "away": "as-st-etienne",
+    "GH": 0,
+    "GA": 0,
+    "date": "2000-11-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-marseille",
+    "away": "fc-metz",
+    "GH": 4,
+    "GA": 1,
+    "date": "2000-11-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "racing-strassburg",
+    "away": "girondins-bordeaux",
+    "GH": 0,
+    "GA": 2,
+    "date": "2000-11-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "cs-sedan",
+    "away": "olympique-marseille",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-11-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis Dugauguez",
+          "city": "Sedan",
+          "capacity": "23 189"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "es-troyes-ac",
+    "away": "rc-lens",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-11-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Aube",
+          "city": "Troyes",
+          "capacity": "20 420"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-metz",
+    "away": "ea-guingamp",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-11-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "osc-lille",
+    "away": "aj-auxerre",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-11-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "paris-saint-germain",
+    "away": "olympique-lyon",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-11-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "stade-rennes",
+    "away": "fc-toulouse",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-11-11",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-st-etienne",
+    "away": "as-monaco",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-11-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Geoffroy-Guichard",
+          "city": "Saint-Étienne",
+          "capacity": "42 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "aj-auxerre",
+    "away": "paris-saint-germain",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-11-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-st-etienne",
+    "away": "es-troyes-ac",
+    "GH": 4,
+    "GA": 1,
+    "date": "2000-11-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Geoffroy-Guichard",
+          "city": "Saint-Étienne",
+          "capacity": "42 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "ea-guingamp",
+    "away": "cs-sedan",
+    "GH": 0,
+    "GA": 3,
+    "date": "2000-11-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-nantes",
+    "away": "fc-metz",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-11-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-toulouse",
+    "away": "racing-strassburg",
+    "GH": 0,
+    "GA": 0,
+    "date": "2000-11-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "girondins-bordeaux",
+    "away": "osc-lille",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-11-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-marseille",
+    "away": "stade-rennes",
+    "GH": 0,
+    "GA": 1,
+    "date": "2000-11-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "rc-lens",
+    "away": "sc-bastia",
+    "GH": 4,
+    "GA": 0,
+    "date": "2000-11-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-monaco",
+    "away": "olympique-lyon",
+    "GH": 0,
+    "GA": 2,
+    "date": "2000-11-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "cs-sedan",
+    "away": "fc-nantes",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-10-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis Dugauguez",
+          "city": "Sedan",
+          "capacity": "23 189"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "es-troyes-ac",
+    "away": "as-monaco",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-10-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Aube",
+          "city": "Troyes",
+          "capacity": "20 420"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-metz",
+    "away": "rc-lens",
+    "GH": 2,
+    "GA": 1,
+    "date": "2000-10-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-lyon",
+    "away": "aj-auxerre",
+    "GH": 2,
+    "GA": 2,
+    "date": "2000-10-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "osc-lille",
+    "away": "fc-toulouse",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-10-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "paris-saint-germain",
+    "away": "girondins-bordeaux",
+    "GH": 1,
+    "GA": 2,
+    "date": "2000-10-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "sc-bastia",
+    "away": "as-st-etienne",
+    "GH": 0,
+    "GA": 0,
+    "date": "2000-10-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "stade-rennes",
+    "away": "ea-guingamp",
+    "GH": 1,
+    "GA": 2,
+    "date": "2000-10-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "racing-strassburg",
+    "away": "olympique-marseille",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-10-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-marseille",
+    "away": "osc-lille",
+    "GH": 0,
+    "GA": 1,
+    "date": "2000-10-22",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-monaco",
+    "away": "aj-auxerre",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-10-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-st-etienne",
+    "away": "fc-metz",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-10-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Geoffroy-Guichard",
+          "city": "Saint-Étienne",
+          "capacity": "42 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "ea-guingamp",
+    "away": "racing-strassburg",
+    "GH": 2,
+    "GA": 1,
+    "date": "2000-10-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "es-troyes-ac",
+    "away": "sc-bastia",
+    "GH": 0,
+    "GA": 0,
+    "date": "2000-10-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Aube",
+          "city": "Troyes",
+          "capacity": "20 420"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-nantes",
+    "away": "stade-rennes",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-10-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-toulouse",
+    "away": "paris-saint-germain",
+    "GH": 2,
+    "GA": 3,
+    "date": "2000-10-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "girondins-bordeaux",
+    "away": "olympique-lyon",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-10-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "rc-lens",
+    "away": "cs-sedan",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-10-21",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "aj-auxerre",
+    "away": "girondins-bordeaux",
+    "GH": 0,
+    "GA": 2,
+    "date": "2000-10-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "cs-sedan",
+    "away": "as-st-etienne",
+    "GH": 2,
+    "GA": 1,
+    "date": "2000-10-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis Dugauguez",
+          "city": "Sedan",
+          "capacity": "23 189"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-metz",
+    "away": "es-troyes-ac",
+    "GH": 2,
+    "GA": 2,
+    "date": "2000-10-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "osc-lille",
+    "away": "ea-guingamp",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-10-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "racing-strassburg",
+    "away": "fc-nantes",
+    "GH": 0,
+    "GA": 5,
+    "date": "2000-10-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "stade-rennes",
+    "away": "rc-lens",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-10-14",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "paris-saint-germain",
+    "away": "olympique-marseille",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-10-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "sc-bastia",
+    "away": "as-monaco",
+    "GH": 0,
+    "GA": 2,
+    "date": "2000-10-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "cs-sedan",
+    "away": "stade-rennes",
+    "GH": 2,
+    "GA": 1,
+    "date": "2000-10-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis Dugauguez",
+          "city": "Sedan",
+          "capacity": "23 189"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-nantes",
+    "away": "osc-lille",
+    "GH": 0,
+    "GA": 0,
+    "date": "2000-10-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-marseille",
+    "away": "olympique-lyon",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-10-01",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-monaco",
+    "away": "girondins-bordeaux",
+    "GH": 2,
+    "GA": 2,
+    "date": "2000-09-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-st-etienne",
+    "away": "stade-rennes",
+    "GH": 0,
+    "GA": 2,
+    "date": "2000-09-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Geoffroy-Guichard",
+          "city": "Saint-Étienne",
+          "capacity": "42 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "ea-guingamp",
+    "away": "paris-saint-germain",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-09-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "es-troyes-ac",
+    "away": "cs-sedan",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-09-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Aube",
+          "city": "Troyes",
+          "capacity": "20 420"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-toulouse",
+    "away": "aj-auxerre",
+    "GH": 0,
+    "GA": 1,
+    "date": "2000-09-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "rc-lens",
+    "away": "racing-strassburg",
+    "GH": 0,
+    "GA": 0,
+    "date": "2000-09-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "sc-bastia",
+    "away": "fc-metz",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-09-30",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "osc-lille",
+    "away": "rc-lens",
+    "GH": 2,
+    "GA": 1,
+    "date": "2000-09-24",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "aj-auxerre",
+    "away": "olympique-marseille",
+    "GH": 0,
+    "GA": 1,
+    "date": "2000-09-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "cs-sedan",
+    "away": "sc-bastia",
+    "GH": 3,
+    "GA": 3,
+    "date": "2000-09-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis Dugauguez",
+          "city": "Sedan",
+          "capacity": "23 189"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-metz",
+    "away": "as-monaco",
+    "GH": 1,
+    "GA": 3,
+    "date": "2000-09-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "girondins-bordeaux",
+    "away": "fc-toulouse",
+    "GH": 2,
+    "GA": 1,
+    "date": "2000-09-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-lyon",
+    "away": "ea-guingamp",
+    "GH": 0,
+    "GA": 1,
+    "date": "2000-09-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "paris-saint-germain",
+    "away": "fc-nantes",
+    "GH": 2,
+    "GA": 1,
+    "date": "2000-09-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "racing-strassburg",
+    "away": "as-st-etienne",
+    "GH": 3,
+    "GA": 2,
+    "date": "2000-09-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "stade-rennes",
+    "away": "es-troyes-ac",
+    "GH": 0,
+    "GA": 2,
+    "date": "2000-09-23",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-st-etienne",
+    "away": "osc-lille",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-09-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Geoffroy-Guichard",
+          "city": "Saint-Étienne",
+          "capacity": "42 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-nantes",
+    "away": "olympique-lyon",
+    "GH": 0,
+    "GA": 1,
+    "date": "2000-09-17",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-monaco",
+    "away": "fc-toulouse",
+    "GH": 3,
+    "GA": 0,
+    "date": "2000-09-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "ea-guingamp",
+    "away": "aj-auxerre",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-09-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "es-troyes-ac",
+    "away": "racing-strassburg",
+    "GH": 0,
+    "GA": 1,
+    "date": "2000-09-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Aube",
+          "city": "Troyes",
+          "capacity": "20 420"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-metz",
+    "away": "cs-sedan",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-09-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-marseille",
+    "away": "girondins-bordeaux",
+    "GH": 0,
+    "GA": 1,
+    "date": "2000-09-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "rc-lens",
+    "away": "paris-saint-germain",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-09-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "sc-bastia",
+    "away": "stade-rennes",
+    "GH": 0,
+    "GA": 2,
+    "date": "2000-09-16",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-toulouse",
+    "away": "olympique-marseille",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-09-10",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "aj-auxerre",
+    "away": "fc-nantes",
+    "GH": 2,
+    "GA": 2,
+    "date": "2000-09-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "cs-sedan",
+    "away": "as-monaco",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-09-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis Dugauguez",
+          "city": "Sedan",
+          "capacity": "23 189"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "girondins-bordeaux",
+    "away": "ea-guingamp",
+    "GH": 0,
+    "GA": 2,
+    "date": "2000-09-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-lyon",
+    "away": "rc-lens",
+    "GH": 3,
+    "GA": 0,
+    "date": "2000-09-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "osc-lille",
+    "away": "es-troyes-ac",
+    "GH": 1,
+    "GA": 2,
+    "date": "2000-09-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "paris-saint-germain",
+    "away": "as-st-etienne",
+    "GH": 5,
+    "GA": 1,
+    "date": "2000-09-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "racing-strassburg",
+    "away": "sc-bastia",
+    "GH": 1,
+    "GA": 4,
+    "date": "2000-09-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "stade-rennes",
+    "away": "fc-metz",
+    "GH": 0,
+    "GA": 1,
+    "date": "2000-09-09",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-st-etienne",
+    "away": "olympique-lyon",
+    "GH": 2,
+    "GA": 2,
+    "date": "2000-09-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Geoffroy-Guichard",
+          "city": "Saint-Étienne",
+          "capacity": "42 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "ea-guingamp",
+    "away": "fc-toulouse",
+    "GH": 2,
+    "GA": 1,
+    "date": "2000-09-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "es-troyes-ac",
+    "away": "paris-saint-germain",
+    "GH": 5,
+    "GA": 3,
+    "date": "2000-09-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Aube",
+          "city": "Troyes",
+          "capacity": "20 420"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-metz",
+    "away": "racing-strassburg",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-09-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-nantes",
+    "away": "girondins-bordeaux",
+    "GH": 0,
+    "GA": 5,
+    "date": "2000-09-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "rc-lens",
+    "away": "aj-auxerre",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-09-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "sc-bastia",
+    "away": "osc-lille",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-09-06",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-monaco",
+    "away": "olympique-marseille",
+    "GH": 0,
+    "GA": 2,
+    "date": "2000-09-05",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "aj-auxerre",
+    "away": "as-st-etienne",
+    "GH": 4,
+    "GA": 3,
+    "date": "2000-08-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "paris-saint-germain",
+    "away": "sc-bastia",
+    "GH": 3,
+    "GA": 1,
+    "date": "2000-08-27",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-toulouse",
+    "away": "fc-nantes",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-08-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "girondins-bordeaux",
+    "away": "rc-lens",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-08-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-lyon",
+    "away": "es-troyes-ac",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-08-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-marseille",
+    "away": "ea-guingamp",
+    "GH": 3,
+    "GA": 1,
+    "date": "2000-08-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "osc-lille",
+    "away": "fc-metz",
+    "GH": 2,
+    "GA": 1,
+    "date": "2000-08-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "racing-strassburg",
+    "away": "cs-sedan",
+    "GH": 3,
+    "GA": 2,
+    "date": "2000-08-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "stade-rennes",
+    "away": "as-monaco",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-08-26",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-monaco",
+    "away": "ea-guingamp",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-08-20",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-st-etienne",
+    "away": "girondins-bordeaux",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-08-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Geoffroy-Guichard",
+          "city": "Saint-Étienne",
+          "capacity": "42 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "cs-sedan",
+    "away": "osc-lille",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-08-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis Dugauguez",
+          "city": "Sedan",
+          "capacity": "23 189"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "es-troyes-ac",
+    "away": "aj-auxerre",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-08-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Aube",
+          "city": "Troyes",
+          "capacity": "20 420"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-metz",
+    "away": "paris-saint-germain",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-08-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-nantes",
+    "away": "olympique-marseille",
+    "GH": 3,
+    "GA": 2,
+    "date": "2000-08-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "rc-lens",
+    "away": "fc-toulouse",
+    "GH": 2,
+    "GA": 1,
+    "date": "2000-08-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "stade-rennes",
+    "away": "racing-strassburg",
+    "GH": 3,
+    "GA": 0,
+    "date": "2000-08-19",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "sc-bastia",
+    "away": "olympique-lyon",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-08-18",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-marseille",
+    "away": "rc-lens",
+    "GH": 0,
+    "GA": 0,
+    "date": "2000-08-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "paris-saint-germain",
+    "away": "cs-sedan",
+    "GH": 2,
+    "GA": 1,
+    "date": "2000-08-13",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "aj-auxerre",
+    "away": "sc-bastia",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-08-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "ea-guingamp",
+    "away": "fc-nantes",
+    "GH": 0,
+    "GA": 1,
+    "date": "2000-08-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-toulouse",
+    "away": "as-st-etienne",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-08-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "girondins-bordeaux",
+    "away": "es-troyes-ac",
+    "GH": 2,
+    "GA": 2,
+    "date": "2000-08-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-lyon",
+    "away": "fc-metz",
+    "GH": 0,
+    "GA": 0,
+    "date": "2000-08-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "osc-lille",
+    "away": "stade-rennes",
+    "GH": 1,
+    "GA": 0,
+    "date": "2000-08-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "racing-strassburg",
+    "away": "as-monaco",
+    "GH": 1,
+    "GA": 3,
+    "date": "2000-08-12",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "es-troyes-ac",
+    "away": "fc-toulouse",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-08-05",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Aube",
+          "city": "Troyes",
+          "capacity": "20 420"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-metz",
+    "away": "aj-auxerre",
+    "GH": 1,
+    "GA": 2,
+    "date": "2000-08-05",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Saint-Symphorien",
+          "city": "Metz",
+          "capacity": "28 786"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "racing-strassburg",
+    "away": "osc-lille",
+    "GH": 0,
+    "GA": 4,
+    "date": "2000-08-05",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Meinau",
+          "city": "Strasbourg",
+          "capacity": "32 300"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "rc-lens",
+    "away": "ea-guingamp",
+    "GH": 3,
+    "GA": 2,
+    "date": "2000-08-05",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Bollaert-Delelis",
+          "city": "Lens",
+          "capacity": "38 223"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "sc-bastia",
+    "away": "girondins-bordeaux",
+    "GH": 2,
+    "GA": 0,
+    "date": "2000-08-05",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Armand Cesari",
+          "city": "Bastia",
+          "capacity": "16 048"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "stade-rennes",
+    "away": "paris-saint-germain",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-08-05",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Roazhon Park",
+          "city": "Rennes",
+          "capacity": "29 778"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-monaco",
+    "away": "fc-nantes",
+    "GH": 2,
+    "GA": 5,
+    "date": "2000-08-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis II",
+          "city": "Monaco",
+          "capacity": "18 523"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "as-st-etienne",
+    "away": "olympique-marseille",
+    "GH": 3,
+    "GA": 0,
+    "date": "2000-08-04",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Geoffroy-Guichard",
+          "city": "Saint-Étienne",
+          "capacity": "42 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "cs-sedan",
+    "away": "olympique-lyon",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-08-03",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Louis Dugauguez",
+          "city": "Sedan",
+          "capacity": "23 189"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "aj-auxerre",
+    "away": "cs-sedan",
+    "GH": 0,
+    "GA": 1,
+    "date": "2000-07-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de l'Abbé-Deschamps",
+          "city": "Auxerre",
+          "capacity": "17 924"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "ea-guingamp",
+    "away": "as-st-etienne",
+    "GH": 2,
+    "GA": 2,
+    "date": "2000-07-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Roudourou",
+          "city": "Guingamp",
+          "capacity": "19 060"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-nantes",
+    "away": "rc-lens",
+    "GH": 0,
+    "GA": 2,
+    "date": "2000-07-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de la Beaujoire",
+          "city": "Nantes",
+          "capacity": "35 322"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "fc-toulouse",
+    "away": "sc-bastia",
+    "GH": 0,
+    "GA": 1,
+    "date": "2000-07-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stadium de Toulouse",
+          "city": "Toulouse",
+          "capacity": "33 150"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "girondins-bordeaux",
+    "away": "fc-metz",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-07-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Chaban-Delmas",
+          "city": "Bordeaux",
+          "capacity": "34 462"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-lyon",
+    "away": "stade-rennes",
+    "GH": 2,
+    "GA": 2,
+    "date": "2000-07-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade de Gerland",
+          "city": "Lyon",
+          "capacity": "25 000"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "osc-lille",
+    "away": "as-monaco",
+    "GH": 1,
+    "GA": 1,
+    "date": "2000-07-29",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Grimonprez Jooris",
+          "city": "Lille",
+          "capacity": "21 128"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "olympique-marseille",
+    "away": "es-troyes-ac",
+    "GH": 3,
+    "GA": 1,
+    "date": "2000-07-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Stade Vélodrome",
+          "city": "Marseille",
+          "capacity": "67 394"
+        }
+      ]
+    }
+  },
+  {
+    "league": "frankreich_ligue-1-2000-2001",
+    "home": "paris-saint-germain",
+    "away": "racing-strassburg",
+    "GH": 3,
+    "GA": 1,
+    "date": "2000-07-28",
+    "incident": {
+      "incidents": [],
+      "metadata": [
+        {
+          "venue": "Parc des Princes",
+          "city": "Paris",
+          "capacity": "48 229"
+        }
+      ]
+    }
+  }
+]
