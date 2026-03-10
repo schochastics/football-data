@@ -27,6 +27,7 @@ team_code,team,country_label,team_abbr,team_slug,country
 088C0jDO,Ganclarbirliyi Sumqayit,Aserbaidschan,GAN,ganclarbirliyi-sumqayit,azerbaijan
 08OM0e6M,Club Peleen,Martinique,AFR,club-peleen,martinique
 08kX8Xr0,Shenzhen Xinpengcheng,China,SIC,shenzhen-xinpengcheng,china-pr
+08kX8Xr0,Shenzhen Xinpengcheng,China,SHE,shenzhen-xinpengcheng,china-pr
 08vcsotn,Barau,Nigeria,BAR,barau,nigeria
 0A0qX665,Villa Teresa,Uruguay,VIL,villa-teresa,uruguay
 0AIyeBGU,Veris Chisinau,Republik Moldau,VER,veris-chisinau,moldova
@@ -1775,6 +1776,7 @@ IL4RHuFr,US Boulogne,Frankreich,BOU,us-boulogne,france
 ILONlJCI,Panachaiki,Griechenland,PAN,panachaiki,greece
 ILWCySL8,Rajo,Somalia,RAJ,rajo,somalia
 ILi3oBgH,Chengdu Rongcheng,China,PAR,chengdu-rongcheng,china-pr
+ILi3oBgH,Chengdu Rongcheng,China,CHE,chengdu-rongcheng,china-pr
 ILyJuN3g,FC St. Pauli,Deutschland,PAU,fc-st-pauli,germany
 IN7pyP6U,Karvan,Aserbaidschan,KAR,karvan,azerbaijan
 INBGfE5j,Real Estelí FC,Nicaragua,EST,real-esteli-fc,nicaragua
@@ -3463,6 +3465,7 @@ bNpj745Q,Zestafoni,Georgien,ZES,zestafoni,georgia
 bNqeeoAJ,Nico-Nicoye,Kongo,NIN,nico-nicoye,congo
 bNrLJX1l,FC Rangers,Andorra,RAN,fc-rangers,andorra
 bP7ZWphI,Sloga Doboj,Bosnien und Herzegowina,SLO,sloga-doboj,bosnia-herzegovina
+bP7ZWphI,Sloga Meridian,Bosnien und Herzegowina,SLO,fk-sloga-meridian,bosnia-herzegovina
 bPZXEAEh,Jedinstvo,Montenegro,JED,jedinstvo,montenegro
 bPdl4V8N,Fredrikstad FK,Norwegen,FRE,fredrikstad,norway
 bPwEeloI,Kazma SC,Kuwait,KAZ,kazma-sc,kuwait
@@ -5066,6 +5069,7 @@ rPzY7fWt,Avai,Brasilien,AVA,avai,brazil
 rR2J5sTq,FC Schaan,Liechtenstein,SCH,fc-schaan,liechtenstein
 rRAQSp3M,El Gaish,Ägypten,GEI,el-gaish,egypt
 rRQRJSjO,Tuloy,Philippinen,TUL,tuloy,philippines
+rRStRhEd,Real Sireti,Republik Moldau,REA,real-sireti,moldova
 rRaKLqVA,Mutare City Rovers FC,Simbabwe,MUT,mutare-city,zimbabwe
 rRcIGQOR,Revengers,Seychellen,REV,revengers,seychelles
 rRvWwFYm,Geeska Afrika,Somalia,GEE,geeska-afrika,somalia
